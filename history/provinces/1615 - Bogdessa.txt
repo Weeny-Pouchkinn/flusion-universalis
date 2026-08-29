@@ -1,0 +1,10 @@
+# Generated bootstrap province 1615
+# Display name: Bogdessa
+# LoK city name: LoK city localisation from source province 2953
+# Area: Yinvastopol | Region: Sudgrad
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

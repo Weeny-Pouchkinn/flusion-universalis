@@ -1,0 +1,10 @@
+# Generated bootstrap province 2328
+# Display name: The Meowers
+# LoK city name: LoK city localisation from source province 6473
+# Area: Potkin | Region: Pawmur-Clawtoust
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

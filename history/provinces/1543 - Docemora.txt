@@ -1,0 +1,10 @@
+# Generated bootstrap province 1543
+# Display name: Docemora
+# LoK city name: LoK city localisation from source province 3374
+# Area: Aveibrigado | Region: Flusionea4
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

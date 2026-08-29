@@ -1,0 +1,10 @@
+# Generated bootstrap province 4432
+# Display name: Northern Zikua II
+# GENERATED NAME: Northern Zikua II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far South Amphibia 6 | Region: Zikua
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

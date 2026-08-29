@@ -1,0 +1,10 @@
+# Generated bootstrap province 1274
+# Display name: Far Western Midflusionea18
+# GENERATED NAME: Far Western Midflusionea18 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: South Katezic | Region: Midflusionea18
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

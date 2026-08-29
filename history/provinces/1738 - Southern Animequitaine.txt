@@ -1,0 +1,10 @@
+# Generated bootstrap province 1738
+# Display name: Southern Animequitaine
+# GENERATED NAME: Southern Animequitaine (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Animéquitaine | Region: Animequitaine
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1552
+# Display name: Collarado
+# LoK city name: LoK city localisation from source province 7095
+# Area: Wolfen's Coast | Region: Nekaston
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

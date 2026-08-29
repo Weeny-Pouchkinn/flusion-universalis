@@ -1,0 +1,10 @@
+# Generated bootstrap province 1203
+# Display name: Far Southern Neuvoria
+# GENERATED NAME: Far Southern Neuvoria (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Near North Western Ejac | Region: Neuvoria
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

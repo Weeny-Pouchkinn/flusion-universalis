@@ -1,0 +1,10 @@
+# Generated bootstrap province 1678
+# Display name: Northern Poitouamie
+# GENERATED NAME: Northern Poitouamie (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Latarada | Region: Poitouamie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

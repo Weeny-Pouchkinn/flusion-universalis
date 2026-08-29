@@ -1,0 +1,9 @@
+bookmark = {
+    name = "FU_BOOTSTRAP_BOOKMARK"
+    desc = "FU_BOOTSTRAP_BOOKMARK_DESC"
+    date = 1444.11.11
+    default = yes
+    center = 426
+    country = FUS
+    easy_country = FUS
+}

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2117
+# Display name: Fungarish
+# LoK city name: LoK city localisation from source province 288
+# Area: Fungarish | Region: Puffiland5
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

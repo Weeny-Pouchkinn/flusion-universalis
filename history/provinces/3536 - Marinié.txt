@@ -1,0 +1,10 @@
+# Generated bootstrap province 3536
+# Display name: Marinié
+# LoK city name: LoK city localisation from source province 10638
+# Area: Rustinia | Region: Rustalia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

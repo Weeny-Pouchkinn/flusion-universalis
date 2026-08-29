@@ -1,0 +1,10 @@
+# Generated bootstrap province 2045
+# Display name: Poodlegorod
+# LoK city name: LoK city localisation from source province 8708
+# Area: Polatspoodle | Region: Blasterian Canal
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

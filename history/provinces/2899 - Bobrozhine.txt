@@ -1,0 +1,10 @@
+# Generated bootstrap province 2899
+# Display name: Bobrozhine
+# LoK city name: LoK city localisation from source province 3452
+# Area: Kroassiciti | Region: Nerva
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

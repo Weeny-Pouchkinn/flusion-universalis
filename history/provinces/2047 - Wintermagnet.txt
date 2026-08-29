@@ -1,0 +1,10 @@
+# Generated bootstrap province 2047
+# Display name: Wintermagnet
+# LoK city name: LoK city localisation from source province 9558
+# Area: Wintermagnet | Region: Cutelogne
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

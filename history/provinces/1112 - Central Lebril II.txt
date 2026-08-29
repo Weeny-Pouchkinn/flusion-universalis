@@ -1,0 +1,10 @@
+# Generated bootstrap province 1112
+# Display name: Central Lebril II
+# GENERATED NAME: Central Lebril II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Southern Lebril | Region: Lebril
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

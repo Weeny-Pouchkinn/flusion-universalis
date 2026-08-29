@@ -1,0 +1,10 @@
+# Generated bootstrap province 2947
+# Display name: Central Plaveta II
+# GENERATED NAME: Central Plaveta II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Vensis | Region: Plaveta
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2276
+# Display name: Middenpaw
+# LoK city name: LoK city localisation from source province 9476
+# Area: Middenpaw | Region: Ezikanien
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

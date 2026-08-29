@@ -1,0 +1,10 @@
+# Generated bootstrap province 2455
+# Display name: Seekatzsach
+# LoK city name: LoK city localisation from source province 12896
+# Area: Nord-Ataril | Region: Frankfurr
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

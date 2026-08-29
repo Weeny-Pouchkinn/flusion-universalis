@@ -1,0 +1,10 @@
+# Generated bootstrap province 4320
+# Display name: Pimoussebühl
+# LoK city name: LoK city localisation from source province 3055
+# Area: Pimoussebühl | Region: Pawmur-Clawtoust
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1751
+# Display name: Far Northeastern Central Arivoejo
+# GENERATED NAME: Far Northeastern Central Arivoejo (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Lisejr Metroplitan Area | Region: Central Arivoejo
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 4458
+# Display name: Far Northern Yinjatzbereich II
+# GENERATED NAME: Far Northern Yinjatzbereich II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Humusenski | Region: Yinjatzbereich
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

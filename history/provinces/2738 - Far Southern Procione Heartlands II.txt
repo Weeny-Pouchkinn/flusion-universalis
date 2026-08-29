@@ -1,0 +1,10 @@
+# Generated bootstrap province 2738
+# Display name: Far Southern Procione Heartlands II
+# GENERATED NAME: Far Southern Procione Heartlands II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Rozzmione Hills | Region: Procione Heartlands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

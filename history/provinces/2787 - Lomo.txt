@@ -1,0 +1,10 @@
+# Generated bootstrap province 2787
+# Display name: Lomo
+# LoK city name: LoK city localisation from source province 18609
+# Area: Lomo | Region: Tenetianen
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

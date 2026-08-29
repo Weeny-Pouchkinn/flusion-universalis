@@ -1,0 +1,10 @@
+# Generated bootstrap province 4499
+# Display name: Far Northern Catburg II
+# GENERATED NAME: Far Northern Catburg II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Lower Catalia 10 | Region: Catburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

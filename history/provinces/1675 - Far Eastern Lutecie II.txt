@@ -1,0 +1,10 @@
+# Generated bootstrap province 1675
+# Display name: Far Eastern Lutecie II
+# GENERATED NAME: Far Eastern Lutecie II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Grand Canal | Region: Lutecie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3283
+# Display name: Far Northern Puffiland2
+# GENERATED NAME: Far Northern Puffiland2 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far East Lokout 8 | Region: Puffiland2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1069
+# Display name: Pierwysp
+# LoK city name: LoK city localisation from source province 2222
+# Area: Pierwysp | Region: Mercurian Gulf
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

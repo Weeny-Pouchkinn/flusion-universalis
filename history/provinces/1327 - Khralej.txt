@@ -1,0 +1,10 @@
+# Generated bootstrap province 1327
+# Display name: Khralej
+# LoK city name: LoK city localisation from source province 3418
+# Area: Khesedien | Region: Oredsk
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

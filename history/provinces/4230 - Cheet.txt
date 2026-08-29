@@ -1,0 +1,10 @@
+# Generated bootstrap province 4230
+# Display name: Cheet
+# LoK city name: LoK city localisation from source province 14500
+# Area: Cheet | Region: Katzen Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2541
+# Display name: Far Southeastern Obscurie
+# GENERATED NAME: Far Southeastern Obscurie (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Kaillen | Region: Obscurie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

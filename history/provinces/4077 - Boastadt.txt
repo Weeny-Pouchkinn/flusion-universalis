@@ -1,0 +1,10 @@
+# Generated bootstrap province 4077
+# Display name: Boastadt
+# LoK city name: LoK city localisation from source province 10776
+# Area: North Slithervich | Region: Southern Enotita
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

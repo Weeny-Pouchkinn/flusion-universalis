@@ -1,0 +1,10 @@
+# Generated bootstrap province 1798
+# Display name: Charles
+# LoK city name: LoK city localisation from source province 8983
+# Area: Charles | Region: Takicardie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

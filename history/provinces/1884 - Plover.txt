@@ -1,0 +1,10 @@
+# Generated bootstrap province 1884
+# Display name: Plover
+# LoK city name: LoK city localisation from source province 9401
+# Area: Thornwall | Region: The Swamplands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

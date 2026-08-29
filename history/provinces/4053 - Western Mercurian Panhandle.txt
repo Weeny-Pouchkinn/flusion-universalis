@@ -1,0 +1,10 @@
+# Generated bootstrap province 4053
+# Display name: Western Mercurian Panhandle
+# GENERATED NAME: Western Mercurian Panhandle (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Naval Hub | Region: Mercurian Panhandle
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

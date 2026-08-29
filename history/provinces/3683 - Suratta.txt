@@ -1,0 +1,10 @@
+# Generated bootstrap province 3683
+# Display name: Suratta
+# LoK city name: LoK city localisation from source province 18631
+# Area: New Kumakh | Region: Spri11
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3748
+# Display name: Beardeville
+# LoK city name: LoK city localisation from source province 1594
+# Area: Port Urscyd | Region: Midflusionea13
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

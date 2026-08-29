@@ -1,0 +1,10 @@
+# Generated bootstrap province 2323
+# Display name: Meowmew
+# LoK city name: LoK city localisation from source province 16331
+# Area: Luftkatzennia | Region: Himezulte
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

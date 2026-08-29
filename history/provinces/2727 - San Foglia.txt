@@ -1,0 +1,10 @@
+# Generated bootstrap province 2727
+# Display name: San Foglia
+# LoK city name: LoK city localisation from source province 18153
+# Area: San Foglia | Region: Procione Heartlands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1549
+# Display name: Far Northwestern Solakatzen Channel
+# GENERATED NAME: Far Northwestern Solakatzen Channel (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Wolfen's Islands | Region: Solakatzen Channel
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1787
+# Display name: Palhop
+# LoK city name: LoK city localisation from source province 7977
+# Area: Southern Solakean Strait | Region: Battlebuns Frontier
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

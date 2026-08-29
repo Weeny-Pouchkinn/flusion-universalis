@@ -1,0 +1,10 @@
+# Generated bootstrap province 3084
+# Display name: Mountgrove
+# LoK city name: LoK city localisation from source province 11074
+# Area: Millennial Frontier | Region: Drakodria
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

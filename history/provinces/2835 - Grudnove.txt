@@ -1,0 +1,10 @@
+# Generated bootstrap province 2835
+# Display name: Grudnove
+# LoK city name: LoK city localisation from source province 6692
+# Area: Nerva | Region: Nerva
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

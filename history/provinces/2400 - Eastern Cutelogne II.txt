@@ -1,0 +1,10 @@
+# Generated bootstrap province 2400
+# Display name: Eastern Cutelogne II
+# GENERATED NAME: Eastern Cutelogne II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Minskbark | Region: Cutelogne
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

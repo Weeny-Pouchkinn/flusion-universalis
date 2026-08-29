@@ -1,0 +1,10 @@
+# Generated bootstrap province 3120
+# Display name: Northern Amfibien
+# GENERATED NAME: Northern Amfibien (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Nordkraben | Region: Amfibien
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3389
+# Display name: Southern Droogia2
+# GENERATED NAME: Southern Droogia2 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Miestan | Region: Droogia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

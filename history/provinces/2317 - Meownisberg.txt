@@ -1,0 +1,10 @@
+# Generated bootstrap province 2317
+# Display name: Meownisberg
+# LoK city name: LoK city localisation from source province 762
+# Area: Meownisberg | Region: Purrsia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

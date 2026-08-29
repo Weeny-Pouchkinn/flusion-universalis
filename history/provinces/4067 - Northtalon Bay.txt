@@ -1,0 +1,10 @@
+# Generated bootstrap province 4067
+# Display name: Northtalon Bay
+# LoK city name: LoK city localisation from source province 6389
+# Area: North Fleatherwing | Region: Fleäderreich
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

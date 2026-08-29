@@ -1,0 +1,10 @@
+# Generated bootstrap province 3803
+# Display name: Southwestern Midflusionea2
+# GENERATED NAME: Southwestern Midflusionea2 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: South Central Ezicania | Region: Midflusionea2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

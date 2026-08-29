@@ -1,0 +1,10 @@
+# Generated bootstrap province 4102
+# Display name: 16868
+# LoK city name: LoK city localisation from source province 16868
+# Area: Novoyinjaya | Region: Midflusionea12
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

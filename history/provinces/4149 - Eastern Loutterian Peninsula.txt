@@ -1,0 +1,10 @@
+# Generated bootstrap province 4149
+# Display name: Eastern Loutterian Peninsula
+# GENERATED NAME: Eastern Loutterian Peninsula (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Lanterien | Region: Loutterian Peninsula
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

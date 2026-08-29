@@ -1,0 +1,10 @@
+# Generated bootstrap province 2478
+# Display name: Alichante
+# LoK city name: LoK city localisation from source province 12056
+# Area: Chantaw | Region: Tarrakis
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

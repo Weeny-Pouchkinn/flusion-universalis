@@ -1,0 +1,10 @@
+# Generated bootstrap province 1338
+# Display name: Brewtun
+# LoK city name: LoK city localisation from source province 18184
+# Area: Brewtun | Region: Fishtun
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

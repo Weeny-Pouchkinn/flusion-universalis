@@ -1,0 +1,10 @@
+# Generated bootstrap province 1329
+# Display name: Khesedien
+# LoK city name: LoK city localisation from source province 14829
+# Area: Khesedien | Region: Oredsk
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

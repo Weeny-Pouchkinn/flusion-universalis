@@ -1,0 +1,10 @@
+# Generated bootstrap province 1737
+# Display name: Crétèle
+# CITY NAME RELOCATED: LoK city 'Crétèle' from source province 17662 was relocated from generated province 1736 to avoid two city names on one province (same area, graph distance 1).
+# Area: Lutécie | Region: Lutecie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3829
+# Display name: Far Southern Midflusionea9
+# GENERATED NAME: Far Southern Midflusionea9 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Southern Svitanok Desert | Region: Midflusionea9
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

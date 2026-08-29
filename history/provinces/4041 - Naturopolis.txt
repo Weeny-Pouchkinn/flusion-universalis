@@ -1,0 +1,10 @@
+# Generated bootstrap province 4041
+# Display name: Naturopolis
+# LoK city name: LoK city localisation from source province 5142
+# Area: Naturopolis | Region: Naturopolis Marshes
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

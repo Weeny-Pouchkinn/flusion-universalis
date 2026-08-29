@@ -1,0 +1,10 @@
+# Generated bootstrap province 2828
+# Display name: Zornik
+# LoK city name: LoK city localisation from source province 5189
+# Area: Oredsk Outskirts | Region: Oredsk
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3726
+# Display name: Central Midflusionea12
+# GENERATED NAME: Central Midflusionea12 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: East Yinjite Forest | Region: Midflusionea12
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

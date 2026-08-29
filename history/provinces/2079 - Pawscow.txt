@@ -1,0 +1,10 @@
+# Generated bootstrap province 2079
+# Display name: Pawscow
+# LoK city name: LoK city localisation from source province 5077
+# Area: Pawscow | Region: Pawscow
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

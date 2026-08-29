@@ -1,0 +1,7 @@
+graphical_culture = westerngfx
+color = { 80 155 210 }
+revolutionary_colors = { 15 0 16 }
+monarch_names = { "Flusion #0" = 100 }
+leader_names = { Flusion }
+army_names = { "Bootstrap Army" }
+fleet_names = { "Bootstrap Fleet" }

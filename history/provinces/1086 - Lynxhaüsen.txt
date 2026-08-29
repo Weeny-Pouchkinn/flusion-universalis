@@ -1,0 +1,10 @@
+# Generated bootstrap province 1086
+# Display name: Lynxhaüsen
+# LoK city name: LoK city localisation from source province 4895
+# Area: Mleow | Region: Meop
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

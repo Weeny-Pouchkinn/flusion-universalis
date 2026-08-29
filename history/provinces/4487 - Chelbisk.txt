@@ -1,0 +1,10 @@
+# Generated bootstrap province 4487
+# Display name: Chelbisk
+# LoK city name: LoK city localisation from source province 16486
+# Area: Chelbisk | Region: Genevekt
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

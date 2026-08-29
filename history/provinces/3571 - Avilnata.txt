@@ -1,0 +1,10 @@
+# Generated bootstrap province 3571
+# Display name: Avilnata
+# LoK city name: LoK city localisation from source province 18021
+# Area: Rodridough | Region: Spri8
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

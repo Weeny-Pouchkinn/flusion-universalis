@@ -1,0 +1,10 @@
+# Generated bootstrap province 2494
+# Display name: Tarva
+# LoK city name: LoK city localisation from source province 9182
+# Area: Tarva | Region: Kusnurkia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 4126
+# Display name: Yanbasidi
+# LoK city name: LoK city localisation from source province 15856
+# Area: Yanbasidi | Region: Puffiland7
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

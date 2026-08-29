@@ -1,0 +1,10 @@
+# Generated bootstrap province 2325
+# Display name: Sudflutstadt
+# LoK city name: LoK city localisation from source province 14645
+# Area: Sudflutstadt | Region: Sudflutstadt
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

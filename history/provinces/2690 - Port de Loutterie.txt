@@ -1,0 +1,10 @@
+# Generated bootstrap province 2690
+# Display name: Port de Loutterie
+# LoK city name: LoK city localisation from source province 20841
+# Area: Grande Loutteria | Region: Loutterian Peninsula
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

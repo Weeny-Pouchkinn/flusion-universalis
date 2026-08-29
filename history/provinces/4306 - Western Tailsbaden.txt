@@ -1,0 +1,10 @@
+# Generated bootstrap province 4306
+# Display name: Western Tailsbaden
+# GENERATED NAME: Western Tailsbaden (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Mimithen | Region: Tailsbaden
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 4140
+# Display name: 16518
+# LoK city name: LoK city localisation from source province 16518
+# Area: Puffy Island | Region: Northern Ariveojan Oceans
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

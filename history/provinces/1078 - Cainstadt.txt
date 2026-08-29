@@ -1,0 +1,10 @@
+# Generated bootstrap province 1078
+# Display name: Cainstadt
+# LoK city name: LoK city localisation from source province 11127
+# Area: Deaktiviertekamera | Region: Ezikanien
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

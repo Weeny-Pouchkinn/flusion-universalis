@@ -1,0 +1,10 @@
+# Generated bootstrap province 2283
+# Display name: Point Ene
+# LoK city name: LoK city localisation from source province 2674
+# Area: Point Ene | Region: Xoeken
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

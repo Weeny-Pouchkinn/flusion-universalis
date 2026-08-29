@@ -1,0 +1,10 @@
+# Generated bootstrap province 3699
+# Display name: Kronassah
+# LoK city name: LoK city localisation from source province 10599
+# Area: Eulyssian Interfluve | Region: Eulyssian Interfluve
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

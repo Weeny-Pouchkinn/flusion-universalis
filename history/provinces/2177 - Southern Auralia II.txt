@@ -1,0 +1,10 @@
+# Generated bootstrap province 2177
+# Display name: Southern Auralia II
+# GENERATED NAME: Southern Auralia II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Grönawgen | Region: Auralia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

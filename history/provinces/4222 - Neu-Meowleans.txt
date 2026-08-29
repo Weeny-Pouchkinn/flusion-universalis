@@ -1,0 +1,10 @@
+# Generated bootstrap province 4222
+# Display name: Neu-Meowleans
+# LoK city name: LoK city localisation from source province 6989
+# Area: Neu-Meowleans | Region: Auralia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

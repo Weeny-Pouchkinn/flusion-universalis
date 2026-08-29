@@ -1,0 +1,10 @@
+# Generated bootstrap province 3731
+# Display name: Bearton
+# LoK city name: LoK city localisation from source province 1161
+# Area: Bearton | Region: Midflusionea12
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

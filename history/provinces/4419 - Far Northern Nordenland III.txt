@@ -1,0 +1,10 @@
+# Generated bootstrap province 4419
+# Display name: Far Northern Nordenland III
+# GENERATED NAME: Far Northern Nordenland III (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: South Fodaria 14 | Region: Nordenland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1090
+# Display name: Bergotz
+# LoK city name: LoK city localisation from source province 7314
+# Area: Purrsen | Region: Purrsia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

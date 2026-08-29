@@ -1,0 +1,10 @@
+# Generated bootstrap province 2314
+# Display name: Katzi
+# CITY NAME RELOCATED: LoK city 'Katzi' from source province 10138 was relocated from generated province 2315 to avoid two city names on one province (same area, graph distance 1).
+# Area: Katzi | Region: Purrsia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

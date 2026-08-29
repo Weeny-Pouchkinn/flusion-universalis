@@ -1,0 +1,10 @@
+# Generated bootstrap province 3857
+# Display name: New Bearia
+# LoK city name: LoK city localisation from source province 15089
+# Area: New Bearia | Region: Midflusionea15
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

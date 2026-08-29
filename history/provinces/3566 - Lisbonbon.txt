@@ -1,0 +1,10 @@
+# Generated bootstrap province 3566
+# Display name: Lisbonbon
+# LoK city name: LoK city localisation from source province 1083
+# Area: Lisbonbon | Region: Spri8
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

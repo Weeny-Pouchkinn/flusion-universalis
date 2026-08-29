@@ -1,0 +1,10 @@
+# Generated bootstrap province 3613
+# Display name: Panlencia
+# LoK city name: LoK city localisation from source province 255
+# Area: Sebowlia 2 | Region: Spri5
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

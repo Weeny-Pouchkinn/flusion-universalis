@@ -1,0 +1,10 @@
+# Generated bootstrap province 1407
+# Display name: Far Northern Formicidea
+# GENERATED NAME: Far Northern Formicidea (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Great Hill | Region: Formicidea
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

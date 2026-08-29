@@ -1,0 +1,10 @@
+# Generated bootstrap province 3595
+# Display name: Sevichef
+# LoK city name: LoK city localisation from source province 16667
+# Area: San-Sebakestian | Region: Flusionea6
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

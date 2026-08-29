@@ -1,0 +1,10 @@
+# Generated bootstrap province 3487
+# Display name: Far Eastern Hivelands
+# GENERATED NAME: Far Eastern Hivelands (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far North Great Hill 3 | Region: Hivelands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

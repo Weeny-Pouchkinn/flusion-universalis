@@ -1,0 +1,10 @@
+# Generated bootstrap province 1672
+# Display name: Franckfort
+# LoK city name: LoK city localisation from source province 4281
+# Area: Poitouamie | Region: Poitouamie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

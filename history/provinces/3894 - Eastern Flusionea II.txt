@@ -1,0 +1,10 @@
+# Generated bootstrap province 3894
+# Display name: Eastern Flusionea II
+# GENERATED NAME: Eastern Flusionea II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Near East Northern Heart Mountains | Region: Flusionea
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

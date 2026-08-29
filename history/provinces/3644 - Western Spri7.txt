@@ -1,0 +1,10 @@
+# Generated bootstrap province 3644
+# Display name: Western Spri7
+# GENERATED NAME: Western Spri7 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Girardought | Region: Spri7
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

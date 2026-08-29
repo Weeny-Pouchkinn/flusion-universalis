@@ -1,0 +1,10 @@
+# Generated bootstrap province 3436
+# Display name: Far Southern Variitia2
+# GENERATED NAME: Far Southern Variitia2 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Steaming Lake | Region: Variitia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 985
+# Display name: Northwestern Lux-Flupanian Waters
+# GENERATED NAME: Northwestern Lux-Flupanian Waters (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Pico | Region: Lux-Flupanian Waters
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

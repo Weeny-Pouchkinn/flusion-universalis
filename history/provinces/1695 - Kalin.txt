@@ -1,0 +1,10 @@
+# Generated bootstrap province 1695
+# Display name: Kalin
+# LoK city name: LoK city localisation from source province 18261
+# Area: Midi-Sunazure | Region: Midi-Sunazure
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

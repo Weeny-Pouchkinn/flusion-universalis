@@ -1,0 +1,10 @@
+# Generated bootstrap province 1056
+# Display name: Ost-Katown
+# LoK city name: LoK city localisation from source province 11532
+# Area: Ost-Katown | Region: Greater Katown
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

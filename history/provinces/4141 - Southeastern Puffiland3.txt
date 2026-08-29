@@ -1,0 +1,10 @@
+# Generated bootstrap province 4141
+# Display name: Southeastern Puffiland3
+# GENERATED NAME: Southeastern Puffiland3 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far East Lokout 5 | Region: Puffiland3
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

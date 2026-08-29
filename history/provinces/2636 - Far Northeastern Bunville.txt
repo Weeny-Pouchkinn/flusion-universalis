@@ -1,0 +1,10 @@
+# Generated bootstrap province 2636
+# Display name: Far Northeastern Bunville
+# GENERATED NAME: Far Northeastern Bunville (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Harity Falls | Region: Bunville
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2930
+# Display name: Palique
+# LoK city name: LoK city localisation from source province 4588
+# Area: Palikova Interlakia | Region: Kirtikia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

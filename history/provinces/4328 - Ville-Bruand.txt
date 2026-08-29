@@ -1,0 +1,10 @@
+# Generated bootstrap province 4328
+# Display name: Ville-Bruand
+# LoK city name: LoK city localisation from source province 2794
+# Area: Ville-Bruand | Region: Animequitaine
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

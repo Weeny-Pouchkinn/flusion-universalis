@@ -1,0 +1,10 @@
+# Generated bootstrap province 2521
+# Display name: Far Northeastern Gallopia
+# GENERATED NAME: Far Northeastern Gallopia (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Shady Creek | Region: Gallopia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

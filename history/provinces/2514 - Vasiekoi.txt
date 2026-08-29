@@ -1,0 +1,10 @@
+# Generated bootstrap province 2514
+# Display name: Vasiekoi
+# CITY NAME RELOCATED: LoK city 'Vasiekoi' from source province 18038 was relocated from generated province 2515 to avoid two city names on one province (same area, graph distance 1).
+# Area: Vasiekoi | Region: Obscurie
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

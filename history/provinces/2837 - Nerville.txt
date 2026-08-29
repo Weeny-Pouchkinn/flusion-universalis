@@ -1,0 +1,10 @@
+# Generated bootstrap province 2837
+# Display name: Nerville
+# LoK city name: LoK city localisation from source province 14978
+# Area: Nerva | Region: Nerva
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

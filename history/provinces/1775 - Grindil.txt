@@ -1,0 +1,10 @@
+# Generated bootstrap province 1775
+# Display name: Grindil
+# LoK city name: LoK city localisation from source province 18208
+# Area: Smurden | Region: Tenetianen
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

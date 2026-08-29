@@ -1,0 +1,10 @@
+# Generated bootstrap province 3065
+# Display name: Northern Sanguine Hills
+# GENERATED NAME: Northern Sanguine Hills (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Western Shroom Hills | Region: Sanguine Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

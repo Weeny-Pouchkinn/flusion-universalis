@@ -1,0 +1,10 @@
+# Generated bootstrap province 1343
+# Display name: Atarilla
+# LoK city name: LoK city localisation from source province 3478
+# Area: Atarilla | Region: Lionsburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

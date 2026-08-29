@@ -1,0 +1,10 @@
+# Generated bootstrap province 1280
+# Display name: Lionsbach
+# LoK city name: LoK city localisation from source province 14475
+# Area: Lionsbach | Region: Gruyettburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

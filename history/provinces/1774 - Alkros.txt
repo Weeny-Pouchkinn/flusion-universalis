@@ -1,0 +1,10 @@
+# Generated bootstrap province 1774
+# Display name: Alkros
+# CITY NAME RELOCATED: LoK city 'Alkros' from source province 10479 was relocated from generated province 1773 to avoid two city names on one province (same area, graph distance 1).
+# Area: Alkroa | Region: Alkroan Peninsula
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2259
+# Display name: Katzberg
+# LoK city name: LoK city localisation from source province 4484
+# Area: Katzberg | Region: Meownich
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

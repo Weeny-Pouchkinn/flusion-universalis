@@ -1,0 +1,10 @@
+# Generated bootstrap province 3004
+# Display name: The Dish
+# LoK city name: LoK city localisation from source province 6018
+# Area: The Dish | Region: The Dish
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

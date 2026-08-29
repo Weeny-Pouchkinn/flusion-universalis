@@ -1,0 +1,10 @@
+# Generated bootstrap province 3754
+# Display name: Campbear Station
+# LoK city name: LoK city localisation from source province 5394
+# Area: East Bearlin | Region: Midflusionea15
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

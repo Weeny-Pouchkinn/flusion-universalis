@@ -1,0 +1,10 @@
+# Generated bootstrap province 2900
+# Display name: Far Southwestern Nerva
+# GENERATED NAME: Far Southwestern Nerva (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Kroassiciti | Region: Nerva
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

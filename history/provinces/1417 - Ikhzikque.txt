@@ -1,0 +1,10 @@
+# Generated bootstrap province 1417
+# Display name: Ikhzikque
+# LoK city name: LoK city localisation from source province 17169
+# Area: Albatlulia | Region: Parelia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

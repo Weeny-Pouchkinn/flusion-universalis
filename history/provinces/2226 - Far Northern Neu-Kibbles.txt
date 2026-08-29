@@ -1,0 +1,10 @@
+# Generated bootstrap province 2226
+# Display name: Far Northern Neu-Kibbles
+# GENERATED NAME: Far Northern Neu-Kibbles (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Katnover | Region: Neu-Kibbles
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

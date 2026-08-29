@@ -1,0 +1,10 @@
+# Generated bootstrap province 3503
+# Display name: Western Hivelands2 II
+# GENERATED NAME: Western Hivelands2 II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far East Monke Slopes | Region: Hivelands2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

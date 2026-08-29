@@ -1,0 +1,10 @@
+# Generated bootstrap province 1237
+# Display name: Chaklam
+# CITY NAME RELOCATED: LoK city 'Chaklam' from source province 54 was relocated from generated province 1236 to avoid two city names on one province (same area, graph distance 1).
+# Area: Süd-Auralien | Region: Itchiloo
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

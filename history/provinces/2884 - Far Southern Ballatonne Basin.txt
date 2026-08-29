@@ -1,0 +1,10 @@
+# Generated bootstrap province 2884
+# Display name: Far Southern Ballatonne Basin
+# GENERATED NAME: Far Southern Ballatonne Basin (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Lake Ballatonne | Region: Ballatonne Basin
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

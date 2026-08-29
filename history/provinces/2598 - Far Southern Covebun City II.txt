@@ -1,0 +1,10 @@
+# Generated bootstrap province 2598
+# Display name: Far Southern Covebun City II
+# GENERATED NAME: Far Southern Covebun City II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Bunrry | Region: Covebun City
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

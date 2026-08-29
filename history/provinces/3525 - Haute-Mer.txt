@@ -1,0 +1,10 @@
+# Generated bootstrap province 3525
+# Display name: Haute-Mer
+# LoK city name: LoK city localisation from source province 9016
+# Area: Marine Tranquille | Region: Rustalia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

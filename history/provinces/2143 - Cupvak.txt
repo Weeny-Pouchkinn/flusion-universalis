@@ -1,0 +1,10 @@
+# Generated bootstrap province 2143
+# Display name: Cupvak
+# LoK city name: LoK city localisation from source province 17545
+# Area: Kraiiovat | Region: Droogia4
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

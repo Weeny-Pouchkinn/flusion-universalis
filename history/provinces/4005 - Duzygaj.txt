@@ -1,0 +1,10 @@
+# Generated bootstrap province 4005
+# Display name: Duzygaj
+# LoK city name: LoK city localisation from source province 9868
+# Area: Duzygaj | Region: Zachodterenia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

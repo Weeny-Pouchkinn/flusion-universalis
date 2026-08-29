@@ -1,0 +1,10 @@
+# Generated bootstrap province 3659
+# Display name: Tostatienza
+# LoK city name: LoK city localisation from source province 18355
+# Area: Burgeros | Region: Spri5
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

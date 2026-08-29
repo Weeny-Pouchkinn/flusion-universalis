@@ -1,0 +1,16 @@
+government = monarchy
+add_government_reform = feudalism_reform
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = english
+capital = 426
+1444.1.1 = {
+    monarch = {
+        name = "Flusion"
+        dynasty = "Bootstrap"
+        adm = 3
+        dip = 3
+        mil = 3
+    }
+}

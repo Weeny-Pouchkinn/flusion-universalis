@@ -1,0 +1,10 @@
+# Generated bootstrap province 986
+# Display name: Chadania
+# LoK city name: LoK city localisation from source province 249
+# Area: Meowenberg | Region: Meowemberg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

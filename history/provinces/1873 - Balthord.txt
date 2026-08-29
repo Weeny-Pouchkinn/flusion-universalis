@@ -1,0 +1,10 @@
+# Generated bootstrap province 1873
+# Display name: Balthord
+# LoK city name: LoK city localisation from source province 19262
+# Area: Platishire | Region: Central Arivoejo
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

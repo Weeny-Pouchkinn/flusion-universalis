@@ -1,0 +1,10 @@
+# Generated bootstrap province 2830
+# Display name: Ragard
+# LoK city name: LoK city localisation from source province 7507
+# Area: Sumadikat | Region: Oredsk
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

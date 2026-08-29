@@ -1,0 +1,10 @@
+# Generated bootstrap province 3353
+# Display name: Eastern Fishtun
+# GENERATED NAME: Eastern Fishtun (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Monke Slopes | Region: Fishtun
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

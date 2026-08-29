@@ -1,0 +1,10 @@
+# Generated bootstrap province 4422
+# Display name: Far Western Southern Enotita
+# GENERATED NAME: Far Western Southern Enotita (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: West Temperia 1 | Region: Southern Enotita
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

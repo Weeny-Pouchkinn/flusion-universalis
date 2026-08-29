@@ -1,0 +1,10 @@
+# Generated bootstrap province 3881
+# Display name: Far Northern Midflusionea6
+# GENERATED NAME: Far Northern Midflusionea6 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Near East Northern Ezicania | Region: Midflusionea6
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

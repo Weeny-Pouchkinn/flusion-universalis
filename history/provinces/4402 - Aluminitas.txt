@@ -1,0 +1,10 @@
+# Generated bootstrap province 4402
+# Display name: Aluminitas
+# LoK city name: LoK city localisation from source province 16179
+# Area: Aluminitas | Region: Myriad
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

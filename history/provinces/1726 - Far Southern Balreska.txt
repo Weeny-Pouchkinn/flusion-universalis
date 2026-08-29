@@ -1,0 +1,10 @@
+# Generated bootstrap province 1726
+# Display name: Far Southern Balreska
+# GENERATED NAME: Far Southern Balreska (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Balreska | Region: Balreska
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

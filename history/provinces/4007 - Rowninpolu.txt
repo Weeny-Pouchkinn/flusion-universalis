@@ -1,0 +1,10 @@
+# Generated bootstrap province 4007
+# Display name: Rowninpolu
+# LoK city name: LoK city localisation from source province 12076
+# Area: Duzygaj | Region: Zachodterenia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

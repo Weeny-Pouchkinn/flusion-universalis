@@ -1,0 +1,10 @@
+# Generated bootstrap province 2941
+# Display name: Sversonne
+# LoK city name: LoK city localisation from source province 6055
+# Area: Gortian Prairie | Region: Novoshian Shores
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

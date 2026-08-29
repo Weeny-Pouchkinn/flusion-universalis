@@ -1,0 +1,10 @@
+# Generated bootstrap province 2066
+# Display name: Nord-Purrgund
+# LoK city name: LoK city localisation from source province 12814
+# Area: Nord-Purrgund | Region: Pouchkinn Plains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

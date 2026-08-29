@@ -1,0 +1,4 @@
+Map size: 4096x2048
+
+rivers.bmp: expected 4096x2048, indexed 8-bit EU4 river palette. Status: MISSING: rivers.bmp
+trees.bmp: expected roughly 512x256, indexed 8-bit EU4 tree palette. Status: MISSING: trees.bmp

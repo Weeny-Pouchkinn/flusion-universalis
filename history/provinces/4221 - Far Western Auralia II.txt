@@ -1,0 +1,10 @@
+# Generated bootstrap province 4221
+# Display name: Far Western Auralia II
+# GENERATED NAME: Far Western Auralia II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Neu-Meowleans | Region: Auralia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

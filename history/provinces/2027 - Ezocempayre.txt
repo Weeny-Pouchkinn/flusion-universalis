@@ -1,0 +1,10 @@
+# Generated bootstrap province 2027
+# Display name: Ezocempayre
+# LoK city name: LoK city localisation from source province 6763
+# Area: Empayre | Region: Zuspriland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

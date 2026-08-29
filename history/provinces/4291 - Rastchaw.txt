@@ -1,0 +1,10 @@
+# Generated bootstrap province 4291
+# Display name: Rastchaw
+# CITY NAME RELOCATED: LoK city 'Rastchaw' from source province 10131 was relocated from generated province 4290 to avoid two city names on one province (same area, graph distance 1).
+# Area: Saltille | Region: Gruyettburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

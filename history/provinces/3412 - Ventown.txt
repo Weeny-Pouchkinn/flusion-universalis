@@ -1,0 +1,10 @@
+# Generated bootstrap province 3412
+# Display name: Ventown
+# LoK city name: LoK city localisation from source province 16830
+# Area: Ventown | Region: Parelia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

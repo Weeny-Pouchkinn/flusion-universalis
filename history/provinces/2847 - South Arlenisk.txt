@@ -1,0 +1,10 @@
+# Generated bootstrap province 2847
+# Display name: South Arlenisk
+# LoK city name: LoK city localisation from source province 8845
+# Area: South Arlenisk | Region: Alraxia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

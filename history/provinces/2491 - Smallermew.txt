@@ -1,0 +1,10 @@
+# Generated bootstrap province 2491
+# Display name: Smallermew
+# LoK city name: LoK city localisation from source province 542
+# Area: Eastern Pawldrinsel | Region: Pawldrin Island
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

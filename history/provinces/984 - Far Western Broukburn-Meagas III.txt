@@ -1,0 +1,10 @@
+# Generated bootstrap province 984
+# Display name: Far Western Broukburn-Meagas III
+# GENERATED NAME: Far Western Broukburn-Meagas III (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Tiplett | Region: Broukburn-Meagas
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3417
+# Display name: Colliery
+# LoK city name: LoK city localisation from source province 6498
+# Area: Colliery | Region: Parelia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

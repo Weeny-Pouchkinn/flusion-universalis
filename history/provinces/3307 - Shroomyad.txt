@@ -1,0 +1,10 @@
+# Generated bootstrap province 3307
+# Display name: Shroomyad
+# LoK city name: LoK city localisation from source province 11276
+# Area: Shroomyad | Region: Puffiland7
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

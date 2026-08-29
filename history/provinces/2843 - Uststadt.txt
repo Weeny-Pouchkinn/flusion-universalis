@@ -1,0 +1,10 @@
+# Generated bootstrap province 2843
+# Display name: Uststadt
+# LoK city name: LoK city localisation from source province 548
+# Area: Uststadt | Region: Crngrad
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

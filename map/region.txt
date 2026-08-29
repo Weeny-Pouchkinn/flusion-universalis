@@ -1,0 +1,4379 @@
+# Generated bootstrap regions.
+# LoK strategic-region localisation is used where resolvable; GENERATED NAME comments mark fallbacks.
+random_new_world_region = { }
+
+# Display name: Flusionea
+# LoK strategic region ID: 1
+fu_sr_00a72f_region = {
+    areas = {
+        fu_state_10af5b_area
+        fu_state_ce996e_area
+        fu_state_ceed2f_area
+        fu_state_cf94b0_area
+        fu_state_dea148_area
+    }
+}
+
+# Display name: Greater Katown
+# LoK strategic region ID: 2
+fu_sr_014e5e_region = {
+    areas = {
+        fu_state_046aa7_area
+        fu_state_04be67_area
+        fu_state_058fc9_area
+        fu_state_05e847_area
+        fu_state_06612a_area
+        fu_state_06decb_area
+        fu_state_06e389_area
+        fu_state_07328b_area
+        fu_state_075c6b_area
+        fu_state_082dcd_area
+        fu_state_5342e6_area
+    }
+}
+
+# Display name: Tarrakis
+# LoK strategic region ID: 4
+fu_sr_029cbc_region = {
+    areas = {
+        fu_state_036f65_area
+        fu_state_6bf62f_area
+    }
+}
+
+# Display name: Meop
+# LoK strategic region ID: 3
+fu_sr_02f58d_region = {
+    areas = {
+        fu_state_051228_area
+        fu_state_06374a_area
+        fu_state_0952ef_area
+        fu_state_6ad10d_area
+        fu_state_6afaed_area
+        fu_state_6b788e_area
+        fu_state_6ba26e_area
+        fu_state_6bcc4e_area
+    }
+}
+
+# Display name: Meowemberg
+# LoK strategic region ID: 5
+fu_sr_0343eb_region = {
+    areas = {
+        fu_state_022063_area
+        fu_state_6c200f_area
+        fu_state_6c49ef_area
+    }
+}
+
+# Display name: Blasterian Canal
+# LoK strategic region ID: 7
+fu_sr_049249_region = {
+    areas = {
+        fu_state_4d0b9c_area
+        fu_state_4e30be_area
+        fu_state_666666_area
+        fu_state_66ba26_area
+        fu_state_6737c7_area
+    }
+}
+
+# Display name: Angilian Peninsula
+# LoK strategic region ID: 6
+fu_sr_04eb1a_region = {
+    areas = {
+        fu_state_012521_area
+        fu_state_024a43_area
+        fu_state_eff825_area
+    }
+}
+
+# Display name: Cutelogne
+# LoK strategic region ID: 8
+fu_sr_053978_region = {
+    areas = {
+        fu_state_049487_area
+        fu_state_4d357d_area
+        fu_state_4ddcfe_area
+        fu_state_669046_area
+        fu_state_66e406_area
+        fu_state_670de7_area
+        fu_state_6761a7_area
+    }
+}
+
+# Display name: Pawmalay
+# LoK strategic region ID: 10
+fu_sr_0687d6_region = {
+    areas = {
+        fu_state_031ba5_area
+        fu_state_04c326_area
+        fu_state_2e210a_area
+        fu_state_3d5783_area
+        fu_state_6c73cf_area
+        fu_state_6c9db0_area
+        fu_state_6cc790_area
+    }
+}
+
+# Display name: Pawris
+# LoK strategic region ID: 9
+fu_sr_06e0a7_region = {
+    areas = {
+        fu_state_0708ab_area
+        fu_state_07b02c_area
+        fu_state_0a2450_area
+        fu_state_6b24cd_area
+        fu_state_6b4ead_area
+        fu_state_ef7a84_area
+    }
+}
+
+# Display name: Pouchkinn Plains
+# LoK strategic region ID: 11
+fu_sr_072f05_region = {
+    areas = {
+        fu_state_06b4ea_area
+        fu_state_4d893d_area
+        fu_state_4e5a9f_area
+        fu_state_62a33f_area
+        fu_state_62cd20_area
+        fu_state_69abeb_area
+        fu_state_69d5cb_area
+        fu_state_69ffab_area
+    }
+}
+
+# Display name: Punchiestadt
+# LoK strategic region ID: 13
+fu_sr_087d63_region = {
+    areas = {
+        fu_state_0aa1f1_area
+        fu_state_0acbd1_area
+        fu_state_5ee019_area
+        fu_state_5f5dba_area
+        fu_state_e9c0da_area
+        fu_state_fddf9b_area
+    }
+}
+
+# Display name: Pawmur-Clawtoust
+# LoK strategic region ID: 12
+fu_sr_08d634_region = {
+    areas = {
+        fu_state_027423_area
+        fu_state_0416e6_area
+        fu_state_62259f_area
+        fu_state_624f7f_area
+        fu_state_62795f_area
+        fu_state_ee7f42_area
+        fu_state_efa464_area
+        fu_state_efce44_area
+        fu_state_f5dbae_area
+    }
+}
+
+# Display name: Clermeowth
+# LoK strategic region ID: 14
+fu_sr_092492_region = {
+    areas = {
+        fu_state_0c1ad3_area
+        fu_state_5f09fa_area
+        fu_state_5f33da_area
+        fu_state_5f879a_area
+        fu_state_ecb29f_area
+    }
+}
+
+# Display name: Elowia
+# LoK strategic region ID: 15
+fu_sr_09cbc1_region = {
+    areas = {
+        fu_state_0eb8d7_area
+        fu_state_2e4aeb_area
+        fu_state_5e6279_area
+        fu_state_5e8c59_area
+        fu_state_5eb639_area
+        fu_state_e6a535_area
+    }
+}
+
+# Display name: Auralia
+# LoK strategic region ID: 16
+fu_sr_0a72f0_region = {
+    areas = {
+        fu_state_1156dc_area
+        fu_state_12f99e_area
+        fu_state_4fd381_area
+        fu_state_54e5a9_area
+        fu_state_550f89_area
+        fu_state_e62795_area
+        fu_state_e65175_area
+        fu_state_e67b55_area
+        fu_state_e6cf16_area
+    }
+}
+
+# Display name: Meopinstaat
+# LoK strategic region ID: 17
+fu_sr_0b1a1f_region = {
+    areas = {
+        fu_state_0f6058_area
+        fu_state_55396a_area
+        fu_state_55634a_area
+        fu_state_558d2a_area
+        fu_state_eabc1c_area
+        fu_state_ed5a20_area
+    }
+}
+
+# Display name: Purrsia
+# LoK strategic region ID: 19
+fu_sr_0c687d_region = {
+    areas = {
+        fu_state_068b0a_area
+        fu_state_08da0c_area
+        fu_state_097ccf_area
+        fu_state_60053b_area
+        fu_state_602f1b_area
+        fu_state_6082dc_area
+        fu_state_e74cb6_area
+        fu_state_e7a077_area
+        fu_state_ef50a3_area
+    }
+}
+
+# Display name: Frankfurr
+# LoK strategic region ID: 18
+fu_sr_0cc14e_region = {
+    areas = {
+        fu_state_4db31d_area
+        fu_state_4e06de_area
+        fu_state_5fb17b_area
+        fu_state_5fdb5b_area
+        fu_state_6058fc_area
+        fu_state_6a298c_area
+        fu_state_eea922_area
+        fu_state_eed303_area
+        fu_state_eefce3_area
+        fu_state_ef26c3_area
+    }
+}
+
+# Display name: Neu-Kibbles
+# LoK strategic region ID: 20
+fu_sr_0d0fac_region = {
+    areas = {
+        fu_state_0dec34_area
+        fu_state_58a8cf_area
+        fu_state_58d2af_area
+        fu_state_58fc90_area
+        fu_state_69820b_area
+        fu_state_6a536c_area
+        fu_state_e77697_area
+        fu_state_f5b1ce_area
+    }
+}
+
+# Display name: Central Solakean Sea
+# LoK strategic region ID: 79
+fu_sr_0d26e0_region = {
+    areas = {
+        fu_state_2a3efb_area
+    }
+}
+
+# Display name: Pawscow
+# LoK strategic region ID: 21
+fu_sr_0db6db_region = {
+    areas = {
+        fu_state_4f2c00_area
+        fu_state_4f55e0_area
+        fu_state_502741_area
+        fu_state_68da89_area
+    }
+}
+
+# Display name: Northern Sobakiland
+# LoK strategic region ID: 22
+fu_sr_0e5e0a_region = {
+    areas = {
+        fu_state_4d5f5d_area
+        fu_state_4e847f_area
+        fu_state_4ed83f_area
+        fu_state_678b87_area
+        fu_state_67b568_area
+        fu_state_685ce9_area
+        fu_state_6886c9_area
+        fu_state_68b0a9_area
+    }
+}
+
+# Display name: Ostkreuz
+# LoK strategic region ID: 23
+fu_sr_0f0539_region = {
+    areas = {
+        fu_state_0ee776_area
+        fu_state_4f0220_area
+        fu_state_67df48_area
+        fu_state_680928_area
+        fu_state_683308_area
+        fu_state_69046a_area
+        fu_state_692e4a_area
+        fu_state_69582a_area
+    }
+}
+
+# Display name: Tailsbaden
+# LoK strategic region ID: 25
+fu_sr_105397_region = {
+    areas = {
+        fu_state_0b4972_area
+        fu_state_0cc254_area
+        fu_state_5783ad_area
+        fu_state_57d76e_area
+        fu_state_58014e_area
+        fu_state_ed8401_area
+        fu_state_edd7c1_area
+        fu_state_ee01a1_area
+        fu_state_ee2b82_area
+        fu_state_ee5562_area
+    }
+}
+
+# Display name: Northern Katzen Mountains
+# LoK strategic region ID: 26
+fu_sr_10fac6_region = {
+    areas = {
+        fu_state_0dbd96_area
+        fu_state_0e8ef7_area
+        fu_state_57ad8e_area
+        fu_state_582b2e_area
+        fu_state_58550f_area
+        fu_state_6a7d4c_area
+        fu_state_eae5fc_area
+        fu_state_edade1_area
+    }
+}
+
+# Display name: Los Kibbles
+# LoK strategic region ID: 27
+fu_sr_11a1f5_region = {
+    areas = {
+        fu_state_0e3b37_area
+        fu_state_1031ba_area
+        fu_state_10ddf9_area
+        fu_state_4f7fc0_area
+        fu_state_587eef_area
+        fu_state_5b9a94_area
+        fu_state_e96d1a_area
+        fu_state_ec34fe_area
+        fu_state_fe097b_area
+        fu_state_fedadd_area
+    }
+}
+
+# Display name: Furrballeares
+# LoK strategic region ID: 29
+fu_sr_12f053_region = {
+    areas = {
+        fu_state_053c08_area
+        fu_state_0ad08f_area
+        fu_state_6aa72c_area
+    }
+}
+
+# Display name: Itchiloo
+# LoK strategic region ID: 30
+fu_sr_139782_region = {
+    areas = {
+        fu_state_12cfbe_area
+        fu_state_1692e4_area
+        fu_state_16e6a5_area
+        fu_state_5396a7_area
+        fu_state_546808_area
+        fu_state_5491e9_area
+        fu_state_5bee55_area
+        fu_state_e5d3d4_area
+        fu_state_e5fdb4_area
+    }
+}
+
+# Display name: Lionsburg
+# LoK strategic region ID: 31
+fu_sr_143eb1_region = {
+    areas = {
+        fu_state_1984a9_area
+        fu_state_1c4c8d_area
+        fu_state_1f3e52_area
+        fu_state_536cc7_area
+        fu_state_53c087_area
+        fu_state_53ea68_area
+        fu_state_541448_area
+        fu_state_543e28_area
+        fu_state_54bbc9_area
+        fu_state_e722d6_area
+    }
+}
+
+# Display name: Neu-Mewxico
+# LoK strategic region ID: 32
+fu_sr_14e5e0_region = {
+    areas = {
+        fu_state_1cf40e_area
+        fu_state_215eb6_area
+        fu_state_56886c_area
+        fu_state_56b24c_area
+        fu_state_eb8d7d_area
+        fu_state_ebb75e_area
+        fu_state_ed0660_area
+    }
+}
+
+# Display name: Drakwald Jungle
+# LoK strategic region ID: 33
+fu_sr_158d0f_region = {
+    areas = {
+        fu_state_21b276_area
+        fu_state_57060d_area
+        fu_state_f6058e_area
+    }
+}
+
+# Display name: Meon
+# LoK strategic region ID: 34
+fu_sr_16343e_region = {
+    areas = {
+        fu_state_203994_area
+        fu_state_61007d_area
+        fu_state_612a5d_area
+        fu_state_61543d_area
+    }
+}
+
+# Display name: Katzen Mountains
+# LoK strategic region ID: 35
+fu_sr_16db6d_region = {
+    areas = {
+        fu_state_28e502_area
+        fu_state_2cd208_area
+        fu_state_8b0aa1_area
+        fu_state_8b3481_area
+        fu_state_8b5e61_area
+    }
+}
+
+# Display name: Katzen Hills
+# LoK strategic region ID: 36
+fu_sr_17829c_region = {
+    areas = {
+        fu_state_13773f_area
+        fu_state_163f24_area
+        fu_state_173a65_area
+        fu_state_55b70a_area
+        fu_state_55e0eb_area
+        fu_state_560acb_area
+        fu_state_5634ab_area
+        fu_state_565e8c_area
+        fu_state_e6f8f6_area
+        fu_state_e7ca57_area
+        fu_state_e7f438_area
+        fu_state_e996fa_area
+        fu_state_ebe13e_area
+        fu_state_f02205_area
+    }
+}
+
+# Display name: Solagnaw
+# LoK strategic region ID: 37
+fu_sr_1829cb_region = {
+    areas = {
+        fu_state_134d5f_area
+        fu_state_15c183_area
+        fu_state_e81e18_area
+        fu_state_e847f8_area
+        fu_state_eb0fdd_area
+        fu_state_ec0b1e_area
+    }
+}
+
+# Display name: Meownich
+# LoK strategic region ID: 38
+fu_sr_18d0fa_region = {
+    areas = {
+        fu_state_12fe5d_area
+        fu_state_13f4e0_area
+        fu_state_4fa9a1_area
+        fu_state_5b1cf3_area
+        fu_state_5b70b4_area
+    }
+}
+
+# Display name: Catburg
+# LoK strategic region ID: 39
+fu_sr_197829_region = {
+    areas = {
+        fu_state_1b7b2c_area
+        fu_state_1ba50c_area
+        fu_state_5759cd_area
+        fu_state_e9eabb_area
+        fu_state_fe335c_area
+    }
+}
+
+# Display name: Meowfelde
+# LoK strategic region ID: 40
+fu_sr_1a1f58_region = {
+    areas = {
+        fu_state_512283_area
+        fu_state_56dc2c_area
+        fu_state_572fed_area
+        fu_state_eb639d_area
+    }
+}
+
+# Display name: Feline Frontier
+# LoK strategic region ID: 41
+fu_sr_1ac687_region = {
+    areas = {
+        fu_state_1a024a_area
+        fu_state_1c766e_area
+        fu_state_507b02_area
+        fu_state_597a31_area
+        fu_state_f04be5_area
+    }
+}
+
+# Display name: Gruyettburg
+# LoK strategic region ID: 42
+fu_sr_1b6db6_region = {
+    areas = {
+        fu_state_156dc2_area
+        fu_state_1597a3_area
+        fu_state_59a411_area
+        fu_state_59cdf1_area
+        fu_state_ec5edf_area
+    }
+}
+
+# Display name: Lionita
+# LoK strategic region ID: 43
+fu_sr_1c14e5_region = {
+    areas = {
+        fu_state_161543_area
+        fu_state_190708_area
+        fu_state_592670_area
+        fu_state_595050_area
+        fu_state_59f7d1_area
+        fu_state_eb39bd_area
+        fu_state_ec88bf_area
+    }
+}
+
+# Display name: Catpine Range
+# LoK strategic region ID: 44
+fu_sr_1cbc14_region = {
+    areas = {
+        fu_state_10d93b_area
+        fu_state_127bfd_area
+        fu_state_5a4b92_area
+        fu_state_5a7572_area
+        fu_state_5af313_area
+        fu_state_5b46d3_area
+    }
+}
+
+# Display name: Struken
+# LoK strategic region ID: 45
+fu_sr_1d6343_region = {
+    areas = {
+        fu_state_11031b_area
+        fu_state_12283d_area
+        fu_state_13cb00_area
+        fu_state_5a9f52_area
+        fu_state_5ac933_area
+    }
+}
+
+# Display name: Felinda
+# LoK strategic region ID: 46
+fu_sr_1e0a72_region = {
+    areas = {
+        fu_state_0f8a39_area
+        fu_state_1007d9_area
+        fu_state_5a21b2_area
+    }
+}
+
+# Display name: Felinda
+# LoK strategic region ID: 46
+fu_sr_1e5d89_region = {
+    areas = {
+        fu_state_356627_area
+    }
+}
+
+# Display name: Winston
+# LoK strategic region ID: 47
+fu_sr_1eb1a1_region = {
+    areas = {
+        fu_state_0b7352_area
+        fu_state_4eae5f_area
+        fu_state_5c4215_area
+        fu_state_5c6bf5_area
+    }
+}
+
+# Display name: Ezikanien
+# LoK strategic region ID: 48
+fu_sr_1f58d0_region = {
+    areas = {
+        fu_state_060d69_area
+        fu_state_08d54e_area
+        fu_state_34ffd5_area
+        fu_state_5c95d6_area
+        fu_state_5cbfb6_area
+        fu_state_5ce996_area
+    }
+}
+
+# Display name: Mediamus
+# LoK strategic region ID: 49
+fu_sr_1fffff_region = {
+    areas = {
+        fu_state_034585_area
+        fu_state_4ce1bc_area
+        fu_state_5d1376_area
+        fu_state_5d3d57_area
+    }
+}
+
+# Display name: Islakatz
+# LoK strategic region ID: 50
+fu_sr_20a72e_region = {
+    areas = {
+        fu_state_039945_area
+        fu_state_04ed06_area
+    }
+}
+
+# Display name: Feline Gulf
+# LoK strategic region ID: 51
+fu_sr_214e5d_region = {
+    areas = {
+        fu_state_1f6832_area
+    }
+}
+
+# Display name: Solakatzen Channel
+# LoK strategic region ID: 102
+fu_sr_214edd_region = {
+    areas = {
+        fu_state_130caf_area
+    }
+}
+
+# Display name: Solakatzen Strait
+# LoK strategic region ID: 53
+fu_sr_229cbb_region = {
+    areas = {
+        fu_state_22d798_area
+        fu_state_ffd61e_area
+    }
+}
+
+# Display name: Kusnurkia
+# LoK strategic region ID: 54
+fu_sr_2343ea_region = {
+    areas = {
+        fu_state_23a8f9_area
+        fu_state_24ce1b_area
+        fu_state_25759c_area
+        fu_state_25c95d_area
+        fu_state_74f55d_area
+        fu_state_751f3d_area
+        fu_state_75491e_area
+    }
+}
+
+# Display name: Gallopia
+# LoK strategic region ID: 55
+fu_sr_23eb19_region = {
+    areas = {
+        fu_state_2b5926_area
+        fu_state_30178d_area
+        fu_state_769820_area
+        fu_state_76c200_area
+        fu_state_76ebe0_area
+        fu_state_abc1d6_area
+    }
+}
+
+# Display name: Solaria
+# LoK strategic region ID: 56
+fu_sr_249249_region = {
+    areas = {
+        fu_state_2c5467_area
+        fu_state_2ca828_area
+        fu_state_357d76_area
+        fu_state_35a756_area
+        fu_state_3a3bde_area
+        fu_state_85f879_area
+        fu_state_862259_area
+        fu_state_864c39_area
+        fu_state_ff825e_area
+    }
+}
+
+# Display name: Goatlandia
+# LoK strategic region ID: 57
+fu_sr_253978_region = {
+    areas = {
+        fu_state_254bbc_area
+        fu_state_2b2f46_area
+        fu_state_2bace6_area
+        fu_state_2d4fa9_area
+        fu_state_32df72_area
+        fu_state_867619_area
+        fu_state_869ffa_area
+        fu_state_ea149b_area
+        fu_state_ea298b_area
+        fu_state_ea3e7b_area
+    }
+}
+
+# Display name: Lesser Lake
+# LoK strategic region ID: 58
+fu_sr_25e0a7_region = {
+    areas = {
+        fu_state_3bb4c0_area
+        fu_state_3ea685_area
+        fu_state_a6082d_area
+        fu_state_a6d98e_area
+        fu_state_a7036e_area
+    }
+}
+
+# Display name: Cerepisenia
+# LoK strategic region ID: 118
+fu_sr_2607d5_region = {
+    areas = {
+        fu_state_222db7_area
+    }
+}
+
+# Display name: Mercurian Trench
+# LoK strategic region ID: 236
+fu_sr_2608d5_region = {
+    areas = {
+        fu_state_020ac3_area
+    }
+}
+
+# Display name: Midi-Vidanie
+# LoK strategic region ID: 59
+fu_sr_2687d6_region = {
+    areas = {
+        fu_state_3529b6_area
+        fu_state_761a7f_area
+        fu_state_e871d8_area
+        fu_state_e89bb9_area
+    }
+}
+
+# Display name: Louquiobitumittie
+# LoK strategic region ID: 61
+fu_sr_27d634_region = {
+    areas = {
+        fu_state_29e043_area
+        fu_state_2a87c4_area
+        fu_state_2c7e48_area
+        fu_state_30e8ef_area
+        fu_state_313caf_area
+        fu_state_62f700_area
+        fu_state_790c44_area
+        fu_state_79b3c5_area
+        fu_state_e91959_area
+        fu_state_e9433a_area
+        fu_state_fe5d3c_area
+    }
+}
+
+# Display name: Harelyne
+# LoK strategic region ID: 83
+fu_sr_28276e_region = {
+    areas = {
+        fu_state_5c01d5_area
+    }
+}
+
+# Display name: Chalsace
+# LoK strategic region ID: 62
+fu_sr_287d63_region = {
+    areas = {
+        fu_state_269abe_area
+        fu_state_26ee7f_area
+        fu_state_2813a0_area
+        fu_state_298c83_area
+        fu_state_776981_area
+        fu_state_fe871c_area
+    }
+}
+
+# Display name: Pegasia
+# LoK strategic region ID: 63
+fu_sr_292492_region = {
+    areas = {
+        fu_state_0fb419_area
+        fu_state_2c00a7_area
+        fu_state_333333_area
+        fu_state_7715c1_area
+        fu_state_773fa1_area
+        fu_state_e8c599_area
+        fu_state_e8ef79_area
+        fu_state_feb0fc_area
+        fu_state_ff2e9d_area
+    }
+}
+
+# Display name: Lutecie
+# LoK strategic region ID: 64
+fu_sr_29cbc1_region = {
+    areas = {
+        fu_state_2a3404_area
+        fu_state_2fedad_area
+        fu_state_345854_area
+        fu_state_759cde_area
+        fu_state_796004_area
+        fu_state_ecdc7f_area
+    }
+}
+
+# Display name: Himezulte
+# LoK strategic region ID: 130
+fu_sr_2a72ef_region = {
+    areas = {
+        fu_state_306bcd_area
+    }
+}
+
+# Display name: Midi-Sunazure
+# LoK strategic region ID: 65
+fu_sr_2a72f0_region = {
+    areas = {
+        fu_state_319070_area
+        fu_state_793624_area
+        fu_state_f0f366_area
+        fu_state_f11d46_area
+    }
+}
+
+# Display name: Bocerie
+# LoK strategic region ID: 66
+fu_sr_2b1a1f_region = {
+    areas = {
+        fu_state_3237f1_area
+        fu_state_76445f_area
+        fu_state_78e263_area
+    }
+}
+
+# Display name: Obscurie
+# LoK strategic region ID: 67
+fu_sr_2bc14e_region = {
+    areas = {
+        fu_state_342e74_area
+        fu_state_766e3f_area
+        fu_state_783ae2_area
+        fu_state_ea923c_area
+    }
+}
+
+# Display name: Velardenne
+# LoK strategic region ID: 68
+fu_sr_2c687d_region = {
+    areas = {
+        fu_state_23d2da_area
+        fu_state_2d7989_area
+        fu_state_2df72a_area
+        fu_state_30952e_area
+        fu_state_7989e5_area
+        fu_state_f14727_area
+    }
+}
+
+# Display name: Bruvergne
+# LoK strategic region ID: 69
+fu_sr_2d0fac_region = {
+    areas = {
+        fu_state_21dc56_area
+        fu_state_2d25c9_area
+        fu_state_306b4e_area
+        fu_state_3261d1_area
+        fu_state_7864c3_area
+        fu_state_78b883_area
+    }
+}
+
+# Display name: Demotagne
+# LoK strategic region ID: 70
+fu_sr_2db6db_region = {
+    areas = {
+        fu_state_2e9eab_area
+        fu_state_7572fe_area
+    }
+}
+
+# Display name: Poitouamie
+# LoK strategic region ID: 71
+fu_sr_2e5e0a_region = {
+    areas = {
+        fu_state_2fc3cd_area
+        fu_state_30416e_area
+        fu_state_320e11_area
+        fu_state_788ea3_area
+    }
+}
+
+# Display name: Massif Roqual
+# LoK strategic region ID: 72
+fu_sr_2f0539_region = {
+    areas = {
+        fu_state_335d13_area
+        fu_state_33b0d3_area
+        fu_state_364ed8_area
+        fu_state_f0c986_area
+    }
+}
+
+# Display name: Animequitaine
+# LoK strategic region ID: 73
+fu_sr_2fac68_region = {
+    areas = {
+        fu_state_348235_area
+        fu_state_779361_area
+        fu_state_77e722_area
+        fu_state_781102_area
+        fu_state_f075c5_area
+        fu_state_f09fa6_area
+    }
+}
+
+# Display name: Takicardie
+# LoK strategic region ID: 74
+fu_sr_305397_region = {
+    areas = {
+        fu_state_379dda_area
+        fu_state_38c2fc_area
+        fu_state_3916bc_area
+    }
+}
+
+# Display name: Teksasse
+# LoK strategic region ID: 75
+fu_sr_30fac6_region = {
+    areas = {
+        fu_state_34d5f5_area
+        fu_state_36a298_area
+        fu_state_77bd42_area
+    }
+}
+
+# Display name: Alkroan Peninsula
+# LoK strategic region ID: 76
+fu_sr_31a1f5_region = {
+    areas = {
+        fu_state_36f659_area
+        fu_state_75c6be_area
+        fu_state_75f09f_area
+        fu_state_8967de_area
+        fu_state_8991bf_area
+    }
+}
+
+# Display name: Eastern Solakean Sea
+# LoK strategic region ID: 77
+fu_sr_324924_region = {
+    areas = {
+        fu_state_86f3ba_area
+        fu_state_871d9b_area
+    }
+}
+
+# Display name: Central Solakean Sea
+# LoK strategic region ID: 79
+fu_sr_339782_region = {
+    areas = {
+        fu_state_41c22a_area
+        fu_state_87477b_area
+        fu_state_87715b_area
+        fu_state_879b3b_area
+        fu_state_a8f9f1_area
+    }
+}
+
+# Display name: Western Solakean Sea
+# LoK strategic region ID: 80
+fu_sr_343eb1_region = {
+    areas = {
+        fu_state_3f77e6_area
+    }
+}
+
+# Display name: Bunville
+# LoK strategic region ID: 82
+fu_sr_358d0f_region = {
+    areas = {
+        fu_state_4269ab_area
+        fu_state_7d232a_area
+        fu_state_7d4d0b_area
+        fu_state_7d76eb_area
+        fu_state_7da0cb_area
+        fu_state_7dcaab_area
+        fu_state_7df48c_area
+        fu_state_7e722c_area
+        fu_state_7fc12f_area
+        fu_state_80bc70_area
+        fu_state_80e650_area
+    }
+}
+
+# Display name: Harelyne
+# LoK strategic region ID: 83
+fu_sr_36343e_region = {
+    areas = {
+        fu_state_44602e_area
+        fu_state_7a8526_area
+        fu_state_7aaf06_area
+        fu_state_7ad8e7_area
+        fu_state_7b02c7_area
+    }
+}
+
+# Display name: Lalaland
+# LoK strategic region ID: 84
+fu_sr_36db6d_region = {
+    areas = {
+        fu_state_414489_area
+        fu_state_d232b4_area
+        fu_state_d25c95_area
+        fu_state_d28675_area
+        fu_state_d2b055_area
+    }
+}
+
+# Display name: Coltur
+# LoK strategic region ID: 112
+fu_sr_371bad_region = {
+    areas = {
+        fu_state_349f7d_area
+    }
+}
+
+# Display name: Vasmar
+# LoK strategic region ID: 85
+fu_sr_37829c_region = {
+    areas = {
+        fu_state_43b8ad_area
+        fu_state_43e28e_area
+        fu_state_48a0f5_area
+        fu_state_a7d4d0_area
+        fu_state_a82890_area
+        fu_state_a8d011_area
+    }
+}
+
+# Display name: Hushed Forest
+# LoK strategic region ID: 86
+fu_sr_3829cb_region = {
+    areas = {
+        fu_state_3c3261_area
+        fu_state_44b3ef_area
+    }
+}
+
+# Display name: Talsan'ar
+# LoK strategic region ID: 87
+fu_sr_38d0fa_region = {
+    areas = {
+        fu_state_3bdea1_area
+        fu_state_468092_area
+        fu_state_4751f3_area
+        fu_state_85a4b8_area
+        fu_state_87c51c_area
+    }
+}
+
+# Display name: Buncible
+# LoK strategic region ID: 88
+fu_sr_397829_region = {
+    areas = {
+        fu_state_41984a_area
+        fu_state_7b2ca7_area
+        fu_state_7b5687_area
+        fu_state_7b8068_area
+        fu_state_7baa48_area
+    }
+}
+
+# Display name: Covebun City
+# LoK strategic region ID: 89
+fu_sr_3a1f58_region = {
+    areas = {
+        fu_state_3ed065_area
+        fu_state_7c27e9_area
+        fu_state_7c51c9_area
+        fu_state_7c7ba9_area
+    }
+}
+
+# Display name: Seagoer's Republic
+# LoK strategic region ID: 90
+fu_sr_3ac687_region = {
+    areas = {
+        fu_state_3dab43_area
+        fu_state_7bd428_area
+        fu_state_7bfe09_area
+    }
+}
+
+# Display name: Lakeside City
+# LoK strategic region ID: 91
+fu_sr_3b6db6_region = {
+    areas = {
+        fu_state_3ab97f_area
+        fu_state_7e9c0d_area
+        fu_state_7f438e_area
+        fu_state_7f6d6e_area
+        fu_state_7f974e_area
+    }
+}
+
+# Display name: Xoeken
+# LoK strategic region ID: 122
+fu_sr_3b818e_region = {
+    areas = {
+        fu_state_466d51_area
+    }
+}
+
+# Display name: Watermaster Domain
+# LoK strategic region ID: 92
+fu_sr_3c14e5_region = {
+    areas = {
+        fu_state_38455b_area
+        fu_state_7a3166_area
+        fu_state_7a5b46_area
+    }
+}
+
+# Display name: Karrotia
+# LoK strategic region ID: 93
+fu_sr_3cbc14_region = {
+    areas = {
+        fu_state_3e52c5_area
+        fu_state_811031_area
+    }
+}
+
+# Display name: Earthmaster Quarries
+# LoK strategic region ID: 94
+fu_sr_3d6343_region = {
+    areas = {
+        fu_state_433b0c_area
+        fu_state_8014ef_area
+        fu_state_803ecf_area
+        fu_state_8068b0_area
+        fu_state_809290_area
+    }
+}
+
+# Display name: Airmaster Sanctuaries
+# LoK strategic region ID: 95
+fu_sr_3e0a72_region = {
+    areas = {
+        fu_state_4507af_area
+        fu_state_7ca58a_area
+        fu_state_7ccf6a_area
+        fu_state_7cf94a_area
+        fu_state_7e1e6c_area
+        fu_state_7e484c_area
+        fu_state_7feb0f_area
+    }
+}
+
+# Display name: Battlebuns Frontier
+# LoK strategic region ID: 96
+fu_sr_3eb1a1_region = {
+    areas = {
+        fu_state_3773f9_area
+        fu_state_381b7a_area
+        fu_state_7ec5ed_area
+        fu_state_7eefcd_area
+        fu_state_7f19ae_area
+    }
+}
+
+# Display name: Great Grove Ridge
+# LoK strategic region ID: 386
+fu_sr_3f05f8_region = {
+    areas = {
+        fu_state_3515c5_area
+    }
+}
+
+# Display name: Mercurian Panhandle
+# LoK strategic region ID: 388
+fu_sr_3f19d0_region = {
+    areas = {
+        fu_state_350bfd_area
+        fu_state_351ece_area
+    }
+}
+
+# Display name: Mercurian Mountains
+# LoK strategic region ID: 387
+fu_sr_3f2fc4_region = {
+    areas = {
+        fu_state_350acd_area
+    }
+}
+
+# Display name: Kepler
+# LoK strategic region ID: 97
+fu_sr_3f58d0_region = {
+    areas = {
+        fu_state_3a8f9e_area
+        fu_state_3b8ae0_area
+        fu_state_40c6e9_area
+        fu_state_44ddcf_area
+        fu_state_458550_area
+        fu_state_45af30_area
+        fu_state_838455_area
+        fu_state_83d815_area
+        fu_state_ff04bd_area
+    }
+}
+
+# Display name: Plaveta
+# LoK strategic region ID: 98
+fu_sr_3fffff_region = {
+    areas = {
+        fu_state_4364ed_area
+        fu_state_4602f1_area
+        fu_state_46aa72_area
+        fu_state_477bd3_area
+        fu_state_835a74_area
+        fu_state_9bb9fc_area
+        fu_state_9be3dc_area
+        fu_state_9c0dbc_area
+        fu_state_9d32de_area
+    }
+}
+
+# Display name: Datlof
+# LoK strategic region ID: 99
+fu_sr_40a72e_region = {
+    areas = {
+        fu_state_39e81d_area
+        fu_state_85ce98_area
+        fu_state_89e57f_area
+        fu_state_8a0f5f_area
+        fu_state_ea685b_area
+    }
+}
+
+# Display name: Tenetianen
+# LoK strategic region ID: 100
+fu_sr_414e5d_region = {
+    areas = {
+        fu_state_372039_area
+        fu_state_3a65be_area
+        fu_state_89bb9f_area
+        fu_state_8a3940_area
+    }
+}
+
+# Display name: Solakatzen Channel
+# LoK strategic region ID: 102
+fu_sr_429cbb_region = {
+    areas = {
+        fu_state_27185f_area
+        fu_state_30bf0f_area
+    }
+}
+
+# Display name: Nekaston
+# LoK strategic region ID: 103
+fu_sr_4343ea_region = {
+    areas = {
+        fu_state_261d1d_area
+        fu_state_27423f_area
+        fu_state_276c1f_area
+        fu_state_27bfe0_area
+        fu_state_289141_area
+        fu_state_2ef26c_area
+        fu_state_7a0785_area
+    }
+}
+
+# Display name: Teryakr
+# LoK strategic region ID: 104
+fu_sr_43eb19_region = {
+    areas = {
+        fu_state_2ab1a5_area
+        fu_state_8a6320_area
+        fu_state_8a8d00_area
+    }
+}
+
+# Display name: Mount Izwae
+# LoK strategic region ID: 105
+fu_sr_449248_region = {
+    areas = {
+        fu_state_37c7ba_area
+        fu_state_9e81e0_area
+        fu_state_9eabc1_area
+        fu_state_9ed5a1_area
+        fu_state_9eff81_area
+    }
+}
+
+# Display name: Paraneon
+# LoK strategic region ID: 106
+fu_sr_453977_region = {
+    areas = {
+        fu_state_38ecdc_area
+        fu_state_9f2962_area
+        fu_state_9f5342_area
+        fu_state_9f7d22_area
+        fu_state_9fa702_area
+        fu_state_9fd0e3_area
+    }
+}
+
+# Display name: Kholina
+# LoK strategic region ID: 107
+fu_sr_45e0a6_region = {
+    areas = {
+        fu_state_3d8163_area
+        fu_state_d16153_area
+        fu_state_d1b513_area
+    }
+}
+
+# Display name: The Valley
+# LoK strategic region ID: 108
+fu_sr_4687d5_region = {
+    areas = {
+        fu_state_3dd524_area
+        fu_state_d0b9d2_area
+        fu_state_d18b33_area
+    }
+}
+
+# Display name: Majakhemer
+# LoK strategic region ID: 109
+fu_sr_472f04_region = {
+    areas = {
+        fu_state_3fcba7_area
+        fu_state_d03c31_area
+    }
+}
+
+# Display name: Ordem
+# LoK strategic region ID: 110
+fu_sr_47d633_region = {
+    areas = {
+        fu_state_3a11fe_area
+        fu_state_3c5c41_area
+        fu_state_9cdf1e_area
+        fu_state_9dda5f_area
+    }
+}
+
+# Display name: Ged'Tum
+# LoK strategic region ID: 111
+fu_sr_487d62_region = {
+    areas = {
+        fu_state_409d08_area
+        fu_state_cfbe90_area
+        fu_state_cfe871_area
+    }
+}
+
+# Display name: Coltur
+# LoK strategic region ID: 112
+fu_sr_492492_region = {
+    areas = {
+        fu_state_31ba50_area
+        fu_state_3ff587_area
+        fu_state_46d452_area
+    }
+}
+
+# Display name: Majakhemer
+# LoK strategic region ID: 109
+fu_sr_497829_region = {
+    areas = {
+        fu_state_b67837_area
+    }
+}
+
+# Display name: Dov'Gil
+# LoK strategic region ID: 113
+fu_sr_49cbc1_region = {
+    areas = {
+        fu_state_2bd6c7_area
+        fu_state_4656b2_area
+        fu_state_d01251_area
+        fu_state_e06deb_area
+        fu_state_e097cc_area
+    }
+}
+
+# Display name: Vauro
+# LoK strategic region ID: 114
+fu_sr_4a72f0_region = {
+    areas = {
+        fu_state_47cf94_area
+        fu_state_9ffac3_area
+    }
+}
+
+# Display name: Lundil
+# LoK strategic region ID: 115
+fu_sr_4b1a1f_region = {
+    areas = {
+        fu_state_3c0881_area
+        fu_state_438ecd_area
+        fu_state_d06611_area
+        fu_state_d08ff2_area
+        fu_state_d13773_area
+    }
+}
+
+# Display name: Nacru
+# LoK strategic region ID: 116
+fu_sr_4bc14e_region = {
+    areas = {
+        fu_state_396a7d_area
+        fu_state_472813_area
+        fu_state_9c617d_area
+        fu_state_9cb53e_area
+    }
+}
+
+# Display name: Nouteq
+# LoK strategic region ID: 117
+fu_sr_4c687d_region = {
+    areas = {
+        fu_state_45d911_area
+        fu_state_d1def4_area
+        fu_state_d208d4_area
+    }
+}
+
+# Display name: Mercurian Trench
+# LoK strategic region ID: 236
+fu_sr_4d0fab_region = {
+    areas = {
+        fu_state_041486_area
+    }
+}
+
+# Display name: Cerepisenia
+# LoK strategic region ID: 118
+fu_sr_4d0fac_region = {
+    areas = {
+        fu_state_455b70_area
+        fu_state_d0e3b2_area
+        fu_state_d10d92_area
+    }
+}
+
+# Display name: Brekarya
+# LoK strategic region ID: 119
+fu_sr_4db6db_region = {
+    areas = {
+        fu_state_2f462c_area
+        fu_state_33dab4_area
+        fu_state_8ab6e0_area
+        fu_state_8ae0c1_area
+    }
+}
+
+# Display name: Bryumen
+# LoK strategic region ID: 120
+fu_sr_4e5e0a_region = {
+    areas = {
+        fu_state_141ec0_area
+        fu_state_1448a0_area
+        fu_state_5bc474_area
+        fu_state_64ed83_area
+        fu_state_651763_area
+        fu_state_654144_area
+        fu_state_f55e0d_area
+        fu_state_f587ee_area
+    }
+}
+
+# Display name: Ooooex
+# LoK strategic region ID: 121
+fu_sr_4f0539_region = {
+    areas = {
+        fu_state_0803ec_area
+        fu_state_5e0eb8_area
+        fu_state_5e3898_area
+    }
+}
+
+# Display name: Xoeken
+# LoK strategic region ID: 122
+fu_sr_4fac68_region = {
+    areas = {
+        fu_state_5d6737_area
+        fu_state_5d9117_area
+        fu_state_5dbaf7_area
+        fu_state_5de4d8_area
+    }
+}
+
+# Display name: Ezikatzen Sea
+# LoK strategic region ID: 123
+fu_sr_505397_region = {
+    areas = {
+        fu_state_0e6517_area
+    }
+}
+
+# Display name: Zuspriland
+# LoK strategic region ID: 125
+fu_sr_51a1f5_region = {
+    areas = {
+        fu_state_03f1c4_area
+        fu_state_0565e8_area
+        fu_state_4c3a3b_area
+        fu_state_4c8dfc_area
+        fu_state_656b24_area
+        fu_state_659504_area
+        fu_state_65bee4_area
+        fu_state_65e8c5_area
+        fu_state_6612a5_area
+        fu_state_663c85_area
+    }
+}
+
+# Display name: Pawldrin Island
+# LoK strategic region ID: 126
+fu_sr_524924_region = {
+    areas = {
+        fu_state_029e04_area
+        fu_state_02f683_area
+        fu_state_6cf170_area
+        fu_state_6d1b50_area
+        fu_state_6d4531_area
+    }
+}
+
+# Display name: Sudflutstadt
+# LoK strategic region ID: 129
+fu_sr_543eb1_region = {
+    areas = {
+        fu_state_17e1e6_area
+        fu_state_61a7fe_area
+        fu_state_61d1de_area
+        fu_state_61fbbe_area
+    }
+}
+
+# Display name: Himezulte
+# LoK strategic region ID: 130
+fu_sr_54e5e0_region = {
+    areas = {
+        fu_state_23fcba_area
+        fu_state_60acbc_area
+        fu_state_60d69c_area
+        fu_state_617e1e_area
+    }
+}
+
+# Display name: Nitros
+# LoK strategic region ID: 131
+fu_sr_558d0f_region = {
+    areas = {
+        fu_state_517644_area
+        fu_state_521dc5_area
+        fu_state_6320e0_area
+        fu_state_644602_area
+        fu_state_fb6b77_area
+        fu_state_fb9557_area
+    }
+}
+
+# Display name: Valaros
+# LoK strategic region ID: 132
+fu_sr_56343e_region = {
+    areas = {
+        fu_state_1afd8b_area
+        fu_state_639e81_area
+        fu_state_63c861_area
+    }
+}
+
+# Display name: Western Flusiocean
+# LoK strategic region ID: 264
+fu_sr_5634bd_region = {
+    areas = {
+        fu_state_1651b4_area
+        fu_state_1666a4_area
+    }
+}
+
+# Display name: Myriad
+# LoK strategic region ID: 133
+fu_sr_56db6d_region = {
+    areas = {
+        fu_state_634ac0_area
+        fu_state_6374a1_area
+        fu_state_641c22_area
+        fu_state_f62f6f_area
+        fu_state_f6594f_area
+        fu_state_f6832f_area
+    }
+}
+
+# Display name: Eastern Sun Sea
+# LoK strategic region ID: 138
+fu_sr_5a1f58_region = {
+    areas = {
+        fu_state_1d47cf_area
+    }
+}
+
+# Display name: Kastran Approaches
+# LoK strategic region ID: 139
+fu_sr_5ac687_region = {
+    areas = {
+        fu_state_923d2d_area
+        fu_state_92670d_area
+        fu_state_9290ed_area
+    }
+}
+
+# Display name: Krokatzia
+# LoK strategic region ID: 140
+fu_sr_5b6db6_region = {
+    areas = {
+        fu_state_11aa9c_area
+        fu_state_11d47c_area
+        fu_state_13237f_area
+        fu_state_5c1835_area
+        fu_state_646fe2_area
+        fu_state_6499c3_area
+        fu_state_64c3a3_area
+        fu_state_f4e06c_area
+        fu_state_f50a4d_area
+        fu_state_f5342d_area
+    }
+}
+
+# Display name: Rustalia
+# LoK strategic region ID: 141
+fu_sr_5c14e5_region = {
+    areas = {
+        fu_state_180bc6_area
+        fu_state_1eea92_area
+        fu_state_232b59_area
+        fu_state_39409c_area
+        fu_state_be67b4_area
+        fu_state_be9194_area
+        fu_state_bebb75_area
+        fu_state_bee555_area
+        fu_state_bf0f35_area
+        fu_state_bf3915_area
+    }
+}
+
+# Display name: Fleäderreich
+# LoK strategic region ID: 142
+fu_sr_5cbc14_region = {
+    areas = {
+        fu_state_0d69d5_area
+        fu_state_0fe2b8_area
+        fu_state_105b9a_area
+        fu_state_d5cbfa_area
+        fu_state_d5f5da_area
+    }
+}
+
+# Display name: Central Sun Sea
+# LoK strategic region ID: 143
+fu_sr_5d6343_region = {
+    areas = {
+        fu_state_218896_area
+    }
+}
+
+# Display name: Triplet Bay
+# LoK strategic region ID: 144
+fu_sr_5e0a72_region = {
+    areas = {
+        fu_state_24a43b_area
+        fu_state_28bb22_area
+        fu_state_3624f7_area
+    }
+}
+
+# Display name: Mer De Qualie
+# LoK strategic region ID: 145
+fu_sr_5eb1a1_region = {
+    areas = {
+        fu_state_247a5b_area
+    }
+}
+
+# Display name: Solstia
+# LoK strategic region ID: 146
+fu_sr_5f58d0_region = {
+    areas = {
+        fu_state_4215eb_area
+        fu_state_9c379d_area
+        fu_state_9c8b5d_area
+        fu_state_9d08fe_area
+        fu_state_9d869f_area
+    }
+}
+
+# Display name: Highest Sea
+# LoK strategic region ID: 147
+fu_sr_5fffff_region = {
+    areas = {
+        fu_state_0d93b6_area
+    }
+}
+
+# Display name: Ejac
+# LoK strategic region ID: 298
+fu_sr_614edd_region = {
+    areas = {
+        fu_state_5647bc_area
+    }
+}
+
+# Display name: Katteneiland
+# LoK strategic region ID: 153
+fu_sr_63eb19_region = {
+    areas = {
+        fu_state_3d2da3_area
+        fu_state_3e7ca5_area
+        fu_state_404948_area
+        fu_state_42938b_area
+        fu_state_42bd6c_area
+        fu_state_42e74c_area
+        fu_state_86c9da_area
+        fu_state_87eefc_area
+        fu_state_8818dc_area
+        fu_state_8842bc_area
+        fu_state_886c9d_area
+        fu_state_89141e_area
+        fu_state_893dfe_area
+        fu_state_dd2866_area
+        fu_state_dd5246_area
+    }
+}
+
+# Display name: Paraneon
+# LoK strategic region ID: 106
+fu_sr_6560a6_region = {
+    areas = {
+        fu_state_993068_area
+    }
+}
+
+# Display name: Novaplatten Channel
+# LoK strategic region ID: 156
+fu_sr_65e0a6_region = {
+    areas = {
+        fu_state_407328_area
+    }
+}
+
+# Display name: Novhurst
+# LoK strategic region ID: 158
+fu_sr_672f04_region = {
+    areas = {
+        fu_state_35d137_area
+        fu_state_386f3b_area
+        fu_state_ddcfe7_area
+        fu_state_ddf9c7_area
+    }
+}
+
+# Display name: The Swamplands
+# LoK strategic region ID: 160
+fu_sr_687d62_region = {
+    areas = {
+        fu_state_39945d_area
+        fu_state_3ae35f_area
+        fu_state_3cd9e2_area
+        fu_state_3dff04_area
+        fu_state_3f4e06_area
+        fu_state_813a11_area
+        fu_state_8ff2e9_area
+        fu_state_901cc9_area
+        fu_state_9046a9_area
+    }
+}
+
+# Display name: Arivoejan Mountains
+# LoK strategic region ID: 161
+fu_sr_692491_region = {
+    areas = {
+        fu_state_35fb17_area
+        fu_state_36cc78_area
+        fu_state_374a19_area
+        fu_state_37f19a_area
+        fu_state_3cb002_area
+        fu_state_411aa9_area
+        fu_state_818dd2_area
+        fu_state_81e192_area
+        fu_state_8455b6_area
+        fu_state_90c44a_area
+        fu_state_91180b_area
+        fu_state_9141eb_area
+        fu_state_df72aa_area
+        fu_state_e01a2b_area
+    }
+}
+
+# Display name: Central Arivoejo
+# LoK strategic region ID: 162
+fu_sr_69cbc0_region = {
+    areas = {
+        fu_state_355396_area
+        fu_state_3b0d3f_area
+        fu_state_3e28e4_area
+        fu_state_40f0c9_area
+        fu_state_847f96_area
+        fu_state_84a977_area
+        fu_state_84d357_area
+        fu_state_916bcb_area
+        fu_state_df9c8a_area
+        fu_state_dfc66a_area
+        fu_state_dff04b_area
+    }
+}
+
+# Display name: Northern Ariveojan Oceans
+# LoK strategic region ID: 163
+fu_sr_6a72ef_region = {
+    areas = {
+        fu_state_82dcd4_area
+        fu_state_dbaf84_area
+    }
+}
+
+# Display name: Loutterian Peninsula
+# LoK strategic region ID: 164
+fu_sr_6b1a1e_region = {
+    areas = {
+        fu_state_3efa46_area
+        fu_state_3fa1c7_area
+        fu_state_401f67_area
+        fu_state_41ec0a_area
+        fu_state_423fcb_area
+        fu_state_8163f1_area
+        fu_state_dc0344_area
+        fu_state_dc2d24_area
+        fu_state_dc5705_area
+        fu_state_dc80e5_area
+        fu_state_dcaac5_area
+        fu_state_dcd4a5_area
+        fu_state_de23a8_area
+    }
+}
+
+# Display name: West Kapland
+# LoK strategic region ID: 165
+fu_sr_6bc14d_region = {
+    areas = {
+        fu_state_81b7b2_area
+        fu_state_820b72_area
+        fu_state_823553_area
+    }
+}
+
+# Display name: East Kapland
+# LoK strategic region ID: 166
+fu_sr_6c687c_region = {
+    areas = {
+        fu_state_2adb85_area
+        fu_state_825f33_area
+        fu_state_828913_area
+        fu_state_82b2f3_area
+        fu_state_8306b4_area
+        fu_state_833094_area
+    }
+}
+
+# Display name: Mewraine
+# LoK strategic region ID: 167
+fu_sr_6d0fab_region = {
+    areas = {
+        fu_state_279600_area
+        fu_state_27e9c0_area
+        fu_state_29b663_area
+    }
+}
+
+# Display name: Alpernya
+# LoK strategic region ID: 168
+fu_sr_6db6db_region = {
+    areas = {
+        fu_state_2c2a87_area
+        fu_state_2cfbe8_area
+        fu_state_2ec88b_area
+        fu_state_79dda5_area
+        fu_state_ffac3e_area
+    }
+}
+
+# Display name: Procione Heartlands
+# LoK strategic region ID: 169
+fu_sr_6e5e0a_region = {
+    areas = {
+        fu_state_328bb1_area
+        fu_state_8401f5_area
+        fu_state_842bd6_area
+        fu_state_84fd37_area
+        fu_state_852717_area
+        fu_state_8550f8_area
+        fu_state_857ad8_area
+        fu_state_e0eb8c_area
+        fu_state_e1156c_area
+        fu_state_e13f4d_area
+    }
+}
+
+# Display name: Arivoshian Ocean
+# LoK strategic region ID: 171
+fu_sr_6fac68_region = {
+    areas = {
+        fu_state_44364e_area
+    }
+}
+
+# Display name: Mercurian Trench
+# LoK strategic region ID: 236
+fu_sr_731782_region = {
+    areas = {
+        fu_state_071f4a_area
+    }
+}
+
+# Display name: Oervoud
+# LoK strategic region ID: 240
+fu_sr_758d4f_region = {
+    areas = {
+        fu_state_8e12c5_area
+    }
+}
+
+# Display name: Spri11
+# LoK strategic region ID: 371
+fu_sr_792491_region = {
+    areas = {
+        fu_state_620ecf_area
+    }
+}
+
+# Display name: Vasmar Channel
+# LoK strategic region ID: 192
+fu_sr_7d6343_region = {
+    areas = {
+        fu_state_9d5cbf_area
+    }
+}
+
+# Display name: Mercurian Panhandle
+# LoK strategic region ID: 388
+fu_sr_7e31a0_region = {
+    areas = {
+        fu_state_353fd5_area
+        fu_state_6916fa_area
+        fu_state_6a3c9c_area
+    }
+}
+
+# Display name: Mercurian Mountains
+# LoK strategic region ID: 387
+fu_sr_7e5e89_region = {
+    areas = {
+        fu_state_6a27ac_area
+    }
+}
+
+# Display name: Northern Enotita
+# LoK strategic region ID: 199
+fu_sr_81f58c_region = {
+    areas = {
+        fu_state_a1c766_area
+        fu_state_a1f146_area
+        fu_state_a21b26_area
+        fu_state_a24507_area
+        fu_state_a26ee7_area
+    }
+}
+
+# Display name: Amfibien
+# LoK strategic region ID: 200
+fu_sr_829cbb_region = {
+    areas = {
+        fu_state_112cfb_area
+        fu_state_13a11f_area
+        fu_state_aac694_area
+        fu_state_ab1a55_area
+        fu_state_d744dc_area
+        fu_state_f17107_area
+        fu_state_f19ae7_area
+        fu_state_f33daa_area
+        fu_state_f3678a_area
+        fu_state_f7fc12_area
+        fu_state_f825f2_area
+        fu_state_fc12f8_area
+        fu_state_fc3cd8_area
+    }
+}
+
+# Display name: Paradis Island
+# LoK strategic region ID: 201
+fu_sr_8343ea_region = {
+    areas = {
+        fu_state_416e6a_area
+    }
+}
+
+# Display name: Purrhelmshaven
+# LoK strategic region ID: 206
+fu_sr_8687d5_region = {
+    areas = {
+        fu_state_316690_area
+        fu_state_3678b8_area
+        fu_state_38991b_area
+        fu_state_3f2426_area
+        fu_state_47a5b4_area
+        fu_state_92e4ae_area
+        fu_state_930e8e_area
+        fu_state_93386e_area
+        fu_state_e0440b_area
+    }
+}
+
+# Display name: Western Sueno Del Sol
+# LoK strategic region ID: 207
+fu_sr_872f04_region = {
+    areas = {
+        fu_state_12521d_area
+        fu_state_96d1b4_area
+        fu_state_96fb94_area
+        fu_state_972575_area
+        fu_state_974f55_area
+    }
+}
+
+# Display name: Eastern Sueno Del Sol
+# LoK strategic region ID: 208
+fu_sr_87d633_region = {
+    areas = {
+        fu_state_4ffd61_area
+        fu_state_96a7d4_area
+        fu_state_977935_area
+    }
+}
+
+# Display name: Belkansavet
+# LoK strategic region ID: 209
+fu_sr_887d62_region = {
+    areas = {
+        fu_state_95ac92_area
+        fu_state_95d672_area
+        fu_state_960053_area
+        fu_state_962a33_area
+    }
+}
+
+# Display name: Bojnika
+# LoK strategic region ID: 210
+fu_sr_892491_region = {
+    areas = {
+        fu_state_149c61_area
+        fu_state_965413_area
+        fu_state_967df3_area
+    }
+}
+
+# Display name: Frusia
+# LoK strategic region ID: 211
+fu_sr_89cbc0_region = {
+    areas = {
+        fu_state_2962a3_area
+        fu_state_b8068a_area
+    }
+}
+
+# Display name: Chesedgrad
+# LoK strategic region ID: 212
+fu_sr_8a72ef_region = {
+    areas = {
+        fu_state_50a4e2_area
+        fu_state_9409cf_area
+        fu_state_9433b0_area
+        fu_state_989e57_area
+    }
+}
+
+# Display name: Oredsk
+# LoK strategic region ID: 213
+fu_sr_8b1a1e_region = {
+    areas = {
+        fu_state_188967_area
+        fu_state_505122_area
+        fu_state_938c2f_area
+        fu_state_93b60f_area
+        fu_state_93dfef_area
+    }
+}
+
+# Display name: Nerva
+# LoK strategic region ID: 214
+fu_sr_8bc14d_region = {
+    areas = {
+        fu_state_1d1def_area
+        fu_state_945d90_area
+        fu_state_98c837_area
+    }
+}
+
+# Display name: Crngrad
+# LoK strategic region ID: 215
+fu_sr_8c687c_region = {
+    areas = {
+        fu_state_1e6cf1_area
+        fu_state_948770_area
+        fu_state_94b151_area
+        fu_state_94db31_area
+        fu_state_950511_area
+        fu_state_9820b6_area
+    }
+}
+
+# Display name: Dhalmaciti
+# LoK strategic region ID: 216
+fu_sr_8d0fab_region = {
+    areas = {
+        fu_state_195ac9_area
+        fu_state_50f8a3_area
+        fu_state_984a96_area
+        fu_state_987477_area
+        fu_state_98f217_area
+        fu_state_991bf8_area
+    }
+}
+
+# Display name: Ballatonne Basin
+# LoK strategic region ID: 217
+fu_sr_8db6da_region = {
+    areas = {
+        fu_state_200fb3_area
+        fu_state_97a315_area
+        fu_state_97ccf6_area
+        fu_state_97f6d6_area
+    }
+}
+
+# Display name: Hivelands
+# LoK strategic region ID: 218
+fu_sr_8e5e09_region = {
+    areas = {
+        fu_state_bb4c0f_area
+        fu_state_bb75ef_area
+        fu_state_bb9fd0_area
+    }
+}
+
+# Display name: Propania
+# LoK strategic region ID: 219
+fu_sr_8f0538_region = {
+    areas = {
+        fu_state_1ad3ab_area
+        fu_state_9558d2_area
+        fu_state_9582b2_area
+    }
+}
+
+# Display name: Alraxia
+# LoK strategic region ID: 220
+fu_sr_8fac67_region = {
+    areas = {
+        fu_state_952ef1_area
+        fu_state_9945d8_area
+        fu_state_996fb8_area
+        fu_state_999999_area
+    }
+}
+
+# Display name: Kirtikia
+# LoK strategic region ID: 221
+fu_sr_905396_region = {
+    areas = {
+        fu_state_1d71af_area
+        fu_state_99c379_area
+        fu_state_9abeba_area
+    }
+}
+
+# Display name: Nord-Droogien
+# LoK strategic region ID: 222
+fu_sr_90fac5_region = {
+    areas = {
+        fu_state_230178_area
+        fu_state_99ed59_area
+        fu_state_9a1739_area
+    }
+}
+
+# Display name: Ejac
+# LoK strategic region ID: 298
+fu_sr_9175cc_region = {
+    areas = {
+        fu_state_826a9a_area
+    }
+}
+
+# Display name: Central Oshian Peaks
+# LoK strategic region ID: 223
+fu_sr_91a1f4_region = {
+    areas = {
+        fu_state_220637_area
+        fu_state_9a94da_area
+        fu_state_9ae89b_area
+        fu_state_9b127b_area
+    }
+}
+
+# Display name: Novoshian Shores
+# LoK strategic region ID: 224
+fu_sr_924924_region = {
+    areas = {
+        fu_state_2a5de4_area
+        fu_state_9b3c5b_area
+        fu_state_9b663b_area
+        fu_state_9b901c_area
+    }
+}
+
+# Display name: New Novarat
+# LoK strategic region ID: 225
+fu_sr_92f053_region = {
+    areas = {
+        fu_state_283d81_area
+        fu_state_9a411a_area
+        fu_state_9a6afa_area
+    }
+}
+
+# Display name: Duuhr Sea
+# LoK strategic region ID: 235
+fu_sr_997829_region = {
+    areas = {
+        fu_state_09ff2e_area
+        fu_state_0cf0f3_area
+        fu_state_0d1615_area
+    }
+}
+
+# Display name: Mercurian Trench
+# LoK strategic region ID: 236
+fu_sr_9a1f58_region = {
+    areas = {
+        fu_state_09290e_area
+    }
+}
+
+# Display name: Tiefland
+# LoK strategic region ID: 237
+fu_sr_9ac687_region = {
+    areas = {
+        fu_state_14c641_area
+        fu_state_16bcc4_area
+        fu_state_171085_area
+        fu_state_178e26_area
+        fu_state_17b806_area
+    }
+}
+
+# Display name: Groundhogistan
+# LoK strategic region ID: 238
+fu_sr_9b6db6_region = {
+    areas = {
+        fu_state_1f9213_area
+        fu_state_1fbbf3_area
+        fu_state_bc9b11_area
+        fu_state_bcc4f2_area
+        fu_state_bceed2_area
+    }
+}
+
+# Display name: Northern Altaria
+# LoK strategic region ID: 239
+fu_sr_9c14e5_region = {
+    areas = {
+        fu_state_19d869_area
+        fu_state_1a2c2a_area
+        fu_state_1dc570_area
+        fu_state_1e4311_area
+        fu_state_93624e_area
+        fu_state_bc4751_area
+        fu_state_bc7131_area
+    }
+}
+
+# Display name: Oervoud
+# LoK strategic region ID: 240
+fu_sr_9cbc14_region = {
+    areas = {
+        fu_state_24507a_area
+        fu_state_26c49e_area
+        fu_state_bc1d70_area
+        fu_state_bd18b2_area
+        fu_state_bdea13_area
+    }
+}
+
+# Display name: Hyphaeicia
+# LoK strategic region ID: 241
+fu_sr_9d6343_region = {
+    areas = {
+        fu_state_206374_area
+        fu_state_2283d7_area
+        fu_state_24269a_area
+        fu_state_bd4292_area
+        fu_state_be3dd4_area
+    }
+}
+
+# Display name: Altarimen Roams
+# LoK strategic region ID: 242
+fu_sr_9e0a72_region = {
+    areas = {
+        fu_state_0053c0_area
+        fu_state_1e96d1_area
+        fu_state_aa1f13_area
+        fu_state_bd6c73_area
+        fu_state_bd9653_area
+        fu_state_bdc033_area
+        fu_state_be13f4_area
+    }
+}
+
+# Display name: Kotijgrad
+# LoK strategic region ID: 243
+fu_sr_9eb1a1_region = {
+    areas = {
+        fu_state_2670de_area
+        fu_state_b663c7_area
+        fu_state_b68da7_area
+        fu_state_b6b788_area
+        fu_state_b6e168_area
+    }
+}
+
+# Display name: Fishtun
+# LoK strategic region ID: 244
+fu_sr_9f58d0_region = {
+    areas = {
+        fu_state_1930e8_area
+        fu_state_52ef26_area
+        fu_state_b41983_area
+        fu_state_b4eae5_area
+    }
+}
+
+# Display name: Droogia
+# LoK strategic region ID: 245
+fu_sr_9fffff_region = {
+    areas = {
+        fu_state_5247a5_area
+        fu_state_b5bc46_area
+        fu_state_b5e626_area
+    }
+}
+
+# Display name: Parelia
+# LoK strategic region ID: 246
+fu_sr_a0a72e_region = {
+    areas = {
+        fu_state_19ae89_area
+        fu_state_b7b2c9_area
+        fu_state_b8306a_area
+        fu_state_b85a4a_area
+    }
+}
+
+# Display name: Formicidea
+# LoK strategic region ID: 247
+fu_sr_a14e5d_region = {
+    areas = {
+        fu_state_1d9b8f_area
+        fu_state_3d03c2_area
+        fu_state_bb222f_area
+        fu_state_c6bf62_area
+    }
+}
+
+# Display name: Antophilia
+# LoK strategic region ID: 248
+fu_sr_a1f58c_region = {
+    areas = {
+        fu_state_1c22ad_area
+        fu_state_b9d32d_area
+        fu_state_b9fd0d_area
+    }
+}
+
+# Display name: Variitia
+# LoK strategic region ID: 249
+fu_sr_a29cbb_region = {
+    areas = {
+        fu_state_2b0565_area
+        fu_state_b901cb_area
+        fu_state_baf84f_area
+    }
+}
+
+# Display name: Frusian Savannah
+# LoK strategic region ID: 250
+fu_sr_a343ea_region = {
+    areas = {
+        fu_state_51ca04_area
+        fu_state_b8d7eb_area
+    }
+}
+
+# Display name: Paluush Strait
+# LoK strategic region ID: 251
+fu_sr_a3eb19_region = {
+    areas = {
+        fu_state_448a0f_area
+    }
+}
+
+# Display name: Kerak
+# LoK strategic region ID: 252
+fu_sr_a49248_region = {
+    areas = {
+        fu_state_453190_area
+        fu_state_d5a21a_area
+        fu_state_d61fbb_area
+        fu_state_d6499b_area
+    }
+}
+
+# Display name: Mercurian Gulf
+# LoK strategic region ID: 256
+fu_sr_a72f04_region = {
+    areas = {
+        fu_state_0857ad_area
+        fu_state_0bf5b1_area
+    }
+}
+
+# Display name: Polarian Islands
+# LoK strategic region ID: 262
+fu_sr_ab1a1e_region = {
+    areas = {
+        fu_state_007da0_area
+        fu_state_d6737b_area
+    }
+}
+
+# Display name: Lux-Flupanian Waters
+# LoK strategic region ID: 263
+fu_sr_abc14d_region = {
+    areas = {
+        fu_state_01fb41_area
+    }
+}
+
+# Display name: Lake Mercurr
+# LoK strategic region ID: 267
+fu_sr_ae5e09_region = {
+    areas = {
+        fu_state_d2da35_area
+        fu_state_d30416_area
+        fu_state_d3d577_area
+    }
+}
+
+# Display name: Ibrumore
+# LoK strategic region ID: 280
+fu_sr_b6db6d_region = {
+    areas = {
+        fu_state_0440c6_area
+        fu_state_07864c_area
+        fu_state_aeb39b_area
+        fu_state_aedd7b_area
+    }
+}
+
+# Display name: Bramble Basins
+# LoK strategic region ID: 285
+fu_sr_ba1f58_region = {
+    areas = {
+        fu_state_1ec0b1_area
+        fu_state_a04e83_area
+        fu_state_a0cc24_area
+        fu_state_a0f604_area
+        fu_state_a11fe5_area
+        fu_state_a19d85_area
+    }
+}
+
+# Display name: The Dish
+# LoK strategic region ID: 286
+fu_sr_bac687_region = {
+    areas = {
+        fu_state_18b348_area
+        fu_state_a024a3_area
+        fu_state_a07864_area
+        fu_state_a0a244_area
+        fu_state_a149c5_area
+        fu_state_a173a5_area
+    }
+}
+
+# Display name: Stone Kolechia
+# LoK strategic region ID: 287
+fu_sr_bb6db6_region = {
+    areas = {
+        fu_state_a298c7_area
+        fu_state_a2c2a7_area
+        fu_state_a2ec88_area
+        fu_state_a31668_area
+        fu_state_a34048_area
+        fu_state_a4656a_area
+        fu_state_a48f4a_area
+    }
+}
+
+# Display name: Red Kolechia
+# LoK strategic region ID: 288
+fu_sr_bc14e5_region = {
+    areas = {
+        fu_state_09a6af_area
+        fu_state_1a560a_area
+        fu_state_a36a28_area
+        fu_state_a39409_area
+        fu_state_a4e30b_area
+    }
+}
+
+# Display name: Sand Kolechia
+# LoK strategic region ID: 289
+fu_sr_bcbc14_region = {
+    areas = {
+        fu_state_08818d_area
+        fu_state_a3bde9_area
+        fu_state_a3e7c9_area
+        fu_state_a411a9_area
+        fu_state_a43b8a_area
+        fu_state_a4b92b_area
+    }
+}
+
+# Display name: Great Grove Ridge
+# LoK strategic region ID: 386
+fu_sr_bd0feb_region = {
+    areas = {
+        fu_state_9f3e52_area
+    }
+}
+
+# Display name: Mercurian Panhandle
+# LoK strategic region ID: 388
+fu_sr_bd23c2_region = {
+    areas = {
+        fu_state_6a5e64_area
+    }
+}
+
+# Display name: Sanguine Hills
+# LoK strategic region ID: 290
+fu_sr_bd6343_region = {
+    areas = {
+        fu_state_176445_area
+        fu_state_a50ceb_area
+        fu_state_a536cb_area
+        fu_state_a560ac_area
+        fu_state_a58a8c_area
+    }
+}
+
+# Display name: Mercurian Mountains
+# LoK strategic region ID: 387
+fu_sr_bd8d4e_region = {
+    areas = {
+        fu_state_9f1f69_area
+        fu_state_a03a82_area
+    }
+}
+
+# Display name: Great Lake
+# LoK strategic region ID: 291
+fu_sr_be0a72_region = {
+    areas = {
+        fu_state_3c8622_area
+        fu_state_83ae35_area
+        fu_state_9db07f_area
+        fu_state_a6320d_area
+        fu_state_a65bed_area
+    }
+}
+
+# Display name: Mercurian Panhandle
+# LoK strategic region ID: 388
+fu_sr_be4a71_region = {
+    areas = {
+        fu_state_009d88_area
+        fu_state_9e22f8_area
+        fu_state_a05a6b_area
+    }
+}
+
+# Display name: Solakean Shores
+# LoK strategic region ID: 292
+fu_sr_beb1a1_region = {
+    areas = {
+        fu_state_3b6100_area
+        fu_state_a5b46c_area
+        fu_state_a5de4c_area
+        fu_state_a685cd_area
+        fu_state_a6afae_area
+    }
+}
+
+# Display name: Drakodria
+# LoK strategic region ID: 293
+fu_sr_bf58d0_region = {
+    areas = {
+        fu_state_43112c_area
+        fu_state_440c6e_area
+        fu_state_a7feb0_area
+        fu_state_a85270_area
+        fu_state_a87c51_area
+        fu_state_a8a631_area
+    }
+}
+
+# Display name: Broukburn-Meagas
+# LoK strategic region ID: 294
+fu_sr_bfffff_region = {
+    areas = {
+        fu_state_0178e2_area
+        fu_state_01a2c2_area
+        fu_state_4c641b_area
+        fu_state_ae5fda_area
+        fu_state_ae89ba_area
+        fu_state_af5b1c_area
+        fu_state_afd8bd_area
+        fu_state_b0565d_area
+    }
+}
+
+# Display name: Central Laurandar
+# LoK strategic region ID: 295
+fu_sr_c0a72e_region = {
+    areas = {
+        fu_state_02c7e4_area
+        fu_state_4cb7dc_area
+        fu_state_b0029d_area
+        fu_state_b02c7d_area
+    }
+}
+
+# Display name: Tatsania
+# LoK strategic region ID: 296
+fu_sr_c14e5d_region = {
+    areas = {
+        fu_state_05b9a9_area
+        fu_state_af313c_area
+        fu_state_afaedc_area
+    }
+}
+
+# Display name: Dredshire
+# LoK strategic region ID: 297
+fu_sr_c1f58c_region = {
+    areas = {
+        fu_state_0a4e30_area
+        fu_state_ae35fa_area
+        fu_state_af075b_area
+        fu_state_af84fc_area
+    }
+}
+
+# Display name: Ejac
+# LoK strategic region ID: 298
+fu_sr_c29cbb_region = {
+    areas = {
+        fu_state_0cc713_area
+        fu_state_0e1156_area
+        fu_state_ad6499_area
+        fu_state_ad8e79_area
+    }
+}
+
+# Display name: Arkbus
+# LoK strategic region ID: 299
+fu_sr_c343ea_region = {
+    areas = {
+        fu_state_0afa70_area
+        fu_state_adb859_area
+        fu_state_ae0c1a_area
+    }
+}
+
+# Display name: Lebril
+# LoK strategic region ID: 300
+fu_sr_c3eb19_region = {
+    areas = {
+        fu_state_0a7810_area
+        fu_state_ad3ab8_area
+        fu_state_ade239_area
+    }
+}
+
+# Display name: Southern Enotita
+# LoK strategic region ID: 301
+fu_sr_c49248_region = {
+    areas = {
+        fu_state_0b9d32_area
+        fu_state_a94db2_area
+        fu_state_a97792_area
+        fu_state_d69d5b_area
+        fu_state_d71afc_area
+        fu_state_d7989d_area
+        fu_state_f7a851_area
+        fu_state_f7d231_area
+        fu_state_fb4197_area
+    }
+}
+
+# Display name: Crabby Shores
+# LoK strategic region ID: 302
+fu_sr_c53977_region = {
+    areas = {
+        fu_state_0c6e94_area
+        fu_state_0f3678_area
+        fu_state_f700d0_area
+        fu_state_f72ab0_area
+        fu_state_faedd6_area
+        fu_state_fb17b7_area
+    }
+}
+
+# Display name: Amphisk
+# LoK strategic region ID: 303
+fu_sr_c5e0a6_region = {
+    areas = {
+        fu_state_14f021_area
+        fu_state_210af5_area
+        fu_state_63f242_area
+        fu_state_aa9cb4_area
+        fu_state_aaf075_area
+        fu_state_f1c4c7_area
+        fu_state_f1eea8_area
+    }
+}
+
+# Display name: Kronkstaat
+# LoK strategic region ID: 304
+fu_sr_c687d5_region = {
+    areas = {
+        fu_state_1b276c_area
+        fu_state_20b735_area
+        fu_state_aa72d4_area
+        fu_state_f48cac_area
+        fu_state_f4b68c_area
+        fu_state_f9c8b4_area
+        fu_state_f9f295_area
+        fu_state_fa1c75_area
+        fu_state_fc66b9_area
+        fu_state_fc9099_area
+    }
+}
+
+# Display name: Kronk5
+# LoK strategic region ID: 305
+fu_sr_c72f04_region = {
+    areas = {
+        fu_state_abebb6_area
+        fu_state_f8f753_area
+        fu_state_f92133_area
+        fu_state_f94b14_area
+        fu_state_f974f4_area
+        fu_state_f99ed4_area
+    }
+}
+
+# Display name: Genevekt
+# LoK strategic region ID: 306
+fu_sr_c7d633_region = {
+    areas = {
+        fu_state_ac1596_area
+        fu_state_ac3f77_area
+        fu_state_f3916a_area
+        fu_state_f3bb4b_area
+        fu_state_fd0e3a_area
+        fu_state_fd381a_area
+    }
+}
+
+# Display name: Yinjatzbereich
+# LoK strategic region ID: 307
+fu_sr_c87d62_region = {
+    areas = {
+        fu_state_a9cb53_area
+        fu_state_f2c009_area
+        fu_state_f2e9e9_area
+        fu_state_f313ca_area
+        fu_state_fac3f6_area
+    }
+}
+
+# Display name: Aleksis
+# LoK strategic region ID: 308
+fu_sr_c92491_region = {
+    areas = {
+        fu_state_a9f533_area
+        fu_state_aa48f4_area
+        fu_state_ab97f6_area
+        fu_state_f21888_area
+        fu_state_f24268_area
+        fu_state_fbbf38_area
+        fu_state_fbe918_area
+        fu_state_fce459_area
+    }
+}
+
+# Display name: Greater Bundengrad
+# LoK strategic region ID: 309
+fu_sr_c9cbc0_region = {
+    areas = {
+        fu_state_185f87_area
+        fu_state_d6c73c_area
+        fu_state_f84fd2_area
+        fu_state_f879b2_area
+        fu_state_fcba79_area
+        fu_state_fd61fa_area
+        fu_state_fd8bdb_area
+    }
+}
+
+# Display name: Hydronien
+# LoK strategic region ID: 310
+fu_sr_ca72ef_region = {
+    areas = {
+        fu_state_ab4435_area
+        fu_state_f26c48_area
+        fu_state_f29629_area
+        fu_state_f6ad0f_area
+        fu_state_f6d6f0_area
+    }
+}
+
+# Display name: Zikua
+# LoK strategic region ID: 311
+fu_sr_cb1a1e_region = {
+    areas = {
+        fu_state_2134d5_area
+        fu_state_ab6e15_area
+        fu_state_f8a393_area
+        fu_state_f8cd73_area
+        fu_state_fa4655_area
+        fu_state_fa7035_area
+        fu_state_fa9a16_area
+        fu_state_fdb5bb_area
+    }
+}
+
+# Display name: Erokt
+# LoK strategic region ID: 312
+fu_sr_cbc14d_region = {
+    areas = {
+        fu_state_235539_area
+        fu_state_ac9337_area
+        fu_state_f438eb_area
+        fu_state_f462cc_area
+    }
+}
+
+# Display name: Sudgrad
+# LoK strategic region ID: 313
+fu_sr_cc687c_region = {
+    areas = {
+        fu_state_2521dc_area
+        fu_state_2b8306_area
+        fu_state_d8bdbf_area
+        fu_state_d9117f_area
+    }
+}
+
+# Display name: Kronmea
+# LoK strategic region ID: 314
+fu_sr_cd0fab_region = {
+    areas = {
+        fu_state_18dd28_area
+        fu_state_1cca2e_area
+        fu_state_24f7fb_area
+        fu_state_ac6957_area
+        fu_state_d8e79f_area
+        fu_state_f3e52b_area
+        fu_state_f40f0b_area
+    }
+}
+
+# Display name: Droogia2
+# LoK strategic region ID: 315
+fu_sr_cdb6da_region = {
+    areas = {
+        fu_state_25f33d_area
+        fu_state_b59266_area
+        fu_state_b639e7_area
+        fu_state_dcfe86_area
+    }
+}
+
+# Display name: Greater Saru
+# LoK strategic region ID: 316
+fu_sr_ce5e09_region = {
+    areas = {
+        fu_state_52c546_area
+        fu_state_b3efa3_area
+        fu_state_b44364_area
+        fu_state_b46d44_area
+    }
+}
+
+# Display name: Droogia4
+# LoK strategic region ID: 317
+fu_sr_cf0538_region = {
+    areas = {
+        fu_state_2a0a24_area
+        fu_state_529b65_area
+        fu_state_bace6e_area
+    }
+}
+
+# Display name: Macaquian Far South
+# LoK strategic region ID: 318
+fu_sr_cfac67_region = {
+    areas = {
+        fu_state_b514c5_area
+        fu_state_b53ea5_area
+        fu_state_b56886_area
+    }
+}
+
+# Display name: Droogia3
+# LoK strategic region ID: 319
+fu_sr_d05396_region = {
+    areas = {
+        fu_state_527185_area
+        fu_state_b61007_area
+    }
+}
+
+# Display name: Kotijgrad2
+# LoK strategic region ID: 320
+fu_sr_d0fac5_region = {
+    areas = {
+        fu_state_259f7c_area
+        fu_state_b70b48_area
+        fu_state_b73528_area
+    }
+}
+
+# Display name: Frusia2
+# LoK strategic region ID: 321
+fu_sr_d1a1f4_region = {
+    areas = {
+        fu_state_1b514c_area
+        fu_state_b75f09_area
+        fu_state_b788e9_area
+    }
+}
+
+# Display name: Variitia2
+# LoK strategic region ID: 322
+fu_sr_d24923_region = {
+    areas = {
+        fu_state_208d54_area
+        fu_state_b7dcaa_area
+        fu_state_b92bac_area
+    }
+}
+
+# Display name: Parelia2
+# LoK strategic region ID: 323
+fu_sr_d2f052_region = {
+    areas = {
+        fu_state_1e1930_area
+        fu_state_290ee2_area
+        fu_state_b8842b_area
+        fu_state_b8ae0b_area
+    }
+}
+
+# Display name: Formicidea2
+# LoK strategic region ID: 324
+fu_sr_d39781_region = {
+    areas = {
+        fu_state_1fe5d3_area
+        fu_state_b9558c_area
+        fu_state_b97f6c_area
+        fu_state_ba50ce_area
+    }
+}
+
+# Display name: Formicidea3
+# LoK strategic region ID: 325
+fu_sr_d43eb0_region = {
+    areas = {
+        fu_state_32b592_area
+        fu_state_ba26ed_area
+        fu_state_baa48e_area
+    }
+}
+
+# Display name: Formicidea4
+# LoK strategic region ID: 326
+fu_sr_d4e5df_region = {
+    areas = {
+        fu_state_1aa9cb_area
+        fu_state_b9a94c_area
+        fu_state_ba7aae_area
+    }
+}
+
+# Display name: Hivelands2
+# LoK strategic region ID: 327
+fu_sr_d58d0e_region = {
+    areas = {
+        fu_state_3b371f_area
+        fu_state_bbc9b0_area
+        fu_state_bbf390_area
+    }
+}
+
+# Display name: Macaquian Ridge
+# LoK strategic region ID: 328
+fu_sr_d6343d_region = {
+    areas = {
+        fu_state_31e430_area
+        fu_state_b49724_area
+        fu_state_b4c105_area
+    }
+}
+
+# Display name: Puffiland1
+# LoK strategic region ID: 329
+fu_sr_d6db6c_region = {
+    areas = {
+        fu_state_50cec2_area
+        fu_state_514c63_area
+        fu_state_cb0029_area
+    }
+}
+
+# Display name: Puffiland2
+# LoK strategic region ID: 330
+fu_sr_d7829b_region = {
+    areas = {
+        fu_state_b0aa1e_area
+        fu_state_b0d3fe_area
+        fu_state_cb2a09_area
+        fu_state_dade22_area
+        fu_state_db5bc3_area
+    }
+}
+
+# Display name: Puffiland3
+# LoK strategic region ID: 331
+fu_sr_d829ca_region = {
+    areas = {
+        fu_state_b0fdde_area
+        fu_state_b1519f_area
+        fu_state_dbd964_area
+    }
+}
+
+# Display name: Puffiland4
+# LoK strategic region ID: 332
+fu_sr_d8d0f9_region = {
+    areas = {
+        fu_state_b0803e_area
+        fu_state_b17b7f_area
+        fu_state_d98f20_area
+        fu_state_d9b900_area
+        fu_state_da36a1_area
+        fu_state_db31e3_area
+    }
+}
+
+# Display name: Puffiland5
+# LoK strategic region ID: 333
+fu_sr_d97828_region = {
+    areas = {
+        fu_state_51a024_area
+        fu_state_b39be3_area
+        fu_state_b3c5c3_area
+    }
+}
+
+# Display name: Puffiland6
+# LoK strategic region ID: 334
+fu_sr_da1f57_region = {
+    areas = {
+        fu_state_b127bf_area
+        fu_state_b1a55f_area
+        fu_state_d9e2e1_area
+        fu_state_da0cc1_area
+        fu_state_da6082_area
+    }
+}
+
+# Display name: Puffiland7
+# LoK strategic region ID: 335
+fu_sr_dac686_region = {
+    areas = {
+        fu_state_b1f920_area
+        fu_state_b31e42_area
+        fu_state_b34822_area
+        fu_state_da8a62_area
+        fu_state_dab442_area
+    }
+}
+
+# Display name: Puffiland8
+# LoK strategic region ID: 336
+fu_sr_db6db6_region = {
+    areas = {
+        fu_state_166904_area
+        fu_state_1a7fea_area
+        fu_state_b1cf40_area
+        fu_state_b2f462_area
+        fu_state_d96540_area
+        fu_state_db0803_area
+    }
+}
+
+# Display name: Puffiland9
+# LoK strategic region ID: 337
+fu_sr_dc14e5_region = {
+    areas = {
+        fu_state_147281_area
+        fu_state_b22300_area
+        fu_state_b24ce1_area
+        fu_state_db85a3_area
+    }
+}
+
+# Display name: Puffiland10
+# LoK strategic region ID: 338
+fu_sr_dcbc14_region = {
+    areas = {
+        fu_state_1ca04e_area
+        fu_state_b2ca81_area
+        fu_state_b37202_area
+    }
+}
+
+# Display name: Puffiland11
+# LoK strategic region ID: 339
+fu_sr_dd6343_region = {
+    areas = {
+        fu_state_b276c1_area
+        fu_state_b2a0a1_area
+    }
+}
+
+# Display name: Puffiland12
+# LoK strategic region ID: 340
+fu_sr_de0a72_region = {
+    areas = {
+        fu_state_12a5de_area
+        fu_state_ca2ec7_area
+        fu_state_cad648_area
+    }
+}
+
+# Display name: Neuvoria
+# LoK strategic region ID: 341
+fu_sr_deb1a1_region = {
+    areas = {
+        fu_state_08ab6e_area
+        fu_state_10857a_area
+        fu_state_cb53e9_area
+    }
+}
+
+# Display name: Nordenland
+# LoK strategic region ID: 342
+fu_sr_df58d0_region = {
+    areas = {
+        fu_state_a9a172_area
+        fu_state_c6e942_area
+        fu_state_cbd18a_area
+        fu_state_cca2eb_area
+        fu_state_f75490_area
+        fu_state_f77e71_area
+    }
+}
+
+# Display name: Midflusionea2
+# LoK strategic region ID: 343
+fu_sr_dfffff_region = {
+    areas = {
+        fu_state_0d3ff5_area
+        fu_state_ca8288_area
+        fu_state_cb7dc9_area
+    }
+}
+
+# Display name: Midflusionea3
+# LoK strategic region ID: 344
+fu_sr_e0a72e_region = {
+    areas = {
+        fu_state_0c44b3_area
+        fu_state_0c9874_area
+        fu_state_cba7aa_area
+        fu_state_cccccc_area
+    }
+}
+
+# Display name: Midflusionea4
+# LoK strategic region ID: 345
+fu_sr_e14e5d_region = {
+    areas = {
+        fu_state_c86224_area
+        fu_state_cd208c_area
+    }
+}
+
+# Display name: Midflusionea5
+# LoK strategic region ID: 346
+fu_sr_e1f58c_region = {
+    areas = {
+        fu_state_1180bc_area
+        fu_state_c71322_area
+        fu_state_c73d02_area
+        fu_state_c766e3_area
+    }
+}
+
+# Display name: Midflusionea6
+# LoK strategic region ID: 347
+fu_sr_e29cbb_region = {
+    areas = {
+        fu_state_0f0c98_area
+        fu_state_cec34f_area
+        fu_state_cf170f_area
+    }
+}
+
+# Display name: Midflusionea7
+# LoK strategic region ID: 348
+fu_sr_e343ea_region = {
+    areas = {
+        fu_state_c790c3_area
+        fu_state_c83844_area
+        fu_state_cbfb6a_area
+    }
+}
+
+# Display name: Midflusionea8
+# LoK strategic region ID: 349
+fu_sr_e3eb19_region = {
+    areas = {
+        fu_state_ccf6ac_area
+        fu_state_ce6f8e_area
+        fu_state_cf40ef_area
+    }
+}
+
+# Display name: Midflusionea9
+# LoK strategic region ID: 350
+fu_sr_e49248_region = {
+    areas = {
+        fu_state_cc254a_area
+        fu_state_cc4f2b_area
+        fu_state_cc790b_area
+    }
+}
+
+# Display name: Midflusionea10
+# LoK strategic region ID: 351
+fu_sr_e53977_region = {
+    areas = {
+        fu_state_c7baa3_area
+        fu_state_c98746_area
+        fu_state_cd4a6c_area
+        fu_state_cd9e2d_area
+    }
+}
+
+# Display name: Midflusionea11
+# LoK strategic region ID: 352
+fu_sr_e5e0a6_region = {
+    areas = {
+        fu_state_15eb63_area
+        fu_state_caac68_area
+    }
+}
+
+# Display name: Midflusionea12
+# LoK strategic region ID: 353
+fu_sr_e687d5_region = {
+    areas = {
+        fu_state_237f19_area
+        fu_state_c7e484_area
+        fu_state_c80e64_area
+        fu_state_c88c05_area
+        fu_state_d93b60_area
+        fu_state_df48c9_area
+    }
+}
+
+# Display name: Midflusionea13
+# LoK strategic region ID: 354
+fu_sr_e72f04_region = {
+    areas = {
+        fu_state_c8b5e5_area
+        fu_state_c8dfc5_area
+        fu_state_c93386_area
+    }
+}
+
+# Display name: Midflusionea14
+# LoK strategic region ID: 355
+fu_sr_e7d633_region = {
+    areas = {
+        fu_state_1bceed_area
+        fu_state_c909a5_area
+        fu_state_ce1bce_area
+    }
+}
+
+# Display name: Midflusionea15
+# LoK strategic region ID: 356
+fu_sr_e87d62_region = {
+    areas = {
+        fu_state_1f1472_area
+        fu_state_c95d66_area
+        fu_state_cdf1ed_area
+    }
+}
+
+# Display name: Midflusionea16
+# LoK strategic region ID: 357
+fu_sr_e92491_region = {
+    areas = {
+        fu_state_c9b126_area
+        fu_state_c9db07_area
+    }
+}
+
+# Display name: Midflusionea17
+# LoK strategic region ID: 358
+fu_sr_e9cbc0_region = {
+    areas = {
+        fu_state_151a02_area
+        fu_state_cd744d_area
+        fu_state_cdc80d_area
+    }
+}
+
+# Display name: Midflusionea18
+# LoK strategic region ID: 359
+fu_sr_ea72ef_region = {
+    areas = {
+        fu_state_1543e2_area
+        fu_state_ca58a8_area
+    }
+}
+
+# Display name: Midflusionea19
+# LoK strategic region ID: 360
+fu_sr_eb1a1e_region = {
+    areas = {
+        fu_state_2259f7_area
+        fu_state_ca04e7_area
+        fu_state_ce45ae_area
+        fu_state_cf6ad0_area
+    }
+}
+
+# Display name: Ballens
+# LoK strategic region ID: 361
+fu_sr_ebc14d_region = {
+    areas = {
+        fu_state_bf62f6_area
+        fu_state_c05e37_area
+    }
+}
+
+# Display name: Eulyssian Interfluve
+# LoK strategic region ID: 362
+fu_sr_ec687c_region = {
+    areas = {
+        fu_state_bf8cd6_area
+        fu_state_c69581_area
+    }
+}
+
+# Display name: Spri3
+# LoK strategic region ID: 363
+fu_sr_ed0fab_region = {
+    areas = {
+        fu_state_c08818_area
+        fu_state_c15979_area
+        fu_state_df1ee9_area
+    }
+}
+
+# Display name: Spri4
+# LoK strategic region ID: 364
+fu_sr_edb6da_region = {
+    areas = {
+        fu_state_c12f99_area
+        fu_state_c2a87b_area
+        fu_state_decb29_area
+        fu_state_def509_area
+    }
+}
+
+# Display name: Spri5
+# LoK strategic region ID: 365
+fu_sr_ee5e09_region = {
+    areas = {
+        fu_state_39be3d_area
+        fu_state_c2d25b_area
+        fu_state_c49efe_area
+    }
+}
+
+# Display name: Eulysses Plain
+# LoK strategic region ID: 366
+fu_sr_ef0538_region = {
+    areas = {
+        fu_state_1bf8cd_area
+        fu_state_bfb6b6_area
+        fu_state_c00a77_area
+    }
+}
+
+# Display name: Spri7
+# LoK strategic region ID: 367
+fu_sr_efac67_region = {
+    areas = {
+        fu_state_bfe097_area
+        fu_state_c03457_area
+        fu_state_c3f77d_area
+    }
+}
+
+# Display name: Spri8
+# LoK strategic region ID: 368
+fu_sr_f05396_region = {
+    areas = {
+        fu_state_c0b1f8_area
+        fu_state_c0dbd8_area
+        fu_state_c105b8_area
+    }
+}
+
+# Display name: Spri9
+# LoK strategic region ID: 369
+fu_sr_f0fac5_region = {
+    areas = {
+        fu_state_2e74cb_area
+        fu_state_2f1c4c_area
+        fu_state_c44b3e_area
+    }
+}
+
+# Display name: Spri10
+# LoK strategic region ID: 370
+fu_sr_f1a1f4_region = {
+    areas = {
+        fu_state_c4751e_area
+        fu_state_c4f2bf_area
+        fu_state_c5467f_area
+    }
+}
+
+# Display name: Spri11
+# LoK strategic region ID: 371
+fu_sr_f24923_region = {
+    areas = {
+        fu_state_c4c8df_area
+        fu_state_c51c9f_area
+        fu_state_c59a40_area
+    }
+}
+
+# Display name: Spri12
+# LoK strategic region ID: 372
+fu_sr_f2f052_region = {
+    areas = {
+        fu_state_c18359_area
+        fu_state_c1ad39_area
+    }
+}
+
+# Display name: Flusionea1
+# LoK strategic region ID: 373
+fu_sr_f39781_region = {
+    areas = {
+        fu_state_3112cf_area
+        fu_state_34ac15_area
+        fu_state_c57060_area
+        fu_state_c5c420_area
+    }
+}
+
+# Display name: Flusionea2
+# LoK strategic region ID: 374
+fu_sr_f43eb0_region = {
+    areas = {
+        fu_state_c1d71a_area
+        fu_state_c200fa_area
+        fu_state_c2fc3c_area
+    }
+}
+
+# Display name: Flusionea3
+# LoK strategic region ID: 375
+fu_sr_f4e5df_region = {
+    areas = {
+        fu_state_2f700c_area
+        fu_state_c3261c_area
+        fu_state_c34ffc_area
+    }
+}
+
+# Display name: Flusionea4
+# LoK strategic region ID: 376
+fu_sr_f58d0e_region = {
+    areas = {
+        fu_state_2646fe_area
+        fu_state_c4215d_area
+    }
+}
+
+# Display name: Flusionea5
+# LoK strategic region ID: 377
+fu_sr_f6343d_region = {
+    areas = {
+        fu_state_c379dc_area
+        fu_state_c3cd9d_area
+    }
+}
+
+# Display name: Flusionea6
+# LoK strategic region ID: 378
+fu_sr_f6db6c_region = {
+    areas = {
+        fu_state_223017_area
+        fu_state_286761_area
+        fu_state_c22ada_area
+    }
+}
+
+# Display name: Flusionea7
+# LoK strategic region ID: 379
+fu_sr_f7829b_region = {
+    areas = {
+        fu_state_c27e9b_area
+        fu_state_c3a3bd_area
+    }
+}
+
+# Display name: Flusionea8
+# LoK strategic region ID: 380
+fu_sr_f829ca_region = {
+    areas = {
+        fu_state_c254bb_area
+        fu_state_c5ee00_area
+        fu_state_de7768_area
+    }
+}
+
+# Display name: Flusionea9
+# LoK strategic region ID: 381
+fu_sr_f8d0f9_region = {
+    areas = {
+        fu_state_ace6f8_area
+        fu_state_ad10d8_area
+        fu_state_c641c1_area
+        fu_state_de4d88_area
+        fu_state_e0c1ac_area
+    }
+}
+
+# Display name: Flusionea10
+# LoK strategic region ID: 382
+fu_sr_f97828_region = {
+    areas = {
+        fu_state_22adb8_area
+        fu_state_c617e1_area
+        fu_state_c66ba1_area
+    }
+}
+
+# Display name: Flusionea11
+# LoK strategic region ID: 383
+fu_sr_fa1f57_region = {
+    areas = {
+        fu_state_2938c2_area
+        fu_state_51f3e4_area
+        fu_state_acbd18_area
+    }
+}
+
+# Display name: X.I.R.
+# LoK strategic region ID: 384
+fu_sr_fac686_region = {
+    areas = {
+        fu_state_2f99ed_area
+        fu_state_9195ac_area
+        fu_state_91bf8c_area
+        fu_state_91e96c_area
+        fu_state_92134c_area
+    }
+}
+
+# Display name: Naturopolis Marshes
+# LoK strategic region ID: 385
+fu_sr_fb6db5_region = {
+    areas = {
+        fu_state_d357d6_area
+        fu_state_d4fa99_area
+        fu_state_d52479_area
+        fu_state_d6f11c_area
+    }
+}
+
+# Display name: Great Grove Ridge
+# LoK strategic region ID: 386
+fu_sr_fc14e4_region = {
+    areas = {
+        fu_state_00a781_area
+        fu_state_d45318_area
+        fu_state_d4d0b8_area
+    }
+}
+
+# Display name: Mercurian Mountains
+# LoK strategic region ID: 387
+fu_sr_fcbc13_region = {
+    areas = {
+        fu_state_d3ab97_area
+        fu_state_d42937_area
+        fu_state_d47cf8_area
+        fu_state_d54e59_area
+    }
+}
+
+# Display name: Mercurian Panhandle
+# LoK strategic region ID: 388
+fu_sr_fd6342_region = {
+    areas = {
+        fu_state_00d161_area
+        fu_state_d32df6_area
+        fu_state_d5783a_area
+    }
+}
+
+# Display name: Zachodterenia
+# LoK strategic region ID: 389
+fu_sr_fe0a71_region = {
+    areas = {
+        fu_state_d381b6_area
+        fu_state_d3ff57_area
+        fu_state_d4a6d8_area
+    }
+}
+
+# Display name: Novmere
+# LoK strategic region ID: 390
+fu_sr_feb1a0_region = {
+    areas = {
+        fu_state_340494_area
+        fu_state_dd7c27_area
+        fu_state_dda607_area
+    }
+}
+
+# Display name: Snowdonia
+# LoK strategic region ID: 282
+fu_sr_ff0000_region = {
+    areas = {
+        fu_state_ff0000_area
+    }
+}
+
+# Display name: Balreska
+# LoK strategic region ID: 391
+fu_sr_ff58cf_region = {
+    areas = {
+        fu_state_330952_area
+        fu_state_3386f3_area
+        fu_state_90ee2a_area
+    }
+}
+
+# Display name: Southern Arivoejan Ocean
+# LoK strategic region ID: 157
+fu_water_0000ff_region = {
+    areas = {
+        fu_lake_0000ff_area
+        fu_sea_0000ff_area
+    }
+}
+
+# Display name: Gruyettburg
+# LoK strategic region ID: 42
+fu_water_1b6db6_region = {
+    areas = {
+        fu_lake_1b6db6_area
+    }
+}
+
+# Display name: Mediamus
+# LoK strategic region ID: 49
+fu_water_1fffff_region = {
+    areas = {
+        fu_lake_1fffff_area
+    }
+}
+
+# Display name: Goatlandia
+# LoK strategic region ID: 57
+fu_water_253978_region = {
+    areas = {
+        fu_lake_253978_area
+    }
+}
+
+# Display name: Lesser Lake
+# LoK strategic region ID: 58
+fu_water_25e0a7_region = {
+    areas = {
+        fu_lake_25e0a7_area
+    }
+}
+
+# Display name: Mercurian Gulf
+# LoK strategic region ID: 256
+fu_water_2a0cc0_region = {
+    areas = {
+        fu_sea_2a0cc0_area
+    }
+}
+
+# Display name: Poitouamie
+# LoK strategic region ID: 71
+fu_water_2e5e0a_region = {
+    areas = {
+        fu_lake_2e5e0a_area
+    }
+}
+
+# Display name: Massif Roqual
+# LoK strategic region ID: 72
+fu_water_2f0539_region = {
+    areas = {
+        fu_lake_2f0539_area
+    }
+}
+
+# Display name: Alkroan Peninsula
+# LoK strategic region ID: 76
+fu_water_31a1f5_region = {
+    areas = {
+        fu_lake_31a1f5_area
+    }
+}
+
+# Display name: Hushed Forest
+# LoK strategic region ID: 86
+fu_water_3829cb_region = {
+    areas = {
+        fu_lake_3829cb_area
+    }
+}
+
+# Display name: Lakeside City
+# LoK strategic region ID: 91
+fu_water_3b6db6_region = {
+    areas = {
+        fu_lake_3b6db6_area
+    }
+}
+
+# Display name: Datlof
+# LoK strategic region ID: 99
+fu_water_40a72e_region = {
+    areas = {
+        fu_lake_40a72e_area
+    }
+}
+
+# Display name: Nekaston
+# LoK strategic region ID: 103
+fu_water_4343ea_region = {
+    areas = {
+        fu_lake_4343ea_area
+    }
+}
+
+# Display name: Teryakr
+# LoK strategic region ID: 104
+fu_water_43eb19_region = {
+    areas = {
+        fu_lake_43eb19_area
+    }
+}
+
+# Display name: Nacru
+# LoK strategic region ID: 116
+fu_water_4bc14e_region = {
+    areas = {
+        fu_lake_4bc14e_area
+    }
+}
+
+# Display name: Brekarya
+# LoK strategic region ID: 119
+fu_water_4db6db_region = {
+    areas = {
+        fu_lake_4db6db_area
+    }
+}
+
+# Display name: Sudflutstadt
+# LoK strategic region ID: 129
+fu_water_543eb1_region = {
+    areas = {
+        fu_lake_543eb1_area
+    }
+}
+
+# Display name: Nitros
+# LoK strategic region ID: 131
+fu_water_558d0f_region = {
+    areas = {
+        fu_lake_558d0f_area
+    }
+}
+
+# Display name: Valaros
+# LoK strategic region ID: 132
+fu_water_56343e_region = {
+    areas = {
+        fu_lake_56343e_area
+    }
+}
+
+# Display name: Myriad
+# LoK strategic region ID: 133
+fu_water_56db6d_region = {
+    areas = {
+        fu_lake_56db6d_area
+    }
+}
+
+# Display name: Katteneiland
+# LoK strategic region ID: 153
+fu_water_63eb19_region = {
+    areas = {
+        fu_lake_63eb19_area
+    }
+}
+
+# Display name: Arivoejan Mountains
+# LoK strategic region ID: 161
+fu_water_692491_region = {
+    areas = {
+        fu_lake_692491_area
+    }
+}
+
+# Display name: Loutterian Peninsula
+# LoK strategic region ID: 164
+fu_water_6b1a1e_region = {
+    areas = {
+        fu_lake_6b1a1e_area
+    }
+}
+
+# Display name: East Kapland
+# LoK strategic region ID: 166
+fu_water_6c687c_region = {
+    areas = {
+        fu_lake_6c687c_area
+    }
+}
+
+# Display name: Purrhelmshaven
+# LoK strategic region ID: 206
+fu_water_8687d5_region = {
+    areas = {
+        fu_lake_8687d5_area
+    }
+}
+
+# Display name: Western Sueno Del Sol
+# LoK strategic region ID: 207
+fu_water_872f04_region = {
+    areas = {
+        fu_lake_872f04_area
+    }
+}
+
+# Display name: Belkansavet
+# LoK strategic region ID: 209
+fu_water_887d62_region = {
+    areas = {
+        fu_lake_887d62_area
+    }
+}
+
+# Display name: Oredsk
+# LoK strategic region ID: 213
+fu_water_8b1a1e_region = {
+    areas = {
+        fu_lake_8b1a1e_area
+    }
+}
+
+# Display name: Nerva
+# LoK strategic region ID: 214
+fu_water_8bc14d_region = {
+    areas = {
+        fu_lake_8bc14d_area
+    }
+}
+
+# Display name: Ballatonne Basin
+# LoK strategic region ID: 217
+fu_water_8db6da_region = {
+    areas = {
+        fu_lake_8db6da_area
+    }
+}
+
+# Display name: Kirtikia
+# LoK strategic region ID: 221
+fu_water_905396_region = {
+    areas = {
+        fu_lake_905396_area
+    }
+}
+
+# Display name: Groundhogistan
+# LoK strategic region ID: 238
+fu_water_9b6db6_region = {
+    areas = {
+        fu_lake_9b6db6_area
+    }
+}
+
+# Display name: Northern Altaria
+# LoK strategic region ID: 239
+fu_water_9c14e5_region = {
+    areas = {
+        fu_lake_9c14e5_area
+    }
+}
+
+# Display name: Oervoud
+# LoK strategic region ID: 240
+fu_water_9cbc14_region = {
+    areas = {
+        fu_lake_9cbc14_area
+    }
+}
+
+# Display name: Droogia
+# LoK strategic region ID: 245
+fu_water_9fffff_region = {
+    areas = {
+        fu_lake_9fffff_area
+    }
+}
+
+# Display name: Formicidea
+# LoK strategic region ID: 247
+fu_water_a14e5d_region = {
+    areas = {
+        fu_lake_a14e5d_area
+    }
+}
+
+# Display name: Antophilia
+# LoK strategic region ID: 248
+fu_water_a1f58c_region = {
+    areas = {
+        fu_lake_a1f58c_area
+    }
+}
+
+# Display name: Variitia
+# LoK strategic region ID: 249
+fu_water_a29cbb_region = {
+    areas = {
+        fu_lake_a29cbb_area
+    }
+}
+
+# Display name: Lake Mercurr
+# LoK strategic region ID: 267
+fu_water_ae5e09_region = {
+    areas = {
+        fu_lake_ae5e09_area
+    }
+}
+
+# Display name: The Dish
+# LoK strategic region ID: 286
+fu_water_bac687_region = {
+    areas = {
+        fu_lake_bac687_area
+    }
+}
+
+# Display name: Red Kolechia
+# LoK strategic region ID: 288
+fu_water_bc14e5_region = {
+    areas = {
+        fu_lake_bc14e5_area
+    }
+}
+
+# Display name: Broukburn-Meagas
+# LoK strategic region ID: 294
+fu_water_bfffff_region = {
+    areas = {
+        fu_lake_bfffff_area
+    }
+}
+
+# Display name: Central Laurandar
+# LoK strategic region ID: 295
+fu_water_c0a72e_region = {
+    areas = {
+        fu_lake_c0a72e_area
+    }
+}
+
+# Display name: Dredshire
+# LoK strategic region ID: 297
+fu_water_c1f58c_region = {
+    areas = {
+        fu_lake_c1f58c_area
+    }
+}
+
+# Display name: Kronkstaat
+# LoK strategic region ID: 304
+fu_water_c687d5_region = {
+    areas = {
+        fu_lake_c687d5_area
+    }
+}
+
+# Display name: Kronk5
+# LoK strategic region ID: 305
+fu_water_c72f04_region = {
+    areas = {
+        fu_lake_c72f04_area
+    }
+}
+
+# Display name: Yinjatzbereich
+# LoK strategic region ID: 307
+fu_water_c87d62_region = {
+    areas = {
+        fu_lake_c87d62_area
+    }
+}
+
+# Display name: Greater Bundengrad
+# LoK strategic region ID: 309
+fu_water_c9cbc0_region = {
+    areas = {
+        fu_lake_c9cbc0_area
+    }
+}
+
+# Display name: Hydronien
+# LoK strategic region ID: 310
+fu_water_ca72ef_region = {
+    areas = {
+        fu_lake_ca72ef_area
+    }
+}
+
+# Display name: Zikua
+# LoK strategic region ID: 311
+fu_water_cb1a1e_region = {
+    areas = {
+        fu_lake_cb1a1e_area
+    }
+}
+
+# Display name: Erokt
+# LoK strategic region ID: 312
+fu_water_cbc14d_region = {
+    areas = {
+        fu_lake_cbc14d_area
+    }
+}
+
+# Display name: Droogia4
+# LoK strategic region ID: 317
+fu_water_cf0538_region = {
+    areas = {
+        fu_lake_cf0538_area
+    }
+}
+
+# Display name: Variitia2
+# LoK strategic region ID: 322
+fu_water_d24923_region = {
+    areas = {
+        fu_lake_d24923_area
+    }
+}
+
+# Display name: Formicidea2
+# LoK strategic region ID: 324
+fu_water_d39781_region = {
+    areas = {
+        fu_lake_d39781_area
+    }
+}
+
+# Display name: Formicidea3
+# LoK strategic region ID: 325
+fu_water_d43eb0_region = {
+    areas = {
+        fu_lake_d43eb0_area
+    }
+}
+
+# Display name: Formicidea4
+# LoK strategic region ID: 326
+fu_water_d4e5df_region = {
+    areas = {
+        fu_lake_d4e5df_area
+    }
+}
+
+# Display name: Midflusionea5
+# LoK strategic region ID: 346
+fu_water_e1f58c_region = {
+    areas = {
+        fu_lake_e1f58c_area
+    }
+}
+
+# Display name: Midflusionea8
+# LoK strategic region ID: 349
+fu_water_e3eb19_region = {
+    areas = {
+        fu_lake_e3eb19_area
+    }
+}
+
+# Display name: Midflusionea10
+# LoK strategic region ID: 351
+fu_water_e53977_region = {
+    areas = {
+        fu_lake_e53977_area
+    }
+}
+
+# Display name: Midflusionea12
+# LoK strategic region ID: 353
+fu_water_e687d5_region = {
+    areas = {
+        fu_lake_e687d5_area
+    }
+}
+
+# Display name: Midflusionea13
+# LoK strategic region ID: 354
+fu_water_e72f04_region = {
+    areas = {
+        fu_lake_e72f04_area
+    }
+}
+
+# Display name: Midflusionea15
+# LoK strategic region ID: 356
+fu_water_e87d62_region = {
+    areas = {
+        fu_lake_e87d62_area
+    }
+}
+
+# Display name: Midflusionea17
+# LoK strategic region ID: 358
+fu_water_e9cbc0_region = {
+    areas = {
+        fu_lake_e9cbc0_area
+    }
+}
+
+# Display name: Midflusionea18
+# LoK strategic region ID: 359
+fu_water_ea72ef_region = {
+    areas = {
+        fu_lake_ea72ef_area
+    }
+}
+
+# Display name: Midflusionea19
+# LoK strategic region ID: 360
+fu_water_eb1a1e_region = {
+    areas = {
+        fu_lake_eb1a1e_area
+    }
+}
+
+# Display name: Spri5
+# LoK strategic region ID: 365
+fu_water_ee5e09_region = {
+    areas = {
+        fu_lake_ee5e09_area
+    }
+}
+
+# Display name: Spri8
+# LoK strategic region ID: 368
+fu_water_f05396_region = {
+    areas = {
+        fu_lake_f05396_area
+    }
+}
+
+# Display name: Spri9
+# LoK strategic region ID: 369
+fu_water_f0fac5_region = {
+    areas = {
+        fu_lake_f0fac5_area
+    }
+}
+
+# Display name: Spri10
+# LoK strategic region ID: 370
+fu_water_f1a1f4_region = {
+    areas = {
+        fu_lake_f1a1f4_area
+    }
+}
+
+# Display name: Spri11
+# LoK strategic region ID: 371
+fu_water_f24923_region = {
+    areas = {
+        fu_lake_f24923_area
+    }
+}
+
+# Display name: Spri12
+# LoK strategic region ID: 372
+fu_water_f2f052_region = {
+    areas = {
+        fu_lake_f2f052_area
+    }
+}
+
+# Display name: Flusionea2
+# LoK strategic region ID: 374
+fu_water_f43eb0_region = {
+    areas = {
+        fu_lake_f43eb0_area
+    }
+}
+
+# Display name: Flusionea5
+# LoK strategic region ID: 377
+fu_water_f6343d_region = {
+    areas = {
+        fu_lake_f6343d_area
+    }
+}
+
+# Display name: Flusionea7
+# LoK strategic region ID: 379
+fu_water_f7829b_region = {
+    areas = {
+        fu_lake_f7829b_area
+    }
+}
+
+# Display name: Flusionea8
+# LoK strategic region ID: 380
+fu_water_f829ca_region = {
+    areas = {
+        fu_lake_f829ca_area
+    }
+}
+
+# Display name: Flusionea9
+# LoK strategic region ID: 381
+fu_water_f8d0f9_region = {
+    areas = {
+        fu_lake_f8d0f9_area
+    }
+}
+
+# Display name: Flusionea10
+# LoK strategic region ID: 382
+fu_water_f97828_region = {
+    areas = {
+        fu_lake_f97828_area
+    }
+}
+
+# Display name: Flusionea11
+# LoK strategic region ID: 383
+fu_water_fa1f57_region = {
+    areas = {
+        fu_lake_fa1f57_area
+    }
+}
+
+# Display name: Foxsnot
+# LoK strategic region ID: 181
+fu_water_ff0000_region = {
+    areas = {
+        fu_lake_ff0000_area
+    }
+}

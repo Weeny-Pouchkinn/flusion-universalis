@@ -1,0 +1,10 @@
+# Generated bootstrap province 2803
+# Display name: Velthart
+# LoK city name: LoK city localisation from source province 7259
+# Area: Velthordshire | Region: The Swamplands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

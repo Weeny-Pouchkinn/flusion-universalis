@@ -1,0 +1,10 @@
+# Generated bootstrap province 1279
+# Display name: Kaiseritz
+# LoK city name: LoK city localisation from source province 14292
+# Area: Lionsbach | Region: Gruyettburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

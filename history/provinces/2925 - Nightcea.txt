@@ -1,0 +1,10 @@
+# Generated bootstrap province 2925
+# Display name: Nightcea
+# LoK city name: LoK city localisation from source province 16426
+# Area: Novoshia | Region: New Novarat
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

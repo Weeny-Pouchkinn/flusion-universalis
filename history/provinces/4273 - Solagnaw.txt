@@ -1,0 +1,10 @@
+# Generated bootstrap province 4273
+# Display name: Solagnaw
+# LoK city name: LoK city localisation from source province 13790
+# Area: Solagnaw | Region: Solagnaw
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

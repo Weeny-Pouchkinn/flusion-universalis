@@ -1,0 +1,10 @@
+# Generated bootstrap province 2417
+# Display name: Far Eastern Northern Sobakiland
+# GENERATED NAME: Far Eastern Northern Sobakiland (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Wolfgorod | Region: Northern Sobakiland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

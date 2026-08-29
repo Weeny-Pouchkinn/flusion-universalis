@@ -1,0 +1,10 @@
+# Generated bootstrap province 1870
+# Display name: Zanthal
+# LoK city name: LoK city localisation from source province 7486
+# Area: Platishire | Region: Central Arivoejo
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

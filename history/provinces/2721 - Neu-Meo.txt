@@ -1,0 +1,10 @@
+# Generated bootstrap province 2721
+# Display name: Neu-Meo
+# LoK city name: LoK city localisation from source province 20068
+# Area: Neu-Meo | Region: Plaveta
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

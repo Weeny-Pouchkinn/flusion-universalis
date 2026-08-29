@@ -1,0 +1,10 @@
+# Generated bootstrap province 3522
+# Display name: Eastern Oervoud
+# GENERATED NAME: Eastern Oervoud (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far North Southern Stollparche 3 | Region: Oervoud
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

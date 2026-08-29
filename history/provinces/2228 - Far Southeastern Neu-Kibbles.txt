@@ -1,0 +1,10 @@
+# Generated bootstrap province 2228
+# Display name: Far Southeastern Neu-Kibbles
+# GENERATED NAME: Far Southeastern Neu-Kibbles (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Narnburg | Region: Neu-Kibbles
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3660
+# Display name: Burgeros
+# CITY NAME RELOCATED: LoK city 'Burgeros' from source province 18349 was relocated from generated province 3661 to avoid two city names on one province (same area, graph distance 1).
+# Area: Burgeros | Region: Spri5
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

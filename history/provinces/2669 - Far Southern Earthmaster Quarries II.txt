@@ -1,0 +1,10 @@
+# Generated bootstrap province 2669
+# Display name: Far Southern Earthmaster Quarries II
+# GENERATED NAME: Far Southern Earthmaster Quarries II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Rockenbun | Region: Earthmaster Quarries
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

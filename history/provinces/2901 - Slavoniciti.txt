@@ -1,0 +1,10 @@
+# Generated bootstrap province 2901
+# Display name: Slavoniciti
+# CITY NAME RELOCATED: LoK city 'Slavoniciti' from source province 2551 was relocated from generated province 2902 to avoid two city names on one province (same area, graph distance 1).
+# Area: Slavoniciti | Region: Dhalmaciti
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

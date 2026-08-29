@@ -1,0 +1,10 @@
+# Generated bootstrap province 1049
+# Display name: Pouchkinnton
+# CITY NAME RELOCATED: LoK city 'Pouchkinnton' from source province 9899 was relocated from generated province 1050 to avoid two city names on one province (same area, graph distance 2).
+# Area: Pouchkintton | Region: Pouchkinn Plains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

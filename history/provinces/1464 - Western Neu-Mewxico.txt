@@ -1,0 +1,10 @@
+# Generated bootstrap province 1464
+# Display name: Western Neu-Mewxico
+# GENERATED NAME: Western Neu-Mewxico (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Meowjave | Region: Neu-Mewxico
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

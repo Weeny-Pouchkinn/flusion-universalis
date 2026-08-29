@@ -1,0 +1,10 @@
+# Generated bootstrap province 1353
+# Display name: Vhi Gherizad
+# LoK city name: LoK city localisation from source province 15997
+# Area: Vhi Gherizad | Region: Red Kolechia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

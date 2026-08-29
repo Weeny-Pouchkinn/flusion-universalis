@@ -1,0 +1,10 @@
+# Generated bootstrap province 3771
+# Display name: Far Northern Puffiland12 II
+# GENERATED NAME: Far Northern Puffiland12 II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: East Northern Heart Mountains | Region: Puffiland12
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

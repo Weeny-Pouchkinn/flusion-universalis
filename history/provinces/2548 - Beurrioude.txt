@@ -1,0 +1,10 @@
+# Generated bootstrap province 2548
+# Display name: Beurrioude
+# LoK city name: LoK city localisation from source province 657
+# Area: Beurrioude | Region: Bruvergne
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

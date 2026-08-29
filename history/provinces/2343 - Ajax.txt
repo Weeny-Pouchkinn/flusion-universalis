@@ -1,0 +1,10 @@
+# Generated bootstrap province 2343
+# Display name: Ajax
+# LoK city name: LoK city localisation from source province 16040
+# Area: Ajax | Region: Myriad
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

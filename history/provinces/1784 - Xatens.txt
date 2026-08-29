@@ -1,0 +1,10 @@
+# Generated bootstrap province 1784
+# Display name: Xatens
+# LoK city name: LoK city localisation from source province 3616
+# Area: Izwivin | Region: Mount Izwae
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

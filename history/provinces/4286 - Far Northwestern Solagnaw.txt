@@ -1,0 +1,10 @@
+# Generated bootstrap province 4286
+# Display name: Far Northwestern Solagnaw
+# GENERATED NAME: Far Northwestern Solagnaw (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: West Kibblesben | Region: Solagnaw
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

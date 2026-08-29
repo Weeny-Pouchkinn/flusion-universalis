@@ -1,0 +1,10 @@
+# Generated bootstrap province 1331
+# Display name: Bramble Park
+# LoK city name: LoK city localisation from source province 4805
+# Area: Stollparche | Region: The Dish
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3990
+# Display name: Zachokran
+# LoK city name: LoK city localisation from source province 11962
+# Area: Zachokran | Region: Zachodterenia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,9153 @@
+# Generated bootstrap areas. Every province appears exactly once.
+# LoK state localisation is used where resolvable; GENERATED NAME comments mark fallbacks.
+random_new_world_area = { }
+
+# Display name: Eastern Southern Arivoejan Ocean Waters
+# GENERATED NAME: Eastern Southern Arivoejan Ocean Waters (LoK state ID 183 had no STATE_ localisation)
+fu_lake_0000ff_area = {
+    258 643 788 792 890 958
+}
+
+# Display name: Eastern Gruyettburg Waters
+# GENERATED NAME: Eastern Gruyettburg Waters (LoK state ID 549 had no STATE_ localisation)
+fu_lake_1b6db6_area = {
+    857
+}
+
+# Display name: Northern Mediamus Waters
+# GENERATED NAME: Northern Mediamus Waters (LoK state ID 569 had no STATE_ localisation)
+fu_lake_1fffff_area = {
+    850
+}
+
+# Display name: Northwestern Goatlandia Waters
+# GENERATED NAME: Northwestern Goatlandia Waters (LoK state ID 1432 had no STATE_ localisation)
+fu_lake_253978_area = {
+    930
+}
+
+# Display name: Northern Lesser Lake Waters
+# GENERATED NAME: Northern Lesser Lake Waters (LoK state ID 365 had no STATE_ localisation)
+fu_lake_25e0a7_area = {
+    947
+}
+
+# Display name: Northern Poitouamie Waters
+# GENERATED NAME: Northern Poitouamie Waters (LoK state ID 295 had no STATE_ localisation)
+fu_lake_2e5e0a_area = {
+    922
+}
+
+# Display name: Southern Massif Roqual Waters
+# GENERATED NAME: Southern Massif Roqual Waters (LoK state ID 316 had no STATE_ localisation)
+fu_lake_2f0539_area = {
+    842 845
+}
+
+# Display name: Western Alkroan Peninsula Waters
+# GENERATED NAME: Western Alkroan Peninsula Waters (LoK state ID 841 had no STATE_ localisation)
+fu_lake_31a1f5_area = {
+    946 949 950
+}
+
+# Display name: Northern Hushed Forest Waters
+# GENERATED NAME: Northern Hushed Forest Waters (LoK state ID 420 had no STATE_ localisation)
+fu_lake_3829cb_area = {
+    956
+}
+
+# Display name: Southern Lakeside City Waters
+# GENERATED NAME: Southern Lakeside City Waters (LoK state ID 359 had no STATE_ localisation)
+fu_lake_3b6db6_area = {
+    951
+}
+
+# Display name: Northern Datlof Waters
+# GENERATED NAME: Northern Datlof Waters (LoK state ID 818 had no STATE_ localisation)
+fu_lake_40a72e_area = {
+    944
+}
+
+# Display name: Northwestern Nekaston Waters
+# GENERATED NAME: Northwestern Nekaston Waters (LoK state ID 233 had no STATE_ localisation)
+fu_lake_4343ea_area = {
+    899 906
+}
+
+# Display name: Southeastern Teryakr Waters
+# GENERATED NAME: Southeastern Teryakr Waters (LoK state ID 847 had no STATE_ localisation)
+fu_lake_43eb19_area = {
+    928
+}
+
+# Display name: Western Nacru Waters
+# GENERATED NAME: Western Nacru Waters (LoK state ID 958 had no STATE_ localisation)
+fu_lake_4bc14e_area = {
+    953
+}
+
+# Display name: Western Brekarya Waters
+# GENERATED NAME: Western Brekarya Waters (LoK state ID 848 had no STATE_ localisation)
+fu_lake_4db6db_area = {
+    931
+}
+
+# Display name: Southern Sudflutstadt Waters
+# GENERATED NAME: Southern Sudflutstadt Waters (LoK state ID 597 had no STATE_ localisation)
+fu_lake_543eb1_area = {
+    861
+}
+
+# Display name: Southern Nitros Waters
+# GENERATED NAME: Southern Nitros Waters (LoK state ID 498 had no STATE_ localisation)
+fu_lake_558d0f_area = {
+    872 876 877 881 882
+}
+
+# Display name: Northern Valaros Waters
+# GENERATED NAME: Northern Valaros Waters (LoK state ID 610 had no STATE_ localisation)
+fu_lake_56343e_area = {
+    866
+}
+
+# Display name: Central Myriad Waters
+# GENERATED NAME: Central Myriad Waters (LoK state ID 607 had no STATE_ localisation)
+fu_lake_56db6d_area = {
+    889 895
+}
+
+# Display name: Central Katteneiland Waters
+# GENERATED NAME: Central Katteneiland Waters (LoK state ID 1352 had no STATE_ localisation)
+fu_lake_63eb19_area = {
+    839 954
+}
+
+# Display name: Northeastern Arivoejan Mountains Waters
+# GENERATED NAME: Northeastern Arivoejan Mountains Waters (LoK state ID 330 had no STATE_ localisation)
+fu_lake_692491_area = {
+    936 941
+}
+
+# Display name: Central Loutterian Peninsula Waters
+# GENERATED NAME: Central Loutterian Peninsula Waters (LoK state ID 1348 had no STATE_ localisation)
+fu_lake_6b1a1e_area = {
+    413 952
+}
+
+# Display name: Northeastern East Kapland Waters
+# GENERATED NAME: Northeastern East Kapland Waters (LoK state ID 799 had no STATE_ localisation)
+fu_lake_6c687c_area = {
+    846
+}
+
+# Display name: Central Purrhelmshaven Waters
+# GENERATED NAME: Central Purrhelmshaven Waters (LoK state ID 333 had no STATE_ localisation)
+fu_lake_8687d5_area = {
+    831 833 834 835 940
+}
+
+# Display name: Southern Western Sueno Del Sol Waters
+# GENERATED NAME: Southern Western Sueno Del Sol Waters (LoK state ID 924 had no STATE_ localisation)
+fu_lake_872f04_area = {
+    859
+}
+
+# Display name: Central Belkansavet Waters
+# GENERATED NAME: Central Belkansavet Waters (LoK state ID 918 had no STATE_ localisation)
+fu_lake_887d62_area = {
+    858
+}
+
+# Display name: Northwestern Oredsk Waters
+# GENERATED NAME: Northwestern Oredsk Waters (LoK state ID 150 had no STATE_ localisation)
+fu_lake_8b1a1e_area = {
+    862
+}
+
+# Display name: Southeastern Nerva Waters
+# GENERATED NAME: Southeastern Nerva Waters (LoK state ID 178 had no STATE_ localisation)
+fu_lake_8bc14d_area = {
+    864 869
+}
+
+# Display name: Far Southeastern Ballatonne Basin Waters
+# GENERATED NAME: Far Southeastern Ballatonne Basin Waters (LoK state ID 928 had no STATE_ localisation)
+fu_lake_8db6da_area = {
+    844 880
+}
+
+# Display name: Central Kirtikia Waters
+# GENERATED NAME: Central Kirtikia Waters (LoK state ID 946 had no STATE_ localisation)
+fu_lake_905396_area = {
+    888
+}
+
+# Display name: Central Groundhogistan Waters
+# GENERATED NAME: Central Groundhogistan Waters (LoK state ID 193 had no STATE_ localisation)
+fu_lake_9b6db6_area = {
+    875
+}
+
+# Display name: Central Northern Altaria Waters
+# GENERATED NAME: Central Northern Altaria Waters (LoK state ID 1151 had no STATE_ localisation)
+fu_lake_9c14e5_area = {
+    863 868
+}
+
+# Display name: Eastern Oervoud Waters
+# GENERATED NAME: Eastern Oervoud Waters (LoK state ID 1156 had no STATE_ localisation)
+fu_lake_9cbc14_area = {
+    897
+}
+
+# Display name: Southeastern Droogia Waters
+# GENERATED NAME: Southeastern Droogia Waters (LoK state ID 503 had no STATE_ localisation)
+fu_lake_9fffff_area = {
+    909
+}
+
+# Display name: Northern Formicidea Waters
+# GENERATED NAME: Northern Formicidea Waters (LoK state ID 1215 had no STATE_ localisation)
+fu_lake_a14e5d_area = {
+    948
+}
+
+# Display name: Northwestern Antophilia Waters
+# GENERATED NAME: Northwestern Antophilia Waters (LoK state ID 1137 had no STATE_ localisation)
+fu_lake_a1f58c_area = {
+    911 923
+}
+
+# Display name: Northwestern Variitia Waters
+# GENERATED NAME: Northwestern Variitia Waters (LoK state ID 263 had no STATE_ localisation)
+fu_lake_a29cbb_area = {
+    915 917 918 919 921
+}
+
+# Display name: Southern Lake Mercurr Waters
+# GENERATED NAME: Southern Lake Mercurr Waters (LoK state ID 1290 had no STATE_ localisation)
+fu_lake_ae5e09_area = {
+    852
+}
+
+# Display name: Central The Dish Waters
+# GENERATED NAME: Central The Dish Waters (LoK state ID 979 had no STATE_ localisation)
+fu_lake_bac687_area = {
+    867
+}
+
+# Display name: Central Red Kolechia Waters
+# GENERATED NAME: Central Red Kolechia Waters (LoK state ID 999 had no STATE_ localisation)
+fu_lake_bc14e5_area = {
+    873 878
+}
+
+# Display name: Central Broukburn-Meagas Waters
+# GENERATED NAME: Central Broukburn-Meagas Waters (LoK state ID 1072 had no STATE_ localisation)
+fu_lake_bfffff_area = {
+    848 849
+}
+
+# Display name: Southern Central Laurandar Waters
+# GENERATED NAME: Southern Central Laurandar Waters (LoK state ID 1077 had no STATE_ localisation)
+fu_lake_c0a72e_area = {
+    851
+}
+
+# Display name: Central Dredshire Waters
+# GENERATED NAME: Central Dredshire Waters (LoK state ID 1073 had no STATE_ localisation)
+fu_lake_c1f58c_area = {
+    853 854
+}
+
+# Display name: Central Kronkstaat Waters
+# GENERATED NAME: Central Kronkstaat Waters (LoK state ID 1527 had no STATE_ localisation)
+fu_lake_c687d5_area = {
+    871 874 879 884
+}
+
+# Display name: Northwestern Kronk5 Waters
+# GENERATED NAME: Northwestern Kronk5 Waters (LoK state ID 1524 had no STATE_ localisation)
+fu_lake_c72f04_area = {
+    883 920
+}
+
+# Display name: Northwestern Yinjatzbereich Waters
+# GENERATED NAME: Northwestern Yinjatzbereich Waters (LoK state ID 1486 had no STATE_ localisation)
+fu_lake_c87d62_area = {
+    856
+}
+
+# Display name: Southern Greater Bundengrad Waters
+# GENERATED NAME: Southern Greater Bundengrad Waters (LoK state ID 1550 had no STATE_ localisation)
+fu_lake_c9cbc0_area = {
+    860
+}
+
+# Display name: Western Hydronien Waters
+# GENERATED NAME: Western Hydronien Waters (LoK state ID 1508 had no STATE_ localisation)
+fu_lake_ca72ef_area = {
+    865
+}
+
+# Display name: Northeastern Zikua Waters
+# GENERATED NAME: Northeastern Zikua Waters (LoK state ID 1531 had no STATE_ localisation)
+fu_lake_cb1a1e_area = {
+    870
+}
+
+# Display name: Southern Erokt Waters
+# GENERATED NAME: Southern Erokt Waters (LoK state ID 1494 had no STATE_ localisation)
+fu_lake_cbc14d_area = {
+    891
+}
+
+# Display name: Eastern Droogia4 Waters
+# GENERATED NAME: Eastern Droogia4 Waters (LoK state ID 1142 had no STATE_ localisation)
+fu_lake_cf0538_area = {
+    926
+}
+
+# Display name: Central Variitia2 Waters
+# GENERATED NAME: Central Variitia2 Waters (LoK state ID 1132 had no STATE_ localisation)
+fu_lake_d24923_area = {
+    927 932
+}
+
+# Display name: Southwestern Formicidea2 Waters
+# GENERATED NAME: Southwestern Formicidea2 Waters (LoK state ID 1134 had no STATE_ localisation)
+fu_lake_d39781_area = {
+    934 945
+}
+
+# Display name: Western Formicidea3 Waters
+# GENERATED NAME: Western Formicidea3 Waters (LoK state ID 310 had no STATE_ localisation)
+fu_lake_d43eb0_area = {
+    939
+}
+
+# Display name: Central Formicidea4 Waters
+# GENERATED NAME: Central Formicidea4 Waters (LoK state ID 1140 had no STATE_ localisation)
+fu_lake_d4e5df_area = {
+    924
+}
+
+# Display name: Northeastern Midflusionea5 Waters
+# GENERATED NAME: Northeastern Midflusionea5 Waters (LoK state ID 1219 had no STATE_ localisation)
+fu_lake_e1f58c_area = {
+    855
+}
+
+# Display name: Southwestern Midflusionea8 Waters
+# GENERATED NAME: Southwestern Midflusionea8 Waters (LoK state ID 1253 had no STATE_ localisation)
+fu_lake_e3eb19_area = {
+    377
+}
+
+# Display name: Northeastern Midflusionea10 Waters
+# GENERATED NAME: Northeastern Midflusionea10 Waters (LoK state ID 1255 had no STATE_ localisation)
+fu_lake_e53977_area = {
+    328 379
+}
+
+# Display name: Western Midflusionea12 Waters
+# GENERATED NAME: Western Midflusionea12 Waters (LoK state ID 1223 had no STATE_ localisation)
+fu_lake_e687d5_area = {
+    288
+}
+
+# Display name: Northern Midflusionea13 Waters
+# GENERATED NAME: Northern Midflusionea13 Waters (LoK state ID 1230 had no STATE_ localisation)
+fu_lake_e72f04_area = {
+    380
+}
+
+# Display name: Northeastern Midflusionea15 Waters
+# GENERATED NAME: Northeastern Midflusionea15 Waters (LoK state ID 1231 had no STATE_ localisation)
+fu_lake_e87d62_area = {
+    321
+}
+
+# Display name: Southeastern Midflusionea17 Waters
+# GENERATED NAME: Southeastern Midflusionea17 Waters (LoK state ID 1258 had no STATE_ localisation)
+fu_lake_e9cbc0_area = {
+    376 378
+}
+
+# Display name: Western Midflusionea18 Waters
+# GENERATED NAME: Western Midflusionea18 Waters (LoK state ID 1237 had no STATE_ localisation)
+fu_lake_ea72ef_area = {
+    329
+}
+
+# Display name: Western Midflusionea19 Waters
+# GENERATED NAME: Western Midflusionea19 Waters (LoK state ID 1261 had no STATE_ localisation)
+fu_lake_eb1a1e_area = {
+    375
+}
+
+# Display name: Central Spri5 Waters
+# GENERATED NAME: Central Spri5 Waters (LoK state ID 1202 had no STATE_ localisation)
+fu_lake_ee5e09_area = {
+    937 942
+}
+
+# Display name: Far Southwestern Spri8 Waters
+# GENERATED NAME: Far Southwestern Spri8 Waters (LoK state ID 1180 had no STATE_ localisation)
+fu_lake_f05396_area = {
+    929 935
+}
+
+# Display name: Northern Spri9 Waters
+# GENERATED NAME: Northern Spri9 Waters (LoK state ID 288 had no STATE_ localisation)
+fu_lake_f0fac5_area = {
+    847
+}
+
+# Display name: Northern Spri10 Waters
+# GENERATED NAME: Northern Spri10 Waters (LoK state ID 1206 had no STATE_ localisation)
+fu_lake_f1a1f4_area = {
+    943
+}
+
+# Display name: Northeastern Spri11 Waters
+# GENERATED NAME: Northeastern Spri11 Waters (LoK state ID 1205 had no STATE_ localisation)
+fu_lake_f24923_area = {
+    938
+}
+
+# Display name: Southeastern Spri12 Waters
+# GENERATED NAME: Southeastern Spri12 Waters (LoK state ID 1184 had no STATE_ localisation)
+fu_lake_f2f052_area = {
+    933
+}
+
+# Display name: Southeastern Flusionea2 Waters
+# GENERATED NAME: Southeastern Flusionea2 Waters (LoK state ID 1192 had no STATE_ localisation)
+fu_lake_f43eb0_area = {
+    916 925
+}
+
+# Display name: Southern Flusionea5 Waters
+# GENERATED NAME: Southern Flusionea5 Waters (LoK state ID 1195 had no STATE_ localisation)
+fu_lake_f6343d_area = {
+    892
+}
+
+# Display name: Western Flusionea7 Waters
+# GENERATED NAME: Western Flusionea7 Waters (LoK state ID 1189 had no STATE_ localisation)
+fu_lake_f7829b_area = {
+    887
+}
+
+# Display name: Northern Flusionea8 Waters
+# GENERATED NAME: Northern Flusionea8 Waters (LoK state ID 1210 had no STATE_ localisation)
+fu_lake_f829ca_area = {
+    893 896 907
+}
+
+# Display name: Eastern Flusionea9 Waters
+# GENERATED NAME: Eastern Flusionea9 Waters (LoK state ID 1359 had no STATE_ localisation)
+fu_lake_f8d0f9_area = {
+    894 898 902 910 912 913 914
+}
+
+# Display name: Far Southeastern Flusionea10 Waters
+# GENERATED NAME: Far Southeastern Flusionea10 Waters (LoK state ID 212 had no STATE_ localisation)
+fu_lake_f97828_area = {
+    885 886
+}
+
+# Display name: Eastern Flusionea11 Waters
+# GENERATED NAME: Eastern Flusionea11 Waters (LoK state ID 501 had no STATE_ localisation)
+fu_lake_fa1f57_area = {
+    900 901 903 904 905 908
+}
+
+# Display name: Southwestern Foxsnot Waters
+# GENERATED NAME: Southwestern Foxsnot Waters (LoK state ID 874 had no STATE_ localisation)
+fu_lake_ff0000_area = {
+    957
+}
+
+# Display name: Central Southern Arivoejan Ocean Waters
+# GENERATED NAME: Central Southern Arivoejan Ocean Waters (LoK state ID 1022 had no STATE_ localisation)
+fu_sea_0000ff_area = {
+    67 75 139 142 166 184 214 218 224 229 231 240 252 256 259 262 266 267 268 270 277 279 281 283 293 294 308 309
+    315 316 317 318 319 320 324 325 326 327 331 332 334 335 339 340 342 347 348 349 350 352 353 354 374 381 382
+    383 384 385 386 387 388 389 390 391 392 393 394 395 396 397 398 399 400 401 402 403 404 405 406 407 408 409
+    410 411 412 414 415 416 417 418 419 434 435 436 437 438 439 440 441 442 443 444 445 446 447 448 449 450 451
+    452 453 454 455 456 457 458 459 460 461 462 463 464 465 466 467 468 469 470 471 472 473 474 475 476 477 478
+    479 480 481 482 483 484 485 486 487 488 489 490 491 492 493 494 495 496 497 498 499 500 501 502 503 504 505
+    506 507 508 509 510 511 512 513 514 515 516 517 518 519 520 521 522 523 524 525 526 527 528 529 530 531 532
+    533 534 535 536 537 538 539 540 541 542 543 544 545 546 547 548 549 550 551 552 553 554 555 556 557 558 559
+    560 561 562 563 564 565 566 567 568 569 570 571 572 573 574 575 576 577 578 579 580 581 582 583 584 585 586
+    587 588 589 590 591 592 593 594 595 596 597 598 599 600 601 602 603 604 605 606 607 608 609 610 611 612 613
+    614 615 616 617 618 619 620 621 622 623 624 625 626 627 628 629 630 631 632 633 634 635 636 637 638 639 640
+    641 642 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668
+    669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695
+    696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722
+    723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749
+    750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 773 774 775 776
+    777 778 779 780 781 782 783 784 785 786 787 789 790 791 793 794 795 796 797 798 799 800 801 802 803 804 805
+    806 807 808 809 810 811 812 813 814 815 816 817 818 819 820 821 823 824 825 826 827 828 829 830 832 836 837
+    838 840 841 843 955 959 960
+}
+
+# Display name: Central Mercurian Gulf Waters
+# GENERATED NAME: Central Mercurian Gulf Waters (no LoK state ID could be resolved)
+fu_sea_2a0cc0_area = {
+    822
+}
+
+# Display name: Near South Cularie
+# LoK state ID: 2
+fu_state_0053c0_area = {
+    961
+}
+
+# Display name: Fleupport
+# LoK state ID: 3
+fu_state_007da0_area = {
+    962 963
+}
+
+# Display name: New Iantrus
+# LoK state ID: 5
+fu_state_009d88_area = {
+    968 4020 4977 4978 4979
+}
+
+# Display name: East Infernum's Castle
+# LoK state ID: 4
+fu_state_00a781_area = {
+    964 965 966 967
+}
+
+# Display name: New Iantrus
+# LoK state ID: 5
+fu_state_00d161_area = {
+    969 970 971 973 4530
+}
+
+# Display name: Kopawchagen
+# LoK state ID: 7
+fu_state_012521_area = {
+    974
+}
+
+# Display name: Sodburn
+# LoK state ID: 9
+fu_state_0178e2_area = {
+    975 976 977 978 979 980 4537 4541
+}
+
+# Display name: Tiplett
+# LoK state ID: 10
+fu_state_01a2c2_area = {
+    981 982 983 984
+}
+
+# Display name: Pico
+# LoK state ID: 6
+fu_state_01fb41_area = {
+    985
+}
+
+# Display name: Fajnawysp
+# LoK state ID: 56
+fu_state_020ac3_area = {
+    1085
+}
+
+# Display name: Meowenberg
+# LoK state ID: 13
+fu_state_022063_area = {
+    986 987 988
+}
+
+# Display name: Chattelin
+# LoK state ID: 14
+fu_state_024a43_area = {
+    4533
+}
+
+# Display name: Pawmur
+# LoK state ID: 15
+fu_state_027423_area = {
+    989 4538
+}
+
+# Display name: Nordkatzrrhen
+# LoK state ID: 16
+fu_state_029e04_area = {
+    990
+}
+
+# Display name: Laurnsums Docks
+# LoK state ID: 17
+fu_state_02c7e4_area = {
+    991 992 993 994 995 996
+}
+
+# Display name: Western Pawldrininsel
+# LoK state ID: 12
+fu_state_02f683_area = {
+    997 998
+}
+
+# Display name: Pawmalay
+# LoK state ID: 19
+fu_state_031ba5_area = {
+    999 4543
+}
+
+# Display name: Meoneva
+# LoK state ID: 20
+fu_state_034585_area = {
+    1000 1001 1002 1003
+}
+
+# Display name: Tarrakis
+# LoK state ID: 21
+fu_state_036f65_area = {
+    1004 1005 1006
+}
+
+# Display name: Ostland
+# LoK state ID: 22
+fu_state_039945_area = {
+    1007
+}
+
+# Display name: Jhaoq
+# LoK state ID: 18
+fu_state_03f1c4_area = {
+    1008 1009 1010 4542
+}
+
+# Display name: Fajnawysp
+# LoK state ID: 56
+fu_state_041486_area = {
+    1084
+}
+
+# Display name: Clawtoust
+# LoK state ID: 25
+fu_state_0416e6_area = {
+    1011
+}
+
+# Display name: Ibrumore
+# LoK state ID: 26
+fu_state_0440c6_area = {
+    1012 1013 1014 1015 1016 4548
+}
+
+# Display name: Mewbert
+# LoK state ID: 27
+fu_state_046aa7_area = {
+    1017
+}
+
+# Display name: Nordblasterien
+# LoK state ID: 28
+fu_state_049487_area = {
+    1018 1019 1020
+}
+
+# Display name: Meo
+# LoK state ID: 29
+fu_state_04be67_area = {
+    1021 1022
+}
+
+# Display name: Meowgeve
+# LoK state ID: 23
+fu_state_04c326_area = {
+    1023 1024
+}
+
+# Display name: Islakatz
+# LoK state ID: 24
+fu_state_04ed06_area = {
+    1025 4544
+}
+
+# Display name: Meop
+# LoK state ID: 31
+fu_state_051228_area = {
+    1026 1027 1028
+}
+
+# Display name: Bamsens Dock
+# LoK state ID: 32
+fu_state_053c08_area = {
+    1029 1030
+}
+
+# Display name: Kelp Coasts
+# LoK state ID: 33
+fu_state_0565e8_area = {
+    1031 1032 1033
+}
+
+# Display name: Nord-Katown
+# LoK state ID: 34
+fu_state_058fc9_area = {
+    1034
+}
+
+# Display name: Tatsania
+# LoK state ID: 35
+fu_state_05b9a9_area = {
+    1035 1036 1037 1038 1039 1040 1041 1042
+}
+
+# Display name: Leop
+# LoK state ID: 30
+fu_state_05e847_area = {
+    1043
+}
+
+# Display name: Kattenburg
+# LoK state ID: 37
+fu_state_060d69_area = {
+    4545
+}
+
+# Display name: Meowdeburg
+# LoK state ID: 38
+fu_state_06374a_area = {
+    1044 1045
+}
+
+# Display name: Wachatgon
+# LoK state ID: 39
+fu_state_06612a_area = {
+    1046
+}
+
+# Display name: Darin
+# LoK state ID: 40
+fu_state_068b0a_area = {
+    1047 1048
+}
+
+# Display name: Pouchkintton
+# LoK state ID: 41
+fu_state_06b4ea_area = {
+    1049 1050 1051
+}
+
+# Display name: Katalonia
+# LoK state ID: 42
+fu_state_06decb_area = {
+    1052
+}
+
+# Display name: Westen-Katown
+# LoK state ID: 36
+fu_state_06e389_area = {
+    1053
+}
+
+# Display name: Meonelux
+# LoK state ID: 43
+fu_state_0708ab_area = {
+    1054 1055
+}
+
+# Display name: Fajnawysp
+# LoK state ID: 56
+fu_state_071f4a_area = {
+    1080 4980 4981
+}
+
+# Display name: Ost-Katown
+# LoK state ID: 44
+fu_state_07328b_area = {
+    1056
+}
+
+# Display name: Süd-Katown
+# LoK state ID: 45
+fu_state_075c6b_area = {
+    1057
+}
+
+# Display name: Lebril Range
+# LoK state ID: 46
+fu_state_07864c_area = {
+    1058 1059 1060 1061 4555
+}
+
+# Display name: Clawrence
+# LoK state ID: 47
+fu_state_07b02c_area = {
+    1062 1063 1064
+}
+
+# Display name: Ooooex
+# LoK state ID: 49
+fu_state_0803ec_area = {
+    1065 1066
+}
+
+# Display name: Katucky
+# LoK state ID: 50
+fu_state_082dcd_area = {
+    1067 1068
+}
+
+# Display name: Pierwysp
+# LoK state ID: 51
+fu_state_0857ad_area = {
+    1069
+}
+
+# Display name: Or Tigas
+# LoK state ID: 52
+fu_state_08818d_area = {
+    1070 1071 1072
+}
+
+# Display name: West Western Ejac
+# LoK state ID: 53
+fu_state_08ab6e_area = {
+    1073 1074 1075 1076
+}
+
+# Display name: Deaktiviertekamera
+# LoK state ID: 54
+fu_state_08d54e_area = {
+    1077 1078 4556
+}
+
+# Display name: Mittelpurrsen
+# LoK state ID: 48
+fu_state_08da0c_area = {
+    1079 4551
+}
+
+# Display name: Fajnawysp
+# LoK state ID: 56
+fu_state_09290e_area = {
+    1081 1082 1083 4552
+}
+
+# Display name: Mleow
+# LoK state ID: 57
+fu_state_0952ef_area = {
+    1086 1087 1088
+}
+
+# Display name: Purrsen
+# LoK state ID: 58
+fu_state_097ccf_area = {
+    1089 1090
+}
+
+# Display name: Qaradel Tas
+# LoK state ID: 59
+fu_state_09a6af_area = {
+    1091 1092 4728 4731 4737 4745
+}
+
+# Display name: Duuhr Sanctuary
+# LoK state ID: 55
+fu_state_09ff2e_area = {
+    1093 1094 1095 1096 1097 4558
+}
+
+# Display name: Pawris
+# LoK state ID: 62
+fu_state_0a2450_area = {
+    1098 1099
+}
+
+# Display name: Dredshire
+# LoK state ID: 63
+fu_state_0a4e30_area = {
+    1100 1101 1102 1103 1104 1105 1106 1107 1108
+}
+
+# Display name: Southern Lebril
+# LoK state ID: 64
+fu_state_0a7810_area = {
+    1109 1110 1111 1112 1113
+}
+
+# Display name: Mimia
+# LoK state ID: 65
+fu_state_0aa1f1_area = {
+    1114 1115 4561
+}
+
+# Display name: Raita
+# LoK state ID: 66
+fu_state_0acbd1_area = {
+    1116 1117
+}
+
+# Display name: Pawmuda
+# LoK state ID: 60
+fu_state_0ad08f_area = {
+    1118
+}
+
+# Display name: Inner Arkbus
+# LoK state ID: 61
+fu_state_0afa70_area = {
+    1119 1120 1121 1122 1123 1124 1125
+}
+
+# Display name: Clawlingen
+# LoK state ID: 69
+fu_state_0b4972_area = {
+    1126 1127 4578
+}
+
+# Display name: Ost-Winston
+# LoK state ID: 70
+fu_state_0b7352_area = {
+    1128 1129 1130 4574
+}
+
+# Display name: Kronkishes Enonita
+# LoK state ID: 71
+fu_state_0b9d32_area = {
+    1131 4563
+}
+
+# Display name: Drugirafa
+# LoK state ID: 67
+fu_state_0bf5b1_area = {
+    1132 1133 4564
+}
+
+# Display name: Dascinder
+# LoK state ID: 74
+fu_state_0c1ad3_area = {
+    1134 1135
+}
+
+# Display name: Near West Flerk
+# LoK state ID: 75
+fu_state_0c44b3_area = {
+    1136 1137 1138 1139
+}
+
+# Display name: Crabby Shores
+# LoK state ID: 76
+fu_state_0c6e94_area = {
+    1140 1141 1142 4587 4591
+}
+
+# Display name: Flerk
+# LoK state ID: 77
+fu_state_0c9874_area = {
+    1143 1144 1145 1146 1147
+}
+
+# Display name: Tigar
+# LoK state ID: 78
+fu_state_0cc254_area = {
+    1148 1149 4579
+}
+
+# Display name: Western Ejac
+# LoK state ID: 72
+fu_state_0cc713_area = {
+    1150 1151 1152 1153
+}
+
+# Display name: Infernum's Castle
+# LoK state ID: 73
+fu_state_0cf0f3_area = {
+    1154 4571
+}
+
+# Display name: Treciakraina
+# LoK state ID: 80
+fu_state_0d1615_area = {
+    1155 4576
+}
+
+# Display name: Near North Flerk
+# LoK state ID: 81
+fu_state_0d3ff5_area = {
+    1156 1157 1158
+}
+
+# Display name: Mount Fleather
+# LoK state ID: 82
+fu_state_0d69d5_area = {
+    1159 1160 4583 4586
+}
+
+# Display name: Kibble Island
+# LoK state ID: 83
+fu_state_0d93b6_area = {
+    1161
+}
+
+# Display name: Tailsbaden
+# LoK state ID: 84
+fu_state_0dbd96_area = {
+    1162
+}
+
+# Display name: Clawsoule
+# LoK state ID: 79
+fu_state_0dec34_area = {
+    1163 1164
+}
+
+# Display name: Quiveria
+# LoK state ID: 86
+fu_state_0e1156_area = {
+    1165 1166 1167 1168 1169 1170 1171
+}
+
+# Display name: Los Kibbles
+# LoK state ID: 87
+fu_state_0e3b37_area = {
+    1172
+}
+
+# Display name: Gligglepaw
+# LoK state ID: 88
+fu_state_0e6517_area = {
+    1173
+}
+
+# Display name: Stronya
+# LoK state ID: 89
+fu_state_0e8ef7_area = {
+    1174 1175 1176
+}
+
+# Display name: Elowia
+# LoK state ID: 90
+fu_state_0eb8d7_area = {
+    1177 1178 1179
+}
+
+# Display name: Meorseilles
+# LoK state ID: 85
+fu_state_0ee776_area = {
+    1180
+}
+
+# Display name: Northern Ezicania
+# LoK state ID: 92
+fu_state_0f0c98_area = {
+    1181 1182 1183 1184 1185 1186
+}
+
+# Display name: Krorilsk
+# LoK state ID: 93
+fu_state_0f3678_area = {
+    1187 4585 4589 4592
+}
+
+# Display name: Meopinstaat
+# LoK state ID: 94
+fu_state_0f6058_area = {
+    1188 1189
+}
+
+# Display name: Altenkat
+# LoK state ID: 95
+fu_state_0f8a39_area = {
+    1190 1192
+}
+
+# Display name: Copper-Match
+# LoK state ID: 96
+fu_state_0fb419_area = {
+    1193 1194
+}
+
+# Display name: North Fleatherclaw
+# LoK state ID: 91
+fu_state_0fe2b8_area = {
+    1195
+}
+
+# Display name: Felinda
+# LoK state ID: 98
+fu_state_1007d9_area = {
+    1196 1197
+}
+
+# Display name: Mirbel
+# LoK state ID: 99
+fu_state_1031ba_area = {
+    1198 1199
+}
+
+# Display name: South Fleatherclaw
+# LoK state ID: 100
+fu_state_105b9a_area = {
+    1200
+}
+
+# Display name: Near North Western Ejac
+# LoK state ID: 101
+fu_state_10857a_area = {
+    1201 1202 1203 4599 4603
+}
+
+# Display name: Central Ezicania
+# LoK state ID: 102
+fu_state_10af5b_area = {
+    1204 1205 1206
+}
+
+# Display name: Mewverest
+# LoK state ID: 103
+fu_state_10d93b_area = {
+    1207 1208 1209 4597
+}
+
+# Display name: Kittyshores
+# LoK state ID: 97
+fu_state_10ddf9_area = {
+    1210 1211 1212
+}
+
+# Display name: Katzhaus
+# LoK state ID: 104
+fu_state_11031b_area = {
+    1213 1214 1215
+}
+
+# Display name: Sankt Krokersburg
+# LoK state ID: 105
+fu_state_112cfb_area = {
+    1216 1217 1218
+}
+
+# Display name: Kittenia
+# LoK state ID: 106
+fu_state_1156dc_area = {
+    1219 1220
+}
+
+# Display name: West Northern Ezicania
+# LoK state ID: 107
+fu_state_1180bc_area = {
+    1221 1222 1223
+}
+
+# Display name: Odabin
+# LoK state ID: 108
+fu_state_11aa9c_area = {
+    1224 4602
+}
+
+# Display name: Kaiserland
+# LoK state ID: 109
+fu_state_11d47c_area = {
+    1225
+}
+
+# Display name: Mewdar
+# LoK state ID: 111
+fu_state_12283d_area = {
+    1226 1227 4595
+}
+
+# Display name: Vestefoldij
+# LoK state ID: 112
+fu_state_12521d_area = {
+    1228 1229
+}
+
+# Display name: Neukitberg
+# LoK state ID: 113
+fu_state_127bfd_area = {
+    1230 1231
+}
+
+# Display name: North Western Ejac
+# LoK state ID: 114
+fu_state_12a5de_area = {
+    1232 1233 1234 1235 4618 4992
+}
+
+# Display name: Süd-Auralien
+# LoK state ID: 115
+fu_state_12cfbe_area = {
+    1236 1237
+}
+
+# Display name: Mewzley
+# LoK state ID: 116
+fu_state_12f99e_area = {
+    1238 1239
+}
+
+# Display name: Meownich
+# LoK state ID: 110
+fu_state_12fe5d_area = {
+    1240 1241 4616
+}
+
+# Display name: Wolfen's Islands
+# LoK state ID: 239
+fu_state_130caf_area = {
+    1551
+}
+
+# Display name: Solar Valley
+# LoK state ID: 117
+fu_state_13237f_area = {
+    1242 1243 1244 4621
+}
+
+# Display name: Sud-Solagnaw
+# LoK state ID: 118
+fu_state_134d5f_area = {
+    1245 4620
+}
+
+# Display name: Katzil
+# LoK state ID: 119
+fu_state_13773f_area = {
+    1246 4623
+}
+
+# Display name: Nord-Amphisk
+# LoK state ID: 120
+fu_state_13a11f_area = {
+    1247 1248
+}
+
+# Display name: Struken
+# LoK state ID: 121
+fu_state_13cb00_area = {
+    1249 1250
+}
+
+# Display name: Lynxsi
+# LoK state ID: 122
+fu_state_13f4e0_area = {
+    1251 1252
+}
+
+# Display name: Waimern
+# LoK state ID: 123
+fu_state_141ec0_area = {
+    1253 1254 1255
+}
+
+# Display name: Philroen
+# LoK state ID: 124
+fu_state_1448a0_area = {
+    1256 1257 4640
+}
+
+# Display name: South Lokout
+# LoK state ID: 125
+fu_state_147281_area = {
+    1258 1259
+}
+
+# Display name: Bojnika Coast
+# LoK state ID: 126
+fu_state_149c61_area = {
+    1260 1261
+}
+
+# Display name: Southern Ezicania
+# LoK state ID: 127
+fu_state_14c641_area = {
+    1262 1263 1264
+}
+
+# Display name: Magnitokronsk
+# LoK state ID: 128
+fu_state_14f021_area = {
+    1265 1266 1267
+}
+
+# Display name: Warm Springs
+# LoK state ID: 129
+fu_state_151a02_area = {
+    1268 1269 1270 1271 4661
+}
+
+# Display name: South Katezic
+# LoK state ID: 130
+fu_state_1543e2_area = {
+    1272 1273 1274 1275
+}
+
+# Display name: Grüyettburg
+# LoK state ID: 131
+fu_state_156dc2_area = {
+    1276 1277 1278
+}
+
+# Display name: Lionsbach
+# LoK state ID: 132
+fu_state_1597a3_area = {
+    1279 1280 1281
+}
+
+# Display name: Meterhills
+# LoK state ID: 133
+fu_state_15c183_area = {
+    1282 1283 4633
+}
+
+# Display name: Svitanok Ridges
+# LoK state ID: 134
+fu_state_15eb63_area = {
+    1284 1285 1286 1287 4752
+}
+
+# Display name: Catka
+# LoK state ID: 135
+fu_state_161543_area = {
+    1288 1289 4641 4643
+}
+
+# Display name: Western Grand Hills
+# LoK state ID: 136
+fu_state_163f24_area = {
+    1290 1291 4647
+}
+
+# Display name: Near South Ibrumore
+# LoK state ID: 279
+fu_state_1651b4_area = {
+    1292
+}
+
+# Display name: South Ibrumore
+# LoK state ID: 280
+fu_state_1666a4_area = {
+    1293 1294
+}
+
+# Display name: Lokout
+# LoK state ID: 137
+fu_state_166904_area = {
+    1295 1296 1297 1298 1299
+}
+
+# Display name: Felstigerfels
+# LoK state ID: 138
+fu_state_1692e4_area = {
+    1300 1301 1302 4632
+}
+
+# Display name: Near East Southern Ezicania
+# LoK state ID: 139
+fu_state_16bcc4_area = {
+    1303 1304 4635
+}
+
+# Display name: Itchiloo
+# LoK state ID: 140
+fu_state_16e6a5_area = {
+    1305 1306 1307 1308
+}
+
+# Display name: Ezicania Pass
+# LoK state ID: 141
+fu_state_171085_area = {
+    1309
+}
+
+# Display name: Cuddlezone
+# LoK state ID: 142
+fu_state_173a65_area = {
+    1310 1311 1312 1313
+}
+
+# Display name: Sanguine Hills
+# LoK state ID: 143
+fu_state_176445_area = {
+    1314 1315
+}
+
+# Display name: South Cize
+# LoK state ID: 144
+fu_state_178e26_area = {
+    1316 1317
+}
+
+# Display name: Near North Ezicania Pass
+# LoK state ID: 145
+fu_state_17b806_area = {
+    1318
+}
+
+# Display name: Katzenfluss
+# LoK state ID: 146
+fu_state_17e1e6_area = {
+    1319 1320
+}
+
+# Display name: Neu-Winston
+# LoK state ID: 147
+fu_state_180bc6_area = {
+    1321 1322 1323 4730
+}
+
+# Display name: Kijovt
+# LoK state ID: 149
+fu_state_185f87_area = {
+    1324 1325 1326
+}
+
+# Display name: Khesedien
+# LoK state ID: 150
+fu_state_188967_area = {
+    1327 1328 1329
+}
+
+# Display name: Stollparche
+# LoK state ID: 151
+fu_state_18b348_area = {
+    1330 1331
+}
+
+# Display name: Zhytotska
+# LoK state ID: 152
+fu_state_18dd28_area = {
+    1332 1333
+}
+
+# Display name: Lyuin
+# LoK state ID: 153
+fu_state_190708_area = {
+    1334 1335 1336
+}
+
+# Display name: Brewtun
+# LoK state ID: 154
+fu_state_1930e8_area = {
+    1337 1338
+}
+
+# Display name: Zhagrebenstadt
+# LoK state ID: 155
+fu_state_195ac9_area = {
+    1339 1340
+}
+
+# Display name: Atarilla
+# LoK state ID: 156
+fu_state_1984a9_area = {
+    1341 1342 1343
+}
+
+# Display name: Landslid
+# LoK state ID: 157
+fu_state_19ae89_area = {
+    1344
+}
+
+# Display name: Cize
+# LoK state ID: 158
+fu_state_19d869_area = {
+    1345 1346
+}
+
+# Display name: Pawstion
+# LoK state ID: 159
+fu_state_1a024a_area = {
+    1347 1348 1349 1350
+}
+
+# Display name: Far North Ezicania Pass
+# LoK state ID: 160
+fu_state_1a2c2a_area = {
+    1351 1352
+}
+
+# Display name: Vhi Gherizad
+# LoK state ID: 161
+fu_state_1a560a_area = {
+    1353 1354
+}
+
+# Display name: North Lokout
+# LoK state ID: 162
+fu_state_1a7fea_area = {
+    1355 1356 1357 1358
+}
+
+# Display name: North Plaz
+# LoK state ID: 163
+fu_state_1aa9cb_area = {
+    1359 1360 1361
+}
+
+# Display name: Soutzic
+# LoK state ID: 164
+fu_state_1ad3ab_area = {
+    1362 1363
+}
+
+# Display name: Iorn
+# LoK state ID: 165
+fu_state_1afd8b_area = {
+    1364 1365 4691 4694
+}
+
+# Display name: Kronkozavodsk
+# LoK state ID: 166
+fu_state_1b276c_area = {
+    1366 1367
+}
+
+# Display name: Sea Beach
+# LoK state ID: 167
+fu_state_1b514c_area = {
+    1368 1369
+}
+
+# Display name: Catburg
+# LoK state ID: 168
+fu_state_1b7b2c_area = {
+    1370 1371 1372
+}
+
+# Display name: Lower Catalia
+# LoK state ID: 169
+fu_state_1ba50c_area = {
+    1373 1374
+}
+
+# Display name: Jonesbearo
+# LoK state ID: 170
+fu_state_1bceed_area = {
+    1375 1376 1377 1378
+}
+
+# Display name: Staullparche
+# LoK state ID: 171
+fu_state_1bf8cd_area = {
+    1379 1380 1381
+}
+
+# Display name: Plaz
+# LoK state ID: 172
+fu_state_1c22ad_area = {
+    1382 1383 1384 1385 4800
+}
+
+# Display name: Lionsburg
+# LoK state ID: 173
+fu_state_1c4c8d_area = {
+    1386 1387 1388
+}
+
+# Display name: Gepardien
+# LoK state ID: 174
+fu_state_1c766e_area = {
+    1389 1390 1391
+}
+
+# Display name: Hofungi
+# LoK state ID: 175
+fu_state_1ca04e_area = {
+    1392 1393
+}
+
+# Display name: Opusetksi
+# LoK state ID: 176
+fu_state_1cca2e_area = {
+    1394 1395
+}
+
+# Display name: Katkenstein
+# LoK state ID: 177
+fu_state_1cf40e_area = {
+    1396 1397 1398
+}
+
+# Display name: Flusojdina
+# LoK state ID: 178
+fu_state_1d1def_area = {
+    1399 1400 1401
+}
+
+# Display name: Grande Qualie
+# LoK state ID: 179
+fu_state_1d47cf_area = {
+    1402 1403
+}
+
+# Display name: Alraxian Plains
+# LoK state ID: 180
+fu_state_1d71af_area = {
+    1404 1405 1406
+}
+
+# Display name: Great Hill
+# LoK state ID: 181
+fu_state_1d9b8f_area = {
+    1407 1408 1409 1410 1411 1412
+}
+
+# Display name: Far North Ezicania Pass 3
+# LoK state ID: 182
+fu_state_1dc570_area = {
+    1413 1414
+}
+
+# Display name: Albatlulia
+# LoK state ID: 184
+fu_state_1e1930_area = {
+    1415 1416 1417 1418
+}
+
+# Display name: Near West Cize
+# LoK state ID: 185
+fu_state_1e4311_area = {
+    4636
+}
+
+# Display name: Northern Crngrad
+# LoK state ID: 186
+fu_state_1e6cf1_area = {
+    1419 1420
+}
+
+# Display name: East Southern Stollparche
+# LoK state ID: 187
+fu_state_1e96d1_area = {
+    1421 4751
+}
+
+# Display name: Bramble Wastes
+# LoK state ID: 188
+fu_state_1ec0b1_area = {
+    1422 1423
+}
+
+# Display name: Centralia
+# LoK state ID: 189
+fu_state_1eea92_area = {
+    4710
+}
+
+# Display name: Katezic
+# LoK state ID: 190
+fu_state_1f1472_area = {
+    1424 1425 1426 4717 4726
+}
+
+# Display name: Roquatzia
+# LoK state ID: 191
+fu_state_1f3e52_area = {
+    1427 1428 1429 1430 1431
+}
+
+# Display name: Purrlin
+# LoK state ID: 192
+fu_state_1f6832_area = {
+    1432
+}
+
+# Display name: Far West Southern Stollparche
+# LoK state ID: 193
+fu_state_1f9213_area = {
+    1433 1434 1435
+}
+
+# Display name: Far West Southern Stollparche 3
+# LoK state ID: 194
+fu_state_1fbbf3_area = {
+    1436 1437 1438
+}
+
+# Display name: Far West Great Hill
+# LoK state ID: 195
+fu_state_1fe5d3_area = {
+    1439 1440 1441 1442 4885
+}
+
+# Display name: Siaufokisj
+# LoK state ID: 196
+fu_state_200fb3_area = {
+    1443 1444 1445
+}
+
+# Display name: Meonwald
+# LoK state ID: 197
+fu_state_203994_area = {
+    1446 4713
+}
+
+# Display name: Southern Stollparche
+# LoK state ID: 198
+fu_state_206374_area = {
+    1447 1448 1449
+}
+
+# Display name: Boiler Town
+# LoK state ID: 199
+fu_state_208d54_area = {
+    1450 1451 1452 1453
+}
+
+# Display name: Krazan
+# LoK state ID: 200
+fu_state_20b735_area = {
+    1454 1455 1456 1457 1458
+}
+
+# Display name: Gross-Amphisk
+# LoK state ID: 202
+fu_state_210af5_area = {
+    1459 1460
+}
+
+# Display name: Yijnov
+# LoK state ID: 203
+fu_state_2134d5_area = {
+    1461 1462 1463
+}
+
+# Display name: Meowjave
+# LoK state ID: 204
+fu_state_215eb6_area = {
+    1464 1465 1466
+}
+
+# Display name: West Petite Qualie
+# LoK state ID: 205
+fu_state_218896_area = {
+    1467 1468 1469 4732
+}
+
+# Display name: Drakwald
+# LoK state ID: 206
+fu_state_21b276_area = {
+    1470
+}
+
+# Display name: Bulleborné
+# LoK state ID: 207
+fu_state_21dc56_area = {
+    1471 1472
+}
+
+# Display name: Oshian Holts
+# LoK state ID: 208
+fu_state_220637_area = {
+    1473 1474
+}
+
+# Display name: Far East Irkentia
+# LoK state ID: 424
+fu_state_222db7_area = {
+    4982
+}
+
+# Display name: Paktu
+# LoK state ID: 209
+fu_state_223017_area = {
+    1475 1476 1477 1478 1479
+}
+
+# Display name: North Northern Heart Mountains
+# LoK state ID: 210
+fu_state_2259f7_area = {
+    1480 1481 1482 1483 1484
+}
+
+# Display name: Near East Southern Stollparche
+# LoK state ID: 211
+fu_state_2283d7_area = {
+    1485 1486 1487 1488
+}
+
+# Display name: Jérezucar
+# LoK state ID: 212
+fu_state_22adb8_area = {
+    1489 1490 1491 1492 1493 4753
+}
+
+# Display name: Solkatzen Isle
+# LoK state ID: 213
+fu_state_22d798_area = {
+    1494
+}
+
+# Display name: Beownat
+# LoK state ID: 214
+fu_state_230178_area = {
+    1495 1496 1497
+}
+
+# Display name: Tilque
+# LoK state ID: 215
+fu_state_232b59_area = {
+    1498 1499 1500 4712
+}
+
+# Display name: Yinjozhizhia
+# LoK state ID: 216
+fu_state_235539_area = {
+    1501 1502 1503 4757
+}
+
+# Display name: West Novoyinjaya
+# LoK state ID: 217
+fu_state_237f19_area = {
+    1504 1505 1506
+}
+
+# Display name: Jarvalin
+# LoK state ID: 218
+fu_state_23a8f9_area = {
+    1507 1508
+}
+
+# Display name: Fauraize
+# LoK state ID: 219
+fu_state_23d2da_area = {
+    1509 1510
+}
+
+# Display name: Himezulte
+# LoK state ID: 220
+fu_state_23fcba_area = {
+    1511 4775
+}
+
+# Display name: Near North Southern Stollparche
+# LoK state ID: 221
+fu_state_24269a_area = {
+    4733
+}
+
+# Display name: Far South Démotagne
+# LoK state ID: 222
+fu_state_24507a_area = {
+    1512
+}
+
+# Display name: Petite Qualie
+# LoK state ID: 223
+fu_state_247a5b_area = {
+    1513
+}
+
+# Display name: West Démotagne
+# LoK state ID: 224
+fu_state_24a43b_area = {
+    1514
+}
+
+# Display name: Krrama
+# LoK state ID: 225
+fu_state_24ce1b_area = {
+    1515 1516 4774 4776 4777
+}
+
+# Display name: Volgokronk
+# LoK state ID: 226
+fu_state_24f7fb_area = {
+    1517 1518
+}
+
+# Display name: Yinjetopol
+# LoK state ID: 227
+fu_state_2521dc_area = {
+    1519 1520 1521
+}
+
+# Display name: Tartaryn
+# LoK state ID: 228
+fu_state_254bbc_area = {
+    1522 1523
+}
+
+# Display name: Northern Akiba
+# LoK state ID: 229
+fu_state_25759c_area = {
+    1524
+}
+
+# Display name: Meowscow
+# LoK state ID: 230
+fu_state_259f7c_area = {
+    1525 1526 1527 1528
+}
+
+# Display name: Kikol
+# LoK state ID: 231
+fu_state_25c95d_area = {
+    1529 1530
+}
+
+# Display name: Fangsani
+# LoK state ID: 232
+fu_state_25f33d_area = {
+    1531 1532 1533 1534
+}
+
+# Display name: Northern Nekaston
+# LoK state ID: 233
+fu_state_261d1d_area = {
+    1535 1536 4780
+}
+
+# Display name: Aveibrigado
+# LoK state ID: 234
+fu_state_2646fe_area = {
+    1537 1538 1539 1540 1541 1542 1543
+}
+
+# Display name: Eblawsen
+# LoK state ID: 235
+fu_state_2670de_area = {
+    1544 1545
+}
+
+# Display name: Hubschestadt
+# LoK state ID: 236
+fu_state_269abe_area = {
+    1546 1547 4790
+}
+
+# Display name: Near South Démotagne
+# LoK state ID: 237
+fu_state_26c49e_area = {
+    4766
+}
+
+# Display name: Neukatown
+# LoK state ID: 238
+fu_state_26ee7f_area = {
+    1548
+}
+
+# Display name: Wolfen's Islands
+# LoK state ID: 239
+fu_state_27185f_area = {
+    1549 1550
+}
+
+# Display name: Wolfen's Coast
+# LoK state ID: 240
+fu_state_27423f_area = {
+    1552
+}
+
+# Display name: Akiba
+# LoK state ID: 241
+fu_state_276c1f_area = {
+    1553
+}
+
+# Display name: Meowbrucken
+# LoK state ID: 242
+fu_state_279600_area = {
+    1554 1555
+}
+
+# Display name: Catgirland
+# LoK state ID: 243
+fu_state_27bfe0_area = {
+    1556
+}
+
+# Display name: Dominiontracks
+# LoK state ID: 244
+fu_state_27e9c0_area = {
+    1557 1558 1559
+}
+
+# Display name: Neustruken
+# LoK state ID: 245
+fu_state_2813a0_area = {
+    1560 1561 1562 4799
+}
+
+# Display name: Neunovien Hills
+# LoK state ID: 246
+fu_state_283d81_area = {
+    1563 1564 1565
+}
+
+# Display name: Cookartagena
+# LoK state ID: 247
+fu_state_286761_area = {
+    1566 1567 1568 1569 1570 4784 4792
+}
+
+# Display name: Poniweh
+# LoK state ID: 248
+fu_state_289141_area = {
+    1571 1572 4798 4802
+}
+
+# Display name: Near West Démotagne
+# LoK state ID: 249
+fu_state_28bb22_area = {
+    1573 1574
+}
+
+# Display name: Aderalum
+# LoK state ID: 250
+fu_state_28e502_area = {
+    1575 1576 1577
+}
+
+# Display name: Drooradin
+# LoK state ID: 251
+fu_state_290ee2_area = {
+    1578 1579
+}
+
+# Display name: South Western New Kastra
+# LoK state ID: 252
+fu_state_2938c2_area = {
+    1580 1581 1582 4814
+}
+
+# Display name: Great Calder Peak
+# LoK state ID: 253
+fu_state_2962a3_area = {
+    4795
+}
+
+# Display name: Mewlsass
+# LoK state ID: 254
+fu_state_298c83_area = {
+    1583 1584 1585
+}
+
+# Display name: Pferdwaldgebiet
+# LoK state ID: 255
+fu_state_29b663_area = {
+    1586 1587 1588
+}
+
+# Display name: Louquio
+# LoK state ID: 256
+fu_state_29e043_area = {
+    1589 1590
+}
+
+# Display name: West Plaz
+# LoK state ID: 257
+fu_state_2a0a24_area = {
+    1591 1592 1593
+}
+
+# Display name: Gallicie
+# LoK state ID: 258
+fu_state_2a3404_area = {
+    1594 1595
+}
+
+# Display name: Coeurlie
+# LoK state ID: 1033
+fu_state_2a3efb_area = {
+    4988
+}
+
+# Display name: Inner Novoshia
+# LoK state ID: 259
+fu_state_2a5de4_area = {
+    1596 1597 1598
+}
+
+# Display name: Miku
+# LoK state ID: 260
+fu_state_2a87c4_area = {
+    1599
+}
+
+# Display name: Tyurna
+# LoK state ID: 261
+fu_state_2ab1a5_area = {
+    1600 1601 4818 4819 4823
+}
+
+# Display name: Orient Kapus
+# LoK state ID: 262
+fu_state_2adb85_area = {
+    1602 1603
+}
+
+# Display name: Great Vardalv
+# LoK state ID: 263
+fu_state_2b0565_area = {
+    1604 1605 1606 1607 4794 4821
+}
+
+# Display name: Goaghan Mountains
+# LoK state ID: 264
+fu_state_2b2f46_area = {
+    1608 1609 4857
+}
+
+# Display name: Gallopia
+# LoK state ID: 265
+fu_state_2b5926_area = {
+    1610 1611 1612
+}
+
+# Display name: Yinvastopol
+# LoK state ID: 266
+fu_state_2b8306_area = {
+    1613 1614 1615 1616 4810
+}
+
+# Display name: Khatshaeta
+# LoK state ID: 267
+fu_state_2bace6_area = {
+    1617 1618
+}
+
+# Display name: Nouvelle-Ronronlin
+# LoK state ID: 268
+fu_state_2bd6c7_area = {
+    1619 1620
+}
+
+# Display name: Pegasia
+# LoK state ID: 269
+fu_state_2c00a7_area = {
+    1621 1622 1623
+}
+
+# Display name: Mewmewmew
+# LoK state ID: 270
+fu_state_2c2a87_area = {
+    1624 1625 4813
+}
+
+# Display name: Ganymeda
+# LoK state ID: 271
+fu_state_2c5467_area = {
+    1626 1627
+}
+
+# Display name: Sonyabourg
+# LoK state ID: 272
+fu_state_2c7e48_area = {
+    1628 1629
+}
+
+# Display name: Protondria
+# LoK state ID: 273
+fu_state_2ca828_area = {
+    1630 1631
+}
+
+# Display name: Buyrity
+# LoK state ID: 274
+fu_state_2cd208_area = {
+    1632
+}
+
+# Display name: Uwupolia
+# LoK state ID: 275
+fu_state_2cfbe8_area = {
+    1633
+}
+
+# Display name: Bruvergne
+# LoK state ID: 276
+fu_state_2d25c9_area = {
+    1634 1635
+}
+
+# Display name: Southern Chok
+# LoK state ID: 277
+fu_state_2d4fa9_area = {
+    1636 1637
+}
+
+# Display name: Moussie
+# LoK state ID: 278
+fu_state_2d7989_area = {
+    1638 1639 1640
+}
+
+# Display name: Velardennes
+# LoK state ID: 281
+fu_state_2df72a_area = {
+    1641 1642
+}
+
+# Display name: Kattailhain
+# LoK state ID: 282
+fu_state_2e210a_area = {
+    1643 1644 1645
+}
+
+# Display name: Wina
+# LoK state ID: 283
+fu_state_2e4aeb_area = {
+    1646
+}
+
+# Display name: Solemom
+# LoK state ID: 284
+fu_state_2e74cb_area = {
+    1647 1648 1649
+}
+
+# Display name: Démotagne
+# LoK state ID: 285
+fu_state_2e9eab_area = {
+    1650 1651 1652 4817
+}
+
+# Display name: Wome
+# LoK state ID: 286
+fu_state_2ec88b_area = {
+    1653
+}
+
+# Display name: Isle of Nyan
+# LoK state ID: 287
+fu_state_2ef26c_area = {
+    1654
+}
+
+# Display name: Doughvila
+# LoK state ID: 288
+fu_state_2f1c4c_area = {
+    1655 1656 4826
+}
+
+# Display name: Brekarya
+# LoK state ID: 289
+fu_state_2f462c_area = {
+    1657 1658 1659 1660 4847
+}
+
+# Display name: Magdalonja
+# LoK state ID: 290
+fu_state_2f700c_area = {
+    1661 1662 1663 1664 1665 1666 1667
+}
+
+# Display name: Taevuirae
+# LoK state ID: 291
+fu_state_2f99ed_area = {
+    1668 1669 1670
+}
+
+# Display name: Poitouamie
+# LoK state ID: 292
+fu_state_2fc3cd_area = {
+    1671 1672 1673
+}
+
+# Display name: Grand Canal
+# LoK state ID: 293
+fu_state_2fedad_area = {
+    1674 1675
+}
+
+# Display name: Greenwater
+# LoK state ID: 294
+fu_state_30178d_area = {
+    1676 1677
+}
+
+# Display name: Latarada
+# LoK state ID: 295
+fu_state_30416e_area = {
+    1678 1679 1680
+}
+
+# Display name: Sedanne
+# LoK state ID: 296
+fu_state_306b4e_area = {
+    1681 1682 4824
+}
+
+# Display name: Extremeowdura
+# LoK state ID: 592
+fu_state_306bcd_area = {
+    4984
+}
+
+# Display name: Aurleans
+# LoK state ID: 297
+fu_state_30952e_area = {
+    1683
+}
+
+# Display name: Temland
+# LoK state ID: 298
+fu_state_30bf0f_area = {
+    1684
+}
+
+# Display name: Dofusbourg
+# LoK state ID: 299
+fu_state_30e8ef_area = {
+    1685 1686 4820
+}
+
+# Display name: Valledupèr
+# LoK state ID: 300
+fu_state_3112cf_area = {
+    1687 1688 1689 1690 4839
+}
+
+# Display name: Biti
+# LoK state ID: 301
+fu_state_313caf_area = {
+    1691 1692
+}
+
+# Display name: Grünfeld
+# LoK state ID: 302
+fu_state_316690_area = {
+    1693 1694
+}
+
+# Display name: Midi-Sunazure
+# LoK state ID: 303
+fu_state_319070_area = {
+    1695 1696
+}
+
+# Display name: Craiovetzi
+# LoK state ID: 304
+fu_state_31ba50_area = {
+    1697 1698 1699 1700 1701 4931
+}
+
+# Display name: Near East Monke Slopes
+# LoK state ID: 305
+fu_state_31e430_area = {
+    1702
+}
+
+# Display name: Pouldrezique
+# LoK state ID: 306
+fu_state_320e11_area = {
+    1703 1704
+}
+
+# Display name: Bocérie
+# LoK state ID: 307
+fu_state_3237f1_area = {
+    1705 1706 4852
+}
+
+# Display name: Massif Roqual
+# LoK state ID: 308
+fu_state_3261d1_area = {
+    1707 4830 4835
+}
+
+# Display name: Rozzmione
+# LoK state ID: 309
+fu_state_328bb1_area = {
+    1708 1709
+}
+
+# Display name: Far East Monke Slopes 4
+# LoK state ID: 310
+fu_state_32b592_area = {
+    1710 1711 1712 1713
+}
+
+# Display name: Goaghan Steppes
+# LoK state ID: 311
+fu_state_32df72_area = {
+    1714 1715 1716 4858
+}
+
+# Display name: Dogeheit
+# LoK state ID: 312
+fu_state_330952_area = {
+    1717 1718 1719 4838
+}
+
+# Display name: Silver-Match
+# LoK state ID: 313
+fu_state_333333_area = {
+    1720 1721
+}
+
+# Display name: Limasin
+# LoK state ID: 314
+fu_state_335d13_area = {
+    1722 1723
+}
+
+# Display name: Balreska
+# LoK state ID: 315
+fu_state_3386f3_area = {
+    1724 1725 1726 1727
+}
+
+# Display name: Franckfort
+# LoK state ID: 316
+fu_state_33b0d3_area = {
+    4837
+}
+
+# Display name: Liliastar
+# LoK state ID: 317
+fu_state_33dab4_area = {
+    1728 1729 1730 4848
+}
+
+# Display name: Novenna
+# LoK state ID: 318
+fu_state_340494_area = {
+    1731 1732 1733 4842
+}
+
+# Display name: Obscurie
+# LoK state ID: 319
+fu_state_342e74_area = {
+    1734 4843
+}
+
+# Display name: Lutécie
+# LoK state ID: 320
+fu_state_345854_area = {
+    1735 1736 1737
+}
+
+# Display name: Animéquitaine
+# LoK state ID: 321
+fu_state_348235_area = {
+    1738 1739
+}
+
+# Display name: East Tartaphrogia
+# LoK state ID: 433
+fu_state_349f7d_area = {
+    1740
+}
+
+# Display name: Zharr Station
+# LoK state ID: 322
+fu_state_34ac15_area = {
+    1741 1742 4846
+}
+
+# Display name: Teksasse
+# LoK state ID: 323
+fu_state_34d5f5_area = {
+    1743 1744 1745 1746 4860
+}
+
+# Display name: Orkhan
+# LoK state ID: 324
+fu_state_34ffd5_area = {
+    1747
+}
+
+# Display name: Far West Westpaw 3
+# LoK state ID: 1297
+fu_state_350acd_area = {
+    4012 4019
+}
+
+# Display name: Quantus Hub
+# LoK state ID: 1291
+fu_state_350bfd_area = {
+    3969
+}
+
+# Display name: Near South Infernum's Castle
+# LoK state ID: 1298
+fu_state_3515c5_area = {
+    4021
+}
+
+# Display name: Naval Hub
+# LoK state ID: 1305
+fu_state_351ece_area = {
+    4056 5005 5006
+}
+
+# Display name: Midi-Vidanie
+# LoK state ID: 325
+fu_state_3529b6_area = {
+    1748 1749 1750
+}
+
+# Display name: New Iantrus
+# LoK state ID: 5
+fu_state_353fd5_area = {
+    972
+}
+
+# Display name: Lisejr Metroplitan Area
+# LoK state ID: 326
+fu_state_355396_area = {
+    1751 4879
+}
+
+# Display name: Altenkat
+# LoK state ID: 95
+fu_state_356627_area = {
+    1191
+}
+
+# Display name: Northern Solity
+# LoK state ID: 327
+fu_state_357d76_area = {
+    1752
+}
+
+# Display name: Inner Solity
+# LoK state ID: 328
+fu_state_35a756_area = {
+    1753 1754 1755
+}
+
+# Display name: Novari
+# LoK state ID: 329
+fu_state_35d137_area = {
+    1756 1757 1758 4865
+}
+
+# Display name: Novastaati
+# LoK state ID: 330
+fu_state_35fb17_area = {
+    1759 1760 1761 1762 4854 4864 4869
+}
+
+# Display name: Oogia
+# LoK state ID: 331
+fu_state_3624f7_area = {
+    1763 4853
+}
+
+# Display name: Genièvre
+# LoK state ID: 332
+fu_state_364ed8_area = {
+    1764 1765
+}
+
+# Display name: Felinensee
+# LoK state ID: 333
+fu_state_3678b8_area = {
+    1766 1767 1768
+}
+
+# Display name: Northern Solakean Strait
+# LoK state ID: 334
+fu_state_36a298_area = {
+    1769
+}
+
+# Display name: Aricrest
+# LoK state ID: 335
+fu_state_36cc78_area = {
+    1770 1771 1772 4866 4874
+}
+
+# Display name: Alkroa
+# LoK state ID: 336
+fu_state_36f659_area = {
+    1773 1774
+}
+
+# Display name: Smurden
+# LoK state ID: 337
+fu_state_372039_area = {
+    1775 1776
+}
+
+# Display name: Albathorn
+# LoK state ID: 338
+fu_state_374a19_area = {
+    1777 1778
+}
+
+# Display name: Battlebuns Frontier
+# LoK state ID: 339
+fu_state_3773f9_area = {
+    1779 1780
+}
+
+# Display name: Die
+# LoK state ID: 340
+fu_state_379dda_area = {
+    1781 1782
+}
+
+# Display name: Izwivin
+# LoK state ID: 341
+fu_state_37c7ba_area = {
+    1783 1784
+}
+
+# Display name: Ornistralia
+# LoK state ID: 342
+fu_state_37f19a_area = {
+    1785 1786
+}
+
+# Display name: Southern Solakean Strait
+# LoK state ID: 343
+fu_state_381b7a_area = {
+    1787
+}
+
+# Display name: Watermaster Domain
+# LoK state ID: 344
+fu_state_38455b_area = {
+    1788 1789 1790
+}
+
+# Display name: Western Novhurst
+# LoK state ID: 345
+fu_state_386f3b_area = {
+    1791 1792 1793 4875
+}
+
+# Display name: Felsdorf
+# LoK state ID: 346
+fu_state_38991b_area = {
+    1794
+}
+
+# Display name: Tak-Icar
+# LoK state ID: 347
+fu_state_38c2fc_area = {
+    1795 1796
+}
+
+# Display name: Euenum
+# LoK state ID: 348
+fu_state_38ecdc_area = {
+    1797
+}
+
+# Display name: Charles
+# LoK state ID: 349
+fu_state_3916bc_area = {
+    1798
+}
+
+# Display name: Beauparc
+# LoK state ID: 350
+fu_state_39409c_area = {
+    1799 4711
+}
+
+# Display name: Shingia
+# LoK state ID: 351
+fu_state_396a7d_area = {
+    1800 1801 1802
+}
+
+# Display name: Platéire
+# LoK state ID: 352
+fu_state_39945d_area = {
+    1803 1804
+}
+
+# Display name: West Dazhungli
+# LoK state ID: 353
+fu_state_39be3d_area = {
+    1805 1806 4870
+}
+
+# Display name: Datlof
+# LoK state ID: 354
+fu_state_39e81d_area = {
+    1807 1808
+}
+
+# Display name: Northern Hervus
+# LoK state ID: 355
+fu_state_3a11fe_area = {
+    1809 1810 1811 1812
+}
+
+# Display name: Venusia
+# LoK state ID: 356
+fu_state_3a3bde_area = {
+    1813 1814
+}
+
+# Display name: Tenetianen
+# LoK state ID: 357
+fu_state_3a65be_area = {
+    1815 1816 4880
+}
+
+# Display name: Baltiquie Inferieure
+# LoK state ID: 358
+fu_state_3a8f9e_area = {
+    1817 1818
+}
+
+# Display name: Lakeside City
+# LoK state ID: 359
+fu_state_3ab97f_area = {
+    1819 1820 1821
+}
+
+# Display name: Novanada
+# LoK state ID: 360
+fu_state_3ae35f_area = {
+    1822 1823 1824 1825
+}
+
+# Display name: Hoxxhagen Surface Zone
+# LoK state ID: 361
+fu_state_3b0d3f_area = {
+    1826
+}
+
+# Display name: North Monke Slopes
+# LoK state ID: 362
+fu_state_3b371f_area = {
+    1827 1828 1829 1830 1831
+}
+
+# Display name: Frontiere Solarienne
+# LoK state ID: 363
+fu_state_3b6100_area = {
+    1832 1833
+}
+
+# Display name: Baltiquie Superieure
+# LoK state ID: 364
+fu_state_3b8ae0_area = {
+    1834
+}
+
+# Display name: Lesser Lake
+# LoK state ID: 365
+fu_state_3bb4c0_area = {
+    1835
+}
+
+# Display name: Grove Bounds
+# LoK state ID: 366
+fu_state_3bdea1_area = {
+    1836 1837
+}
+
+# Display name: Near West Tipanum
+# LoK state ID: 367
+fu_state_3c0881_area = {
+    1838 1839
+}
+
+# Display name: Central Hushed Forest
+# LoK state ID: 368
+fu_state_3c3261_area = {
+    1840 1841 4950
+}
+
+# Display name: Eastern Altairyu
+# LoK state ID: 369
+fu_state_3c5c41_area = {
+    1842 1843 1844 1845
+}
+
+# Display name: Cote Sud
+# LoK state ID: 370
+fu_state_3c8622_area = {
+    1846 1847
+}
+
+# Display name: Greater Thamplatin Area
+# LoK state ID: 371
+fu_state_3cb002_area = {
+    1848 1849
+}
+
+# Display name: Southumberland
+# LoK state ID: 372
+fu_state_3cd9e2_area = {
+    1850 1851 4893
+}
+
+# Display name: North Great Hill
+# LoK state ID: 373
+fu_state_3d03c2_area = {
+    1852
+}
+
+# Display name: Clawlogne
+# LoK state ID: 374
+fu_state_3d2da3_area = {
+    1853 1854 1855
+}
+
+# Display name: Atarbuhl
+# LoK state ID: 375
+fu_state_3d5783_area = {
+    1856 4547
+}
+
+# Display name: Far West Tundrabor
+# LoK state ID: 376
+fu_state_3d8163_area = {
+    1857 1858 1859 1860 4944
+}
+
+# Display name: Seagoers' Republic
+# LoK state ID: 377
+fu_state_3dab43_area = {
+    1861 1862
+}
+
+# Display name: The Valley
+# LoK state ID: 378
+fu_state_3dd524_area = {
+    1863 1864 1865 4895 4896 4904
+}
+
+# Display name: The Lake District
+# LoK state ID: 379
+fu_state_3dff04_area = {
+    1866 1867 1868 1869
+}
+
+# Display name: Platishire
+# LoK state ID: 380
+fu_state_3e28e4_area = {
+    1870 1871 1872 1873
+}
+
+# Display name: Karrotia
+# LoK state ID: 381
+fu_state_3e52c5_area = {
+    1874 4916
+}
+
+# Display name: Miauwhattan
+# LoK state ID: 382
+fu_state_3e7ca5_area = {
+    1875 1876 1877
+}
+
+# Display name: Collines Chaudiere
+# LoK state ID: 383
+fu_state_3ea685_area = {
+    1878 4911
+}
+
+# Display name: Republic of the Bay
+# LoK state ID: 384
+fu_state_3ed065_area = {
+    1879 1880
+}
+
+# Display name: Françaslien
+# LoK state ID: 385
+fu_state_3efa46_area = {
+    1881 1882
+}
+
+# Display name: Neu-Meownich
+# LoK state ID: 386
+fu_state_3f2426_area = {
+    1883
+}
+
+# Display name: Thornwall
+# LoK state ID: 387
+fu_state_3f4e06_area = {
+    1884
+}
+
+# Display name: Mayzerian Archipelago
+# LoK state ID: 388
+fu_state_3f77e6_area = {
+    1885
+}
+
+# Display name: Watlern
+# LoK state ID: 389
+fu_state_3fa1c7_area = {
+    1886
+}
+
+# Display name: South Espen
+# LoK state ID: 390
+fu_state_3fcba7_area = {
+    1887 1888 1889 1890 1891 4920 4922
+}
+
+# Display name: Oltenitza
+# LoK state ID: 391
+fu_state_3ff587_area = {
+    1892 1893 1894 1895 4924
+}
+
+# Display name: Dlapawien
+# LoK state ID: 392
+fu_state_401f67_area = {
+    1896
+}
+
+# Display name: Katpine Mountains (W)
+# LoK state ID: 393
+fu_state_404948_area = {
+    4910
+}
+
+# Display name: Katjeisland
+# LoK state ID: 394
+fu_state_407328_area = {
+    1897 1898
+}
+
+# Display name: Lily Groves
+# LoK state ID: 395
+fu_state_409d08_area = {
+    1899 1900 1901 4930
+}
+
+# Display name: Aaptun
+# LoK state ID: 396
+fu_state_40c6e9_area = {
+    1902 1903
+}
+
+# Display name: Southwestern Marshes
+# LoK state ID: 397
+fu_state_40f0c9_area = {
+    1904 1905 4898
+}
+
+# Display name: Kàpabùn
+# LoK state ID: 398
+fu_state_411aa9_area = {
+    1906 1907 1908
+}
+
+# Display name: Bunteria
+# LoK state ID: 399
+fu_state_414489_area = {
+    1909 1910 1911 1912
+}
+
+# Display name: East Craiovetzi
+# LoK state ID: 400
+fu_state_416e6a_area = {
+    1913 1914 1915
+}
+
+# Display name: Firemaster Union
+# LoK state ID: 401
+fu_state_41984a_area = {
+    1916 1917 4915
+}
+
+# Display name: Tetelibre
+# LoK state ID: 402
+fu_state_41c22a_area = {
+    1918 4918
+}
+
+# Display name: Pawmariens
+# LoK state ID: 403
+fu_state_41ec0a_area = {
+    1919
+}
+
+# Display name: Regnus
+# LoK state ID: 404
+fu_state_4215eb_area = {
+    1920 1921 1922 1923 1924 1925
+}
+
+# Display name: Hallien
+# LoK state ID: 405
+fu_state_423fcb_area = {
+    1926 1927
+}
+
+# Display name: Greater Bunville
+# LoK state ID: 406
+fu_state_4269ab_area = {
+    1928 1929 4925 4949
+}
+
+# Display name: Zeeland
+# LoK state ID: 407
+fu_state_42938b_area = {
+    1930 1931 1932 1933 1934
+}
+
+# Display name: Gatzostad
+# LoK state ID: 408
+fu_state_42bd6c_area = {
+    1935 1936 1937
+}
+
+# Display name: N.Pawsterdam Central
+# LoK state ID: 409
+fu_state_42e74c_area = {
+    1938
+}
+
+# Display name: Arctic Shores
+# LoK state ID: 410
+fu_state_43112c_area = {
+    1939 1940 1941
+}
+
+# Display name: Earthmaster Quarries
+# LoK state ID: 411
+fu_state_433b0c_area = {
+    1942 1943 1944 4917
+}
+
+# Display name: Provicae
+# LoK state ID: 412
+fu_state_4364ed_area = {
+    1945 1946 1947 1948
+}
+
+# Display name: West Tipanum
+# LoK state ID: 413
+fu_state_438ecd_area = {
+    1949 1950 1951 4923
+}
+
+# Display name: Western Slopes
+# LoK state ID: 414
+fu_state_43b8ad_area = {
+    1952
+}
+
+# Display name: Seaside Groves
+# LoK state ID: 415
+fu_state_43e28e_area = {
+    1953 1954
+}
+
+# Display name: Great Gap
+# LoK state ID: 416
+fu_state_440c6e_area = {
+    1955 1956
+}
+
+# Display name: Petit Loutterie
+# LoK state ID: 417
+fu_state_44364e_area = {
+    1957
+}
+
+# Display name: Harelyne Magocracy
+# LoK state ID: 418
+fu_state_44602e_area = {
+    1958 1959 1960
+}
+
+# Display name: West Southport
+# LoK state ID: 419
+fu_state_448a0f_area = {
+    1961 1962
+}
+
+# Display name: Western Hushed Forest
+# LoK state ID: 420
+fu_state_44b3ef_area = {
+    1963 1964 1965
+}
+
+# Display name: Silal
+# LoK state ID: 421
+fu_state_44ddcf_area = {
+    1966 1967 1968 4937
+}
+
+# Display name: Airmaster Sanctuaries
+# LoK state ID: 422
+fu_state_4507af_area = {
+    1969 1970 1971
+}
+
+# Display name: Near South Harelene
+# LoK state ID: 423
+fu_state_453190_area = {
+    1972 1973 1974
+}
+
+# Display name: Far East Irkentia
+# LoK state ID: 424
+fu_state_455b70_area = {
+    1975 1976 1977 1978 1979 4954
+}
+
+# Display name: Plavevivorea
+# LoK state ID: 425
+fu_state_458550_area = {
+    1980 1981 4953
+}
+
+# Display name: Eastern Hushed Forest
+# LoK state ID: 426
+fu_state_45af30_area = {
+    1982 1983 1984
+}
+
+# Display name: Near East Irkentia
+# LoK state ID: 427
+fu_state_45d911_area = {
+    1985 1986 1987
+}
+
+# Display name: Eden
+# LoK state ID: 428
+fu_state_4602f1_area = {
+    1988 4938
+}
+
+# Display name: Nouvelle-Chaville
+# LoK state ID: 430
+fu_state_4656b2_area = {
+    1989
+}
+
+# Display name: Fort Nxeen
+# LoK state ID: 572
+fu_state_466d51_area = {
+    4983
+}
+
+# Display name: Port Ravke
+# LoK state ID: 431
+fu_state_468092_area = {
+    1990 1991
+}
+
+# Display name: Plavetan Groves
+# LoK state ID: 432
+fu_state_46aa72_area = {
+    1992 1993 1994
+}
+
+# Display name: East Tartaphrogia
+# LoK state ID: 433
+fu_state_46d452_area = {
+    1995 1996
+}
+
+# Display name: Irkentia
+# LoK state ID: 435
+fu_state_472813_area = {
+    1997 1998 1999 2000
+}
+
+# Display name: Ravrianta
+# LoK state ID: 436
+fu_state_4751f3_area = {
+    2001
+}
+
+# Display name: Greater Solstice
+# LoK state ID: 437
+fu_state_477bd3_area = {
+    2002 2003 2004 2005 2006 2007
+}
+
+# Display name: Purrhelmshaven
+# LoK state ID: 438
+fu_state_47a5b4_area = {
+    2008
+}
+
+# Display name: East Tundrabor
+# LoK state ID: 439
+fu_state_47cf94_area = {
+    2009 2010 2011
+}
+
+# Display name: Extreme Ridges
+# LoK state ID: 444
+fu_state_48a0f5_area = {
+    2012 2013 4945
+}
+
+# Display name: Northkandle
+# LoK state ID: 466
+fu_state_4c3a3b_area = {
+    2014 2015 2016
+}
+
+# Display name: Broukburn
+# LoK state ID: 467
+fu_state_4c641b_area = {
+    2017 2018 2019 2020 2021 2022 2023 2024 2025 4539
+}
+
+# Display name: Empayre
+# LoK state ID: 468
+fu_state_4c8dfc_area = {
+    2026 2027 2028 2029
+}
+
+# Display name: Ibrumopolis
+# LoK state ID: 469
+fu_state_4cb7dc_area = {
+    2030 2031 2032 2033 2034 2035 2036 2037 2038
+}
+
+# Display name: Mediamus
+# LoK state ID: 470
+fu_state_4ce1bc_area = {
+    2039 2040 2041
+}
+
+# Display name: Polatspoodle
+# LoK state ID: 471
+fu_state_4d0b9c_area = {
+    2042 2043 2044 2045
+}
+
+# Display name: Wintermagnet
+# LoK state ID: 472
+fu_state_4d357d_area = {
+    2046 2047 2048
+}
+
+# Display name: Westpaw
+# LoK state ID: 473
+fu_state_4d5f5d_area = {
+    2049 2050 2051
+}
+
+# Display name: Ost-Meonelux
+# LoK state ID: 474
+fu_state_4d893d_area = {
+    2052 2053
+}
+
+# Display name: Ataril
+# LoK state ID: 475
+fu_state_4db31d_area = {
+    2054
+}
+
+# Display name: Biskuitgorod
+# LoK state ID: 476
+fu_state_4ddcfe_area = {
+    2055 2056 2057 2058 2059
+}
+
+# Display name: Kattail
+# LoK state ID: 477
+fu_state_4e06de_area = {
+    2060 2061
+}
+
+# Display name: Barkenbadden
+# LoK state ID: 478
+fu_state_4e30be_area = {
+    2062 2063 2064
+}
+
+# Display name: Nord-Purrgund
+# LoK state ID: 479
+fu_state_4e5a9f_area = {
+    2065 2066
+}
+
+# Display name: Barkmonts
+# LoK state ID: 480
+fu_state_4e847f_area = {
+    2067 2068 4560
+}
+
+# Display name: Winston
+# LoK state ID: 481
+fu_state_4eae5f_area = {
+    2069
+}
+
+# Display name: Sankt Mikhailsburg
+# LoK state ID: 482
+fu_state_4ed83f_area = {
+    2070 2071 2072
+}
+
+# Display name: Tanba
+# LoK state ID: 483
+fu_state_4f0220_area = {
+    2073 2074 4580 4582
+}
+
+# Display name: Mogiluff
+# LoK state ID: 484
+fu_state_4f2c00_area = {
+    2075 2076 2077 4598
+}
+
+# Display name: Pawscow
+# LoK state ID: 485
+fu_state_4f55e0_area = {
+    2078 2079 2080
+}
+
+# Display name: Meoshores
+# LoK state ID: 486
+fu_state_4f7fc0_area = {
+    2081 2082 2083
+}
+
+# Display name: Ost-Lynxsi
+# LoK state ID: 487
+fu_state_4fa9a1_area = {
+    2084 2085
+}
+
+# Display name: Mielstadt
+# LoK state ID: 488
+fu_state_4fd381_area = {
+    2086 2087
+}
+
+# Display name: Neubelkan
+# LoK state ID: 489
+fu_state_4ffd61_area = {
+    2088 2089
+}
+
+# Display name: Blasteropolis
+# LoK state ID: 490
+fu_state_502741_area = {
+    2090 2091 2092
+}
+
+# Display name: Srednjezemland
+# LoK state ID: 491
+fu_state_505122_area = {
+    2093 2094
+}
+
+# Display name: Ost-Pawstion
+# LoK state ID: 492
+fu_state_507b02_area = {
+    2095 2096 2097
+}
+
+# Display name: Banaplanina
+# LoK state ID: 493
+fu_state_50a4e2_area = {
+    2098 2099 4692
+}
+
+# Display name: Morel Falls
+# LoK state ID: 494
+fu_state_50cec2_area = {
+    2100 2101 4715
+}
+
+# Display name: Isthriciti
+# LoK state ID: 495
+fu_state_50f8a3_area = {
+    2102 2103 4727
+}
+
+# Display name: Meowfelde
+# LoK state ID: 496
+fu_state_512283_area = {
+    2104 2105 2106
+}
+
+# Display name: Nhalutt
+# LoK state ID: 497
+fu_state_514c63_area = {
+    2107 2108 2109
+}
+
+# Display name: Hammerhand
+# LoK state ID: 498
+fu_state_517644_area = {
+    2110 2111 2112 2113 4714 4738
+}
+
+# Display name: Fungarish
+# LoK state ID: 499
+fu_state_51a024_area = {
+    2114 2115 2116 2117 4744 4761
+}
+
+# Display name: East Great Hill
+# LoK state ID: 500
+fu_state_51ca04_area = {
+    2118 2119 2120 2121 2122
+}
+
+# Display name: North Myriad
+# LoK state ID: 501
+fu_state_51f3e4_area = {
+    2123 2124 2125 2126 2127 2128 2129 4778 4788 4801
+}
+
+# Display name: Platnum
+# LoK state ID: 502
+fu_state_521dc5_area = {
+    2130 2131 4756 4758
+}
+
+# Display name: Bloozega
+# LoK state ID: 503
+fu_state_5247a5_area = {
+    2132 2133 2134
+}
+
+# Display name: Frosov
+# LoK state ID: 504
+fu_state_527185_area = {
+    2135 2136 2137 2138
+}
+
+# Display name: Kraiiovat
+# LoK state ID: 505
+fu_state_529b65_area = {
+    2139 2140 2141 2142 2143
+}
+
+# Display name: Saru
+# LoK state ID: 506
+fu_state_52c546_area = {
+    2144 2145 2146
+}
+
+# Display name: Fishtun
+# LoK state ID: 507
+fu_state_52ef26_area = {
+    2147 2148
+}
+
+# Display name: Katown
+# LoK state ID: 509
+fu_state_5342e6_area = {
+    2149
+}
+
+# Display name: Liaküste
+# LoK state ID: 510
+fu_state_536cc7_area = {
+    2150 2151 2152
+}
+
+# Display name: Stri
+# LoK state ID: 511
+fu_state_5396a7_area = {
+    2153 2154 2155
+}
+
+# Display name: Ataropolis
+# LoK state ID: 512
+fu_state_53c087_area = {
+    2156 2157
+}
+
+# Display name: Kibblesplein
+# LoK state ID: 513
+fu_state_53ea68_area = {
+    2158 2159 2160 4680
+}
+
+# Display name: Solkatzia
+# LoK state ID: 514
+fu_state_541448_area = {
+    2161 2162
+}
+
+# Display name: Atarstadt
+# LoK state ID: 515
+fu_state_543e28_area = {
+    2163 2164 2165
+}
+
+# Display name: Mushile
+# LoK state ID: 516
+fu_state_546808_area = {
+    2166 2167 2168 2169
+}
+
+# Display name: Gathills
+# LoK state ID: 517
+fu_state_5491e9_area = {
+    2170 2171 2172
+}
+
+# Display name: Kibblestadt
+# LoK state ID: 518
+fu_state_54bbc9_area = {
+    2173 2174 2175
+}
+
+# Display name: Grönawgen
+# LoK state ID: 519
+fu_state_54e5a9_area = {
+    2176 2177 2178
+}
+
+# Display name: Elowineapolis
+# LoK state ID: 520
+fu_state_550f89_area = {
+    2179 2180 2181
+}
+
+# Display name: Ostmeopin
+# LoK state ID: 521
+fu_state_55396a_area = {
+    2182 2183 2184 4600
+}
+
+# Display name: Altestadt
+# LoK state ID: 522
+fu_state_55634a_area = {
+    2185 2186 2187
+}
+
+# Display name: Katzkat
+# LoK state ID: 523
+fu_state_558d2a_area = {
+    2188 2189 4593
+}
+
+# Display name: Southeastern Grand Hills
+# LoK state ID: 524
+fu_state_55b70a_area = {
+    2190 2191 2192 4658
+}
+
+# Display name: Northeastern Grand Hills
+# LoK state ID: 525
+fu_state_55e0eb_area = {
+    2193 2194 4646
+}
+
+# Display name: West Meterhills
+# LoK state ID: 526
+fu_state_560acb_area = {
+    2195 4649
+}
+
+# Display name: North Katzil
+# LoK state ID: 527
+fu_state_5634ab_area = {
+    2196
+}
+
+# Display name: Bergshire
+# LoK state ID: 1061
+fu_state_5647bc_area = {
+    3171
+}
+
+# Display name: White Peaks Valley
+# LoK state ID: 528
+fu_state_565e8c_area = {
+    2197
+}
+
+# Display name: Grossgato
+# LoK state ID: 529
+fu_state_56886c_area = {
+    2198 2199 2200 2201
+}
+
+# Display name: Mau-Vegas
+# LoK state ID: 530
+fu_state_56b24c_area = {
+    2202 2203 2204
+}
+
+# Display name: Purrton
+# LoK state ID: 531
+fu_state_56dc2c_area = {
+    2205 4734
+}
+
+# Display name: Drakenburg
+# LoK state ID: 532
+fu_state_57060d_area = {
+    2206 4743
+}
+
+# Display name: Kleinberg
+# LoK state ID: 533
+fu_state_572fed_area = {
+    2207 2208 2209 4699
+}
+
+# Display name: Mittelmewxico
+# LoK state ID: 534
+fu_state_5759cd_area = {
+    2210 2211 2212
+}
+
+# Display name: Mewselle
+# LoK state ID: 535
+fu_state_5783ad_area = {
+    2213
+}
+
+# Display name: Katzbrucken
+# LoK state ID: 536
+fu_state_57ad8e_area = {
+    2214
+}
+
+# Display name: Stefanstadt
+# LoK state ID: 537
+fu_state_57d76e_area = {
+    2215 2216 4573
+}
+
+# Display name: Melcey
+# LoK state ID: 538
+fu_state_58014e_area = {
+    2217
+}
+
+# Display name: Becatlingen
+# LoK state ID: 539
+fu_state_582b2e_area = {
+    2218
+}
+
+# Display name: Kittensdorf
+# LoK state ID: 540
+fu_state_58550f_area = {
+    2219 2220 2221
+}
+
+# Display name: Cathy
+# LoK state ID: 541
+fu_state_587eef_area = {
+    2222 2223
+}
+
+# Display name: Kibblebaden
+# LoK state ID: 542
+fu_state_58a8cf_area = {
+    2224 2225
+}
+
+# Display name: Katnover
+# LoK state ID: 543
+fu_state_58d2af_area = {
+    2226 2227
+}
+
+# Display name: Narnburg
+# LoK state ID: 544
+fu_state_58fc90_area = {
+    2228 2229
+}
+
+# Display name: Katstone
+# LoK state ID: 545
+fu_state_592670_area = {
+    2230 2231 2232 2233 2234
+}
+
+# Display name: Janglastadt
+# LoK state ID: 546
+fu_state_595050_area = {
+    2235 2236 2237
+}
+
+# Display name: Lyuinwald
+# LoK state ID: 547
+fu_state_597a31_area = {
+    2238 2239
+}
+
+# Display name: Lionlakstadt
+# LoK state ID: 548
+fu_state_59a411_area = {
+    2240 2241 2242
+}
+
+# Display name: Katnemasse
+# LoK state ID: 549
+fu_state_59cdf1_area = {
+    2243 2244 2245 4624
+}
+
+# Display name: Kattnecy
+# LoK state ID: 550
+fu_state_59f7d1_area = {
+    2246 2247
+}
+
+# Display name: Mewport
+# LoK state ID: 551
+fu_state_5a21b2_area = {
+    2248 2249 2250
+}
+
+# Display name: Mewbet
+# LoK state ID: 552
+fu_state_5a4b92_area = {
+    2251
+}
+
+# Display name: Mewdu Mush
+# LoK state ID: 553
+fu_state_5a7572_area = {
+    2252 4601
+}
+
+# Display name: Meowcerne
+# LoK state ID: 554
+fu_state_5a9f52_area = {
+    2253 2254 2255 4614
+}
+
+# Display name: Sudstruken
+# LoK state ID: 555
+fu_state_5ac933_area = {
+    2256 2257
+}
+
+# Display name: Channecy
+# LoK state ID: 556
+fu_state_5af313_area = {
+    2258 4627
+}
+
+# Display name: Katzberg
+# LoK state ID: 557
+fu_state_5b1cf3_area = {
+    2259 2260 2261
+}
+
+# Display name: Mount Kitts
+# LoK state ID: 558
+fu_state_5b46d3_area = {
+    2262 4609 4622
+}
+
+# Display name: Luchsi
+# LoK state ID: 559
+fu_state_5b70b4_area = {
+    2263
+}
+
+# Display name: Kibbleshores
+# LoK state ID: 560
+fu_state_5b9a94_area = {
+    2264 2265
+}
+
+# Display name: Brambaceg
+# LoK state ID: 561
+fu_state_5bc474_area = {
+    2266 2267 2268 4656
+}
+
+# Display name: Meostadt
+# LoK state ID: 562
+fu_state_5bee55_area = {
+    2269
+}
+
+# Display name: Armhop
+# LoK state ID: 752
+fu_state_5c01d5_area = {
+    4986
+}
+
+# Display name: Celstor
+# LoK state ID: 563
+fu_state_5c1835_area = {
+    2270 2271 4604
+}
+
+# Display name: Ezikat
+# LoK state ID: 564
+fu_state_5c4215_area = {
+    2272
+}
+
+# Display name: Magnetischergeschwollen
+# LoK state ID: 565
+fu_state_5c6bf5_area = {
+    2273
+}
+
+# Display name: Boogenstadt
+# LoK state ID: 566
+fu_state_5c95d6_area = {
+    2274 2275
+}
+
+# Display name: Middenpaw
+# LoK state ID: 567
+fu_state_5cbfb6_area = {
+    2276
+}
+
+# Display name: Finstratus
+# LoK state ID: 568
+fu_state_5ce996_area = {
+    2277 2278
+}
+
+# Display name: Zawrich
+# LoK state ID: 569
+fu_state_5d1376_area = {
+    2279 2280
+}
+
+# Display name: Rosestadt
+# LoK state ID: 570
+fu_state_5d3d57_area = {
+    2281 2282
+}
+
+# Display name: Point Ene
+# LoK state ID: 571
+fu_state_5d6737_area = {
+    2283 2284 4557
+}
+
+# Display name: Fort Nxeen
+# LoK state ID: 572
+fu_state_5d9117_area = {
+    2285 2286
+}
+
+# Display name: Xoeken
+# LoK state ID: 573
+fu_state_5dbaf7_area = {
+    2287
+}
+
+# Display name: Aeries
+# LoK state ID: 574
+fu_state_5de4d8_area = {
+    2288
+}
+
+# Display name: Exene
+# LoK state ID: 575
+fu_state_5e0eb8_area = {
+    2289 2290
+}
+
+# Display name: Fort Keneexno
+# LoK state ID: 576
+fu_state_5e3898_area = {
+    2291 2292
+}
+
+# Display name: Pawrdeaux
+# LoK state ID: 577
+fu_state_5e6279_area = {
+    2293 2294
+}
+
+# Display name: Binettestadt
+# LoK state ID: 578
+fu_state_5e8c59_area = {
+    2295 2296 2297
+}
+
+# Display name: Konnon
+# LoK state ID: 579
+fu_state_5eb639_area = {
+    2298 2299 4584
+}
+
+# Display name: Catsden
+# LoK state ID: 580
+fu_state_5ee019_area = {
+    2300 2301
+}
+
+# Display name: Kiat
+# LoK state ID: 581
+fu_state_5f09fa_area = {
+    2302 2303
+}
+
+# Display name: Westen-Tigar
+# LoK state ID: 582
+fu_state_5f33da_area = {
+    2304 2305
+}
+
+# Display name: Punchiestadt
+# LoK state ID: 583
+fu_state_5f5dba_area = {
+    2306 2307
+}
+
+# Display name: Mewbiere
+# LoK state ID: 584
+fu_state_5f879a_area = {
+    2308 2309
+}
+
+# Display name: Neu-Loris
+# LoK state ID: 585
+fu_state_5fb17b_area = {
+    2310 2311
+}
+
+# Display name: Mah
+# LoK state ID: 586
+fu_state_5fdb5b_area = {
+    2312
+}
+
+# Display name: Katza
+# LoK state ID: 587
+fu_state_60053b_area = {
+    2313
+}
+
+# Display name: Katzi
+# LoK state ID: 588
+fu_state_602f1b_area = {
+    2314 2315
+}
+
+# Display name: Batar
+# LoK state ID: 589
+fu_state_6058fc_area = {
+    2316
+}
+
+# Display name: Meownisberg
+# LoK state ID: 590
+fu_state_6082dc_area = {
+    2317 2318
+}
+
+# Display name: Sud-Himezulte
+# LoK state ID: 591
+fu_state_60acbc_area = {
+    2319
+}
+
+# Display name: Extremeowdura
+# LoK state ID: 592
+fu_state_60d69c_area = {
+    4770
+}
+
+# Display name: Meon
+# LoK state ID: 593
+fu_state_61007d_area = {
+    2320
+}
+
+# Display name: Nordessenstaaten
+# LoK state ID: 594
+fu_state_612a5d_area = {
+    2321
+}
+
+# Display name: Yarnis Bergen
+# LoK state ID: 595
+fu_state_61543d_area = {
+    2322
+}
+
+# Display name: Luftkatzennia
+# LoK state ID: 596
+fu_state_617e1e_area = {
+    2323
+}
+
+# Display name: Sudflutstadt
+# LoK state ID: 597
+fu_state_61a7fe_area = {
+    2324 2325
+}
+
+# Display name: Kattailwald
+# LoK state ID: 598
+fu_state_61d1de_area = {
+    2326 4664
+}
+
+# Display name: Wialletstadt
+# LoK state ID: 599
+fu_state_61fbbe_area = {
+    2327
+}
+
+# Display name: Meghaduta
+# LoK state ID: 1205
+fu_state_620ecf_area = {
+    3672
+}
+
+# Display name: Potkin
+# LoK state ID: 600
+fu_state_62259f_area = {
+    2328 4536
+}
+
+# Display name: Neukatstadt
+# LoK state ID: 601
+fu_state_624f7f_area = {
+    2329 4546
+}
+
+# Display name: Eliottown
+# LoK state ID: 602
+fu_state_62795f_area = {
+    2330 2331
+}
+
+# Display name: Meowmeow
+# LoK state ID: 603
+fu_state_62a33f_area = {
+    2332 2333 2334
+}
+
+# Display name: Mimimi
+# LoK state ID: 604
+fu_state_62cd20_area = {
+    2335
+}
+
+# Display name: Alabaster
+# LoK state ID: 605
+fu_state_62f700_area = {
+    2336 2337
+}
+
+# Display name: Nitros
+# LoK state ID: 606
+fu_state_6320e0_area = {
+    2338 2339 2340 2341 4722 4736 4740 4750
+}
+
+# Display name: Ajax
+# LoK state ID: 607
+fu_state_634ac0_area = {
+    2342 2343 2344 2345 4747
+}
+
+# Display name: Kobalt
+# LoK state ID: 608
+fu_state_6374a1_area = {
+    2346 2347 4805
+}
+
+# Display name: Valaros
+# LoK state ID: 609
+fu_state_639e81_area = {
+    2348 2349 2350 4686 4702 4703 4707
+}
+
+# Display name: Titanus
+# LoK state ID: 610
+fu_state_63c861_area = {
+    2351 2352 4668 4675
+}
+
+# Display name: Aluminitas
+# LoK state ID: 611
+fu_state_63f242_area = {
+    2353
+}
+
+# Display name: Myriad
+# LoK state ID: 612
+fu_state_641c22_area = {
+    2354 2355 4762 4768 4781
+}
+
+# Display name: Sudbergen
+# LoK state ID: 613
+fu_state_644602_area = {
+    2356 2357 4721
+}
+
+# Display name: Varinka
+# LoK state ID: 614
+fu_state_646fe2_area = {
+    2358 2359 2360
+}
+
+# Display name: Lunre
+# LoK state ID: 615
+fu_state_6499c3_area = {
+    2361 2362 2363
+}
+
+# Display name: Pawcegi
+# LoK state ID: 616
+fu_state_64c3a3_area = {
+    2364 2365 2366
+}
+
+# Display name: Teragaron
+# LoK state ID: 617
+fu_state_64ed83_area = {
+    2367 2368 4634
+}
+
+# Display name: Shromar
+# LoK state ID: 618
+fu_state_651763_area = {
+    2369 2370 2371
+}
+
+# Display name: Shroom Valley
+# LoK state ID: 619
+fu_state_654144_area = {
+    2372 2373 4638
+}
+
+# Display name: Tyukland
+# LoK state ID: 620
+fu_state_656b24_area = {
+    2374 2375 2376 2377 2378
+}
+
+# Display name: Zuspaw
+# LoK state ID: 621
+fu_state_659504_area = {
+    2379 2380 2381 2382
+}
+
+# Display name: Qwydai
+# LoK state ID: 622
+fu_state_65bee4_area = {
+    2383 2384 2385 2386 2387 2388
+}
+
+# Display name: Kandlejhood
+# LoK state ID: 623
+fu_state_65e8c5_area = {
+    2389 2390
+}
+
+# Display name: Daichester
+# LoK state ID: 624
+fu_state_6612a5_area = {
+    2391 2392 2393 2394 2395
+}
+
+# Display name: Central Zuspriland
+# LoK state ID: 625
+fu_state_663c85_area = {
+    2396 2397 2398
+}
+
+# Display name: Blasterian Canal
+# LoK state ID: 626
+fu_state_666666_area = {
+    2399
+}
+
+# Display name: Minskbark
+# LoK state ID: 627
+fu_state_669046_area = {
+    2400 2401 4550
+}
+
+# Display name: Brestbone
+# LoK state ID: 628
+fu_state_66ba26_area = {
+    2402 2403 2404
+}
+
+# Display name: Grodnogrowl
+# LoK state ID: 629
+fu_state_66e406_area = {
+    2405 2406 2407
+}
+
+# Display name: Cutelogne
+# LoK state ID: 630
+fu_state_670de7_area = {
+    2408 2409
+}
+
+# Display name: Jimmygorod
+# LoK state ID: 631
+fu_state_6737c7_area = {
+    2410 2411 2412 4549
+}
+
+# Display name: Barkdivostok
+# LoK state ID: 632
+fu_state_6761a7_area = {
+    2413 2414 2415 4554
+}
+
+# Display name: Wolfgorod
+# LoK state ID: 633
+fu_state_678b87_area = {
+    2416 2417 4553
+}
+
+# Display name: Samaruff
+# LoK state ID: 634
+fu_state_67b568_area = {
+    2418 2419
+}
+
+# Display name: Barkzyr
+# LoK state ID: 635
+fu_state_67df48_area = {
+    2420 2421
+}
+
+# Display name: Dogno
+# LoK state ID: 636
+fu_state_680928_area = {
+    2422 2423 2424 2425
+}
+
+# Display name: Mogiluff
+# LoK state ID: 637
+fu_state_683308_area = {
+    2426 2427 2428
+}
+
+# Display name: Blasterburg
+# LoK state ID: 638
+fu_state_685ce9_area = {
+    2429 2430 2431 4572
+}
+
+# Display name: Dobrushund
+# LoK state ID: 639
+fu_state_6886c9_area = {
+    2432 2433
+}
+
+# Display name: Gomelhound
+# LoK state ID: 640
+fu_state_68b0a9_area = {
+    2434 2435 2436
+}
+
+# Display name: Tailgorod
+# LoK state ID: 641
+fu_state_68da89_area = {
+    2437 2438 2439 4606
+}
+
+# Display name: Carbarktsonnitz
+# LoK state ID: 642
+fu_state_69046a_area = {
+    2440 2441 2442
+}
+
+# Display name: Quantus Hub
+# LoK state ID: 1291
+fu_state_6916fa_area = {
+    3971 3973 3976 3977 3980 4993
+}
+
+# Display name: Parat
+# LoK state ID: 643
+fu_state_692e4a_area = {
+    2443 2444
+}
+
+# Display name: Esmestadt
+# LoK state ID: 644
+fu_state_69582a_area = {
+    2445
+}
+
+# Display name: Mewssy
+# LoK state ID: 645
+fu_state_69820b_area = {
+    2446
+}
+
+# Display name: Meowntreal
+# LoK state ID: 646
+fu_state_69abeb_area = {
+    2447 2448 2449
+}
+
+# Display name: Luxempaw
+# LoK state ID: 647
+fu_state_69d5cb_area = {
+    2450 2451 2452
+}
+
+# Display name: Katzhof
+# LoK state ID: 648
+fu_state_69ffab_area = {
+    2453 2454
+}
+
+# Display name: Far South Infernum's Castle
+# LoK state ID: 1304
+fu_state_6a27ac_area = {
+    5002
+}
+
+# Display name: Nord-Ataril
+# LoK state ID: 649
+fu_state_6a298c_area = {
+    2455
+}
+
+# Display name: Naval Hub
+# LoK state ID: 1305
+fu_state_6a3c9c_area = {
+    4058 5003
+}
+
+# Display name: Herzkat
+# LoK state ID: 650
+fu_state_6a536c_area = {
+    2456 2457
+}
+
+# Display name: New Iantrus
+# LoK state ID: 5
+fu_state_6a5e64_area = {
+    4998 4999
+}
+
+# Display name: Stronberg
+# LoK state ID: 651
+fu_state_6a7d4c_area = {
+    2458 4565
+}
+
+# Display name: Pawllington
+# LoK state ID: 652
+fu_state_6aa72c_area = {
+    2459
+}
+
+# Display name: Kaisershafen
+# LoK state ID: 653
+fu_state_6ad10d_area = {
+    2460 2461
+}
+
+# Display name: Derdoux
+# LoK state ID: 654
+fu_state_6afaed_area = {
+    2462 2463
+}
+
+# Display name: Elowinien
+# LoK state ID: 655
+fu_state_6b24cd_area = {
+    2464 2465
+}
+
+# Display name: Kokoblentz
+# LoK state ID: 656
+fu_state_6b4ead_area = {
+    2466 2467
+}
+
+# Display name: Teuyaka
+# LoK state ID: 657
+fu_state_6b788e_area = {
+    2468 2469
+}
+
+# Display name: Leipig
+# LoK state ID: 658
+fu_state_6ba26e_area = {
+    2470 2471 2472
+}
+
+# Display name: Challe
+# LoK state ID: 659
+fu_state_6bcc4e_area = {
+    2473 2474 2475
+}
+
+# Display name: Chantaw
+# LoK state ID: 660
+fu_state_6bf62f_area = {
+    2476 2477 2478
+}
+
+# Display name: Nordansicht
+# LoK state ID: 661
+fu_state_6c200f_area = {
+    2479 2480
+}
+
+# Display name: Wolfenstadt
+# LoK state ID: 662
+fu_state_6c49ef_area = {
+    2481 2482
+}
+
+# Display name: Felineheim
+# LoK state ID: 663
+fu_state_6c73cf_area = {
+    2483 4535
+}
+
+# Display name: Felinesiedlung
+# LoK state ID: 664
+fu_state_6c9db0_area = {
+    2484 2485
+}
+
+# Display name: Yarnfelde
+# LoK state ID: 665
+fu_state_6cc790_area = {
+    2486 2487
+}
+
+# Display name: Central Pawldrinsel
+# LoK state ID: 666
+fu_state_6cf170_area = {
+    2488
+}
+
+# Display name: Southern Pawldrinsel
+# LoK state ID: 667
+fu_state_6d1b50_area = {
+    2489
+}
+
+# Display name: Eastern Pawldrinsel
+# LoK state ID: 668
+fu_state_6d4531_area = {
+    2490 2491
+}
+
+# Display name: Evla
+# LoK state ID: 715
+fu_state_74f55d_area = {
+    2492 2493
+}
+
+# Display name: Tarva
+# LoK state ID: 716
+fu_state_751f3d_area = {
+    2494 2495
+}
+
+# Display name: Kohla
+# LoK state ID: 717
+fu_state_75491e_area = {
+    2496
+}
+
+# Display name: Owaeville
+# LoK state ID: 718
+fu_state_7572fe_area = {
+    2497 2498 2499
+}
+
+# Display name: Cocopiegne
+# LoK state ID: 719
+fu_state_759cde_area = {
+    2500 2501 2502 2503
+}
+
+# Display name: Xuhre
+# LoK state ID: 720
+fu_state_75c6be_area = {
+    2504 2505
+}
+
+# Display name: Ailesainque
+# LoK state ID: 721
+fu_state_75f09f_area = {
+    2506 2507
+}
+
+# Display name: Midi-Viennadie
+# LoK state ID: 722
+fu_state_761a7f_area = {
+    2508 2509 2510
+}
+
+# Display name: Illiberie
+# LoK state ID: 723
+fu_state_76445f_area = {
+    2511 2512 2513
+}
+
+# Display name: Vasiekoi
+# LoK state ID: 724
+fu_state_766e3f_area = {
+    2514 2515
+}
+
+# Display name: Bremareton
+# LoK state ID: 725
+fu_state_769820_area = {
+    2516
+}
+
+# Display name: Galloping Crossing
+# LoK state ID: 726
+fu_state_76c200_area = {
+    2517 2518 2519
+}
+
+# Display name: Shady Creek
+# LoK state ID: 727
+fu_state_76ebe0_area = {
+    2520 2521 2522
+}
+
+# Display name: High Hill
+# LoK state ID: 728
+fu_state_7715c1_area = {
+    2523 2524 2525
+}
+
+# Display name: Northern Pegasia
+# LoK state ID: 729
+fu_state_773fa1_area = {
+    2526 2527 2528 4812
+}
+
+# Display name: Celestadt
+# LoK state ID: 730
+fu_state_776981_area = {
+    2529 2530 2531 4797
+}
+
+# Display name: Bordeleau
+# LoK state ID: 731
+fu_state_779361_area = {
+    2532 2533 2534
+}
+
+# Display name: Oueston
+# LoK state ID: 732
+fu_state_77bd42_area = {
+    2535 2536
+}
+
+# Display name: Fossemontre
+# LoK state ID: 733
+fu_state_77e722_area = {
+    2537 2538 2539
+}
+
+# Display name: Pagen
+# LoK state ID: 734
+fu_state_781102_area = {
+    2540 4859
+}
+
+# Display name: Kaillen
+# LoK state ID: 735
+fu_state_783ae2_area = {
+    2541
+}
+
+# Display name: Moulinet
+# LoK state ID: 736
+fu_state_7864c3_area = {
+    2542 2543 2544
+}
+
+# Display name: Cularie
+# LoK state ID: 737
+fu_state_788ea3_area = {
+    2545 2546 4822
+}
+
+# Display name: Beurrioude
+# LoK state ID: 738
+fu_state_78b883_area = {
+    2547 2548
+}
+
+# Display name: Qualicie
+# LoK state ID: 739
+fu_state_78e263_area = {
+    2549 2550
+}
+
+# Display name: Lylle
+# LoK state ID: 740
+fu_state_790c44_area = {
+    2551 2552
+}
+
+# Display name: Ucétie
+# LoK state ID: 741
+fu_state_793624_area = {
+    2553 4844
+}
+
+# Display name: Styvellines
+# LoK state ID: 742
+fu_state_796004_area = {
+    2554 2555
+}
+
+# Display name: Aurlean
+# LoK state ID: 743
+fu_state_7989e5_area = {
+    2556 2557 4834
+}
+
+# Display name: Saumme
+# LoK state ID: 744
+fu_state_79b3c5_area = {
+    2558 2559 2560
+}
+
+# Display name: Yarnington
+# LoK state ID: 745
+fu_state_79dda5_area = {
+    2561 2562 2563
+}
+
+# Display name: Rowotnik
+# LoK state ID: 746
+fu_state_7a0785_area = {
+    2564
+}
+
+# Display name: Hoplin
+# LoK state ID: 747
+fu_state_7a3166_area = {
+    2565 2566 2567 2568
+}
+
+# Display name: Doneghare
+# LoK state ID: 748
+fu_state_7a5b46_area = {
+    2569 2570 2571 2572 4888
+}
+
+# Display name: Southport
+# LoK state ID: 749
+fu_state_7a8526_area = {
+    2573 2574 2575
+}
+
+# Display name: Adhare
+# LoK state ID: 750
+fu_state_7aaf06_area = {
+    2576 2577 2578 4932
+}
+
+# Display name: Bundraford
+# LoK state ID: 751
+fu_state_7ad8e7_area = {
+    2579 2580 2581
+}
+
+# Display name: Armhop
+# LoK state ID: 752
+fu_state_7b02c7_area = {
+    2582 4955 4985
+}
+
+# Display name: Bungle
+# LoK state ID: 753
+fu_state_7b2ca7_area = {
+    2583 2584 2585 2586
+}
+
+# Display name: Firesea
+# LoK state ID: 754
+fu_state_7b5687_area = {
+    2587 2588 2589 4926
+}
+
+# Display name: Buncible
+# LoK state ID: 755
+fu_state_7b8068_area = {
+    2590 2591
+}
+
+# Display name: Volcabun
+# LoK state ID: 756
+fu_state_7baa48_area = {
+    2592
+}
+
+# Display name: Botetown
+# LoK state ID: 757
+fu_state_7bd428_area = {
+    2593 2594 2595
+}
+
+# Display name: Bunork
+# LoK state ID: 758
+fu_state_7bfe09_area = {
+    2596 2597
+}
+
+# Display name: Bunrry
+# LoK state ID: 759
+fu_state_7c27e9_area = {
+    2598 2599 2600
+}
+
+# Display name: Covebun City
+# LoK state ID: 760
+fu_state_7c51c9_area = {
+    2601 2602
+}
+
+# Display name: Caroshel
+# LoK state ID: 761
+fu_state_7c7ba9_area = {
+    2603
+}
+
+# Display name: Lhara
+# LoK state ID: 762
+fu_state_7ca58a_area = {
+    2604 2605
+}
+
+# Display name: Upbuntrick
+# LoK state ID: 763
+fu_state_7ccf6a_area = {
+    2606 2607
+}
+
+# Display name: Buyantse
+# LoK state ID: 764
+fu_state_7cf94a_area = {
+    2608
+}
+
+# Display name: Western Shores
+# LoK state ID: 765
+fu_state_7d232a_area = {
+    2609
+}
+
+# Display name: Grandbuney
+# LoK state ID: 766
+fu_state_7d4d0b_area = {
+    2610 2611 2612
+}
+
+# Display name: Bunmal
+# LoK state ID: 767
+fu_state_7d76eb_area = {
+    2613 2614 2615 2616
+}
+
+# Display name: Yelbun
+# LoK state ID: 768
+fu_state_7da0cb_area = {
+    2617 2618 2619 2620 2621
+}
+
+# Display name: Carotney
+# LoK state ID: 769
+fu_state_7dcaab_area = {
+    2622 2623 2624 2625
+}
+
+# Display name: Bunbunia
+# LoK state ID: 770
+fu_state_7df48c_area = {
+    2626 2627 2628 2629
+}
+
+# Display name: Zhangbun
+# LoK state ID: 771
+fu_state_7e1e6c_area = {
+    2630 2631 2632
+}
+
+# Display name: Carot Springs
+# LoK state ID: 772
+fu_state_7e484c_area = {
+    2633 2634
+}
+
+# Display name: Harity Falls
+# LoK state ID: 773
+fu_state_7e722c_area = {
+    2635 2636 2637 2638 2639
+}
+
+# Display name: Bunoshima
+# LoK state ID: 774
+fu_state_7e9c0d_area = {
+    2640 2641 2642 2643
+}
+
+# Display name: Fiftybun
+# LoK state ID: 775
+fu_state_7ec5ed_area = {
+    2644 2645
+}
+
+# Display name: Bunfast
+# LoK state ID: 776
+fu_state_7eefcd_area = {
+    2646 2647
+}
+
+# Display name: Nordbun
+# LoK state ID: 777
+fu_state_7f19ae_area = {
+    2648 2649 2650 4863
+}
+
+# Display name: Hopping Meadows
+# LoK state ID: 778
+fu_state_7f438e_area = {
+    2651 2652 2653
+}
+
+# Display name: Bunvelline
+# LoK state ID: 779
+fu_state_7f6d6e_area = {
+    2654 2655
+}
+
+# Display name: Foraoise Cairead
+# LoK state ID: 780
+fu_state_7f974e_area = {
+    2656 2657
+}
+
+# Display name: Pohtinville
+# LoK state ID: 781
+fu_state_7fc12f_area = {
+    2658 2659 2660 2661 4933
+}
+
+# Display name: Shimmering Hills
+# LoK state ID: 782
+fu_state_7feb0f_area = {
+    2662 2663
+}
+
+# Display name: Buntowel
+# LoK state ID: 783
+fu_state_8014ef_area = {
+    2664 2665 2666 2667
+}
+
+# Display name: Rockenbun
+# LoK state ID: 784
+fu_state_803ecf_area = {
+    2668 2669 4936
+}
+
+# Display name: Bundor
+# LoK state ID: 785
+fu_state_8068b0_area = {
+    2670 2671
+}
+
+# Display name: Morghare
+# LoK state ID: 786
+fu_state_809290_area = {
+    2672 2673
+}
+
+# Display name: Hareport
+# LoK state ID: 787
+fu_state_80bc70_area = {
+    2674 2675 2676 2677 2678
+}
+
+# Display name: Grandbun Woods
+# LoK state ID: 788
+fu_state_80e650_area = {
+    2679 2680 2681 2682 2683
+}
+
+# Display name: Heavenbun
+# LoK state ID: 789
+fu_state_811031_area = {
+    2684 4902
+}
+
+# Display name: Kealand
+# LoK state ID: 790
+fu_state_813a11_area = {
+    2685 2686 2687 2688
+}
+
+# Display name: Grande Loutteria
+# LoK state ID: 791
+fu_state_8163f1_area = {
+    2689 2690
+}
+
+# Display name: Filosimpàra
+# LoK state ID: 792
+fu_state_818dd2_area = {
+    2691 2692
+}
+
+# Display name: Nòvbàrùs
+# LoK state ID: 793
+fu_state_81b7b2_area = {
+    2693 2694 2695 2696
+}
+
+# Display name: Kàpagroek
+# LoK state ID: 794
+fu_state_81e192_area = {
+    2697 2698
+}
+
+# Display name: Korpeio
+# LoK state ID: 795
+fu_state_820b72_area = {
+    2699 2700 2701 2702 2703
+}
+
+# Display name: Aqùkàr
+# LoK state ID: 796
+fu_state_823553_area = {
+    2704 2705 2706 2707
+}
+
+# Display name: Indsitra
+# LoK state ID: 797
+fu_state_825f33_area = {
+    2708 2709
+}
+
+# Display name: Bergshire
+# LoK state ID: 1061
+fu_state_826a9a_area = {
+    3172
+}
+
+# Display name: Kaparus
+# LoK state ID: 798
+fu_state_828913_area = {
+    2710 2711 2712
+}
+
+# Display name: Septentri
+# LoK state ID: 799
+fu_state_82b2f3_area = {
+    2713 2714 2715
+}
+
+# Display name: Pordus
+# LoK state ID: 800
+fu_state_82dcd4_area = {
+    2716
+}
+
+# Display name: Maritipia
+# LoK state ID: 801
+fu_state_8306b4_area = {
+    2717 2718 2719
+}
+
+# Display name: Ceposta
+# LoK state ID: 802
+fu_state_833094_area = {
+    2720
+}
+
+# Display name: Neu-Meo
+# LoK state ID: 803
+fu_state_835a74_area = {
+    2721 4956
+}
+
+# Display name: Nouvelle Yorke
+# LoK state ID: 804
+fu_state_838455_area = {
+    2722 2723 2724
+}
+
+# Display name: Cote Occidentale
+# LoK state ID: 805
+fu_state_83ae35_area = {
+    2725
+}
+
+# Display name: Hideash
+# LoK state ID: 806
+fu_state_83d815_area = {
+    2726
+}
+
+# Display name: San Foglia
+# LoK state ID: 807
+fu_state_8401f5_area = {
+    2727 2728
+}
+
+# Display name: Costadipesci
+# LoK state ID: 808
+fu_state_842bd6_area = {
+    2729 2730
+}
+
+# Display name: Heldford
+# LoK state ID: 809
+fu_state_8455b6_area = {
+    2731 2732
+}
+
+# Display name: Lesser Lisejr
+# LoK state ID: 810
+fu_state_847f96_area = {
+    2733 4890
+}
+
+# Display name: Thalmandy
+# LoK state ID: 811
+fu_state_84a977_area = {
+    2734 2735
+}
+
+# Display name: Muldvarpe Coasts
+# LoK state ID: 812
+fu_state_84d357_area = {
+    2736
+}
+
+# Display name: Rozzmione Hills
+# LoK state ID: 813
+fu_state_84fd37_area = {
+    2737 2738
+}
+
+# Display name: Distretto dei Pescatori
+# LoK state ID: 814
+fu_state_852717_area = {
+    2739 2740
+}
+
+# Display name: Castellaquercia
+# LoK state ID: 815
+fu_state_8550f8_area = {
+    2741 2742 2743
+}
+
+# Display name: Foresta Grande
+# LoK state ID: 816
+fu_state_857ad8_area = {
+    2744 2745 2746
+}
+
+# Display name: Iron Mounts
+# LoK state ID: 817
+fu_state_85a4b8_area = {
+    2747 4958
+}
+
+# Display name: Goaghan Lake
+# LoK state ID: 818
+fu_state_85ce98_area = {
+    2748
+}
+
+# Display name: Upper Ganymeda
+# LoK state ID: 819
+fu_state_85f879_area = {
+    2749 2750
+}
+
+# Display name: Greater Solity
+# LoK state ID: 820
+fu_state_862259_area = {
+    2751 2752
+}
+
+# Display name: Pyrrhus
+# LoK state ID: 821
+fu_state_864c39_area = {
+    2753
+}
+
+# Display name: Sagespire
+# LoK state ID: 822
+fu_state_867619_area = {
+    2754 2755 2756
+}
+
+# Display name: Chok
+# LoK state ID: 823
+fu_state_869ffa_area = {
+    2757 2758
+}
+
+# Display name: Inner Katpine Valley
+# LoK state ID: 824
+fu_state_86c9da_area = {
+    2759
+}
+
+# Display name: Île de Corélie
+# LoK state ID: 825
+fu_state_86f3ba_area = {
+    2760
+}
+
+# Display name: Petite Corélie
+# LoK state ID: 826
+fu_state_871d9b_area = {
+    2761
+}
+
+# Display name: Halile Méridionale
+# LoK state ID: 827
+fu_state_87477b_area = {
+    2762 2763 2764
+}
+
+# Display name: Baie Lunaire
+# LoK state ID: 828
+fu_state_87715b_area = {
+    2765 2766
+}
+
+# Display name: Halile Septentrionale
+# LoK state ID: 829
+fu_state_879b3b_area = {
+    2767 2768 2769
+}
+
+# Display name: Iron Basin
+# LoK state ID: 830
+fu_state_87c51c_area = {
+    2770
+}
+
+# Display name: Jorviland
+# LoK state ID: 831
+fu_state_87eefc_area = {
+    2771
+}
+
+# Display name: N.Pawsterdam South
+# LoK state ID: 832
+fu_state_8818dc_area = {
+    2772
+}
+
+# Display name: N.Pawsterdam North
+# LoK state ID: 833
+fu_state_8842bc_area = {
+    2773
+}
+
+# Display name: Purriland
+# LoK state ID: 834
+fu_state_886c9d_area = {
+    2774 2775 2776
+}
+
+# Display name: Katpine Mountains (N)
+# LoK state ID: 838
+fu_state_89141e_area = {
+    4906
+}
+
+# Display name: Katpine Mountain (E)
+# LoK state ID: 839
+fu_state_893dfe_area = {
+    4908
+}
+
+# Display name: Bocerie du Sud
+# LoK state ID: 840
+fu_state_8967de_area = {
+    2777 4856
+}
+
+# Display name: Garyxia
+# LoK state ID: 841
+fu_state_8991bf_area = {
+    2778 2779
+}
+
+# Display name: Drillbit
+# LoK state ID: 842
+fu_state_89bb9f_area = {
+    2780 2781 2782 4872 4873
+}
+
+# Display name: Parachute
+# LoK state ID: 843
+fu_state_89e57f_area = {
+    2783 2784
+}
+
+# Display name: Wafburg
+# LoK state ID: 844
+fu_state_8a0f5f_area = {
+    2785 2786 4876
+}
+
+# Display name: Lomo
+# LoK state ID: 845
+fu_state_8a3940_area = {
+    2787 2788 4881
+}
+
+# Display name: Nekogar
+# LoK state ID: 846
+fu_state_8a6320_area = {
+    2789 2790
+}
+
+# Display name: Gtuntuh
+# LoK state ID: 847
+fu_state_8a8d00_area = {
+    2791 2792 2793 4831
+}
+
+# Display name: Katernkanta
+# LoK state ID: 848
+fu_state_8ab6e0_area = {
+    2794 2795
+}
+
+# Display name: Yeryk
+# LoK state ID: 849
+fu_state_8ae0c1_area = {
+    2796 2797
+}
+
+# Display name: Umtraha
+# LoK state ID: 850
+fu_state_8b0aa1_area = {
+    2798 2799 4828 4829
+}
+
+# Display name: Brongon Gede
+# LoK state ID: 851
+fu_state_8b3481_area = {
+    2800 2801
+}
+
+# Display name: Imakani
+# LoK state ID: 852
+fu_state_8b5e61_area = {
+    4833
+}
+
+# Display name: South Démotagne
+# LoK state ID: 1156
+fu_state_8e12c5_area = {
+    3512
+}
+
+# Display name: Velthordshire
+# LoK state ID: 880
+fu_state_8ff2e9_area = {
+    2802 2803
+}
+
+# Display name: Langcastle-On-Bog
+# LoK state ID: 881
+fu_state_901cc9_area = {
+    2804
+}
+
+# Display name: Lowcoast
+# LoK state ID: 882
+fu_state_9046a9_area = {
+    2805 2806 4897
+}
+
+# Display name: S. Arivoejan Mountains
+# LoK state ID: 885
+fu_state_90c44a_area = {
+    4845
+}
+
+# Display name: Dogeheit Mountains
+# LoK state ID: 886
+fu_state_90ee2a_area = {
+    4850
+}
+
+# Display name: Platlan Highlands
+# LoK state ID: 887
+fu_state_91180b_area = {
+    2807
+}
+
+# Display name: Terence Mountains
+# LoK state ID: 888
+fu_state_9141eb_area = {
+    4867
+}
+
+# Display name: Mount Ylmira
+# LoK state ID: 889
+fu_state_916bcb_area = {
+    4877
+}
+
+# Display name: Xeirko
+# LoK state ID: 890
+fu_state_9195ac_area = {
+    2808 2809
+}
+
+# Display name: Aelveahein
+# LoK state ID: 891
+fu_state_91bf8c_area = {
+    2810 2811 4811
+}
+
+# Display name: Dourouhtei
+# LoK state ID: 892
+fu_state_91e96c_area = {
+    2812 2813
+}
+
+# Display name: Xaerauvouk
+# LoK state ID: 893
+fu_state_92134c_area = {
+    2814 2815
+}
+
+# Display name: Northern New Kastra
+# LoK state ID: 894
+fu_state_923d2d_area = {
+    2816
+}
+
+# Display name: Western New Kastra
+# LoK state ID: 895
+fu_state_92670d_area = {
+    2817
+}
+
+# Display name: Southern New Kastra
+# LoK state ID: 896
+fu_state_9290ed_area = {
+    2818 4825
+}
+
+# Display name: Narnburg
+# LoK state ID: 898
+fu_state_92e4ae_area = {
+    2819 2820
+}
+
+# Display name: Havener
+# LoK state ID: 899
+fu_state_930e8e_area = {
+    2821 2822
+}
+
+# Display name: Lukastadt
+# LoK state ID: 900
+fu_state_93386e_area = {
+    2823
+}
+
+# Display name: Near South Cize
+# LoK state ID: 901
+fu_state_93624e_area = {
+    2824 2825 2826
+}
+
+# Display name: Oredsk Megapolis
+# LoK state ID: 902
+fu_state_938c2f_area = {
+    2827
+}
+
+# Display name: Oredsk Outskirts
+# LoK state ID: 903
+fu_state_93b60f_area = {
+    2828 2829
+}
+
+# Display name: Sumadikat
+# LoK state ID: 904
+fu_state_93dfef_area = {
+    2830 2831
+}
+
+# Display name: Banata
+# LoK state ID: 905
+fu_state_9409cf_area = {
+    2832 2833
+}
+
+# Display name: Chesedgrad
+# LoK state ID: 906
+fu_state_9433b0_area = {
+    2834
+}
+
+# Display name: Nerva
+# LoK state ID: 907
+fu_state_945d90_area = {
+    2835 2836 2837
+}
+
+# Display name: Crngrad Megapolis
+# LoK state ID: 908
+fu_state_948770_area = {
+    2838 2839
+}
+
+# Display name: Santepij
+# LoK state ID: 909
+fu_state_94b151_area = {
+    2840 2841
+}
+
+# Display name: Uststadt
+# LoK state ID: 910
+fu_state_94db31_area = {
+    2842 2843
+}
+
+# Display name: Sapiniere
+# LoK state ID: 911
+fu_state_950511_area = {
+    2844 2845
+}
+
+# Display name: South Arlenisk
+# LoK state ID: 912
+fu_state_952ef1_area = {
+    2846 2847
+}
+
+# Display name: North Arlenisk
+# LoK state ID: 913
+fu_state_9558d2_area = {
+    2848 2849 2850
+}
+
+# Display name: D.U.G.A. Array
+# LoK state ID: 914
+fu_state_9582b2_area = {
+    2851
+}
+
+# Display name: Hoffstadt
+# LoK state ID: 915
+fu_state_95ac92_area = {
+    2852
+}
+
+# Display name: Roquajevo
+# LoK state ID: 916
+fu_state_95d672_area = {
+    2853 4663
+}
+
+# Display name: Temenice
+# LoK state ID: 917
+fu_state_960053_area = {
+    2854 2855
+}
+
+# Display name: Belkansavet
+# LoK state ID: 918
+fu_state_962a33_area = {
+    2856 2857 2858
+}
+
+# Display name: Bojnika Mountains
+# LoK state ID: 919
+fu_state_965413_area = {
+    2859 2860 4642
+}
+
+# Display name: Northern Nerva
+# LoK state ID: 920
+fu_state_967df3_area = {
+    2861 2862 2863
+}
+
+# Display name: Floslo
+# LoK state ID: 921
+fu_state_96a7d4_area = {
+    2864 2865
+}
+
+# Display name: Trondelague
+# LoK state ID: 922
+fu_state_96d1b4_area = {
+    2866 2867
+}
+
+# Display name: Rossevanejt
+# LoK state ID: 923
+fu_state_96fb94_area = {
+    2868 2869 4619
+}
+
+# Display name: Hopplandesk
+# LoK state ID: 924
+fu_state_972575_area = {
+    2870 2871 2872
+}
+
+# Display name: Roghalande
+# LoK state ID: 925
+fu_state_974f55_area = {
+    2873 2874
+}
+
+# Display name: Basquerud
+# LoK state ID: 926
+fu_state_977935_area = {
+    2875 2876 2877
+}
+
+# Display name: Ballatonne Forests
+# LoK state ID: 927
+fu_state_97a315_area = {
+    2878 2879 2880 2881
+}
+
+# Display name: Lake Ballatonne
+# LoK state ID: 928
+fu_state_97ccf6_area = {
+    2882 2883 2884 2885
+}
+
+# Display name: Novemberstadt
+# LoK state ID: 929
+fu_state_97f6d6_area = {
+    2886 2887
+}
+
+# Display name: Zentraloshien
+# LoK state ID: 930
+fu_state_9820b6_area = {
+    2888 2889 2890
+}
+
+# Display name: Tihanian Woodlands
+# LoK state ID: 931
+fu_state_984a96_area = {
+    2891 2892 2893
+}
+
+# Display name: Novobojnika Woodlands
+# LoK state ID: 932
+fu_state_987477_area = {
+    2894 2895
+}
+
+# Display name: Bassaitte
+# LoK state ID: 933
+fu_state_989e57_area = {
+    2896 2897
+}
+
+# Display name: Kroassiciti
+# LoK state ID: 934
+fu_state_98c837_area = {
+    2898 2899 2900
+}
+
+# Display name: Slavoniciti
+# LoK state ID: 935
+fu_state_98f217_area = {
+    2901 2902
+}
+
+# Display name: Dhalmaciti
+# LoK state ID: 936
+fu_state_991bf8_area = {
+    2903 2904 2905
+}
+
+# Display name: Godreim
+# LoK state ID: 974
+fu_state_993068_area = {
+    4889
+}
+
+# Display name: Bobbian Plains
+# LoK state ID: 937
+fu_state_9945d8_area = {
+    2906 2907 2908
+}
+
+# Display name: Heimlichstaat
+# LoK state ID: 938
+fu_state_996fb8_area = {
+    2909 2910 2911
+}
+
+# Display name: Kisastrat
+# LoK state ID: 939
+fu_state_999999_area = {
+    2912 2913 2914
+}
+
+# Display name: Kirtikia
+# LoK state ID: 940
+fu_state_99c379_area = {
+    2915 2916
+}
+
+# Display name: Nord-Droogien
+# LoK state ID: 941
+fu_state_99ed59_area = {
+    2917 2918
+}
+
+# Display name: Droogenstadt
+# LoK state ID: 942
+fu_state_9a1739_area = {
+    2919 2920
+}
+
+# Display name: New Novarat
+# LoK state ID: 943
+fu_state_9a411a_area = {
+    2921 2922 2923
+}
+
+# Display name: Novoshia
+# LoK state ID: 944
+fu_state_9a6afa_area = {
+    2924 2925 2926
+}
+
+# Display name: Oshian Peaks
+# LoK state ID: 945
+fu_state_9a94da_area = {
+    2927 2928 2929 4785
+}
+
+# Display name: Palikova Interlakia
+# LoK state ID: 946
+fu_state_9abeba_area = {
+    2930 2931 2932
+}
+
+# Display name: Diberre Woods
+# LoK state ID: 947
+fu_state_9ae89b_area = {
+    2933 2934 4772
+}
+
+# Display name: New Dogeheit
+# LoK state ID: 948
+fu_state_9b127b_area = {
+    2935 2936 2937
+}
+
+# Display name: Novania's Shores
+# LoK state ID: 949
+fu_state_9b3c5b_area = {
+    2938 2939
+}
+
+# Display name: Gortian Prairie
+# LoK state ID: 950
+fu_state_9b663b_area = {
+    2940 2941
+}
+
+# Display name: Cape Novi
+# LoK state ID: 951
+fu_state_9b901c_area = {
+    2942 2943 2944
+}
+
+# Display name: Vensis
+# LoK state ID: 952
+fu_state_9bb9fc_area = {
+    2945 2946 2947 2948 2949
+}
+
+# Display name: Shar
+# LoK state ID: 953
+fu_state_9be3dc_area = {
+    2950 2951 2952
+}
+
+# Display name: Reijen
+# LoK state ID: 954
+fu_state_9c0dbc_area = {
+    2953 2954
+}
+
+# Display name: Paol
+# LoK state ID: 955
+fu_state_9c379d_area = {
+    2955 2956
+}
+
+# Display name: Espen
+# LoK state ID: 956
+fu_state_9c617d_area = {
+    2957 2958 2959 2960
+}
+
+# Display name: Magnatia
+# LoK state ID: 957
+fu_state_9c8b5d_area = {
+    2961 2962 2963 2964
+}
+
+# Display name: Lairen
+# LoK state ID: 958
+fu_state_9cb53e_area = {
+    2965 2966 2967 2968 2969 4921
+}
+
+# Display name: Daslai
+# LoK state ID: 959
+fu_state_9cdf1e_area = {
+    2970 2971 2972
+}
+
+# Display name: Chaisen
+# LoK state ID: 960
+fu_state_9d08fe_area = {
+    2973 2974 2975 2976
+}
+
+# Display name: Northern Solstice
+# LoK state ID: 961
+fu_state_9d32de_area = {
+    2977 2978
+}
+
+# Display name: Waterdeen
+# LoK state ID: 962
+fu_state_9d5cbf_area = {
+    2979 2980 2981 2982
+}
+
+# Display name: Southern Hervus
+# LoK state ID: 963
+fu_state_9d869f_area = {
+    2983 2984 2985
+}
+
+# Display name: Plavetan Range
+# LoK state ID: 964
+fu_state_9db07f_area = {
+    2986 4934 4939
+}
+
+# Display name: Western Altairyu
+# LoK state ID: 965
+fu_state_9dda5f_area = {
+    2987 2988
+}
+
+# Display name: Quantus Hub
+# LoK state ID: 1291
+fu_state_9e22f8_area = {
+    3975 4994
+}
+
+# Display name: Mount Izwae
+# LoK state ID: 969
+fu_state_9e81e0_area = {
+    2989 4868
+}
+
+# Display name: Heizong
+# LoK state ID: 970
+fu_state_9eabc1_area = {
+    2990
+}
+
+# Display name: Usswaeri
+# LoK state ID: 971
+fu_state_9ed5a1_area = {
+    2991 2992
+}
+
+# Display name: Zarbin
+# LoK state ID: 972
+fu_state_9eff81_area = {
+    2993
+}
+
+# Display name: Far West Westpaw 3
+# LoK state ID: 1297
+fu_state_9f1f69_area = {
+    4015 4016 4996 4997
+}
+
+# Display name: Parudus
+# LoK state ID: 973
+fu_state_9f2962_area = {
+    2994
+}
+
+# Display name: Near South Infernum's Castle
+# LoK state ID: 1298
+fu_state_9f3e52_area = {
+    5000
+}
+
+# Display name: Godreim
+# LoK state ID: 974
+fu_state_9f5342_area = {
+    2995 4886
+}
+
+# Display name: Paraneum
+# LoK state ID: 975
+fu_state_9f7d22_area = {
+    2996
+}
+
+# Display name: Goprdus
+# LoK state ID: 976
+fu_state_9fa702_area = {
+    2997
+}
+
+# Display name: Tipanum
+# LoK state ID: 977
+fu_state_9fd0e3_area = {
+    2998 2999 4901 4914
+}
+
+# Display name: Tundrabor
+# LoK state ID: 978
+fu_state_9ffac3_area = {
+    3000 3001
+}
+
+# Display name: The Dish
+# LoK state ID: 979
+fu_state_a024a3_area = {
+    3002 3003 3004
+}
+
+# Display name: Far South Infernum's Castle
+# LoK state ID: 1304
+fu_state_a03a82_area = {
+    4046 4047 5001
+}
+
+# Display name: Bramble Range
+# LoK state ID: 980
+fu_state_a04e83_area = {
+    3005 3006 3007
+}
+
+# Display name: Naval Hub
+# LoK state ID: 1305
+fu_state_a05a6b_area = {
+    4053 5004
+}
+
+# Display name: Badrock
+# LoK state ID: 981
+fu_state_a07864_area = {
+    3008 3009 3010 3011 4659 4660 4667 4671 4674
+}
+
+# Display name: Bramballia
+# LoK state ID: 982
+fu_state_a0a244_area = {
+    3012 3013
+}
+
+# Display name: Feedwater
+# LoK state ID: 983
+fu_state_a0cc24_area = {
+    3014 3015
+}
+
+# Display name: Great Bramble Basin
+# LoK state ID: 984
+fu_state_a0f604_area = {
+    3016 3017 3018 3019
+}
+
+# Display name: Bramble Woods
+# LoK state ID: 985
+fu_state_a11fe5_area = {
+    3020 3021
+}
+
+# Display name: Upper Bramble Basin
+# LoK state ID: 986
+fu_state_a149c5_area = {
+    3022 3023
+}
+
+# Display name: Middle Bramble Basin
+# LoK state ID: 987
+fu_state_a173a5_area = {
+    3024
+}
+
+# Display name: Lower Bramble Basin
+# LoK state ID: 988
+fu_state_a19d85_area = {
+    3025
+}
+
+# Display name: Hissity
+# LoK state ID: 989
+fu_state_a1c766_area = {
+    3026 3027
+}
+
+# Display name: Slithervich
+# LoK state ID: 990
+fu_state_a1f146_area = {
+    3028
+}
+
+# Display name: Serpentine Point
+# LoK state ID: 991
+fu_state_a21b26_area = {
+    3029
+}
+
+# Display name: Rattlecoast
+# LoK state ID: 992
+fu_state_a24507_area = {
+    3030
+}
+
+# Display name: Copper Ridges
+# LoK state ID: 993
+fu_state_a26ee7_area = {
+    4562
+}
+
+# Display name: Dol Viiras
+# LoK state ID: 994
+fu_state_a298c7_area = {
+    3031
+}
+
+# Display name: Nharsus
+# LoK state ID: 995
+fu_state_a2c2a7_area = {
+    3032 4676
+}
+
+# Display name: Ulzulgukh
+# LoK state ID: 996
+fu_state_a2ec88_area = {
+    3033 4681
+}
+
+# Display name: Khakhabad
+# LoK state ID: 997
+fu_state_a31668_area = {
+    3034
+}
+
+# Display name: Gvin Tharun
+# LoK state ID: 998
+fu_state_a34048_area = {
+    3035 4695
+}
+
+# Display name: Zorud Tal
+# LoK state ID: 999
+fu_state_a36a28_area = {
+    3036 3037 4704 4706 4716 4720
+}
+
+# Display name: Ad Khagaroth
+# LoK state ID: 1000
+fu_state_a39409_area = {
+    3038 3039 4723 4735
+}
+
+# Display name: Vhi Sobhanas
+# LoK state ID: 1001
+fu_state_a3bde9_area = {
+    3040 3041
+}
+
+# Display name: Gvin Minhaz
+# LoK state ID: 1002
+fu_state_a3e7c9_area = {
+    3042 3043
+}
+
+# Display name: Azzukhad
+# LoK state ID: 1003
+fu_state_a411a9_area = {
+    3044 3045
+}
+
+# Display name: Vhi Bramokh
+# LoK state ID: 1004
+fu_state_a43b8a_area = {
+    3046 3047
+}
+
+# Display name: Tirh Khaz'dan
+# LoK state ID: 1005
+fu_state_a4656a_area = {
+    3048 3049 4709
+}
+
+# Display name: Mazhuddar
+# LoK state ID: 1006
+fu_state_a48f4a_area = {
+    3050 3051 4690
+}
+
+# Display name: Unkhus Vel
+# LoK state ID: 1007
+fu_state_a4b92b_area = {
+    3052 3053 3054
+}
+
+# Display name: Zud Jalath
+# LoK state ID: 1008
+fu_state_a4e30b_area = {
+    3055 3056
+}
+
+# Display name: Eastern Shroom Hills
+# LoK state ID: 1009
+fu_state_a50ceb_area = {
+    3057 3058 3059
+}
+
+# Display name: Ost-Kattailwald
+# LoK state ID: 1010
+fu_state_a536cb_area = {
+    3060 3061
+}
+
+# Display name: Shroomfluss
+# LoK state ID: 1011
+fu_state_a560ac_area = {
+    3062 3063 4644
+}
+
+# Display name: Western Shroom Hills
+# LoK state ID: 1012
+fu_state_a58a8c_area = {
+    3064 3065 4648
+}
+
+# Display name: Southern Venusia
+# LoK state ID: 1013
+fu_state_a5b46c_area = {
+    3066 3067
+}
+
+# Display name: Candoburg
+# LoK state ID: 1014
+fu_state_a5de4c_area = {
+    3068 3069
+}
+
+# Display name: Ravkan Range
+# LoK state ID: 1015
+fu_state_a6082d_area = {
+    3070 3071 4891
+}
+
+# Display name: Roquestrie
+# LoK state ID: 1016
+fu_state_a6320d_area = {
+    3072 3073
+}
+
+# Display name: Cote-Nord
+# LoK state ID: 1017
+fu_state_a65bed_area = {
+    3074
+}
+
+# Display name: Roqtreal
+# LoK state ID: 1018
+fu_state_a685cd_area = {
+    3075
+}
+
+# Display name: Deux-Rivieres
+# LoK state ID: 1019
+fu_state_a6afae_area = {
+    3076 4903
+}
+
+# Display name: Bas-Roquent
+# LoK state ID: 1020
+fu_state_a6d98e_area = {
+    3077
+}
+
+# Display name: Interfleuvie
+# LoK state ID: 1021
+fu_state_a7036e_area = {
+    3078 3079
+}
+
+# Display name: South Vasmar Ridge
+# LoK state ID: 1026
+fu_state_a7d4d0_area = {
+    3080 4946
+}
+
+# Display name: Grandhaven
+# LoK state ID: 1027
+fu_state_a7feb0_area = {
+    3081
+}
+
+# Display name: Grove Plains
+# LoK state ID: 1028
+fu_state_a82890_area = {
+    3082 3083 4948
+}
+
+# Display name: Millennial Frontier
+# LoK state ID: 1029
+fu_state_a85270_area = {
+    3084 3085
+}
+
+# Display name: Arborian Shores
+# LoK state ID: 1030
+fu_state_a87c51_area = {
+    3086 3087 3088 3089
+}
+
+# Display name: Hushed Frontier
+# LoK state ID: 1031
+fu_state_a8a631_area = {
+    3090
+}
+
+# Display name: Upper Vasmar Ridge
+# LoK state ID: 1032
+fu_state_a8d011_area = {
+    3091 3092 4927
+}
+
+# Display name: Coeurlie
+# LoK state ID: 1033
+fu_state_a8f9f1_area = {
+    3093 3094 4912 4913 4987 4989
+}
+
+# Display name: Kronkhanghelsk
+# LoK state ID: 1035
+fu_state_a94db2_area = {
+    3095 3096 3097
+}
+
+# Display name: Ezikyinjatz
+# LoK state ID: 1036
+fu_state_a97792_area = {
+    3098 3099 3100
+}
+
+# Display name: South Crabby Shores
+# LoK state ID: 1037
+fu_state_a9a172_area = {
+    3101 3102
+}
+
+# Display name: Humusenski
+# LoK state ID: 1038
+fu_state_a9cb53_area = {
+    3103 3104 3105
+}
+
+# Display name: Yasnbrask
+# LoK state ID: 1039
+fu_state_a9f533_area = {
+    3106 3107
+}
+
+# Display name: South Kijovt
+# LoK state ID: 1040
+fu_state_aa1f13_area = {
+    3108
+}
+
+# Display name: Saltlarenstadt
+# LoK state ID: 1041
+fu_state_aa48f4_area = {
+    3109 3110
+}
+
+# Display name: Kronkozavodsk
+# LoK state ID: 1042
+fu_state_aa72d4_area = {
+    3111
+}
+
+# Display name: Lorisgrad
+# LoK state ID: 1043
+fu_state_aa9cb4_area = {
+    3112 3113
+}
+
+# Display name: Kronknoyarskien
+# LoK state ID: 1044
+fu_state_aac694_area = {
+    3114 3115
+}
+
+# Display name: Magnitokronsk
+# LoK state ID: 1045
+fu_state_aaf075_area = {
+    3116 3117 3118
+}
+
+# Display name: Nordkraben
+# LoK state ID: 1046
+fu_state_ab1a55_area = {
+    3119 3120
+}
+
+# Display name: East Ost-Hydronien
+# LoK state ID: 1047
+fu_state_ab4435_area = {
+    3121 3122
+}
+
+# Display name: Praeliumen
+# LoK state ID: 1048
+fu_state_ab6e15_area = {
+    3123 3124 3125
+}
+
+# Display name: West Greater Bundengrad
+# LoK state ID: 1049
+fu_state_ab97f6_area = {
+    3126 3127
+}
+
+# Display name: Angriverien
+# LoK state ID: 1050
+fu_state_abc1d6_area = {
+    3128 3129
+}
+
+# Display name: Sudkronk
+# LoK state ID: 1051
+fu_state_abebb6_area = {
+    3130 3131 3132 3133
+}
+
+# Display name: Krokodil
+# LoK state ID: 1052
+fu_state_ac1596_area = {
+    3135 3136 3137 4789
+}
+
+# Display name: Genevekt
+# LoK state ID: 1053
+fu_state_ac3f77_area = {
+    3138 3139 3140 4807
+}
+
+# Display name: Kronmea
+# LoK state ID: 1054
+fu_state_ac6957_area = {
+    3141 3142 3143 4808
+}
+
+# Display name: South Yinjetopol
+# LoK state ID: 1055
+fu_state_ac9337_area = {
+    3144 3145 3146
+}
+
+# Display name: East Kobalt
+# LoK state ID: 1056
+fu_state_acbd18_area = {
+    3147 3148 3149 3150
+}
+
+# Display name: Panplona
+# LoK state ID: 1057
+fu_state_ace6f8_area = {
+    3151 3152 3153 3154 4806
+}
+
+# Display name: Leónduja
+# LoK state ID: 1058
+fu_state_ad10d8_area = {
+    3155 3156 3157
+}
+
+# Display name: Vey
+# LoK state ID: 1059
+fu_state_ad3ab8_area = {
+    3158 3159 3160 3161 3162 3163 4567
+}
+
+# Display name: Ejac
+# LoK state ID: 1060
+fu_state_ad6499_area = {
+    3164 3165 3166 3167 4568
+}
+
+# Display name: Bergshire
+# LoK state ID: 1061
+fu_state_ad8e79_area = {
+    3168 3169 3170 4575 4990
+}
+
+# Display name: Coastal Arkbus
+# LoK state ID: 1062
+fu_state_adb859_area = {
+    3173 3174 3175 3176 3177 3178 3179 3180
+}
+
+# Display name: Lebril
+# LoK state ID: 1063
+fu_state_ade239_area = {
+    3181 3182 3183 3184 3185 4559
+}
+
+# Display name: Central Arkbus
+# LoK state ID: 1064
+fu_state_ae0c1a_area = {
+    3186 3187 3188 3189 3190 3191 3192
+}
+
+# Display name: Rivshire
+# LoK state ID: 1065
+fu_state_ae35fa_area = {
+    3193 3194 3195 3196 3197 3198 3199
+}
+
+# Display name: Extremar
+# LoK state ID: 1066
+fu_state_ae5fda_area = {
+    3200 3201 3202
+}
+
+# Display name: Western Broukburn
+# LoK state ID: 1067
+fu_state_ae89ba_area = {
+    3203 3204 4534
+}
+
+# Display name: Ibrum Marsh
+# LoK state ID: 1068
+fu_state_aeb39b_area = {
+    3205 3206 3207 3208 3209 3210 3211
+}
+
+# Display name: East-Tomopolis
+# LoK state ID: 1069
+fu_state_aedd7b_area = {
+    3212 3213 3214 3215
+}
+
+# Display name: Tomopolis
+# LoK state ID: 1070
+fu_state_af075b_area = {
+    3216 3217 3218 3219 3220
+}
+
+# Display name: Tatshire
+# LoK state ID: 1071
+fu_state_af313c_area = {
+    3221 3222 3223 3224 3225 3226 3227 3228
+}
+
+# Display name: Meagas
+# LoK state ID: 1072
+fu_state_af5b1c_area = {
+    3229 3230 3231 3232
+}
+
+# Display name: Lakshire
+# LoK state ID: 1073
+fu_state_af84fc_area = {
+    3233 3234 3235 3236 3237 3238 3239 3240
+}
+
+# Display name: Central Laurandar
+# LoK state ID: 1074
+fu_state_afaedc_area = {
+    3241 3242 3243 3244 3245 3246 3247
+}
+
+# Display name: Southern Meagas
+# LoK state ID: 1075
+fu_state_afd8bd_area = {
+    3248 3249 3250 3251 3252 3253 3254
+}
+
+# Display name: Laurngrove
+# LoK state ID: 1076
+fu_state_b0029d_area = {
+    3255 3256 3257 3258 3259 3260 3261 3262 3263
+}
+
+# Display name: Podomia
+# LoK state ID: 1077
+fu_state_b02c7d_area = {
+    3264 3265 3266 3267 3268
+}
+
+# Display name: Sodandar
+# LoK state ID: 1078
+fu_state_b0565d_area = {
+    3269 3270 3271 3272 3273 3274 3275 3276 3277
+}
+
+# Display name: Sabhanita
+# LoK state ID: 1079
+fu_state_b0803e_area = {
+    3278 3279
+}
+
+# Display name: Far East Lokout 10
+# LoK state ID: 1080
+fu_state_b0aa1e_area = {
+    3280 3281 3282
+}
+
+# Display name: Far East Lokout 8
+# LoK state ID: 1081
+fu_state_b0d3fe_area = {
+    3283 3284
+}
+
+# Display name: Far East Lokout 6
+# LoK state ID: 1082
+fu_state_b0fdde_area = {
+    3285 3286 3287 3288 3289
+}
+
+# Display name: Far East Lokout 4
+# LoK state ID: 1083
+fu_state_b127bf_area = {
+    3290 3291 3292
+}
+
+# Display name: Far East Lokout 3
+# LoK state ID: 1084
+fu_state_b1519f_area = {
+    3293 3294 3295 3296
+}
+
+# Display name: Mossxor
+# LoK state ID: 1085
+fu_state_b17b7f_area = {
+    3297 3298
+}
+
+# Display name: Far East Lokout
+# LoK state ID: 1086
+fu_state_b1a55f_area = {
+    3299 3300
+}
+
+# Display name: Near West Lokout
+# LoK state ID: 1087
+fu_state_b1cf40_area = {
+    3301 3302 3303 3304
+}
+
+# Display name: Shroomyad
+# LoK state ID: 1088
+fu_state_b1f920_area = {
+    3305 3306 3307 4760
+}
+
+# Display name: Far South Lokout
+# LoK state ID: 1089
+fu_state_b22300_area = {
+    3308 3309 3310
+}
+
+# Display name: North Quiveria
+# LoK state ID: 1090
+fu_state_b24ce1_area = {
+    3311 3312 3313 3314
+}
+
+# Display name: Far West Lokout 3
+# LoK state ID: 1091
+fu_state_b276c1_area = {
+    3315 3316 3317 3318 3319 3320
+}
+
+# Display name: West Lokout
+# LoK state ID: 1092
+fu_state_b2a0a1_area = {
+    3321 3322 3323 3324 4639
+}
+
+# Display name: Far West Lokout 4
+# LoK state ID: 1093
+fu_state_b2ca81_area = {
+    3325 3326 3327 3328 4645
+}
+
+# Display name: Far North Lokout
+# LoK state ID: 1094
+fu_state_b2f462_area = {
+    3329 3330 4683
+}
+
+# Display name: Falldah
+# LoK state ID: 1095
+fu_state_b31e42_area = {
+    3331 3332 3333 3334 3335
+}
+
+# Display name: Shiitofuf
+# LoK state ID: 1096
+fu_state_b34822_area = {
+    3336 3337 3338 3339
+}
+
+# Display name: East Katezic
+# LoK state ID: 1097
+fu_state_b37202_area = {
+    3340 3341 3342 3343 4679
+}
+
+# Display name: Ismhal
+# LoK state ID: 1098
+fu_state_b39be3_area = {
+    3344 3345 3346 3347 4719
+}
+
+# Display name: Fungalhalla
+# LoK state ID: 1099
+fu_state_b3c5c3_area = {
+    3348 3349
+}
+
+# Display name: Bergtun
+# LoK state ID: 1100
+fu_state_b3efa3_area = {
+    3350 3351
+}
+
+# Display name: Monke Slopes
+# LoK state ID: 1101
+fu_state_b41983_area = {
+    3352 3353 3354
+}
+
+# Display name: Bostroolia
+# LoK state ID: 1102
+fu_state_b44364_area = {
+    3355 3356 3357
+}
+
+# Display name: Makaktun
+# LoK state ID: 1103
+fu_state_b46d44_area = {
+    3358 3359 3360
+}
+
+# Display name: East Monke Slopes
+# LoK state ID: 1104
+fu_state_b49724_area = {
+    3361
+}
+
+# Display name: Near East Brewtun
+# LoK state ID: 1105
+fu_state_b4c105_area = {
+    3362
+}
+
+# Display name: Great Ape Groves
+# LoK state ID: 1106
+fu_state_b4eae5_area = {
+    3363 3364
+}
+
+# Display name: North Fishtun
+# LoK state ID: 1107
+fu_state_b514c5_area = {
+    3365 3366 3367
+}
+
+# Display name: North Great Ape Groves
+# LoK state ID: 1108
+fu_state_b53ea5_area = {
+    3368 3369 3370 4887 4900
+}
+
+# Display name: Near North Great Ape Groves
+# LoK state ID: 1109
+fu_state_b56886_area = {
+    3371 3372 3373 3374 4883
+}
+
+# Display name: Vampstanta
+# LoK state ID: 1110
+fu_state_b59266_area = {
+    3375 3376 3377 3378
+}
+
+# Display name: Batisoara
+# LoK state ID: 1111
+fu_state_b5bc46_area = {
+    3379 3380 3381
+}
+
+# Display name: Batau
+# LoK state ID: 1112
+fu_state_b5e626_area = {
+    3382 3383 3384 3385 3386
+}
+
+# Display name: Grovati
+# LoK state ID: 1113
+fu_state_b61007_area = {
+    3387 3388
+}
+
+# Display name: Miestan
+# LoK state ID: 1114
+fu_state_b639e7_area = {
+    3389 3390 3391
+}
+
+# Display name: Kribble
+# LoK state ID: 1115
+fu_state_b663c7_area = {
+    3392 3393
+}
+
+# Display name: North Datlof
+# LoK state ID: 1273
+fu_state_b67837_area = {
+    3909
+}
+
+# Display name: Meowrres
+# LoK state ID: 1116
+fu_state_b68da7_area = {
+    3394 3395
+}
+
+# Display name: Felinenkost
+# LoK state ID: 1117
+fu_state_b6b788_area = {
+    3396 3397 3398 3399
+}
+
+# Display name: Fierté
+# LoK state ID: 1118
+fu_state_b6e168_area = {
+    3400 3401
+}
+
+# Display name: Katzburg
+# LoK state ID: 1119
+fu_state_b70b48_area = {
+    3402 3403 4771
+}
+
+# Display name: Drybourg
+# LoK state ID: 1120
+fu_state_b73528_area = {
+    3404 3405 3406 3407
+}
+
+# Display name: Dunedocks
+# LoK state ID: 1121
+fu_state_b75f09_area = {
+    3408
+}
+
+# Display name: Calderbug
+# LoK state ID: 1122
+fu_state_b788e9_area = {
+    3409 3410
+}
+
+# Display name: Ventown
+# LoK state ID: 1123
+fu_state_b7b2c9_area = {
+    3411 3412
+}
+
+# Display name: Calderi
+# LoK state ID: 1124
+fu_state_b7dcaa_area = {
+    3413 3414
+}
+
+# Display name: West Sea Beach
+# LoK state ID: 1125
+fu_state_b8068a_area = {
+    3415 4796
+}
+
+# Display name: Frusville
+# LoK state ID: 1126
+fu_state_b8306a_area = {
+    3416
+}
+
+# Display name: Colliery
+# LoK state ID: 1127
+fu_state_b85a4a_area = {
+    3417 3418
+}
+
+# Display name: Port Moll
+# LoK state ID: 1128
+fu_state_b8842b_area = {
+    3419 3420 4793
+}
+
+# Display name: Nibamt
+# LoK state ID: 1129
+fu_state_b8ae0b_area = {
+    3421 3422
+}
+
+# Display name: Calder Coasts
+# LoK state ID: 1130
+fu_state_b8d7eb_area = {
+    3423 3424 3425 3426
+}
+
+# Display name: Gallifly
+# LoK state ID: 1131
+fu_state_b901cb_area = {
+    3427 3428 3429 3430 3431
+}
+
+# Display name: Steaming Lake
+# LoK state ID: 1132
+fu_state_b92bac_area = {
+    3432 3433 3434 3435 3436
+}
+
+# Display name: Hymnburg
+# LoK state ID: 1133
+fu_state_b9558c_area = {
+    3437 3438 3439 3440 3441
+}
+
+# Display name: Near West Great Hill
+# LoK state ID: 1134
+fu_state_b97f6c_area = {
+    3442 3443 3444 3445
+}
+
+# Display name: Pupalley
+# LoK state ID: 1135
+fu_state_b9a94c_area = {
+    3446 3447 3448 3449
+}
+
+# Display name: Beeronx
+# LoK state ID: 1136
+fu_state_b9d32d_area = {
+    3450 3451 3452 3453 3454
+}
+
+# Display name: Queensberg
+# LoK state ID: 1137
+fu_state_b9fd0d_area = {
+    3455 3456 3457
+}
+
+# Display name: Far East Monke Slopes 3
+# LoK state ID: 1138
+fu_state_ba26ed_area = {
+    3458 3459 3460 3461 3462 3463
+}
+
+# Display name: West Great Hill
+# LoK state ID: 1139
+fu_state_ba50ce_area = {
+    3464 3465 3466
+}
+
+# Display name: Buzzlyn
+# LoK state ID: 1140
+fu_state_ba7aae_area = {
+    3467 3468 3469 3470
+}
+
+# Display name: East Brewtun
+# LoK state ID: 1141
+fu_state_baa48e_area = {
+    3471 3472 3473 3474
+}
+
+# Display name: Bensonlak
+# LoK state ID: 1142
+fu_state_bace6e_area = {
+    3475 3476 3477 3478
+}
+
+# Display name: Bumbleburg
+# LoK state ID: 1143
+fu_state_baf84f_area = {
+    3479 3480 3481 3482
+}
+
+# Display name: Far North Great Hill
+# LoK state ID: 1144
+fu_state_bb222f_area = {
+    3483 3484 3485 3486
+}
+
+# Display name: Far North Great Hill 3
+# LoK state ID: 1145
+fu_state_bb4c0f_area = {
+    3487 3488 3489 3490 3491
+}
+
+# Display name: Far West Great Hill 3
+# LoK state ID: 1146
+fu_state_bb75ef_area = {
+    3492 3493
+}
+
+# Display name: Far East Monke Slopes 6
+# LoK state ID: 1147
+fu_state_bb9fd0_area = {
+    3494 3495 3496 3497
+}
+
+# Display name: Far East Monke Slopes 5
+# LoK state ID: 1148
+fu_state_bbc9b0_area = {
+    3498 3499 3500 3501 3502
+}
+
+# Display name: Far East Monke Slopes
+# LoK state ID: 1149
+fu_state_bbf390_area = {
+    3503 4832
+}
+
+# Display name: Far North Southern Stollparche
+# LoK state ID: 1150
+fu_state_bc1d70_area = {
+    3504 4748
+}
+
+# Display name: West Cize
+# LoK state ID: 1151
+fu_state_bc4751_area = {
+    3505 3506
+}
+
+# Display name: North Ezicania Pass
+# LoK state ID: 1152
+fu_state_bc7131_area = {
+    3507 3508
+}
+
+# Display name: Far West Southern Stollparche 4
+# LoK state ID: 1153
+fu_state_bc9b11_area = {
+    3509 3510
+}
+
+# Display name: West Southern Stollparche
+# LoK state ID: 1154
+fu_state_bcc4f2_area = {
+    3511
+}
+
+# Display name: Near West Southern Stollparche
+# LoK state ID: 1155
+fu_state_bceed2_area = {
+    4689
+}
+
+# Display name: South Démotagne
+# LoK state ID: 1156
+fu_state_bd18b2_area = {
+    4765
+}
+
+# Display name: East Cize
+# LoK state ID: 1157
+fu_state_bd4292_area = {
+    3513 3514 3515 4698
+}
+
+# Display name: South Latarada
+# LoK state ID: 1158
+fu_state_bd6c73_area = {
+    3516 3517 3518
+}
+
+# Display name: South Cularie
+# LoK state ID: 1159
+fu_state_bd9653_area = {
+    3519
+}
+
+# Display name: Near West Petite Qualie
+# LoK state ID: 1160
+fu_state_bdc033_area = {
+    3520 3521
+}
+
+# Display name: Far North Southern Stollparche 3
+# LoK state ID: 1161
+fu_state_bdea13_area = {
+    3522
+}
+
+# Display name: Far North Southern Stollparche 4
+# LoK state ID: 1162
+fu_state_be13f4_area = {
+    3523
+}
+
+# Display name: North Southern Stollparche
+# LoK state ID: 1163
+fu_state_be3dd4_area = {
+    3524
+}
+
+# Display name: Marine Tranquille
+# LoK state ID: 1164
+fu_state_be67b4_area = {
+    3525 3526 3527
+}
+
+# Display name: Nouvelle Roqualie
+# LoK state ID: 1165
+fu_state_be9194_area = {
+    3528 3529
+}
+
+# Display name: Jeunes-Habitants
+# LoK state ID: 1166
+fu_state_bebb75_area = {
+    3530 3531
+}
+
+# Display name: Epoustouflant
+# LoK state ID: 1167
+fu_state_bee555_area = {
+    3532
+}
+
+# Display name: Paysages
+# LoK state ID: 1168
+fu_state_bf0f35_area = {
+    3533 3534 3535
+}
+
+# Display name: Rustinia
+# LoK state ID: 1169
+fu_state_bf3915_area = {
+    3536 3537
+}
+
+# Display name: Ballens
+# LoK state ID: 1170
+fu_state_bf62f6_area = {
+    3538 3539 3540 3541 3542 4871
+}
+
+# Display name: Eulyss Rapids
+# LoK state ID: 1171
+fu_state_bf8cd6_area = {
+    3543 3544 3545 3546 4991
+}
+
+# Display name: Tsayan Mounts
+# LoK state ID: 1172
+fu_state_bfb6b6_area = {
+    3547 4809
+}
+
+# Display name: Cookimbra
+# LoK state ID: 1173
+fu_state_bfe097_area = {
+    3548 3549 3550 3551
+}
+
+# Display name: Bragallet
+# LoK state ID: 1174
+fu_state_c00a77_area = {
+    3552 3553 3554
+}
+
+# Display name: Callidus
+# LoK state ID: 1175
+fu_state_c03457_area = {
+    3555 3556 3557 3558
+}
+
+# Display name: Preballens
+# LoK state ID: 1176
+fu_state_c05e37_area = {
+    3559 3560 3561
+}
+
+# Display name: Dazhungli
+# LoK state ID: 1177
+fu_state_c08818_area = {
+    3562 3563 3564 3565
+}
+
+# Display name: Lisbonbon
+# LoK state ID: 1178
+fu_state_c0b1f8_area = {
+    3566 3567
+}
+
+# Display name: Potro
+# LoK state ID: 1179
+fu_state_c0dbd8_area = {
+    3568 3569 3570
+}
+
+# Display name: Rodridough
+# LoK state ID: 1180
+fu_state_c105b8_area = {
+    3571 3572
+}
+
+# Display name: Koasski
+# LoK state ID: 1181
+fu_state_c12f99_area = {
+    3573 3574 4878
+}
+
+# Display name: Ehw Fauah
+# LoK state ID: 1182
+fu_state_c15979_area = {
+    3575 3576 3577
+}
+
+# Display name: Doughnada
+# LoK state ID: 1183
+fu_state_c18359_area = {
+    3578 3579 3580 3581 3582 3583
+}
+
+# Display name: Bakecelona
+# LoK state ID: 1184
+fu_state_c1ad39_area = {
+    3584 3585 3586 3587 3588 3589
+}
+
+# Display name: Toledough
+# LoK state ID: 1185
+fu_state_c1d71a_area = {
+    3590 3591 3592
+}
+
+# Display name: Granajón
+# LoK state ID: 1186
+fu_state_c200fa_area = {
+    3593 3594 4787
+}
+
+# Display name: San-Sebakestian
+# LoK state ID: 1187
+fu_state_c22ada_area = {
+    3595 3596 3597
+}
+
+# Display name: Zaradoughza
+# LoK state ID: 1188
+fu_state_c254bb_area = {
+    3598 3599 3600 3601 4791
+}
+
+# Display name: Pastelona
+# LoK state ID: 1189
+fu_state_c27e9b_area = {
+    3602 3603 3604 3605 3606 3607
+}
+
+# Display name: Varhk
+# LoK state ID: 1190
+fu_state_c2a87b_area = {
+    3608 3609
+}
+
+# Display name: Sebowlia 2
+# LoK state ID: 1191
+fu_state_c2d25b_area = {
+    3610 3611 3612 3613
+}
+
+# Display name: Crumbrid
+# LoK state ID: 1192
+fu_state_c2fc3c_area = {
+    3614 3615 3616 3617 3618 3619
+}
+
+# Display name: Muffintilla
+# LoK state ID: 1193
+fu_state_c3261c_area = {
+    3620 3621 3622
+}
+
+# Display name: Somtaaw
+# LoK state ID: 1194
+fu_state_c34ffc_area = {
+    3623 3624 3625 3626 3627 3628
+}
+
+# Display name: S'jet
+# LoK state ID: 1195
+fu_state_c379dc_area = {
+    3629 3630 3631
+}
+
+# Display name: Manaan
+# LoK state ID: 1196
+fu_state_c3a3bd_area = {
+    3632 3633 3634 3635 3636
+}
+
+# Display name: Tiir
+# LoK state ID: 1197
+fu_state_c3cd9d_area = {
+    3637 3638 3639 3640 3641 4764
+}
+
+# Display name: Girardought
+# LoK state ID: 1198
+fu_state_c3f77d_area = {
+    3642 3643 3644 3645 3646
+}
+
+# Display name: Funchaleta
+# LoK state ID: 1199
+fu_state_c4215d_area = {
+    3647 3648 3649 3650 3651 3652
+}
+
+# Display name: Churrilbao
+# LoK state ID: 1200
+fu_state_c44b3e_area = {
+    3653 3654 3655
+}
+
+# Display name: South Koti
+# LoK state ID: 1201
+fu_state_c4751e_area = {
+    3656 3657 3658 4899
+}
+
+# Display name: Burgeros
+# LoK state ID: 1202
+fu_state_c49efe_area = {
+    3659 3660 3661 3662
+}
+
+# Display name: Sabadeirado
+# LoK state ID: 1203
+fu_state_c4c8df_area = {
+    3663 3664 3665
+}
+
+# Display name: Meerut
+# LoK state ID: 1204
+fu_state_c4f2bf_area = {
+    3666 3667 3668
+}
+
+# Display name: Meghaduta
+# LoK state ID: 1205
+fu_state_c51c9f_area = {
+    3669 3670 3671 4882
+}
+
+# Display name: Jharuna
+# LoK state ID: 1206
+fu_state_c5467f_area = {
+    3673 3674 3675
+}
+
+# Display name: New Basni
+# LoK state ID: 1207
+fu_state_c57060_area = {
+    3676 3677 3678 3679
+}
+
+# Display name: New Kumakh
+# LoK state ID: 1208
+fu_state_c59a40_area = {
+    3680 3681 3682 3683
+}
+
+# Display name: East Dourouhtei
+# LoK state ID: 1209
+fu_state_c5c420_area = {
+    3684
+}
+
+# Display name: Bakecaramangé
+# LoK state ID: 1210
+fu_state_c5ee00_area = {
+    3685 3686 3687 3688
+}
+
+# Display name: Mahin Geh
+# LoK state ID: 1211
+fu_state_c617e1_area = {
+    3689 3690 3691 3692
+}
+
+# Display name: Medoughlin
+# LoK state ID: 1212
+fu_state_c641c1_area = {
+    3693 4779
+}
+
+# Display name: Rhayman
+# LoK state ID: 1213
+fu_state_c66ba1_area = {
+    3694 3695 3696 3697 4749
+}
+
+# Display name: Eulyssian Interfluve
+# LoK state ID: 1214
+fu_state_c69581_area = {
+    3698 3699 3700
+}
+
+# Display name: Near North Great Hill
+# LoK state ID: 1215
+fu_state_c6bf62_area = {
+    3701 3702 3703 3704
+}
+
+# Display name: South Yinjatzbereich
+# LoK state ID: 1216
+fu_state_c6e942_area = {
+    3705 3706 3707 4588
+}
+
+# Display name: South Northern Ezicania
+# LoK state ID: 1217
+fu_state_c71322_area = {
+    3708 3709 3710 3711 4594
+}
+
+# Display name: East Yinjatzbereich
+# LoK state ID: 1218
+fu_state_c73d02_area = {
+    3712 3713 3714
+}
+
+# Display name: Near South Northern Ezicania
+# LoK state ID: 1219
+fu_state_c766e3_area = {
+    3715 4610
+}
+
+# Display name: Near North Northern Ezicania
+# LoK state ID: 1220
+fu_state_c790c3_area = {
+    3716 3717 3718 3719 3720 4629 4657
+}
+
+# Display name: South Svitankovia
+# LoK state ID: 1221
+fu_state_c7baa3_area = {
+    3721 3722 3723
+}
+
+# Display name: East Yinjite Forest
+# LoK state ID: 1222
+fu_state_c7e484_area = {
+    3724 3725 3726 3727
+}
+
+# Display name: Bearton
+# LoK state ID: 1223
+fu_state_c80e64_area = {
+    3728 3729 3730 3731 4755
+}
+
+# Display name: East Northern Svitanok Desert
+# LoK state ID: 1224
+fu_state_c83844_area = {
+    3732 3733 3734 3735 4652 4682
+}
+
+# Display name: West Flerk
+# LoK state ID: 1225
+fu_state_c86224_area = {
+    3736 3737 3738 3739 3740 3741
+}
+
+# Display name: White Town
+# LoK state ID: 1226
+fu_state_c88c05_area = {
+    3742 3743
+}
+
+# Display name: Bearside Lake
+# LoK state ID: 1227
+fu_state_c8b5e5_area = {
+    3744 3745 4754 4759
+}
+
+# Display name: Port Urscyd
+# LoK state ID: 1228
+fu_state_c8dfc5_area = {
+    3746 3747 3748
+}
+
+# Display name: Honelmyra
+# LoK state ID: 1229
+fu_state_c909a5_area = {
+    3749 3750 3751 4739
+}
+
+# Display name: Salmion
+# LoK state ID: 1230
+fu_state_c93386_area = {
+    3752 3753
+}
+
+# Display name: East Bearlin
+# LoK state ID: 1231
+fu_state_c95d66_area = {
+    3754 3755 3756 4742
+}
+
+# Display name: East Svitankovia
+# LoK state ID: 1232
+fu_state_c98746_area = {
+    3757 3758 3759 3760
+}
+
+# Display name: East Svitanok Ridges
+# LoK state ID: 1233
+fu_state_c9b126_area = {
+    3761 3762 3763 3764 4746
+}
+
+# Display name: West Bearlin
+# LoK state ID: 1234
+fu_state_c9db07_area = {
+    3765 3766 3767 4729 4741
+}
+
+# Display name: Far North Northern Heart Mountains 3
+# LoK state ID: 1235
+fu_state_ca04e7_area = {
+    3768 3769 3770 4651
+}
+
+# Display name: East Northern Heart Mountains
+# LoK state ID: 1236
+fu_state_ca2ec7_area = {
+    3771 3772 3773 3774
+}
+
+# Display name: Old Bearia
+# LoK state ID: 1237
+fu_state_ca58a8_area = {
+    3775 3776 3777 3778 4688
+}
+
+# Display name: North Tatshire
+# LoK state ID: 1238
+fu_state_ca8288_area = {
+    3779 3780 3781 3782 3783
+}
+
+# Display name: North Svitanok Ridges
+# LoK state ID: 1239
+fu_state_caac68_area = {
+    3784 3785 3786
+}
+
+# Display name: Far West Lokout 5
+# LoK state ID: 1240
+fu_state_cad648_area = {
+    3787 3788 3789 3790 3791 3792
+}
+
+# Display name: Far East Lokout 9
+# LoK state ID: 1241
+fu_state_cb0029_area = {
+    3793 3794 3795
+}
+
+# Display name: Funghrène
+# LoK state ID: 1242
+fu_state_cb2a09_area = {
+    3796 3797 3798
+}
+
+# Display name: East Central Ezicania
+# LoK state ID: 1243
+fu_state_cb53e9_area = {
+    3799 3800 3801 3802
+}
+
+# Display name: South Central Ezicania
+# LoK state ID: 1244
+fu_state_cb7dc9_area = {
+    3803 3804 3805
+}
+
+# Display name: Near South Flerk
+# LoK state ID: 1245
+fu_state_cba7aa_area = {
+    3806 3807 3808 3809 3810
+}
+
+# Display name: Far West Flerk
+# LoK state ID: 1246
+fu_state_cbd18a_area = {
+    3811 3812 3813 3814 4570
+}
+
+# Display name: Northern Svitanok Desert
+# LoK state ID: 1247
+fu_state_cbfb6a_area = {
+    3815 3816 3817 3818 3819 4670
+}
+
+# Display name: Svitankovia
+# LoK state ID: 1248
+fu_state_cc254a_area = {
+    3820 3821 3822 3823
+}
+
+# Display name: Central Svitanok Desert
+# LoK state ID: 1249
+fu_state_cc4f2b_area = {
+    3824 3825 3826 3827
+}
+
+# Display name: Southern Svitanok Desert
+# LoK state ID: 1250
+fu_state_cc790b_area = {
+    3828 3829 3830
+}
+
+# Display name: East Crabby Shores
+# LoK state ID: 1251
+fu_state_cca2eb_area = {
+    3831 3832 3833 3834 3835
+}
+
+# Display name: South Flerk
+# LoK state ID: 1252
+fu_state_cccccc_area = {
+    3836 3837 3838
+}
+
+# Display name: Urscid Hollows
+# LoK state ID: 1253
+fu_state_ccf6ac_area = {
+    3839 3840 3841 4666 4677
+}
+
+# Display name: North Flerk
+# LoK state ID: 1254
+fu_state_cd208c_area = {
+    3842 3843 3844 3845
+}
+
+# Display name: Honey Pass
+# LoK state ID: 1255
+fu_state_cd4a6c_area = {
+    3846 3847 3848 4684
+}
+
+# Display name: Griffinville
+# LoK state ID: 1256
+fu_state_cd744d_area = {
+    3849 3850
+}
+
+# Display name: Summerdale
+# LoK state ID: 1257
+fu_state_cd9e2d_area = {
+    3851 3852 3853
+}
+
+# Display name: Big Rock
+# LoK state ID: 1258
+fu_state_cdc80d_area = {
+    3854 3855 3856 4696
+}
+
+# Display name: New Bearia
+# LoK state ID: 1259
+fu_state_cdf1ed_area = {
+    3857 3858 3859 3860 4693 4705
+}
+
+# Display name: Riverboden
+# LoK state ID: 1260
+fu_state_ce1bce_area = {
+    3861 3862 3863 3864 4724
+}
+
+# Display name: Fort Bear
+# LoK state ID: 1261
+fu_state_ce45ae_area = {
+    3865 3866 3867 4650
+}
+
+# Display name: Bearsonport
+# LoK state ID: 1262
+fu_state_ce6f8e_area = {
+    3868 3869 4655
+}
+
+# Display name: Near North Northern Heart Mountains
+# LoK state ID: 1263
+fu_state_ce996e_area = {
+    3870 3871 4607 4608
+}
+
+# Display name: East Northern Ezicania
+# LoK state ID: 1264
+fu_state_cec34f_area = {
+    3872 3873 3874 3875 3876
+}
+
+# Display name: West Northern Heart Mountains
+# LoK state ID: 1265
+fu_state_ceed2f_area = {
+    3877 3878 3879 3880
+}
+
+# Display name: Near East Northern Ezicania
+# LoK state ID: 1266
+fu_state_cf170f_area = {
+    3881 3882 3883 3884
+}
+
+# Display name: North Northern Ezicania
+# LoK state ID: 1267
+fu_state_cf40ef_area = {
+    3885 3886 3887
+}
+
+# Display name: Far North Northern Heart Mountains
+# LoK state ID: 1268
+fu_state_cf6ad0_area = {
+    3888 3889 3890 3891
+}
+
+# Display name: Near East Northern Heart Mountains
+# LoK state ID: 1269
+fu_state_cf94b0_area = {
+    3892 3893 3894 3895 4605 4611 4612 4615
+}
+
+# Display name: Ranagrad
+# LoK state ID: 1270
+fu_state_cfbe90_area = {
+    3896 3897 3898 4919
+}
+
+# Display name: Croakenburg
+# LoK state ID: 1271
+fu_state_cfe871_area = {
+    3899 3900 3901 3902 4929
+}
+
+# Display name: Tsarigrad
+# LoK state ID: 1272
+fu_state_d01251_area = {
+    3903 3904 4928
+}
+
+# Display name: North Datlof
+# LoK state ID: 1273
+fu_state_d03c31_area = {
+    3905 3906 3907 3908 4884
+}
+
+# Display name: North Usswaeri
+# LoK state ID: 1274
+fu_state_d06611_area = {
+    3910 3911 3912 3913 3914 4907
+}
+
+# Display name: North Tipanum
+# LoK state ID: 1275
+fu_state_d08ff2_area = {
+    3915 3916 3917 3918
+}
+
+# Display name: North Lomo
+# LoK state ID: 1276
+fu_state_d0b9d2_area = {
+    3919 3920 3921 3922
+}
+
+# Display name: West Tundrabor
+# LoK state ID: 1277
+fu_state_d0e3b2_area = {
+    3923 3924 4943
+}
+
+# Display name: Near West Tundrabor
+# LoK state ID: 1278
+fu_state_d10d92_area = {
+    3925 3926 3927
+}
+
+# Display name: West Euenum
+# LoK state ID: 1279
+fu_state_d13773_area = {
+    3928 3929
+}
+
+# Display name: East The Valley
+# LoK state ID: 1280
+fu_state_d16153_area = {
+    3930 3931 3932 3933 3934 4909
+}
+
+# Display name: Near East The Valley
+# LoK state ID: 1281
+fu_state_d18b33_area = {
+    3935 3936 3937
+}
+
+# Display name: North The Valley
+# LoK state ID: 1282
+fu_state_d1b513_area = {
+    3938 3939 3940 4935
+}
+
+# Display name: East Irkentia
+# LoK state ID: 1283
+fu_state_d1def4_area = {
+    3941 3942 3943 4957
+}
+
+# Display name: South Irkentia
+# LoK state ID: 1284
+fu_state_d208d4_area = {
+    3944 3945 3946 3947 3948 4940 4947 4952
+}
+
+# Display name: Lalaland
+# LoK state ID: 1285
+fu_state_d232b4_area = {
+    3949 3950 3951 3952 4941
+}
+
+# Display name: Leapbound
+# LoK state ID: 1286
+fu_state_d25c95_area = {
+    3953 3954 3955
+}
+
+# Display name: Chaparallia
+# LoK state ID: 1287
+fu_state_d28675_area = {
+    3956 3957 3958
+}
+
+# Display name: Copse Shores
+# LoK state ID: 1288
+fu_state_d2b055_area = {
+    3959 3960 3961
+}
+
+# Display name: Wybrezacho
+# LoK state ID: 1289
+fu_state_d2da35_area = {
+    3962 3963 3964 3965
+}
+
+# Display name: Rowninalesna
+# LoK state ID: 1290
+fu_state_d30416_area = {
+    3966 3967 3968
+}
+
+# Display name: Quantus Hub
+# LoK state ID: 1291
+fu_state_d32df6_area = {
+    3970 3972 3974 3978 3979 4532
+}
+
+# Display name: Wschobregi
+# LoK state ID: 1292
+fu_state_d357d6_area = {
+    3981 3982 3983 3984 3985
+}
+
+# Display name: Zachokran
+# LoK state ID: 1293
+fu_state_d381b6_area = {
+    3986 3987 3988 3989 3990
+}
+
+# Display name: West Westpaw
+# LoK state ID: 1294
+fu_state_d3ab97_area = {
+    3991 3992 3993 3994 3995 3996 3997
+}
+
+# Display name: Far West Westpaw
+# LoK state ID: 1295
+fu_state_d3d577_area = {
+    3998 3999 4000 4001 4002 4003
+}
+
+# Display name: Duzygaj
+# LoK state ID: 1296
+fu_state_d3ff57_area = {
+    4004 4005 4006 4007 4008
+}
+
+# Display name: Far West Westpaw 3
+# LoK state ID: 1297
+fu_state_d42937_area = {
+    4009 4010 4011 4013 4014 4017 4018 4531 4995
+}
+
+# Display name: Near South Infernum's Castle
+# LoK state ID: 1298
+fu_state_d45318_area = {
+    4022 4023 4024 4025
+}
+
+# Display name: Gorskzableg
+# LoK state ID: 1299
+fu_state_d47cf8_area = {
+    4026 4027 4028 4029
+}
+
+# Display name: Krawedgory
+# LoK state ID: 1300
+fu_state_d4a6d8_area = {
+    4030 4031 4032 4033
+}
+
+# Display name: South Infernum's Castle
+# LoK state ID: 1301
+fu_state_d4d0b8_area = {
+    4034
+}
+
+# Display name: Near West Westpaw
+# LoK state ID: 1302
+fu_state_d4fa99_area = {
+    4035 4036 4037 4038 4039 4040
+}
+
+# Display name: Naturopolis
+# LoK state ID: 1303
+fu_state_d52479_area = {
+    4041 4042 4043
+}
+
+# Display name: Far South Infernum's Castle
+# LoK state ID: 1304
+fu_state_d54e59_area = {
+    4044 4045
+}
+
+# Display name: Naval Hub
+# LoK state ID: 1305
+fu_state_d5783a_area = {
+    4048 4049 4050 4051 4052 4054 4055 4057
+}
+
+# Display name: Near West Southport
+# LoK state ID: 1306
+fu_state_d5a21a_area = {
+    4059 4060 4061 4062 4063
+}
+
+# Display name: South Fleatherwing
+# LoK state ID: 1307
+fu_state_d5cbfa_area = {
+    4064 4065
+}
+
+# Display name: North Fleatherwing
+# LoK state ID: 1308
+fu_state_d5f5da_area = {
+    4066 4067
+}
+
+# Display name: South Harelene
+# LoK state ID: 1309
+fu_state_d61fbb_area = {
+    4068 4069 4070 4071
+}
+
+# Display name: Far West Southport
+# LoK state ID: 1310
+fu_state_d6499b_area = {
+    4072 4073 4074
+}
+
+# Display name: Ciptol
+# LoK state ID: 1311
+fu_state_d6737b_area = {
+    4075 4076
+}
+
+# Display name: North Slithervich
+# LoK state ID: 1312
+fu_state_d69d5b_area = {
+    4077 4078
+}
+
+# Display name: Greater Bundengrad
+# LoK state ID: 1313
+fu_state_d6c73c_area = {
+    4079 4080 4662
+}
+
+# Display name: Centragorz
+# LoK state ID: 1314
+fu_state_d6f11c_area = {
+    4081 4082 4083
+}
+
+# Display name: East Hissity
+# LoK state ID: 1315
+fu_state_d71afc_area = {
+    4084 4085 4086
+}
+
+# Display name: Shripenstadt
+# LoK state ID: 1316
+fu_state_d744dc_area = {
+    4087 4088
+}
+
+# Display name: South Ezikyinjatz
+# LoK state ID: 1318
+fu_state_d7989d_area = {
+    4089 4090
+}
+
+# Display name: Great Kraksia
+# LoK state ID: 1325
+fu_state_d8bdbf_area = {
+    4091 4092 4093 4094
+}
+
+# Display name: Malyrali
+# LoK state ID: 1326
+fu_state_d8e79f_area = {
+    4095 4096 4097 4815
+}
+
+# Display name: Cancrigrad
+# LoK state ID: 1327
+fu_state_d9117f_area = {
+    4098 4099 4100 4803
+}
+
+# Display name: Novoyinjaya
+# LoK state ID: 1328
+fu_state_d93b60_area = {
+    4101 4102
+}
+
+# Display name: Near North Lokout
+# LoK state ID: 1329
+fu_state_d96540_area = {
+    4103 4104 4105 4106
+}
+
+# Display name: Far North Lokout 3
+# LoK state ID: 1330
+fu_state_d98f20_area = {
+    4107 4108 4109
+}
+
+# Display name: East Puffy Island
+# LoK state ID: 1331
+fu_state_d9b900_area = {
+    4110 4111 4112
+}
+
+# Display name: Tripuffli
+# LoK state ID: 1332
+fu_state_d9e2e1_area = {
+    4113 4114 4115
+}
+
+# Display name: Near East Lokout
+# LoK state ID: 1333
+fu_state_da0cc1_area = {
+    4116 4117
+}
+
+# Display name: Sporegazi
+# LoK state ID: 1334
+fu_state_da36a1_area = {
+    4118 4119
+}
+
+# Display name: East Lokout
+# LoK state ID: 1335
+fu_state_da6082_area = {
+    4120 4121
+}
+
+# Display name: Mushbarraz
+# LoK state ID: 1336
+fu_state_da8a62_area = {
+    4122 4123 4124
+}
+
+# Display name: Yanbasidi
+# LoK state ID: 1337
+fu_state_dab442_area = {
+    4125 4126 4127 4718
+}
+
+# Display name: Moushruque
+# LoK state ID: 1338
+fu_state_dade22_area = {
+    4128 4129
+}
+
+# Display name: Far West Lokout
+# LoK state ID: 1339
+fu_state_db0803_area = {
+    4130 4131
+}
+
+# Display name: Far East Lokout 7
+# LoK state ID: 1340
+fu_state_db31e3_area = {
+    4132 4133 4134 4687
+}
+
+# Display name: Ghyatte
+# LoK state ID: 1341
+fu_state_db5bc3_area = {
+    4135 4136 4672
+}
+
+# Display name: Near South Lokout
+# LoK state ID: 1342
+fu_state_db85a3_area = {
+    4137 4138 4139 4625
+}
+
+# Display name: Puffy Island
+# LoK state ID: 1343
+fu_state_dbaf84_area = {
+    4140
+}
+
+# Display name: Far East Lokout 5
+# LoK state ID: 1344
+fu_state_dbd964_area = {
+    4141 4142 4654
+}
+
+# Display name: Taupwald
+# LoK state ID: 1345
+fu_state_dc0344_area = {
+    4143
+}
+
+# Display name: Loudennes
+# LoK state ID: 1346
+fu_state_dc2d24_area = {
+    4144 4145
+}
+
+# Display name: Ottenon
+# LoK state ID: 1347
+fu_state_dc5705_area = {
+    4146 4147
+}
+
+# Display name: Lanterien
+# LoK state ID: 1348
+fu_state_dc80e5_area = {
+    4148 4149
+}
+
+# Display name: Brashten
+# LoK state ID: 1349
+fu_state_dcaac5_area = {
+    4150 4151
+}
+
+# Display name: Ottre
+# LoK state ID: 1350
+fu_state_dcd4a5_area = {
+    4152
+}
+
+# Display name: Batosani
+# LoK state ID: 1351
+fu_state_dcfe86_area = {
+    4153 4154 4155
+}
+
+# Display name: Kambosland
+# LoK state ID: 1352
+fu_state_dd2866_area = {
+    4156 4157 4158 4159 4160
+}
+
+# Display name: Rheilen
+# LoK state ID: 1353
+fu_state_dd5246_area = {
+    4161 4162 4163 4164
+}
+
+# Display name: Eastern Novari
+# LoK state ID: 1354
+fu_state_dd7c27_area = {
+    4165 4166 4167 4168
+}
+
+# Display name: Ravenna
+# LoK state ID: 1355
+fu_state_dda607_area = {
+    4169 4170 4171 4172 4840 4849
+}
+
+# Display name: Novmere
+# LoK state ID: 1356
+fu_state_ddcfe7_area = {
+    4173 4174 4175 4861
+}
+
+# Display name: Novhurst
+# LoK state ID: 1357
+fu_state_ddf9c7_area = {
+    4176 4177 4178
+}
+
+# Display name: Petit Loutteria
+# LoK state ID: 1358
+fu_state_de23a8_area = {
+    4179 4180
+}
+
+# Display name: Armealnia
+# LoK state ID: 1359
+fu_state_de4d88_area = {
+    4181 4182 4183
+}
+
+# Display name: Baguetta
+# LoK state ID: 1360
+fu_state_de7768_area = {
+    4184 4782
+}
+
+# Display name: Northern Heart Mountains
+# LoK state ID: 1361
+fu_state_dea148_area = {
+    4185 4186
+}
+
+# Display name: Near West Dazhungli
+# LoK state ID: 1362
+fu_state_decb29_area = {
+    4187
+}
+
+# Display name: Psossqe
+# LoK state ID: 1363
+fu_state_def509_area = {
+    4188 4189 4190
+}
+
+# Display name: Marossqenardhu
+# LoK state ID: 1364
+fu_state_df1ee9_area = {
+    4191 4851
+}
+
+# Display name: Yinjite Forest
+# LoK state ID: 1365
+fu_state_df48c9_area = {
+    4192 4193 4194
+}
+
+# Display name: Mount Kapolumpos
+# LoK state ID: 1366
+fu_state_df72aa_area = {
+    4862
+}
+
+# Display name: North Hoxxhagen Surface Zone
+# LoK state ID: 1367
+fu_state_df9c8a_area = {
+    4195 4892 4905
+}
+
+# Display name: Ylmira's Peak
+# LoK state ID: 1368
+fu_state_dfc66a_area = {
+    4894
+}
+
+# Display name: East Hoxxhagen Surface Zone
+# LoK state ID: 1369
+fu_state_dff04b_area = {
+    4196
+}
+
+# Display name: Distretto Montano
+# LoK state ID: 1370
+fu_state_e01a2b_area = {
+    4197 4198
+}
+
+# Display name: Purrhelmshaven
+# LoK state ID: 1371
+fu_state_e0440b_area = {
+    4199
+}
+
+# Display name: Northern Melkhiigra
+# LoK state ID: 1372
+fu_state_e06deb_area = {
+    4200 4201 4942
+}
+
+# Display name: Tartaphrogia
+# LoK state ID: 1373
+fu_state_e097cc_area = {
+    4202 4203 4951
+}
+
+# Display name: Ponedresa
+# LoK state ID: 1374
+fu_state_e0c1ac_area = {
+    4204 4205 4206 4769 5007
+}
+
+# Display name: Amburbia
+# LoK state ID: 1375
+fu_state_e0eb8c_area = {
+    4207 4208
+}
+
+# Display name: Pandezia
+# LoK state ID: 1376
+fu_state_e1156c_area = {
+    4209 4210 4211
+}
+
+# Display name: Racogna
+# LoK state ID: 1377
+fu_state_e13f4d_area = {
+    4212 4213
+}
+
+# Display name: Mimifell
+# LoK state ID: 1405
+fu_state_e5d3d4_area = {
+    4214 4215 4216 4626
+}
+
+# Display name: Elteriak
+# LoK state ID: 1406
+fu_state_e5fdb4_area = {
+    4217 4218 4219
+}
+
+# Display name: Neu-Meowleans
+# LoK state ID: 1407
+fu_state_e62795_area = {
+    4220 4221 4222
+}
+
+# Display name: Auralia
+# LoK state ID: 1408
+fu_state_e65175_area = {
+    4223 4224
+}
+
+# Display name: Kittenia
+# LoK state ID: 1409
+fu_state_e67b55_area = {
+    4225 4226
+}
+
+# Display name: Katchester
+# LoK state ID: 1410
+fu_state_e6a535_area = {
+    4227
+}
+
+# Display name: Kittville
+# LoK state ID: 1411
+fu_state_e6cf16_area = {
+    4228 4229
+}
+
+# Display name: Cheet
+# LoK state ID: 1412
+fu_state_e6f8f6_area = {
+    4230 4231 4232 4653 5008
+}
+
+# Display name: Purrarienstadt
+# LoK state ID: 1413
+fu_state_e722d6_area = {
+    4233 4234 4235
+}
+
+# Display name: Perawgen
+# LoK state ID: 1414
+fu_state_e74cb6_area = {
+    4236 4237
+}
+
+# Display name: Colmar
+# LoK state ID: 1415
+fu_state_e77697_area = {
+    4238
+}
+
+# Display name: Darinstadt
+# LoK state ID: 1416
+fu_state_e7a077_area = {
+    4239 4240
+}
+
+# Display name: Rat
+# LoK state ID: 1417
+fu_state_e7ca57_area = {
+    4241
+}
+
+# Display name: Praw
+# LoK state ID: 1418
+fu_state_e7f438_area = {
+    4242 4243
+}
+
+# Display name: Kibblesben
+# LoK state ID: 1419
+fu_state_e81e18_area = {
+    4244
+}
+
+# Display name: Zentralpraw
+# LoK state ID: 1420
+fu_state_e847f8_area = {
+    4245 4617
+}
+
+# Display name: Pérolville
+# LoK state ID: 1421
+fu_state_e871d8_area = {
+    4246 4247 4248
+}
+
+# Display name: Bande du Midi
+# LoK state ID: 1422
+fu_state_e89bb9_area = {
+    4249
+}
+
+# Display name: Iron Match
+# LoK state ID: 1423
+fu_state_e8c599_area = {
+    4250 4841
+}
+
+# Display name: Far South Macafia 15
+# LoK state ID: 1424
+fu_state_e8ef79_area = {
+    4251 4252 4253
+}
+
+# Display name: Mont Gargame
+# LoK state ID: 1425
+fu_state_e91959_area = {
+    4254 4816
+}
+
+# Display name: Jeulie
+# LoK state ID: 1426
+fu_state_e9433a_area = {
+    4255 4256
+}
+
+# Display name: Kaiserburg
+# LoK state ID: 1427
+fu_state_e96d1a_area = {
+    4566 4596
+}
+
+# Display name: Katzil
+# LoK state ID: 1428
+fu_state_e996fa_area = {
+    4257 4613
+}
+
+# Display name: Meowsden
+# LoK state ID: 1429
+fu_state_e9c0da_area = {
+    4258 4259
+}
+
+# Display name: Scratchausen
+# LoK state ID: 1430
+fu_state_e9eabb_area = {
+    4260 4261 4262
+}
+
+# Display name: Tartaryn
+# LoK state ID: 1431
+fu_state_ea149b_area = {
+    4263 4264
+}
+
+# Display name: Central Kharna 8
+# LoK state ID: 1432
+fu_state_ea298b_area = {
+    4266
+}
+
+# Display name: Central Kharna 8
+# LoK state ID: 1432
+fu_state_ea3e7b_area = {
+    4265 4836
+}
+
+# Display name: Wafburg
+# LoK state ID: 1433
+fu_state_ea685b_area = {
+    4267 4268
+}
+
+# Display name: Coquorèze
+# LoK state ID: 1434
+fu_state_ea923c_area = {
+    4269
+}
+
+# Display name: Kaiserburg 2
+# LoK state ID: 1435
+fu_state_eabc1c_area = {
+    4270 4271 4590
+}
+
+# Display name: Herdeath
+# LoK state ID: 1436
+fu_state_eae5fc_area = {
+    4272
+}
+
+# Display name: Solagnaw
+# LoK state ID: 1437
+fu_state_eb0fdd_area = {
+    4273 4274
+}
+
+# Display name: Meadrech
+# LoK state ID: 1438
+fu_state_eb39bd_area = {
+    4275 4276 4277
+}
+
+# Display name: North Drakenburg
+# LoK state ID: 1439
+fu_state_eb639d_area = {
+    4278 4708
+}
+
+# Display name: Victoneustadt
+# LoK state ID: 1440
+fu_state_eb8d7d_area = {
+    4279 4280 4281
+}
+
+# Display name: Meowhorn
+# LoK state ID: 1441
+fu_state_ebb75e_area = {
+    4282 4283
+}
+
+# Display name: Darwinsball
+# LoK state ID: 1442
+fu_state_ebe13e_area = {
+    4284
+}
+
+# Display name: West Kibblesben
+# LoK state ID: 1443
+fu_state_ec0b1e_area = {
+    4285 4286
+}
+
+# Display name: Kibblekatz
+# LoK state ID: 1444
+fu_state_ec34fe_area = {
+    4287 4288
+}
+
+# Display name: Saltille
+# LoK state ID: 1445
+fu_state_ec5edf_area = {
+    4289 4290 4291
+}
+
+# Display name: Eibel
+# LoK state ID: 1446
+fu_state_ec88bf_area = {
+    4292 4293
+}
+
+# Display name: Clermeowth
+# LoK state ID: 1447
+fu_state_ecb29f_area = {
+    4294 4295
+}
+
+# Display name: Portélie
+# LoK state ID: 1448
+fu_state_ecdc7f_area = {
+    4296 4297 4804
+}
+
+# Display name: Neu-Mewxico
+# LoK state ID: 1449
+fu_state_ed0660_area = {
+    4298 4299 4300
+}
+
+# Display name: Meopastadt
+# LoK state ID: 1451
+fu_state_ed5a20_area = {
+    4301 4302
+}
+
+# Display name: Daskander
+# LoK state ID: 1452
+fu_state_ed8401_area = {
+    4581
+}
+
+# Display name: Taikara
+# LoK state ID: 1453
+fu_state_edade1_area = {
+    4303
+}
+
+# Display name: Ostikar
+# LoK state ID: 1454
+fu_state_edd7c1_area = {
+    4304 4569 4577
+}
+
+# Display name: Mimithen
+# LoK state ID: 1455
+fu_state_ee01a1_area = {
+    4305 4306
+}
+
+# Display name: Süd-Purrgund
+# LoK state ID: 1456
+fu_state_ee2b82_area = {
+    4307
+}
+
+# Display name: Mousing
+# LoK state ID: 1457
+fu_state_ee5562_area = {
+    4308
+}
+
+# Display name: Kibbleshaven
+# LoK state ID: 1458
+fu_state_ee7f42_area = {
+    4309
+}
+
+# Display name: Neu-Atar
+# LoK state ID: 1459
+fu_state_eea922_area = {
+    4310 4311
+}
+
+# Display name: Frankfurr
+# LoK state ID: 1460
+fu_state_eed303_area = {
+    4312 4313
+}
+
+# Display name: Mewmewmew
+# LoK state ID: 1461
+fu_state_eefce3_area = {
+    4314
+}
+
+# Display name: Franchesse
+# LoK state ID: 1462
+fu_state_ef26c3_area = {
+    4315
+}
+
+# Display name: Near Franchesse 9
+# LoK state ID: 1463
+fu_state_ef50a3_area = {
+    4316
+}
+
+# Display name: Pawris
+# LoK state ID: 1464
+fu_state_ef7a84_area = {
+    4317 4318
+}
+
+# Display name: Pawmur
+# LoK state ID: 1465
+fu_state_efa464_area = {
+    4319 4540
+}
+
+# Display name: Pimoussebühl
+# LoK state ID: 1466
+fu_state_efce44_area = {
+    4320 4321
+}
+
+# Display name: Stokoslat
+# LoK state ID: 1467
+fu_state_eff825_area = {
+    4322
+}
+
+# Display name: Crimmatz
+# LoK state ID: 1468
+fu_state_f02205_area = {
+    4323 4324
+}
+
+# Display name: Gepardenhausen
+# LoK state ID: 1469
+fu_state_f04be5_area = {
+    4325 4326 4700
+}
+
+# Display name: Roquitz
+# LoK state ID: 1470
+fu_state_f075c5_area = {
+    4327
+}
+
+# Display name: Ville-Bruand
+# LoK state ID: 1471
+fu_state_f09fa6_area = {
+    4328
+}
+
+# Display name: Les Mosges
+# LoK state ID: 1472
+fu_state_f0c986_area = {
+    4329
+}
+
+# Display name: Areline
+# LoK state ID: 1473
+fu_state_f0f366_area = {
+    4330 4331
+}
+
+# Display name: Lugédunume
+# LoK state ID: 1474
+fu_state_f11d46_area = {
+    4332 4333
+}
+
+# Display name: Roquasailles
+# LoK state ID: 1475
+fu_state_f14727_area = {
+    4827
+}
+
+# Display name: North Kronkia 7
+# LoK state ID: 1476
+fu_state_f17107_area = {
+    4334 4335
+}
+
+# Display name: South Kronkia 8
+# LoK state ID: 1477
+fu_state_f19ae7_area = {
+    4336 4337
+}
+
+# Display name: Magnitokronk
+# LoK state ID: 1478
+fu_state_f1c4c7_area = {
+    4338 4339
+}
+
+# Display name: Salamandria
+# LoK state ID: 1479
+fu_state_f1eea8_area = {
+    4340 4341 4637
+}
+
+# Display name: Chawrnihiv
+# LoK state ID: 1480
+fu_state_f21888_area = {
+    4342 4343
+}
+
+# Display name: Saltlarenstadt
+# LoK state ID: 1481
+fu_state_f24268_area = {
+    4344 4345
+}
+
+# Display name: Lower Fodaria 13
+# LoK state ID: 1482
+fu_state_f26c48_area = {
+    4346 4347
+}
+
+# Display name: Far North Fodaria 14
+# LoK state ID: 1483
+fu_state_f29629_area = {
+    4348 4349
+}
+
+# Display name: Kokodesa
+# LoK state ID: 1484
+fu_state_f2c009_area = {
+    4350 4351 4352
+}
+
+# Display name: Far East Fodaria 1
+# LoK state ID: 1485
+fu_state_f2e9e9_area = {
+    4353 4354 4355
+}
+
+# Display name: Far West Fodaria 2
+# LoK state ID: 1486
+fu_state_f313ca_area = {
+    4356 4357 4358
+}
+
+# Display name: Shranglien
+# LoK state ID: 1487
+fu_state_f33daa_area = {
+    4359 4360
+}
+
+# Display name: North Kronkia 4
+# LoK state ID: 1488
+fu_state_f3678a_area = {
+    4361
+}
+
+# Display name: Crastoust
+# LoK state ID: 1489
+fu_state_f3916a_area = {
+    4362 4363 4364
+}
+
+# Display name: East Amphibia 6
+# LoK state ID: 1490
+fu_state_f3bb4b_area = {
+    4365 4366 4367
+}
+
+# Display name: West Amphibia 7
+# LoK state ID: 1491
+fu_state_f3e52b_area = {
+    4368 4369 4370 4371 4783
+}
+
+# Display name: Central Amphibia 8
+# LoK state ID: 1492
+fu_state_f40f0b_area = {
+    4372 4373 4374
+}
+
+# Display name: Upper Amphibia 9
+# LoK state ID: 1493
+fu_state_f438eb_area = {
+    4375 4376 4377 4767
+}
+
+# Display name: Lower Amphibia 10
+# LoK state ID: 1494
+fu_state_f462cc_area = {
+    4378 4379 4380
+}
+
+# Display name: Kronezh
+# LoK state ID: 1495
+fu_state_f48cac_area = {
+    4381 4382
+}
+
+# Display name: Far South Fodaria 12
+# LoK state ID: 1496
+fu_state_f4b68c_area = {
+    4383 4384
+}
+
+# Display name: Far East Praw 13
+# LoK state ID: 1497
+fu_state_f4e06c_area = {
+    4385 4386
+}
+
+# Display name: Far West Praw 14
+# LoK state ID: 1498
+fu_state_f50a4d_area = {
+    4387 4388
+}
+
+# Display name: Near Praw 15
+# LoK state ID: 1499
+fu_state_f5342d_area = {
+    4389
+}
+
+# Display name: North Kronkia 1
+# LoK state ID: 1500
+fu_state_f55e0d_area = {
+    4390 4391
+}
+
+# Display name: South Kronkia 2
+# LoK state ID: 1501
+fu_state_f587ee_area = {
+    4392 4393 4628
+}
+
+# Display name: Neu-Kibbles
+# LoK state ID: 1502
+fu_state_f5b1ce_area = {
+    4394 4395
+}
+
+# Display name: Mewfelde
+# LoK state ID: 1503
+fu_state_f5dbae_area = {
+    4396
+}
+
+# Display name: Ameowzonia
+# LoK state ID: 1504
+fu_state_f6058e_area = {
+    4397
+}
+
+# Display name: Myriad
+# LoK state ID: 1505
+fu_state_f62f6f_area = {
+    4398 4399 4773 4786
+}
+
+# Display name: Lower Neminia 7
+# LoK state ID: 1506
+fu_state_f6594f_area = {
+    4400 4763
+}
+
+# Display name: Aluminitas
+# LoK state ID: 1507
+fu_state_f6832f_area = {
+    4401 4402
+}
+
+# Display name: Far South Fodaria 9
+# LoK state ID: 1508
+fu_state_f6ad0f_area = {
+    4403 4404 4405 4406
+}
+
+# Display name: Far East Fodaria 10
+# LoK state ID: 1509
+fu_state_f6d6f0_area = {
+    4407 4408 4409 4410
+}
+
+# Display name: Luzienskatz
+# LoK state ID: 1510
+fu_state_f700d0_area = {
+    4411 4412 4413
+}
+
+# Display name: Near Fodaria 12
+# LoK state ID: 1511
+fu_state_f72ab0_area = {
+    4414 4415 4416
+}
+
+# Display name: North Fodaria 13
+# LoK state ID: 1512
+fu_state_f75490_area = {
+    4417 4418
+}
+
+# Display name: South Fodaria 14
+# LoK state ID: 1513
+fu_state_f77e71_area = {
+    4419 4420
+}
+
+# Display name: East Temperia 15
+# LoK state ID: 1514
+fu_state_f7a851_area = {
+    4421
+}
+
+# Display name: West Temperia 1
+# LoK state ID: 1515
+fu_state_f7d231_area = {
+    4422
+}
+
+# Display name: Kattailsburg
+# LoK state ID: 1516
+fu_state_f7fc12_area = {
+    4423 4424
+}
+
+# Display name: Upper Kronkia 3
+# LoK state ID: 1517
+fu_state_f825f2_area = {
+    4425 4426
+}
+
+# Display name: Lower Fodaria 4
+# LoK state ID: 1518
+fu_state_f84fd2_area = {
+    4427 4673
+}
+
+# Display name: Bundengrad
+# LoK state ID: 1519
+fu_state_f879b2_area = {
+    4428 4429
+}
+
+# Display name: Far South Amphibia 6
+# LoK state ID: 1520
+fu_state_f8a393_area = {
+    4430 4431 4432
+}
+
+# Display name: Far East Amphibia 7
+# LoK state ID: 1521
+fu_state_f8cd73_area = {
+    4433
+}
+
+# Display name: Far West Fodaria 8
+# LoK state ID: 1522
+fu_state_f8f753_area = {
+    3134 4434 4435 4436 4437
+}
+
+# Display name: Karksovk
+# LoK state ID: 1523
+fu_state_f92133_area = {
+    4438 4439 4440
+}
+
+# Display name: North Fodaria 10
+# LoK state ID: 1524
+fu_state_f94b14_area = {
+    4441 4442
+}
+
+# Display name: Sudkronk
+# LoK state ID: 1051
+fu_state_f974f4_area = {
+    4443 4444
+}
+
+# Display name: Clawinsk
+# LoK state ID: 1526
+fu_state_f99ed4_area = {
+    4445
+}
+
+# Display name: Kerm
+# LoK state ID: 1527
+fu_state_f9c8b4_area = {
+    4446 4447
+}
+
+# Display name: Orefograd
+# LoK state ID: 1528
+fu_state_f9f295_area = {
+    4448 4449
+}
+
+# Display name: Upper Fodaria 15
+# LoK state ID: 1529
+fu_state_fa1c75_area = {
+    4450 4451
+}
+
+# Display name: Lower Amphibia 1
+# LoK state ID: 1530
+fu_state_fa4655_area = {
+    4452 4453 4725
+}
+
+# Display name: Pincarograd
+# LoK state ID: 1531
+fu_state_fa7035_area = {
+    4454 4455
+}
+
+# Display name: Yiarophila
+# LoK state ID: 1532
+fu_state_fa9a16_area = {
+    4456 4457
+}
+
+# Display name: Humusenski
+# LoK state ID: 1533
+fu_state_fac3f6_area = {
+    4458 4459 4460
+}
+
+# Display name: Far West Fodaria 5
+# LoK state ID: 1534
+fu_state_faedd6_area = {
+    4461 4462
+}
+
+# Display name: Near Fodaria 6
+# LoK state ID: 1535
+fu_state_fb17b7_area = {
+    4463 4464
+}
+
+# Display name: Kufa
+# LoK state ID: 1536
+fu_state_fb4197_area = {
+    4465 4466
+}
+
+# Display name: Alabaster
+# LoK state ID: 1537
+fu_state_fb6b77_area = {
+    4467 4685 4697
+}
+
+# Display name: East Neminia 9
+# LoK state ID: 1538
+fu_state_fb9557_area = {
+    4468 4469 4678 4701
+}
+
+# Display name: Meowzan
+# LoK state ID: 1539
+fu_state_fbbf38_area = {
+    4470 4471 4631
+}
+
+# Display name: Yasnodrien
+# LoK state ID: 1540
+fu_state_fbe918_area = {
+    4472 4473
+}
+
+# Display name: Kronkienstadt
+# LoK state ID: 1541
+fu_state_fc12f8_area = {
+    4474 4475
+}
+
+# Display name: Lower Kronkia 13
+# LoK state ID: 1542
+fu_state_fc3cd8_area = {
+    4476
+}
+
+# Display name: Kronkozavodsk
+# LoK state ID: 1543
+fu_state_fc66b9_area = {
+    4477
+}
+
+# Display name: Far South Fodaria 15
+# LoK state ID: 1544
+fu_state_fc9099_area = {
+    4478 4479
+}
+
+# Display name: Yhabarovsk
+# LoK state ID: 1545
+fu_state_fcba79_area = {
+    4480 4481 4482 4669
+}
+
+# Display name: West Fodaria 16
+# LoK state ID: 1546
+fu_state_fce459_area = {
+    4483 4484 4665
+}
+
+# Display name: Katznimbov
+# LoK state ID: 1547
+fu_state_fd0e3a_area = {
+    4485 4486
+}
+
+# Display name: Chelbisk
+# LoK state ID: 1548
+fu_state_fd381a_area = {
+    4487 4488
+}
+
+# Display name: South Fodaria 5
+# LoK state ID: 1549
+fu_state_fd61fa_area = {
+    4489 4490 4630
+}
+
+# Display name: East Fodaria 6
+# LoK state ID: 1550
+fu_state_fd8bdb_area = {
+    4491 4492 4493
+}
+
+# Display name: Yinsk
+# LoK state ID: 1551
+fu_state_fdb5bb_area = {
+    4494 4495
+}
+
+# Display name: Haselnuss
+# LoK state ID: 1552
+fu_state_fddf9b_area = {
+    4496
+}
+
+# Display name: Neu-Pawrio
+# LoK state ID: 1553
+fu_state_fe097b_area = {
+    4497 4498
+}
+
+# Display name: Lower Catalia 10
+# LoK state ID: 1554
+fu_state_fe335c_area = {
+    4499 4500 4501
+}
+
+# Display name: Helo-Ouinie
+# LoK state ID: 1555
+fu_state_fe5d3c_area = {
+    4502
+}
+
+# Display name: Baritagne
+# LoK state ID: 1556
+fu_state_fe871c_area = {
+    4503
+}
+
+# Display name: Tigasus
+# LoK state ID: 1557
+fu_state_feb0fc_area = {
+    4504
+}
+
+# Display name: Los Kibbles
+# LoK state ID: 1558
+fu_state_fedadd_area = {
+    4505
+}
+
+# Display name: Far South Infernum's Castle 3
+# LoK state ID: 457
+fu_state_ff0000_area = {
+    1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40
+    41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 68 69 70 71 72 73 74 76 77 78 79
+    80 81 82 83 84 85 86 87 88 89 90 91 92 93 94 95 96 97 98 99 100 101 102 103 104 105 106 107 108 109 110 111
+    112 113 114 115 116 117 118 119 120 121 122 123 124 125 126 127 128 129 130 131 132 133 134 135 136 137 138
+    140 141 143 144 145 146 147 148 149 150 151 152 153 154 155 156 157 158 159 160 161 162 163 164 165 167 168
+    169 170 171 172 173 174 175 176 177 178 179 180 181 182 183 185 186 187 188 189 190 191 192 193 194 195 196
+    197 198 199 200 201 202 203 204 205 206 207 208 209 210 211 212 213 215 216 217 219 220 221 222 223 225 226
+    227 228 230 232 233 234 235 236 237 238 239 241 242 243 244 245 246 247 248 249 250 251 253 254 255 257 260
+    261 263 264 265 269 271 272 273 274 275 276 278 280 282 284 285 286 287 289 290 291 292 295 296 297 298 299
+    300 301 302 303 304 305 306 307 310 311 312 313 314 322 323 330 333 336 337 338 341 343 344 345 346 351 355
+    356 357 358 359 360 361 362 363 364 365 366 367 368 369 370 371 372 373 420 421 422 423 424 425 426 427 428
+    429 430 431 432 433 4512 4513 4514 4515 4516 4517 4518 4519 4520 4521 4522 4523 4524 4525 4526 4527 4528 4529
+    4959 4960 4961 4962 4963 4964 4965 4966 4967 4968 4969 4970 4971 4972 4973 4974 4975 4976
+}
+
+# Display name: Burnoutte
+# LoK state ID: 1559
+fu_state_ff04bd_area = {
+    4506
+}
+
+# Display name: Northern Pyrrhus
+# LoK state ID: 1560
+fu_state_ff2e9d_area = {
+    4507 4508 4855
+}
+
+# Display name: Ostpir
+# LoK state ID: 1562
+fu_state_ff825e_area = {
+    4509
+}
+
+# Display name: Oyo Nenyata
+# LoK state ID: 1563
+fu_state_ffac3e_area = {
+    4510
+}
+
+# Display name: North Solkatzia
+# LoK state ID: 1564
+fu_state_ffd61e_area = {
+    4511
+}

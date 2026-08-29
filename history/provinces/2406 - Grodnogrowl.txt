@@ -1,0 +1,10 @@
+# Generated bootstrap province 2406
+# Display name: Grodnogrowl
+# LoK city name: LoK city localisation from source province 12961
+# Area: Grodnogrowl | Region: Cutelogne
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

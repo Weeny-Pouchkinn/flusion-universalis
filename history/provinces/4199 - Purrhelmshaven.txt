@@ -1,0 +1,10 @@
+# Generated bootstrap province 4199
+# Display name: Purrhelmshaven
+# LoK city name: LoK city localisation from source province 383
+# Area: Purrhelmshaven | Region: Purrhelmshaven
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

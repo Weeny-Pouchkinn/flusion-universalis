@@ -1,0 +1,10 @@
+# Generated bootstrap province 4092
+# Display name: Western Sudgrad
+# GENERATED NAME: Western Sudgrad (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Great Kraksia | Region: Sudgrad
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1850
+# Display name: Mulford
+# CITY NAME RELOCATED: LoK city 'Mulford' from source province 1564 was relocated from generated province 1851 to avoid two city names on one province (same area, graph distance 1).
+# Area: Southumberland | Region: The Swamplands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

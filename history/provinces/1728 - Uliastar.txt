@@ -1,0 +1,10 @@
+# Generated bootstrap province 1728
+# Display name: Uliastar
+# LoK city name: LoK city localisation from source province 18006
+# Area: Liliastar | Region: Brekarya
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

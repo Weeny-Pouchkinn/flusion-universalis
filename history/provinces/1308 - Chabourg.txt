@@ -1,0 +1,10 @@
+# Generated bootstrap province 1308
+# Display name: Chabourg
+# LoK city name: LoK city localisation from source province 4854
+# Area: Itchiloo | Region: Itchiloo
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

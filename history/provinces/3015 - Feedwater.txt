@@ -1,0 +1,10 @@
+# Generated bootstrap province 3015
+# Display name: Feedwater
+# LoK city name: LoK city localisation from source province 15237
+# Area: Feedwater | Region: Bramble Basins
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

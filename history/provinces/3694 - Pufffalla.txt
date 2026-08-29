@@ -1,0 +1,10 @@
+# Generated bootstrap province 3694
+# Display name: Pufffalla
+# LoK city name: LoK city localisation from source province 15968
+# Area: Rhayman | Region: Flusionea10
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

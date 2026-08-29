@@ -1,0 +1,10 @@
+# Generated bootstrap province 4027
+# Display name: Central Mercurian Mountains
+# GENERATED NAME: Central Mercurian Mountains (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Gorskzableg | Region: Mercurian Mountains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

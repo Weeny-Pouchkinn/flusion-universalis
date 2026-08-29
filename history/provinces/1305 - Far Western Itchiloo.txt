@@ -1,0 +1,10 @@
+# Generated bootstrap province 1305
+# Display name: Far Western Itchiloo
+# GENERATED NAME: Far Western Itchiloo (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Itchiloo | Region: Itchiloo
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

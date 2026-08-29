@@ -1,0 +1,10 @@
+# Generated bootstrap province 3756
+# Display name: East Bearlin
+# LoK city name: LoK city localisation from source province 15910
+# Area: East Bearlin | Region: Midflusionea15
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1612
+# Display name: Roseville
+# LoK city name: LoK city localisation from source province 17101
+# Area: Gallopia | Region: Gallopia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3057
+# Display name: Eastern Sanguine Hills
+# GENERATED NAME: Eastern Sanguine Hills (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Eastern Shroom Hills | Region: Sanguine Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

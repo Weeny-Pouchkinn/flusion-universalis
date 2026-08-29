@@ -1,0 +1,10 @@
+# Generated bootstrap province 36
+# Display name: Crique-aux-Feurs
+# LoK city name: LoK city localisation from source province 122
+# Area: Far South Infernum's Castle 3 | Region: Snowdonia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

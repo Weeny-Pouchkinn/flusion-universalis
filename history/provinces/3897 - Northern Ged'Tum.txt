@@ -1,0 +1,10 @@
+# Generated bootstrap province 3897
+# Display name: Northern Ged'Tum
+# GENERATED NAME: Northern Ged'Tum (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Ranagrad | Region: Ged'Tum
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

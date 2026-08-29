@@ -1,0 +1,10 @@
+# Generated bootstrap province 3619
+# Display name: Crumbrid
+# LoK city name: LoK city localisation from source province 17533
+# Area: Crumbrid | Region: Flusionea2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

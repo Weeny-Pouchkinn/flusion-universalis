@@ -1,0 +1,10 @@
+# Generated bootstrap province 3579
+# Display name: Doughnada
+# LoK city name: LoK city localisation from source province 814
+# Area: Doughnada | Region: Spri12
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

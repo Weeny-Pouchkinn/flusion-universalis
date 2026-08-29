@@ -1,0 +1,10 @@
+# Generated bootstrap province 1024
+# Display name: Kattailstock
+# LoK city name: LoK city localisation from source province 12348
+# Area: Meowgeve | Region: Pawmalay
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

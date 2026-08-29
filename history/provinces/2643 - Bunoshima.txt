@@ -1,0 +1,10 @@
+# Generated bootstrap province 2643
+# Display name: Bunoshima
+# LoK city name: LoK city localisation from source province 4148
+# Area: Bunoshima | Region: Lakeside City
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

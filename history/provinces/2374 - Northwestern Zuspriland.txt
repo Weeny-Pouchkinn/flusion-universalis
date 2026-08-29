@@ -1,0 +1,10 @@
+# Generated bootstrap province 2374
+# Display name: Northwestern Zuspriland
+# GENERATED NAME: Northwestern Zuspriland (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Tyukland | Region: Zuspriland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

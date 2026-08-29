@@ -1,0 +1,10 @@
+# Generated bootstrap province 3690
+# Display name: Fondántander
+# LoK city name: LoK city localisation from source province 16050
+# Area: Mahin Geh | Region: Flusionea10
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

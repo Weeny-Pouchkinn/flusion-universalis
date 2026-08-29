@@ -1,0 +1,10 @@
+# Generated bootstrap province 4233
+# Display name: Mushile
+# LoK city name: LoK city localisation from source province 14701
+# Area: Purrarienstadt | Region: Lionsburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

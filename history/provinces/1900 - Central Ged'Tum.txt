@@ -1,0 +1,10 @@
+# Generated bootstrap province 1900
+# Display name: Central Ged'Tum
+# GENERATED NAME: Central Ged'Tum (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Lily Groves | Region: Ged'Tum
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2764
+# Display name: Alico
+# LoK city name: LoK city localisation from source province 20918
+# Area: Halile Méridionale | Region: Central Solakean Sea
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

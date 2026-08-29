@@ -1,0 +1,10 @@
+# Generated bootstrap province 2518
+# Display name: Steelloft
+# LoK city name: LoK city localisation from source province 10793
+# Area: Galloping Crossing | Region: Gallopia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

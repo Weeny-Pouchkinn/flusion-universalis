@@ -1,0 +1,10 @@
+# Generated bootstrap province 3391
+# Display name: Zagiuv
+# CITY NAME RELOCATED: LoK city 'Zagiuv' from source province 16970 was relocated from generated province 3390 to avoid two city names on one province (same area, graph distance 1).
+# Area: Miestan | Region: Droogia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

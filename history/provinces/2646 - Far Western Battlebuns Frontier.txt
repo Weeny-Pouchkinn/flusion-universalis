@@ -1,0 +1,10 @@
+# Generated bootstrap province 2646
+# Display name: Far Western Battlebuns Frontier
+# GENERATED NAME: Far Western Battlebuns Frontier (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Bunfast | Region: Battlebuns Frontier
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

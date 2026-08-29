@@ -1,0 +1,10 @@
+# Generated bootstrap province 3030
+# Display name: Rattletown
+# LoK city name: LoK city localisation from source province 4108
+# Area: Rattlecoast | Region: Northern Enotita
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

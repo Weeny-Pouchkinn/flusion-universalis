@@ -1,0 +1,10 @@
+# Generated bootstrap province 1799
+# Display name: Jeffeville
+# LoK city name: LoK city localisation from source province 15782
+# Area: Beauparc | Region: Rustalia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

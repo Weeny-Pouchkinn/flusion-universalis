@@ -1,0 +1,10 @@
+# Generated bootstrap province 3387
+# Display name: Fangkarra
+# LoK city name: LoK city localisation from source province 17264
+# Area: Grovati | Region: Droogia3
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

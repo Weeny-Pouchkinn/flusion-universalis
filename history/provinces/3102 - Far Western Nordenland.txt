@@ -1,0 +1,10 @@
+# Generated bootstrap province 3102
+# Display name: Far Western Nordenland
+# GENERATED NAME: Far Western Nordenland (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: South Crabby Shores | Region: Nordenland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

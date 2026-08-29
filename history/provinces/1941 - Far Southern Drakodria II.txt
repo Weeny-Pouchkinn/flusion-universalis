@@ -1,0 +1,10 @@
+# Generated bootstrap province 1941
+# Display name: Far Southern Drakodria II
+# GENERATED NAME: Far Southern Drakodria II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Arctic Shores | Region: Drakodria
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

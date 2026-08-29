@@ -1,0 +1,10 @@
+# Generated bootstrap province 1494
+# Display name: Navar
+# LoK city name: LoK city localisation from source province 16020
+# Area: Solkatzen Isle | Region: Solakatzen Strait
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

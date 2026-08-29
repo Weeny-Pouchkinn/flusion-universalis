@@ -1,0 +1,10 @@
+# Generated bootstrap province 3078
+# Display name: Deux-Rivieres
+# LoK city name: LoK city localisation from source province 1173
+# Area: Interfleuvie | Region: Lesser Lake
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

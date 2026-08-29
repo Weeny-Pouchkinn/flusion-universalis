@@ -1,6 +1,15 @@
-version="1.37.5"
+version="0.0.3"
 tags={
-	"Gameplay"
+    "Map"
+    "Total Conversion"
+    "Gameplay"
 }
 name="Flusion Universalis"
-supported_version="v1.37.5.0"
+supported_version="1.37.*"
+replace_path="common/bookmarks"
+replace_path="common/country_tags"
+replace_path="common/tradenodes"
+replace_path="history/countries"
+replace_path="history/provinces"
+replace_path="history/diplomacy"
+replace_path="history/wars"

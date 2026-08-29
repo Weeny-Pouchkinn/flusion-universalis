@@ -1,0 +1,10 @@
+# Generated bootstrap province 1133
+# Display name: Drugirafa
+# LoK city name: LoK city localisation from source province 7793
+# Area: Drugirafa | Region: Mercurian Gulf
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 4509
+# Display name: Pyrrhus
+# LoK city name: LoK city localisation from source province 6949
+# Area: Ostpir | Region: Solaria
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

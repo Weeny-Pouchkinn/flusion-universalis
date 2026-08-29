@@ -1,0 +1,10 @@
+# Generated bootstrap province 1823
+# Display name: Marmotin
+# LoK city name: LoK city localisation from source province 5442
+# Area: Novanada | Region: The Swamplands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

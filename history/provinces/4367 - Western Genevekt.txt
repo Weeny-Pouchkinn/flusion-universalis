@@ -1,0 +1,10 @@
+# Generated bootstrap province 4367
+# Display name: Western Genevekt
+# GENERATED NAME: Western Genevekt (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: East Amphibia 6 | Region: Genevekt
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

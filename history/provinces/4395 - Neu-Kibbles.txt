@@ -1,0 +1,10 @@
+# Generated bootstrap province 4395
+# Display name: Neu-Kibbles
+# LoK city name: LoK city localisation from source province 7181
+# Area: Neu-Kibbles | Region: Neu-Kibbles
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

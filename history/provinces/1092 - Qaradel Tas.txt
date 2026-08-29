@@ -1,0 +1,10 @@
+# Generated bootstrap province 1092
+# Display name: Qaradel Tas
+# CITY NAME RELOCATED: LoK city 'Qaradel Tas' from source province 10640 was relocated from generated province 1091 to avoid two city names on one province (same area, graph distance 1).
+# Area: Qaradel Tas | Region: Red Kolechia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

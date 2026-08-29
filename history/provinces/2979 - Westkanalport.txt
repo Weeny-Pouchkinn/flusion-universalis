@@ -1,0 +1,10 @@
+# Generated bootstrap province 2979
+# Display name: Westkanalport
+# LoK city name: LoK city localisation from source province 953
+# Area: Waterdeen | Region: Vasmar Channel
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

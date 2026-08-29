@@ -1,0 +1,10 @@
+# Generated bootstrap province 4450
+# Display name: Far Western Kronkstaat II
+# GENERATED NAME: Far Western Kronkstaat II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Upper Fodaria 15 | Region: Kronkstaat
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

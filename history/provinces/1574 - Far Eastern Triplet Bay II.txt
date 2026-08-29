@@ -1,0 +1,10 @@
+# Generated bootstrap province 1574
+# Display name: Far Eastern Triplet Bay II
+# GENERATED NAME: Far Eastern Triplet Bay II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Near West Démotagne | Region: Triplet Bay
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

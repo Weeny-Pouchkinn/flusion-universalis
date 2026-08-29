@@ -1,0 +1,10 @@
+# Generated bootstrap province 2449
+# Display name: Gatogato
+# LoK city name: LoK city localisation from source province 12648
+# Area: Meowntreal | Region: Pouchkinn Plains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

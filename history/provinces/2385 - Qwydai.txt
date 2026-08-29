@@ -1,0 +1,10 @@
+# Generated bootstrap province 2385
+# Display name: Qwydai
+# LoK city name: LoK city localisation from source province 8091
+# Area: Qwydai | Region: Zuspriland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

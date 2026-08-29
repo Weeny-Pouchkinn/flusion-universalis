@@ -1,0 +1,10 @@
+# Generated bootstrap province 4182
+# Display name: Armealnia
+# LoK city name: LoK city localisation from source province 9598
+# Area: Armealnia | Region: Flusionea9
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3415
+# Display name: Far Southeastern Frusia
+# GENERATED NAME: Far Southeastern Frusia (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: West Sea Beach | Region: Frusia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

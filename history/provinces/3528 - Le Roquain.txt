@@ -1,0 +1,10 @@
+# Generated bootstrap province 3528
+# Display name: Le Roquain
+# LoK city name: LoK city localisation from source province 9377
+# Area: Nouvelle Roqualie | Region: Rustalia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

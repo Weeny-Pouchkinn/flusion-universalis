@@ -1,0 +1,10 @@
+# Generated bootstrap province 1081
+# Display name: Far Northwestern Mercurian Trench
+# GENERATED NAME: Far Northwestern Mercurian Trench (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Fajnawysp | Region: Mercurian Trench
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

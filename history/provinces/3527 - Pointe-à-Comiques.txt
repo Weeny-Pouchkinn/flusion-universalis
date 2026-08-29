@@ -1,0 +1,10 @@
+# Generated bootstrap province 3527
+# Display name: Pointe-à-Comiques
+# LoK city name: LoK city localisation from source province 10323
+# Area: Marine Tranquille | Region: Rustalia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

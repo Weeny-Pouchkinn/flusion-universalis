@@ -1,0 +1,10 @@
+# Generated bootstrap province 2187
+# Display name: Far Southern Meopinstaat
+# GENERATED NAME: Far Southern Meopinstaat (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Altestadt | Region: Meopinstaat
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

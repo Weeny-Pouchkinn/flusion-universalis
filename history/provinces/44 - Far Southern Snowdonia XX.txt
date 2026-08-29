@@ -1,0 +1,10 @@
+# Generated bootstrap province 44
+# Display name: Far Southern Snowdonia XX
+# GENERATED NAME: Far Southern Snowdonia XX (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far South Infernum's Castle 3 | Region: Snowdonia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

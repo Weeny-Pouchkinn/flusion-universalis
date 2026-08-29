@@ -1,0 +1,10 @@
+# Generated bootstrap province 2427
+# Display name: Gnawdo
+# LoK city name: LoK city localisation from source province 3561
+# Area: Mogiluff | Region: Ostkreuz
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

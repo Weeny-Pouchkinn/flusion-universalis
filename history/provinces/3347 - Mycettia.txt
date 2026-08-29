@@ -1,0 +1,10 @@
+# Generated bootstrap province 3347
+# Display name: Mycettia
+# LoK city name: LoK city localisation from source province 15769
+# Area: Ismhal | Region: Puffiland5
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

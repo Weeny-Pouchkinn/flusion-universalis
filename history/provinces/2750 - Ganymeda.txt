@@ -1,0 +1,10 @@
+# Generated bootstrap province 2750
+# Display name: Ganymeda
+# LoK city name: LoK city localisation from source province 3726
+# Area: Upper Ganymeda | Region: Solaria
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2075
+# Display name: Far Northern Pawscow
+# GENERATED NAME: Far Northern Pawscow (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Mogiluff | Region: Pawscow
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3421
+# Display name: Vatalit
+# LoK city name: LoK city localisation from source province 16873
+# Area: Nibamt | Region: Parelia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

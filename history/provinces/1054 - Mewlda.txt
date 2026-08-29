@@ -1,0 +1,10 @@
+# Generated bootstrap province 1054
+# Display name: Mewlda
+# LoK city name: LoK city localisation from source province 2638
+# Area: Meonelux | Region: Pawris
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

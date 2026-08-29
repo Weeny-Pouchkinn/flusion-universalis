@@ -1,0 +1,10 @@
+# Generated bootstrap province 4446
+# Display name: Kerm
+# LoK city name: LoK city localisation from source province 2590
+# Area: Kerm | Region: Kronkstaat
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

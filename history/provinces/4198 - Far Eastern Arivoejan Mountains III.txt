@@ -1,0 +1,10 @@
+# Generated bootstrap province 4198
+# Display name: Far Eastern Arivoejan Mountains III
+# GENERATED NAME: Far Eastern Arivoejan Mountains III (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Distretto Montano | Region: Arivoejan Mountains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

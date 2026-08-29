@@ -1,0 +1,10 @@
+# Generated bootstrap province 2196
+# Display name: Gummersball
+# LoK city name: LoK city localisation from source province 13875
+# Area: North Katzil | Region: Katzen Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

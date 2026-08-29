@@ -1,0 +1,10 @@
+# Generated bootstrap province 1689
+# Display name: Flancha
+# LoK city name: LoK city localisation from source province 3398
+# Area: Valledupèr | Region: Flusionea1
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

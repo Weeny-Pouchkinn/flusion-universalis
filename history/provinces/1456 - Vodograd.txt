@@ -1,0 +1,10 @@
+# Generated bootstrap province 1456
+# Display name: Vodograd
+# LoK city name: LoK city localisation from source province 4218
+# Area: Krazan | Region: Kronkstaat
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

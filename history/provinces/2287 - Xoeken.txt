@@ -1,0 +1,10 @@
+# Generated bootstrap province 2287
+# Display name: Xoeken
+# LoK city name: LoK city localisation from source province 12705
+# Area: Xoeken | Region: Xoeken
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 4191
+# Display name: Marossqenardhu
+# LoK city name: LoK city localisation from source province 9784
+# Area: Marossqenardhu | Region: Spri3
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

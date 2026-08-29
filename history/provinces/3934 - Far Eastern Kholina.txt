@@ -1,0 +1,10 @@
+# Generated bootstrap province 3934
+# Display name: Far Eastern Kholina
+# GENERATED NAME: Far Eastern Kholina (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: East The Valley | Region: Kholina
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 3865
+# Display name: Bearttig
+# LoK city name: LoK city localisation from source province 3509
+# Area: Fort Bear | Region: Midflusionea19
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

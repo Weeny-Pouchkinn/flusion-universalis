@@ -1,0 +1,10 @@
+# Generated bootstrap province 1356
+# Display name: Southern Puffiland8
+# GENERATED NAME: Southern Puffiland8 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: North Lokout | Region: Puffiland8
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

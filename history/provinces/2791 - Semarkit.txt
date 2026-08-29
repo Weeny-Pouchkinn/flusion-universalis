@@ -1,0 +1,10 @@
+# Generated bootstrap province 2791
+# Display name: Semarkit
+# LoK city name: LoK city localisation from source province 17465
+# Area: Gtuntuh | Region: Teryakr
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

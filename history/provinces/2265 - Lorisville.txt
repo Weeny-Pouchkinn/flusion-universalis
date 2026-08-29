@@ -1,0 +1,10 @@
+# Generated bootstrap province 2265
+# Display name: Lorisville
+# CITY NAME RELOCATED: LoK city 'Lorisville' from source province 13437 was relocated from generated province 2264 to avoid two city names on one province (same area, graph distance 1).
+# Area: Kibbleshores | Region: Los Kibbles
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

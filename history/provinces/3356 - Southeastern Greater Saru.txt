@@ -1,0 +1,10 @@
+# Generated bootstrap province 3356
+# Display name: Southeastern Greater Saru
+# GENERATED NAME: Southeastern Greater Saru (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Bostroolia | Region: Greater Saru
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

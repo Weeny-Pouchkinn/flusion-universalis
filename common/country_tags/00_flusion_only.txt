@@ -1,0 +1,6 @@
+# Required special engine countries
+REB = "countries/Rebels.txt"
+PIR = "countries/Pirates.txt"
+NAT = "countries/Natives.txt"
+
+FUS = "countries/Flusion Bootstrap.txt"

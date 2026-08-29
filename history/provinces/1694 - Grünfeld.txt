@@ -1,0 +1,10 @@
+# Generated bootstrap province 1694
+# Display name: Grünfeld
+# LoK city name: LoK city localisation from source province 8648
+# Area: Grünfeld | Region: Purrhelmshaven
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

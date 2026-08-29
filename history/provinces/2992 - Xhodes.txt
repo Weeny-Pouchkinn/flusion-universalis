@@ -1,0 +1,10 @@
+# Generated bootstrap province 2992
+# Display name: Xhodes
+# LoK city name: LoK city localisation from source province 18610
+# Area: Usswaeri | Region: Mount Izwae
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

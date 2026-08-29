@@ -1,0 +1,10 @@
+# Generated bootstrap province 2333
+# Display name: Meowmeow
+# LoK city name: LoK city localisation from source province 2417
+# Area: Meowmeow | Region: Pouchkinn Plains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

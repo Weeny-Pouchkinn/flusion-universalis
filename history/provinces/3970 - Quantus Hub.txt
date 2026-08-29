@@ -1,0 +1,10 @@
+# Generated bootstrap province 3970
+# Display name: Quantus Hub
+# LoK city name: LoK city localisation from source province 10555
+# Area: Quantus Hub | Region: Mercurian Panhandle
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

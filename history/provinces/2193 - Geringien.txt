@@ -1,0 +1,10 @@
+# Generated bootstrap province 2193
+# Display name: Geringien
+# LoK city name: LoK city localisation from source province 8886
+# Area: Northeastern Grand Hills | Region: Katzen Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

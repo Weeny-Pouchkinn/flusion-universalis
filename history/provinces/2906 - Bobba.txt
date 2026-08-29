@@ -1,0 +1,10 @@
+# Generated bootstrap province 2906
+# Display name: Bobba
+# LoK city name: LoK city localisation from source province 6075
+# Area: Bobbian Plains | Region: Alraxia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 4274
+# Display name: Far Northern Solagnaw II
+# GENERATED NAME: Far Northern Solagnaw II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Solagnaw | Region: Solagnaw
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

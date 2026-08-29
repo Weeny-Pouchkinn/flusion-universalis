@@ -1,0 +1,10 @@
+# Generated bootstrap province 1048
+# Display name: Frieren
+# CITY NAME RELOCATED: LoK city 'Frieren' from source province 6524 was relocated from generated province 1047 to avoid two city names on one province (same area, graph distance 1).
+# Area: Darin | Region: Purrsia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

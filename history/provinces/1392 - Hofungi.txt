@@ -1,0 +1,10 @@
+# Generated bootstrap province 1392
+# Display name: Hofungi
+# LoK city name: LoK city localisation from source province 5505
+# Area: Hofungi | Region: Puffiland10
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 1932
+# Display name: Marntidorp
+# LoK city name: LoK city localisation from source province 19523
+# Area: Zeeland | Region: Katteneiland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

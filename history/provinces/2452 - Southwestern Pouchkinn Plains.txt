@@ -1,0 +1,10 @@
+# Generated bootstrap province 2452
+# Display name: Southwestern Pouchkinn Plains
+# GENERATED NAME: Southwestern Pouchkinn Plains (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Luxempaw | Region: Pouchkinn Plains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

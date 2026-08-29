@@ -1,0 +1,10 @@
+# Generated bootstrap province 1270
+# Display name: Warm Springs
+# LoK city name: LoK city localisation from source province 14836
+# Area: Warm Springs | Region: Midflusionea17
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

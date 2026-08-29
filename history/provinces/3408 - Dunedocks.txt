@@ -1,0 +1,10 @@
+# Generated bootstrap province 3408
+# Display name: Dunedocks
+# LoK city name: LoK city localisation from source province 7717
+# Area: Dunedocks | Region: Frusia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2991
+# Display name: Kokorinth
+# LoK city name: LoK city localisation from source province 18732
+# Area: Usswaeri | Region: Mount Izwae
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

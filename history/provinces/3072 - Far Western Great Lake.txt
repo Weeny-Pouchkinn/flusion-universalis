@@ -1,0 +1,10 @@
+# Generated bootstrap province 3072
+# Display name: Far Western Great Lake
+# GENERATED NAME: Far Western Great Lake (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Roquestrie | Region: Great Lake
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

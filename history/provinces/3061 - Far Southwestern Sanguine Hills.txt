@@ -1,0 +1,10 @@
+# Generated bootstrap province 3061
+# Display name: Far Southwestern Sanguine Hills
+# GENERATED NAME: Far Southwestern Sanguine Hills (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Ost-Kattailwald | Region: Sanguine Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

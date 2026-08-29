@@ -1,0 +1,10 @@
+# Generated bootstrap province 4452
+# Display name: Eastern Zikua
+# GENERATED NAME: Eastern Zikua (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Lower Amphibia 1 | Region: Zikua
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

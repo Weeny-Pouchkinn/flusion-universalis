@@ -1,0 +1,10 @@
+# Generated bootstrap province 2886
+# Display name: Leolène
+# LoK city name: LoK city localisation from source province 15689
+# Area: Novemberstadt | Region: Ballatonne Basin
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

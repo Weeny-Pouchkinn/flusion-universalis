@@ -1,0 +1,10 @@
+# Generated bootstrap province 1908
+# Display name: Far Eastern Arivoejan Mountains
+# GENERATED NAME: Far Eastern Arivoejan Mountains (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Kàpabùn | Region: Arivoejan Mountains
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

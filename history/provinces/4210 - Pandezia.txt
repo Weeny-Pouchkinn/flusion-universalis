@@ -1,0 +1,10 @@
+# Generated bootstrap province 4210
+# Display name: Pandezia
+# CITY NAME RELOCATED: LoK city 'Pandezia' from source province 9012 was relocated from generated province 4211 to avoid two city names on one province (same area, graph distance 1).
+# Area: Pandezia | Region: Procione Heartlands
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

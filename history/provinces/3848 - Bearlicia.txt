@@ -1,0 +1,10 @@
+# Generated bootstrap province 3848
+# Display name: Bearlicia
+# LoK city name: LoK city localisation from source province 6092
+# Area: Honey Pass | Region: Midflusionea10
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

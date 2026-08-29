@@ -1,0 +1,10 @@
+# Generated bootstrap province 2436
+# Display name: Typka
+# CITY NAME RELOCATED: LoK city 'Typka' from source province 5610 was relocated from generated province 2435 to avoid two city names on one province (same area, graph distance 1).
+# Area: Gomelhound | Region: Northern Sobakiland
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

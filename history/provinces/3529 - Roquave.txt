@@ -1,0 +1,10 @@
+# Generated bootstrap province 3529
+# Display name: Roquave
+# LoK city name: LoK city localisation from source province 5647
+# Area: Nouvelle Roqualie | Region: Rustalia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

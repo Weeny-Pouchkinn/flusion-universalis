@@ -1,0 +1,10 @@
+# Generated bootstrap province 1802
+# Display name: Far Western Nacru II
+# GENERATED NAME: Far Western Nacru II (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Shingia | Region: Nacru
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

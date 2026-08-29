@@ -1,0 +1,10 @@
+# Generated bootstrap province 2210
+# Display name: Chanau
+# LoK city name: LoK city localisation from source province 2195
+# Area: Mittelmewxico | Region: Catburg
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

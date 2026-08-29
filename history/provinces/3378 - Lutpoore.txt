@@ -1,0 +1,10 @@
+# Generated bootstrap province 3378
+# Display name: Lutpoore
+# LoK city name: LoK city localisation from source province 8926
+# Area: Vampstanta | Region: Droogia2
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

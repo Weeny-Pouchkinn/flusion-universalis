@@ -1,0 +1,10 @@
+# Generated bootstrap province 3792
+# Display name: Far Southern Puffiland12
+# GENERATED NAME: Far Southern Puffiland12 (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Far West Lokout 5 | Region: Puffiland12
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

@@ -1,0 +1,10 @@
+# Generated bootstrap province 2653
+# Display name: Far Southern Lakeside City
+# GENERATED NAME: Far Southern Lakeside City (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Hopping Meadows | Region: Lakeside City
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

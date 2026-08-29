@@ -1,0 +1,10 @@
+# Generated bootstrap province 2194
+# Display name: Southern Katzen Hills
+# GENERATED NAME: Southern Katzen Hills (no LoK VICTORY_POINTS_ city localisation was assigned to this generated province)
+# Area: Northeastern Grand Hills | Region: Katzen Hills
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
