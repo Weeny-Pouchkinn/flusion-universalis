@@ -5,3 +5,7 @@ trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+owner = FUS
+controller = FUS
+add_core = FUS
+capital = "Far South Infernum's Castle 4"

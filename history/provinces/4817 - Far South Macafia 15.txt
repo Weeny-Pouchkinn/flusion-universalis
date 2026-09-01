@@ -1,7 +1,0 @@
-# Province 4817: Far South Macafia 15
-culture = english
-religion = catholic
-trade_goods = grain
-base_tax = 1
-base_production = 1
-base_manpower = 1

@@ -16,7 +16,7 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 15;fu_state_area_518;Kibblestadt;518;Kibblestadt;7
 16;fu_state_area_303;Midi-Sunazure;303;Midi-Sunazure;4
 17;fu_state_area_896;Southern New Kastra;896;Southern New Kastra;5
-18;fu_state_area_327;Northern Solity;327;Northern Solity;5
+18;fu_state_area_1423;Iron Match;1423;Iron Match;5
 19;fu_state_area_382;Miauwhattan;382;Miauwhattan;7
 20;fu_state_area_245;Neustruken;245;Neustruken;5
 21;fu_state_area_741;Ucétie;741;Ucétie;7
@@ -25,7 +25,7 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 24;fu_state_area_396;Aaptun;396;Aaptun;8
 25;fu_state_area_325;Midi-Vidanie;325;Midi-Vidanie;5
 26;fu_state_area_1003;Azzukhad;1003;Azzukhad;5
-27;fu_state_area_1444;Kibblekatz;1444;Kibblekatz;5
+27;fu_state_area_87;Los Kibbles;87;Los Kibbles;5
 28;fu_state_area_605;Alabaster;605;Alabaster;4
 29;fu_state_area_443;Tempere;443;Tempere;5
 30;fu_state_area_286;Wome;286;Wome;3
@@ -34,1069 +34,1069 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 33;fu_state_area_342;Ornistralia;342;Ornistralia;5
 34;fu_state_area_372;Southumberland;372;Southumberland;7
 35;fu_state_area_1311;Ciptol;1311;Ciptol;1
-36;fu_state_area_467;Broukburn;467;Broukburn;7
+36;fu_state_area_467;Broukburn;467;Broukburn;5
 37;fu_state_area_467_2;Broukburn;467;Broukburn;5
-38;fu_state_area_467_3;Broukburn;467;Broukburn;7
-39;fu_state_area_1158;South Latarada;1158;South Latarada;5
-40;fu_state_area_364;Baltiquie Superieure;364;Baltiquie Superieure;3
-41;fu_state_area_483;Tanba;483;Tanba;7
-42;fu_state_area_1156;South Démotagne;1156;South Démotagne;5
-43;fu_state_area_1504;Ameowzonia;1504;Ameowzonia;4
-44;fu_state_area_820;Greater Solity;820;Greater Solity;4
-45;fu_state_area_223;Petite Qualie;223;Petite Qualie;1
-46;fu_state_area_1034;Reuniocelie Centrale;1034;Reuniocelie Centrale;3
-47;fu_state_area_420;Western Hushed Forest;420;Western Hushed Forest;6
-48;fu_state_area_992;Rattlecoast;992;Rattlecoast;6
-49;fu_state_area_347;Tak-Icar;347;Tak-Icar;4
-50;fu_state_area_312;Dogeheit;312;Dogeheit;7
-51;fu_state_area_898;Narnburg;898;Narnburg;4
-52;fu_state_area_50;Katucky;50;Katucky;4
-53;fu_state_area_326;Lisejr Metroplitan Area;326;Lisejr Metroplitan Area;4
-54;fu_state_area_1150;Far North Southern Stollparche;1150;Far North Southern Stollparche;4
-55;fu_state_area_547;Lyuinwald;547;Lyuinwald;4
-56;fu_state_area_732;Oueston;732;Oueston;5
-57;fu_state_area_13;Meowenberg;13;Meowenberg;7
-58;fu_state_area_39;Wachatgon;39;Wachatgon;4
-59;fu_state_area_1163;North Southern Stollparche;1163;North Southern Stollparche;4
-60;fu_state_area_339;Battlebuns Frontier;339;Battlebuns Frontier;5
-61;fu_state_area_1308;North Fleatherwing;1308;North Fleatherwing;5
-62;fu_state_area_240;Wolfen's Coast;240;Wolfen's Coast;4
-63;fu_state_area_882;Lowcoast;882;Lowcoast;8
-64;fu_state_area_721;Ailesainque;721;Ailesainque;4
-65;fu_state_area_652;Pawllington;652;Pawllington;3
-66;fu_state_area_42;Katalonia;42;Katalonia;3
-67;fu_state_area_792;Filosimpàra;792;Filosimpàra;5
-68;fu_state_area_661;Nordansicht;661;Nordansicht;5
-69;fu_state_area_1369;East Hoxxhagen Surface Zone;1369;East Hoxxhagen Surface Zone;3
-70;fu_state_area_193;Far West Southern Stollparche;193;Far West Southern Stollparche;4
-71;fu_state_area_174;Gepardien;174;Gepardien;7
-72;fu_state_area_570;Rosestadt;570;Rosestadt;6
-73;fu_state_area_1315;East Hissity;1315;East Hissity;6
-74;fu_state_area_328;Inner Solity;328;Inner Solity;8
-75;fu_state_area_668;Eastern Pawldrinsel;668;Eastern Pawldrinsel;4
-76;fu_state_area_809;Heldford;809;Heldford;5
-77;fu_state_area_1154;West Southern Stollparche;1154;West Southern Stollparche;4
-78;fu_state_area_8;Mewsinki;8;Mewsinki;3
-79;fu_state_area_742;Styvellines;742;Styvellines;6
-80;fu_state_area_817;Iron Mounts;817;Iron Mounts;5
-81;fu_state_area_1160;Near West Petite Qualie;1160;Near West Petite Qualie;6
-82;fu_state_area_115;Süd-Auralien;115;Süd-Auralien;6
-83;fu_state_area_385;Françaslien;385;Françaslien;5
-84;fu_state_area_583;Punchiestadt;583;Punchiestadt;5
-85;fu_state_area_567;Middenpaw;567;Middenpaw;5
-86;fu_state_area_218;Jarvalin;218;Jarvalin;5
-87;fu_state_area_528;White Peaks Valley;528;White Peaks Valley;5
-88;fu_state_area_904;Sumadikat;904;Sumadikat;6
-89;fu_state_area_32;Bamsens Dock;32;Bamsens Dock;4
-90;fu_state_area_1159;South Cularie;1159;South Cularie;7
-91;fu_state_area_989;Hissity;989;Hissity;7
-92;fu_state_area_1427;Kaiserburg;1427;Kaiserburg;6
-93;fu_state_area_38;Meowdeburg;38;Meowdeburg;7
-94;fu_state_area_1347;Ottenon;1347;Ottenon;6
-95;fu_state_area_161;Vhi Gherizad;161;Vhi Gherizad;5
-96;fu_state_area_1307;South Fleatherwing;1307;South Fleatherwing;6
-97;fu_state_area_608;Kobalt;608;Kobalt;5
-98;fu_state_area_233;Northern Nekaston;233;Northern Nekaston;5
-99;fu_state_area_431;Port Ravke;431;Port Ravke;5
-100;fu_state_area_565;Magnetischergeschwollen;565;Magnetischergeschwollen;5
-101;fu_state_area_365;Lesser Lake;365;Lesser Lake;6
-102;fu_state_area_188;Bramble Wastes;188;Bramble Wastes;6
-103;fu_state_area_1345;Taupwald;1345;Taupwald;7
-104;fu_state_area_1346;Loudennes;1346;Loudennes;5
-105;fu_state_area_791;Grande Loutteria;791;Grande Loutteria;4
-106;fu_state_area_74;Dascinder;74;Dascinder;5
-107;fu_state_area_1128;Port Moll;1128;Port Moll;5
-108;fu_state_area_302;Grünfeld;302;Grünfeld;7
-109;fu_state_area_145;Near North Ezicania Pass;145;Near North Ezicania Pass;6
-110;fu_state_area_589;Batar;589;Batar;5
-111;fu_state_area_1433;Wafburg;1433;Wafburg;4
-112;fu_state_area_1016;Roquestrie;1016;Roquestrie;4
-113;fu_state_area_974;Godreim;974;Godreim;5
-114;fu_state_area_1460;Frankfurr;1460;Frankfurr;5
-115;fu_state_area_477;Kattail;477;Kattail;4
-116;fu_state_area_127;Southern Ezicania;127;Southern Ezicania;5
-117;fu_state_area_141;Ezicania Pass;141;Ezicania Pass;4
-118;fu_state_area_73;Infernum's Castle;73;Infernum's Castle;4
-119;fu_state_area_1043;Lorisgrad;1043;Lorisgrad;5
-120;fu_state_area_31;Meop;31;Meop;7
-121;fu_state_area_1453;Taikara;1453;Taikara;5
-122;fu_state_area_363;Frontiere Solarienne;363;Frontiere Solarienne;4
-123;fu_state_area_527;North Katzil;527;North Katzil;6
-124;fu_state_area_96;Copper-Match;96;Copper-Match;5
-125;fu_state_area_1467;Stokoslat;1467;Stokoslat;5
-126;fu_state_area_595;Yarnis Bergen;595;Yarnis Bergen;3
-127;fu_state_area_488;Mielstadt;488;Mielstadt;6
-128;fu_state_area_25;Clawtoust;25;Clawtoust;6
-129;fu_state_area_880;Velthordshire;880;Velthordshire;6
-130;fu_state_area_270;Mewmewmew;270;Mewmewmew;7
-131;fu_state_area_95;Altenkat;95;Altenkat;6
-132;fu_state_area_906;Chesedgrad;906;Chesedgrad;5
-133;fu_state_area_211;Near East Southern Stollparche;211;Near East Southern Stollparche;5
-134;fu_state_area_205;West Petite Qualie;205;West Petite Qualie;4
-135;fu_state_area_205_2;West Petite Qualie;205;West Petite Qualie;1
-136;fu_state_area_585;Neu-Loris;585;Neu-Loris;6
-137;fu_state_area_1013;Southern Venusia;1013;Southern Venusia;6
-138;fu_state_area_587;Katza;587;Katza;6
-139;fu_state_area_777;Nordbun;777;Nordbun;8
-140;fu_state_area_746;Rowotnik;746;Rowotnik;5
-141;fu_state_area_437;Greater Solstice;437;Greater Solstice;5
-142;fu_state_area_437_2;Greater Solstice;437;Greater Solstice;5
-143;fu_state_area_441;Antarctic Canal Zone;441;Antarctic Canal Zone;3
-144;fu_state_area_1543;Kronkozavodsk;1543;Kronkozavodsk;6
-145;fu_state_area_1144;Far North Great Hill;1144;Far North Great Hill;5
-146;fu_state_area_1144_2;Far North Great Hill;1144;Far North Great Hill;6
-147;fu_state_area_394;Katjeisland;394;Katjeisland;5
-148;fu_state_area_383;Collines Chaudiere;383;Collines Chaudiere;4
-149;fu_state_area_602;Eliottown;602;Eliottown;6
-150;fu_state_area_969;Mount Izwae;969;Mount Izwae;5
-151;fu_state_area_797;Indsitra;797;Indsitra;5
-152;fu_state_area_475;Ataril;475;Ataril;7
-153;fu_state_area_297;Aurleans;297;Aurleans;6
-154;fu_state_area_1542;Lower Kronkia 13;1542;Lower Kronkia 13;6
-155;fu_state_area_597;Sudflutstadt;597;Sudflutstadt;6
-156;fu_state_area_730;Celestadt;730;Celestadt;7
-157;fu_state_area_389;Watlern;389;Watlern;5
-158;fu_state_area_352;Platéire;352;Platéire;5
-159;fu_state_area_1465;Pawmur;1465;Pawmur;5
-160;fu_state_area_386;Neu-Meownich;386;Neu-Meownich;5
-161;fu_state_area_532;Drakenburg;532;Drakenburg;5
-162;fu_state_area_256;Louquio;256;Louquio;7
-163;fu_state_area_348;Euenum;348;Euenum;5
-164;fu_state_area_553;Mewdu Mush;553;Mewdu Mush;6
-165;fu_state_area_1289;Wybrezacho;1289;Wybrezacho;5
-166;fu_state_area_51;Pierwysp;51;Pierwysp;4
-167;fu_state_area_177;Katkenstein;177;Katkenstein;6
-168;fu_state_area_1551;Yinsk;1551;Yinsk;6
-169;fu_state_area_58;Purrsen;58;Purrsen;8
-170;fu_state_area_577;Pawrdeaux;577;Pawrdeaux;6
-171;fu_state_area_645;Mewssy;645;Mewssy;6
-172;fu_state_area_899;Havener;899;Havener;7
-173;fu_state_area_1253;Urscid Hollows;1253;Urscid Hollows;6
-174;fu_state_area_568;Finstratus;568;Finstratus;8
-175;fu_state_area_1506;Lower Neminia 7;1506;Lower Neminia 7;4
-176;fu_state_area_755;Buncible;755;Buncible;7
-177;fu_state_area_6;Pico;6;Pico;2
-178;fu_state_area_17;Laurnsums Docks;17;Laurnsums Docks;7
-179;fu_state_area_17_2;Laurnsums Docks;17;Laurnsums Docks;5
-180;fu_state_area_964;Plavetan Range;964;Plavetan Range;6
-181;fu_state_area_189;Centralia;189;Centralia;7
-182;fu_state_area_59;Qaradel Tas;59;Qaradel Tas;6
-183;fu_state_area_1421;Pérolville;1421;Pérolville;6
-184;fu_state_area_1021;Interfleuvie;1021;Interfleuvie;6
-185;fu_state_area_525;Northeastern Grand Hills;525;Northeastern Grand Hills;8
-186;fu_state_area_1498;Far West Praw 14;1498;Far West Praw 14;6
-187;fu_state_area_341;Izwivin;341;Izwivin;6
-188;fu_state_area_543;Katnover;543;Katnover;7
-189;fu_state_area_915;Hoffstadt;915;Hoffstadt;5
-190;fu_state_area_538;Melcey;538;Melcey;5
-191;fu_state_area_1042;Kronkozavodsk;1042;Kronkozavodsk;5
-192;fu_state_area_425;Plavevivorea;425;Plavevivorea;8
-193;fu_state_area_914;D.U.G.A. Array;914;D.U.G.A. Array;6
-194;fu_state_area_1416;Darinstadt;1416;Darinstadt;7
-195;fu_state_area_1198;Girardought;1198;Girardought;5
-196;fu_state_area_1458;Kibbleshaven;1458;Kibbleshaven;6
-197;fu_state_area_977;Tipanum;977;Tipanum;7
-198;fu_state_area_1472;Les Mosges;1472;Les Mosges;6
-199;fu_state_area_1518;Lower Fodaria 4;1518;Lower Fodaria 4;5
-200;fu_state_area_756;Volcabun;756;Volcabun;7
-201;fu_state_area_1514;East Temperia 15;1514;East Temperia 15;6
-202;fu_state_area_814;Distretto dei Pescatori;814;Distretto dei Pescatori;5
-203;fu_state_area_108;Odabin;108;Odabin;6
-204;fu_state_area_1547;Katznimbov;1547;Katznimbov;6
-205;fu_state_area_1167;Epoustouflant;1167;Epoustouflant;7
-206;fu_state_area_1450;Karnon;1450;Karnon;6
-207;fu_state_area_268;Nouvelle-Ronronlin;268;Nouvelle-Ronronlin;5
-208;fu_state_area_166;Kronkozavodsk;166;Kronkozavodsk;6
-209;fu_state_area_1528;Orefograd;1528;Orefograd;6
-210;fu_state_area_1116;Meowrres;1116;Meowrres;6
-211;fu_state_area_584;Mewbiere;584;Mewbiere;6
-212;fu_state_area_544;Narnburg;544;Narnburg;6
-213;fu_state_area_314;Limasin;314;Limasin;7
-214;fu_state_area_1312;North Slithervich;1312;North Slithervich;8
-215;fu_state_area_249;Near West Démotagne;249;Near West Démotagne;5
-216;fu_state_area_1452;Daskander;1452;Daskander;5
-217;fu_state_area_150;Khesedien;150;Khesedien;7
-218;fu_state_area_225;Krrama;225;Krrama;8
-219;fu_state_area_225_2;Krrama;225;Krrama;1
-220;fu_state_area_1471;Ville-Bruand;1471;Ville-Bruand;6
-221;fu_state_area_1151;West Cize;1151;West Cize;7
-222;fu_state_area_1290;Rowninalesna;1290;Rowninalesna;8
-223;fu_state_area_1297;Far West Westpaw 3;1297;Far West Westpaw 3;6
-224;fu_state_area_1304;Far South Infernum's Castle;1304;Far South Infernum's Castle;1
-225;fu_state_area_1297_2;Far West Westpaw 3;1297;Far West Westpaw 3;2
-226;fu_state_area_1218;East Yinjatzbereich;1218;East Yinjatzbereich;6
-227;fu_state_area_1219;Near South Northern Ezicania;1219;Near South Northern Ezicania;4
-228;fu_state_area_415;Seaside Groves;415;Seaside Groves;8
-229;fu_state_area_971;Usswaeri;971;Usswaeri;7
-230;fu_state_area_996;Ulzulgukh;996;Ulzulgukh;7
-231;fu_state_area_946;Palikova Interlakia;946;Palikova Interlakia;8
-232;fu_state_area_1105;Near East Brewtun;1105;Near East Brewtun;8
-233;fu_state_area_541;Cathy;541;Cathy;7
-234;fu_state_area_479;Nord-Purrgund;479;Nord-Purrgund;6
-235;fu_state_area_1432;Central Kharna 8;1432;Central Kharna 8;8
-236;fu_state_area_62;Pawris;62;Pawris;6
-237;fu_state_area_1122;Calderbug;1122;Calderbug;6
-238;fu_state_area_1121;Dunedocks;1121;Dunedocks;3
-239;fu_state_area_847;Gtuntuh;847;Gtuntuh;8
-240;fu_state_area_1026;South Vasmar Ridge;1026;South Vasmar Ridge;6
-241;fu_state_area_207;Bulleborné;207;Bulleborné;7
-242;fu_state_area_502;Platnum;502;Platnum;7
-243;fu_state_area_78;Tigar;78;Tigar;7
-244;fu_state_area_69;Clawlingen;69;Clawlingen;8
-245;fu_state_area_155;Zhagrebenstadt;155;Zhagrebenstadt;6
-246;fu_state_area_180;Alraxian Plains;180;Alraxian Plains;8
-247;fu_state_area_320;Lutécie;320;Lutécie;6
-248;fu_state_area_1474;Lugédunume;1474;Lugédunume;3
-249;fu_state_area_1451;Meopastadt;1451;Meopastadt;6
-250;fu_state_area_336;Alkroa;336;Alkroa;6
-251;fu_state_area_559;Luchsi;559;Luchsi;3
-252;fu_state_area_911;Sapiniere;911;Sapiniere;3
-253;fu_state_area_1348;Lanterien;1348;Lanterien;3
-254;fu_state_area_1440;Victoneustadt;1440;Victoneustadt;3
-255;fu_state_area_765;Western Shores;765;Western Shores;4
-256;fu_state_area_377;Seagoers' Republic;377;Seagoers' Republic;3
-257;fu_state_area_338;Albathorn;338;Albathorn;3
-258;fu_state_area_601;Neukatstadt;601;Neukatstadt;3
-259;fu_state_area_1005;Tirh Khaz'dan;1005;Tirh Khaz'dan;3
-260;fu_state_area_1079;Sabhanita;1079;Sabhanita;3
-261;fu_state_area_535;Mewselle;535;Mewselle;3
-262;fu_state_area_885;S. Arivoejan Mountains;885;S. Arivoejan Mountains;3
-263;fu_state_area_819;Upper Ganymeda;819;Upper Ganymeda;3
-264;fu_state_area_1425;Mont Gargame;1425;Mont Gargame;4
-265;fu_state_area_481;Winston;481;Winston;3
-266;fu_state_area_222;Far South Démotagne;222;Far South Démotagne;3
-267;fu_state_area_789;Heavenbun;789;Heavenbun;4
-268;fu_state_area_1004;Vhi Bramokh;1004;Vhi Bramokh;4
-269;fu_state_area_654;Derdoux;654;Derdoux;3
-270;fu_state_area_1349;Brashten;1349;Brashten;3
-271;fu_state_area_1541;Kronkienstadt;1541;Kronkienstadt;3
-272;fu_state_area_892;Dourouhtei;892;Dourouhtei;3
-273;fu_state_area_1482;Lower Fodaria 13;1482;Lower Fodaria 13;3
-274;fu_state_area_1546;West Fodaria 16;1546;West Fodaria 16;3
-275;fu_state_area_890;Xeirko;890;Xeirko;3
-276;fu_state_area_206;Drakwald;206;Drakwald;3
-277;fu_state_area_734;Pagen;734;Pagen;4
-278;fu_state_area_1044;Kronknoyarskien;1044;Kronknoyarskien;3
-279;fu_state_area_716;Tarva;716;Tarva;3
-280;fu_state_area_112;Vestefoldij;112;Vestefoldij;3
-281;fu_state_area_780;Foraoise Cairead;780;Foraoise Cairead;3
-282;fu_state_area_1006;Mazhuddar;1006;Mazhuddar;4
-283;fu_state_area_1106;Great Ape Groves;1106;Great Ape Groves;4
-284;fu_state_area_1313;Greater Bundengrad;1313;Greater Bundengrad;4
-285;fu_state_area_556;Channecy;556;Channecy;4
-286;fu_state_area_720;Xuhre;720;Xuhre;4
-287;fu_state_area_840;Bocerie du Sud;840;Bocerie du Sud;3
-288;fu_state_area_66;Raita;66;Raita;4
-289;fu_state_area_1483;Far North Fodaria 14;1483;Far North Fodaria 14;4
-290;fu_state_area_997;Khakhabad;997;Khakhabad;3
-291;fu_state_area_763;Upbuntrick;763;Upbuntrick;3
-292;fu_state_area_272;Sonyabourg;272;Sonyabourg;4
-293;fu_state_area_428;Eden;428;Eden;3
-294;fu_state_area_653;Kaisershafen;653;Kaisershafen;4
-295;fu_state_area_1334;Sporegazi;1334;Sporegazi;4
-296;fu_state_area_186;Northern Crngrad;186;Northern Crngrad;3
-297;fu_state_area_1081;Far East Lokout 8;1081;Far East Lokout 8;4
-298;fu_state_area_313;Silver-Match;313;Silver-Match;3
-299;fu_state_area_1104;East Monke Slopes;1104;East Monke Slopes;5
-300;fu_state_area_573;Xoeken;573;Xoeken;5
-301;fu_state_area_655;Elowinien;655;Elowinien;3
-302;fu_state_area_321;Animéquitaine;321;Animéquitaine;3
-303;fu_state_area_202;Gross-Amphisk;202;Gross-Amphisk;3
-304;fu_state_area_823;Chok;823;Chok;4
-305;fu_state_area_120;Nord-Amphisk;120;Nord-Amphisk;4
-306;fu_state_area_19;Pawmalay;19;Pawmalay;5
-307;fu_state_area_152;Zhytotska;152;Zhytotska;4
-308;fu_state_area_102;Central Ezicania;102;Central Ezicania;3
-309;fu_state_area_1011;Shroomfluss;1011;Shroomfluss;3
-310;fu_state_area_555;Sudstruken;555;Sudstruken;3
-311;fu_state_area_1341;Ghyatte;1341;Ghyatte;3
-312;fu_state_area_381;Karrotia;381;Karrotia;3
-313;fu_state_area_1113;Grovati;1113;Grovati;4
-314;fu_state_area_495;Isthriciti;495;Isthriciti;4
-315;fu_state_area_264;Goaghan Mountains;264;Goaghan Mountains;3
-316;fu_state_area_1448;Portélie;1448;Portélie;3
-317;fu_state_area_935;Slavoniciti;935;Slavoniciti;4
-318;fu_state_area_93;Krorilsk;93;Krorilsk;3
-319;fu_state_area_332;Genièvre;332;Genièvre;4
-320;fu_state_area_1370;Distretto Montano;1370;Distretto Montano;3
-321;fu_state_area_1466;Pimoussebühl;1466;Pimoussebühl;4
-322;fu_state_area_929;Novemberstadt;929;Novemberstadt;3
-323;fu_state_area_657;Teuyaka;657;Teuyaka;4
-324;fu_state_area_1050;Angriverien;1050;Angriverien;4
-325;fu_state_area_1490;East Amphibia 6;1490;East Amphibia 6;4
-326;fu_state_area_947;Diberre Woods;947;Diberre Woods;4
-327;fu_state_area_301;Biti;301;Biti;3
-328;fu_state_area_558;Mount Kitts;558;Mount Kitts;4
-329;fu_state_area_949;Novania's Shores;949;Novania's Shores;4
-330;fu_state_area_962;Waterdeen;962;Waterdeen;4
-331;fu_state_area_1538;East Neminia 9;1538;East Neminia 9;4
-332;fu_state_area_569;Zawrich;569;Zawrich;3
-333;fu_state_area_985;Bramble Woods;985;Bramble Woods;4
-334;fu_state_area_271;Ganymeda;271;Ganymeda;4
-335;fu_state_area_157;Landslid;157;Landslid;4
-336;fu_state_area_1435;Kaiserburg 2;1435;Kaiserburg 2;3
-337;fu_state_area_1230;Salmion;1230;Salmion;4
-338;fu_state_area_1536;Kufa;1536;Kufa;5
-339;fu_state_area_740;Lylle;740;Lylle;3
-340;fu_state_area_40;Darin;40;Darin;4
-341;fu_state_area_619;Shroom Valley;619;Shroom Valley;4
-342;fu_state_area_1099;Fungalhalla;1099;Fungalhalla;4
-343;fu_state_area_248;Poniweh;248;Poniweh;3
-344;fu_state_area_735;Kaillen;735;Kaillen;3
-345;fu_state_area_1086;Far East Lokout;1086;Far East Lokout;4
-346;fu_state_area_1362;Near West Dazhungli;1362;Near West Dazhungli;4
-347;fu_state_area_118;Sud-Solagnaw;118;Sud-Solagnaw;4
-348;fu_state_area_877;Seeker's Cove;877;Seeker's Cove;1
-349;fu_state_area_146;Katzenfluss;146;Katzenfluss;4
-350;fu_state_area_487;Ost-Lynxsi;487;Ost-Lynxsi;4
-351;fu_state_area_182;Far North Ezicania Pass 3;182;Far North Ezicania Pass 3;4
-352;fu_state_area_1443;West Kibblesben;1443;West Kibblesben;4
-353;fu_state_area_340;Die;340;Die;3
-354;fu_state_area_779;Bunvelline;779;Bunvelline;5
-355;fu_state_area_1540;Yasnodrien;1540;Yasnodrien;4
-356;fu_state_area_253;Great Calder Peak;253;Great Calder Peak;4
-357;fu_state_area_258;Gallicie;258;Gallicie;4
-358;fu_state_area_1516;Kattailsburg;1516;Kattailsburg;4
-359;fu_state_area_1049;West Greater Bundengrad;1049;West Greater Bundengrad;4
-360;fu_state_area_1441;Meowhorn;1441;Meowhorn;4
-361;fu_state_area_71;Kronkishes Enonita;71;Kronkishes Enonita;3
-362;fu_state_area_1529;Upper Fodaria 15;1529;Upper Fodaria 15;4
-363;fu_state_area_917;Temenice;917;Temenice;4
-364;fu_state_area_1534;Far West Fodaria 5;1534;Far West Fodaria 5;4
-365;fu_state_area_983;Feedwater;983;Feedwater;4
-366;fu_state_area_588;Katzi;588;Katzi;3
-367;fu_state_area_151;Stollparche;151;Stollparche;4
-368;fu_state_area_358;Baltiquie Inferieure;358;Baltiquie Inferieure;4
-369;fu_state_area_961;Northern Solstice;961;Northern Solstice;4
-370;fu_state_area_1333;Near East Lokout;1333;Near East Lokout;5
-371;fu_state_area_1437;Solagnaw;1437;Solagnaw;3
-372;fu_state_area_922;Trondelague;922;Trondelague;4
-373;fu_state_area_113;Neukitberg;113;Neukitberg;4
-374;fu_state_area_231;Kikol;231;Kikol;4
-375;fu_state_area_242;Meowbrucken;242;Meowbrucken;3
-376;fu_state_area_908;Crngrad Megapolis;908;Crngrad Megapolis;4
-377;fu_state_area_1418;Praw;1418;Praw;5
-378;fu_state_area_1001;Vhi Sobhanas;1001;Vhi Sobhanas;4
-379;fu_state_area_662;Wolfenstadt;662;Wolfenstadt;3
-380;fu_state_area_1000;Ad Khagaroth;1000;Ad Khagaroth;4
-381;fu_state_area_803;Neu-Meo;803;Neu-Meo;3
-382;fu_state_area_1513;South Fodaria 14;1513;South Fodaria 14;3
-383;fu_state_area_954;Reijen;954;Reijen;4
-384;fu_state_area_1377;Racogna;1377;Racogna;4
-385;fu_state_area_1431;Tartaryn;1431;Tartaryn;4
-386;fu_state_area_955;Paol;955;Paol;4
-387;fu_state_area_1375;Amburbia;1375;Amburbia;4
-388;fu_state_area_942;Droogenstadt;942;Droogenstadt;4
-389;fu_state_area_737;Cularie;737;Cularie;4
-390;fu_state_area_308;Massif Roqual;308;Massif Roqual;4
-391;fu_state_area_1487;Shranglien;1487;Shranglien;4
-392;fu_state_area_1468;Crimmatz;1468;Crimmatz;5
-393;fu_state_area_371;Greater Thamplatin Area;371;Greater Thamplatin Area;4
-394;fu_state_area_1426;Jeulie;1426;Jeulie;3
-395;fu_state_area_663;Felineheim;663;Felineheim;4
-396;fu_state_area_994;Dol Viiras;994;Dol Viiras;4
-397;fu_state_area_494;Morel Falls;494;Morel Falls;4
-398;fu_state_area_228;Tartaryn;228;Tartaryn;4
-399;fu_state_area_1539;Meowzan;1539;Meowzan;4
-400;fu_state_area_845;Lomo;845;Lomo;4
-401;fu_state_area_1478;Magnitokronk;1478;Magnitokronk;4
-402;fu_state_area_1015;Ravkan Range;1015;Ravkan Range;5
-403;fu_state_area_307;Bocérie;307;Bocérie;4
-404;fu_state_area_474;Ost-Meonelux;474;Ost-Meonelux;4
-405;fu_state_area_236;Hubschestadt;236;Hubschestadt;4
-406;fu_state_area_419;West Southport;419;West Southport;4
-407;fu_state_area_560;Kibbleshores;560;Kibbleshores;4
-408;fu_state_area_760;Covebun City;760;Covebun City;4
-409;fu_state_area_1411;Kittville;1411;Kittville;4
-410;fu_state_area_220;Himezulte;220;Himezulte;4
-411;fu_state_area_1501;South Kronkia 2;1501;South Kronkia 2;4
-412;fu_state_area_536;Katzbrucken;536;Katzbrucken;5
-413;fu_state_area_1517;Upper Kronkia 3;1517;Upper Kronkia 3;4
-414;fu_state_area_43;Meonelux;43;Meonelux;4
-415;fu_state_area_1480;Chawrnihiv;1480;Chawrnihiv;5
-416;fu_state_area_643;Parat;643;Parat;4
-417;fu_state_area_665;Yarnfelde;665;Yarnfelde;5
-418;fu_state_area_537;Stefanstadt;537;Stefanstadt;4
-419;fu_state_area_368;Central Hushed Forest;368;Central Hushed Forest;4
-420;fu_state_area_401;Firemaster Union;401;Firemaster Union;5
-421;fu_state_area_67;Drugirafa;67;Drugirafa;4
-422;fu_state_area_226;Volgokronk;226;Volgokronk;5
-423;fu_state_area_1002;Gvin Minhaz;1002;Gvin Minhaz;4
-424;fu_state_area_1047;East Ost-Hydronien;1047;East Ost-Hydronien;4
-425;fu_state_area_590;Meownisberg;590;Meownisberg;4
-426;fu_state_area_1152;North Ezicania Pass;1152;North Ezicania Pass;4
-427;fu_state_area_566;Boogenstadt;566;Boogenstadt;4
-428;fu_state_area_169;Lower Catalia;169;Lower Catalia;4
-429;fu_state_area_1479;Salamandria;1479;Salamandria;4
-430;fu_state_area_580;Catsden;580;Catsden;4
-431;fu_state_area_925;Roghalande;925;Roghalande;4
-432;fu_state_area_52;Or Tigas;52;Or Tigas;4
-433;fu_state_area_1085;Mossxor;1085;Mossxor;3
-434;fu_state_area_664;Felinesiedlung;664;Felinesiedlung;5
-435;fu_state_area_1525;South Fodaria 11;1525;South Fodaria 11;4
-436;fu_state_area_576;Fort Keneexno;576;Fort Keneexno;4
-437;fu_state_area_1497;Far East Praw 13;1497;Far East Praw 13;4
-438;fu_state_area_208;Oshian Holts;208;Oshian Holts;5
-439;fu_state_area_273;Protondria;273;Protondria;5
-440;fu_state_area_758;Bunork;758;Bunork;4
-441;fu_state_area_1515;West Temperia 1;1515;West Temperia 1;4
-442;fu_state_area_581;Kiat;581;Kiat;4
-443;fu_state_area_1532;Yiarophila;1532;Yiarophila;4
-444;fu_state_area_489;Neubelkan;489;Neubelkan;4
-445;fu_state_area_1419;Kibblesben;1419;Kibblesben;5
-446;fu_state_area_844;Wafburg;844;Wafburg;4
-447;fu_state_area_1473;Areline;1473;Areline;4
-448;fu_state_area_1039;Yasnbrask;1039;Yasnbrask;4
-449;fu_state_area_591;Sud-Himezulte;591;Sud-Himezulte;3
-450;fu_state_area_294;Greenwater;294;Greenwater;4
-451;fu_state_area_851;Brongon Gede;851;Brongon Gede;4
-452;fu_state_area_98;Felinda;98;Felinda;4
-453;fu_state_area_1316;Shripenstadt;1316;Shripenstadt;4
-454;fu_state_area_1373;Tartaphrogia;1373;Tartaphrogia;4
-455;fu_state_area_110;Meownich;110;Meownich;5
-456;fu_state_area_634;Samaruff;634;Samaruff;4
-457;fu_state_area_1127;Colliery;1127;Colliery;4
-458;fu_state_area_574;Aeries;574;Aeries;5
-459;fu_state_area_65;Mimia;65;Mimia;4
-460;fu_state_area_921;Floslo;921;Floslo;4
-461;fu_state_area_309;Rozzmione;309;Rozzmione;4
-462;fu_state_area_738;Beurrioude;738;Beurrioude;4
-463;fu_state_area_893;Xaerauvouk;893;Xaerauvouk;4
-464;fu_state_area_1126;Frusville;1126;Frusville;4
-465;fu_state_area_3;Fleupport;3;Fleupport;4
-466;fu_state_area_262;Orient Kapus;262;Orient Kapus;4
-467;fu_state_area_433;East Tartaphrogia;433;East Tartaphrogia;5
-468;fu_state_area_219;Fauraize;219;Fauraize;4
-469;fu_state_area_176;Opusetksi;176;Opusetksi;4
-470;fu_state_area_623;Kandlejhood;623;Kandlejhood;4
-471;fu_state_area_116;Mewzley;116;Mewzley;4
-472;fu_state_area_650;Herzkat;650;Herzkat;5
-473;fu_state_area_135;Catka;135;Catka;6
-474;fu_state_area_909;Santepij;909;Santepij;4
-475;fu_state_area_572;Fort Nxeen;572;Fort Nxeen;5
-476;fu_state_area_600;Potkin;600;Potkin;5
-477;fu_state_area_807;San Foglia;807;San Foglia;4
-478;fu_state_area_941;Nord-Droogien;941;Nord-Droogien;3
-479;fu_state_area_125;South Lokout;125;South Lokout;4
-480;fu_state_area_54;Deaktiviertekamera;54;Deaktiviertekamera;5
-481;fu_state_area_850;Umtraha;850;Umtraha;4
-482;fu_state_area_1339;Far West Lokout;1339;Far West Lokout;4
-483;fu_state_area_1361;Northern Heart Mountains;1361;Northern Heart Mountains;4
-484;fu_state_area_1481;Saltlarenstadt;1481;Saltlarenstadt;4
-485;fu_state_area_639;Dobrushund;639;Dobrushund;4
-486;fu_state_area_1364;Marossqenardhu;1364;Marossqenardhu;5
-487;fu_state_area_1305;Naval Hub;1305;Naval Hub;4
-488;fu_state_area_1226;White Town;1226;White Town;5
-489;fu_state_area_998;Gvin Tharun;998;Gvin Tharun;4
-490;fu_state_area_1209;East Dourouhtei;1209;East Dourouhtei;4
-491;fu_state_area_1477;South Kronkia 8;1477;South Kronkia 8;5
-492;fu_state_area_933;Bassaitte;933;Bassaitte;4
-493;fu_state_area_1014;Candoburg;1014;Candoburg;4
-494;fu_state_area_507;Fishtun;507;Fishtun;5
-495;fu_state_area_512;Ataropolis;512;Ataropolis;4
-496;fu_state_area_950;Gortian Prairie;950;Gortian Prairie;4
-497;fu_state_area_1115;Kribble;1115;Kribble;5
-498;fu_state_area_1420;Zentralpraw;1420;Zentralpraw;4
-499;fu_state_area_337;Smurden;337;Smurden;4
-500;fu_state_area_1446;Eibel;1446;Eibel;5
-501;fu_state_area_1512;North Fodaria 13;1512;North Fodaria 13;4
-502;fu_state_area_1414;Perawgen;1414;Perawgen;5
-503;fu_state_area_849;Yeryk;849;Yeryk;4
-504;fu_state_area_23;Meowgeve;23;Meowgeve;4
-505;fu_state_area_281;Velardennes;281;Velardennes;5
-506;fu_state_area_752;Armhop;752;Armhop;4
-507;fu_state_area_1041;Saltlarenstadt;1041;Saltlarenstadt;4
-508;fu_state_area_550;Kattnecy;550;Kattnecy;5
-509;fu_state_area_1476;North Kronkia 7;1476;North Kronkia 7;4
-510;fu_state_area_808;Costadipesci;808;Costadipesci;5
-511;fu_state_area_635;Barkzyr;635;Barkzyr;4
-512;fu_state_area_523;Katzkat;523;Katzkat;5
-513;fu_state_area_651;Stronberg;651;Stronberg;5
-514;fu_state_area_1046;Nordkraben;1046;Nordkraben;5
-515;fu_state_area_582;Westen-Tigar;582;Westen-Tigar;4
-516;fu_state_area_354;Datlof;354;Datlof;4
-517;fu_state_area_267;Khatshaeta;267;Khatshaeta;5
-518;fu_state_area_514;Solkatzia;514;Solkatzia;4
-519;fu_state_area_724;Vasiekoi;724;Vasiekoi;6
-520;fu_state_area_1190;Varhk;1190;Varhk;4
-521;fu_state_area_1328;Novoyinjaya;1328;Novoyinjaya;4
-522;fu_state_area_144;South Cize;144;South Cize;4
-523;fu_state_area_1291;Quantus Hub;1291;Quantus Hub;4
-524;fu_state_area_491;Srednjezemland;491;Srednjezemland;5
-525;fu_state_area_1505;Myriad;1505;Myriad;5
-526;fu_state_area_366;Grove Bounds;366;Grove Bounds;4
-527;fu_state_area_1335;East Lokout;1335;East Lokout;4
-528;fu_state_area_1500;North Kronkia 1;1500;North Kronkia 1;4
-529;fu_state_area_794;Kàpagroek;794;Kàpagroek;4
-530;fu_state_area_81;Near North Flerk;81;Near North Flerk;6
-531;fu_state_area_106;Kittenia;106;Kittenia;5
-532;fu_state_area_1338;Moushruque;1338;Moushruque;5
-533;fu_state_area_1408;Auralia;1408;Auralia;4
-534;fu_state_area_124;Philroen;124;Philroen;4
-535;fu_state_area_1537;Alabaster;1537;Alabaster;4
-536;fu_state_area_1037;South Crabby Shores;1037;South Crabby Shores;4
-537;fu_state_area_646;Meowntreal;646;Meowntreal;5
-538;fu_state_area_1169;Rustinia;1169;Rustinia;5
-539;fu_state_area_1256;Griffinville;1256;Griffinville;5
-540;fu_state_area_982;Bramballia;982;Bramballia;3
-541;fu_state_area_1494;Lower Amphibia 10;1494;Lower Amphibia 10;4
-542;fu_state_area_154;Brewtun;154;Brewtun;4
-543;fu_state_area_299;Dofusbourg;299;Dofusbourg;5
-544;fu_state_area_542;Kibblebaden;542;Kibblebaden;6
-545;fu_state_area_656;Kokoblentz;656;Kokoblentz;4
-546;fu_state_area_136;Western Grand Hills;136;Western Grand Hills;4
-547;fu_state_area_775;Fiftybun;775;Fiftybun;5
-548;fu_state_area_1212;Medoughlin;1212;Medoughlin;5
-549;fu_state_area_526;West Meterhills;526;West Meterhills;5
-550;fu_state_area_633;Wolfgorod;633;Wolfgorod;5
-551;fu_state_area_944;Novoshia;944;Novoshia;5
-552;fu_state_area_1492;Central Amphibia 8;1492;Central Amphibia 8;4
-553;fu_state_area_493;Banaplanina;493;Banaplanina;5
-554;fu_state_area_1469;Gepardenhausen;1469;Gepardenhausen;4
-555;fu_state_area_47;Clawrence;47;Clawrence;4
-556;fu_state_area_506;Saru;506;Saru;5
-557;fu_state_area_1424;Far South Macafia 15;1424;Far South Macafia 15;6
-558;fu_state_area_548;Lionlakstadt;548;Lionlakstadt;5
-559;fu_state_area_627;Minskbark;627;Minskbark;5
-560;fu_state_area_557;Katzberg;557;Katzberg;4
-561;fu_state_area_291;Taevuirae;291;Taevuirae;5
-562;fu_state_area_510;Liaküste;510;Liaküste;5
-563;fu_state_area_57;Mleow;57;Mleow;4
-564;fu_state_area_563;Celstor;563;Celstor;4
-565;fu_state_area_579;Konnon;579;Konnon;5
-566;fu_state_area_799;Septentri;799;Septentri;5
-567;fu_state_area_785;Bundor;785;Bundor;5
-568;fu_state_area_128;Magnitokronsk;128;Magnitokronsk;4
-569;fu_state_area_931;Tihanian Woodlands;931;Tihanian Woodlands;5
-570;fu_state_area_658;Leipig;658;Leipig;5
-571;fu_state_area_439;East Tundrabor;439;East Tundrabor;5
-572;fu_state_area_815;Castellaquercia;815;Castellaquercia;5
-573;fu_state_area_930;Zentraloshien;930;Zentraloshien;5
-574;fu_state_area_1376;Pandezia;1376;Pandezia;6
-575;fu_state_area_1244;South Central Ezicania;1244;South Central Ezicania;4
-576;fu_state_area_1055;South Yinjetopol;1055;South Yinjetopol;4
-577;fu_state_area_913;North Arlenisk;913;North Arlenisk;4
-578;fu_state_area_575;Exene;575;Exene;5
-579;fu_state_area_203;Yijnov;203;Yijnov;4
-580;fu_state_area_105;Sankt Krokersburg;105;Sankt Krokersburg;5
-581;fu_state_area_786;Morghare;786;Morghare;5
-582;fu_state_area_571;Point Ene;571;Point Ene;4
-583;fu_state_area_1409;Kittenia;1409;Kittenia;5
-584;fu_state_area_1330;Far North Lokout 3;1330;Far North Lokout 3;5
-585;fu_state_area_910;Uststadt;910;Uststadt;5
-586;fu_state_area_121;Struken;121;Struken;5
-587;fu_state_area_367;Near West Tipanum;367;Near West Tipanum;5
-588;fu_state_area_951;Cape Novi;951;Cape Novi;5
-589;fu_state_area_295;Latarada;295;Latarada;6
-590;fu_state_area_306;Pouldrezique;306;Pouldrezique;5
-591;fu_state_area_1530;Lower Amphibia 1;1530;Lower Amphibia 1;5
-592;fu_state_area_918;Belkansavet;918;Belkansavet;5
-593;fu_state_area_1172;Tsayan Mounts;1172;Tsayan Mounts;4
-594;fu_state_area_1554;Lower Catalia 10;1554;Lower Catalia 10;5
-595;fu_state_area_743;Aurlean;743;Aurlean;4
-596;fu_state_area_907;Nerva;907;Nerva;5
-597;fu_state_area_891;Aelveahein;891;Aelveahein;4
-598;fu_state_area_1036;Ezikyinjatz;1036;Ezikyinjatz;5
-599;fu_state_area_1493;Upper Amphibia 9;1493;Upper Amphibia 9;5
-600;fu_state_area_521;Ostmeopin;521;Ostmeopin;4
-601;fu_state_area_980;Bramble Range;980;Bramble Range;5
-602;fu_state_area_126;Bojnika Coast;126;Bojnika Coast;5
-603;fu_state_area_1146;Far West Great Hill 3;1146;Far West Great Hill 3;5
-604;fu_state_area_1511;Near Fodaria 12;1511;Near Fodaria 12;5
-605;fu_state_area_615;Lunre;615;Lunre;7
-606;fu_state_area_936;Dhalmaciti;936;Dhalmaciti;4
-607;fu_state_area_397;Southwestern Marshes;397;Southwestern Marshes;5
-608;fu_state_area_943;New Novarat;943;New Novarat;4
-609;fu_state_area_21;Tarrakis;21;Tarrakis;5
-610;fu_state_area_609;Valaros;609;Valaros;5
-611;fu_state_area_1182;Ehw Fauah;1182;Ehw Fauah;6
-612;fu_state_area_551;Mewport;551;Mewport;4
-613;fu_state_area_1331;East Puffy Island;1331;East Puffy Island;4
-614;fu_state_area_1372;Northern Melkhiigra;1372;Northern Melkhiigra;5
-615;fu_state_area_1187;San-Sebakestian;1187;San-Sebakestian;4
-616;fu_state_area_1531;Pincarograd;1531;Pincarograd;5
-617;fu_state_area_1267;North Northern Ezicania;1267;North Northern Ezicania;4
-618;fu_state_area_1520;Far South Amphibia 6;1520;Far South Amphibia 6;6
-619;fu_state_area_416;Great Gap;416;Great Gap;4
-620;fu_state_area_762;Lhara;762;Lhara;5
-621;fu_state_area_277;Southern Chok;277;Southern Chok;6
-622;fu_state_area_598;Kattailwald;598;Kattailwald;4
-623;fu_state_area_852;Imakani;852;Imakani;5
-624;fu_state_area_1176;Preballens;1176;Preballens;5
-625;fu_state_area_49;Ooooex;49;Ooooex;5
-626;fu_state_area_1094;Far North Lokout;1094;Far North Lokout;5
-627;fu_state_area_1045;Magnitokronsk;1045;Magnitokronsk;6
-628;fu_state_area_530;Mau-Vegas;530;Mau-Vegas;4
-629;fu_state_area_1336;Mushbarraz;1336;Mushbarraz;5
-630;fu_state_area_561;Brambaceg;561;Brambaceg;5
-631;fu_state_area_196;Siaufokisj;196;Siaufokisj;4
-632;fu_state_area_269;Pegasia;269;Pegasia;4
-633;fu_state_area_486;Meoshores;486;Meoshores;5
-634;fu_state_area_244;Dominiontracks;244;Dominiontracks;6
-635;fu_state_area_948;New Dogeheit;948;New Dogeheit;6
-636;fu_state_area_1139;West Great Hill;1139;West Great Hill;6
-637;fu_state_area_82;Mount Fleather;82;Mount Fleather;5
-638;fu_state_area_919;Bojnika Mountains;919;Bojnika Mountains;5
-639;fu_state_area_1166;Jeunes-Habitants;1166;Jeunes-Habitants;4
-640;fu_state_area_1303;Naturopolis;1303;Naturopolis;5
-641;fu_state_area_1211;Mahin Geh;1211;Mahin Geh;5
-642;fu_state_area_1522;Far West Fodaria 8;1522;Far West Fodaria 8;5
-643;fu_state_area_772;Carot Springs;772;Carot Springs;6
-644;fu_state_area_1103;Makaktun;1103;Makaktun;6
-645;fu_state_area_426;Eastern Hushed Forest;426;Eastern Hushed Forest;4
-646;fu_state_area_1195;S'jet;1195;S'jet;5
-647;fu_state_area_1523;Karksovk;1523;Karksovk;4
-648;fu_state_area_1028;Grove Plains;1028;Grove Plains;5
-649;fu_state_area_1407;Neu-Meowleans;1407;Neu-Meowleans;5
-650;fu_state_area_1286;Leapbound;1286;Leapbound;5
-651;fu_state_area_122;Lynxsi;122;Lynxsi;4
-652;fu_state_area_647;Luxempaw;647;Luxempaw;5
-653;fu_state_area_937;Bobbian Plains;937;Bobbian Plains;5
-654;fu_state_area_1279;West Euenum;1279;West Euenum;5
-655;fu_state_area_920;Northern Nerva;920;Northern Nerva;5
-656;fu_state_area_246;Neunovien Hills;246;Neunovien Hills;6
-657;fu_state_area_804;Nouvelle Yorke;804;Nouvelle Yorke;5
-658;fu_state_area_111;Mewdar;111;Mewdar;5
-659;fu_state_area_934;Kroassiciti;934;Kroassiciti;5
-660;fu_state_area_485;Pawscow;485;Pawscow;6
-661;fu_state_area_1417;Rat;1417;Rat;5
-662;fu_state_area_259;Inner Novoshia;259;Inner Novoshia;5
-663;fu_state_area_292;Poitouamie;292;Poitouamie;5
-664;fu_state_area_979;The Dish;979;The Dish;5
-665;fu_state_area_1258;Big Rock;1258;Big Rock;6
-666;fu_state_area_99;Mirbel;99;Mirbel;5
-667;fu_state_area_123;Waimern;123;Waimern;6
-668;fu_state_area_630;Cutelogne;630;Cutelogne;5
-669;fu_state_area_1270;Ranagrad;1270;Ranagrad;6
-670;fu_state_area_722;Midi-Viennadie;722;Midi-Viennadie;6
-671;fu_state_area_963;Southern Hervus;963;Southern Hervus;4
-672;fu_state_area_726;Galloping Crossing;726;Galloping Crossing;5
-673;fu_state_area_1510;Luzienskatz;1510;Luzienskatz;6
-674;fu_state_area_1332;Tripuffli;1332;Tripuffli;5
-675;fu_state_area_1310;Far West Southport;1310;Far West Southport;5
-676;fu_state_area_1344;Far East Lokout 5;1344;Far East Lokout 5;5
-677;fu_state_area_1053;Genevekt;1053;Genevekt;5
-678;fu_state_area_1356;Novmere;1356;Novmere;5
-679;fu_state_area_659;Challe;659;Challe;5
-680;fu_state_area_617;Teragaron;617;Teragaron;5
-681;fu_state_area_234;Aveibrigado;234;Aveibrigado;5
-682;fu_state_area_519;Grönawgen;519;Grönawgen;5
-683;fu_state_area_217;West Novoyinjaya;217;West Novoyinjaya;5
-684;fu_state_area_1009;Eastern Shroom Hills;1009;Eastern Shroom Hills;6
-685;fu_state_area_1080;Far East Lokout 10;1080;Far East Lokout 10;5
-686;fu_state_area_1445;Saltille;1445;Saltille;5
-687;fu_state_area_1314;Centragorz;1314;Centragorz;5
-688;fu_state_area_1484;Kokodesa;1484;Kokodesa;5
-689;fu_state_area_1533;Humusenski;1533;Humusenski;5
-690;fu_state_area_490;Blasteropolis;490;Blasteropolis;5
-691;fu_state_area_423;Near South Harelene;423;Near South Harelene;5
-692;fu_state_area_168;Catburg;168;Catburg;5
-693;fu_state_area_1318;South Ezikyinjatz;1318;South Ezikyinjatz;5
-694;fu_state_area_133;Meterhills;133;Meterhills;4
-695;fu_state_area_642;Carbarktsonnitz;642;Carbarktsonnitz;5
-696;fu_state_area_90;Elowia;90;Elowia;5
-697;fu_state_area_282;Kattailhain;282;Kattailhain;5
-698;fu_state_area_1067;Western Broukburn;1067;Western Broukburn;5
-699;fu_state_area_1129;Nibamt;1129;Nibamt;5
-700;fu_state_area_1326;Malyrali;1326;Malyrali;5
-701;fu_state_area_278;Moussie;278;Moussie;5
-702;fu_state_area_834;Purriland;834;Purriland;6
-703;fu_state_area_1438;Meadrech;1438;Meadrech;5
-704;fu_state_area_444;Extreme Ridges;444;Extreme Ridges;5
-705;fu_state_area_959;Daslai;959;Daslai;6
-706;fu_state_area_178;Flusojdina;178;Flusojdina;5
-707;fu_state_area_629;Grodnogrowl;629;Grodnogrowl;5
-708;fu_state_area_1012;Western Shroom Hills;1012;Western Shroom Hills;5
-709;fu_state_area_482;Sankt Mikhailsburg;482;Sankt Mikhailsburg;6
-710;fu_state_area_1550;East Fodaria 6;1550;East Fodaria 6;5
-711;fu_state_area_1029;Millennial Frontier;1029;Millennial Frontier;5
-712;fu_state_area_1048;Praeliumen;1048;Praeliumen;5
-713;fu_state_area_1221;South Svitankovia;1221;South Svitankovia;5
-714;fu_state_area_357;Tenetianen;357;Tenetianen;6
-715;fu_state_area_522;Altestadt;522;Altestadt;5
-716;fu_state_area_1229;Honelmyra;1229;Honelmyra;6
-717;fu_state_area_953;Shar;953;Shar;6
-718;fu_state_area_1272;Tsarigrad;1272;Tsarigrad;5
-719;fu_state_area_1413;Purrarienstadt;1413;Purrarienstadt;6
-720;fu_state_area_776;Bunfast;776;Bunfast;5
-721;fu_state_area_511;Stri;511;Stri;5
-722;fu_state_area_1254;North Flerk;1254;North Flerk;5
-723;fu_state_area_252;South Western New Kastra;252;South Western New Kastra;5
-724;fu_state_area_254;Mewlsass;254;Mewlsass;5
-725;fu_state_area_190;Katezic;190;Katezic;5
-726;fu_state_area_1010;Ost-Kattailwald;1010;Ost-Kattailwald;5
-727;fu_state_area_1231;East Bearlin;1231;East Bearlin;7
-728;fu_state_area_1337;Yanbasidi;1337;Yanbasidi;6
-729;fu_state_area_153;Lyuin;153;Lyuin;5
-730;fu_state_area_1257;Summerdale;1257;Summerdale;7
-731;fu_state_area_478;Barkenbadden;478;Barkenbadden;5
-732;fu_state_area_540;Kittensdorf;540;Kittensdorf;5
-733;fu_state_area_923;Rossevanejt;923;Rossevanejt;5
-734;fu_state_area_76;Crabby Shores;76;Crabby Shores;5
-735;fu_state_area_1035;Kronkhanghelsk;1035;Kronkhanghelsk;5
-736;fu_state_area_344;Watermaster Domain;344;Watermaster Domain;6
-737;fu_state_area_1486;Far West Fodaria 2;1486;Far West Fodaria 2;6
-738;fu_state_area_255;Pferdwaldgebiet;255;Pferdwaldgebiet;6
-739;fu_state_area_1430;Scratchausen;1430;Scratchausen;6
-740;fu_state_area_616;Pawcegi;616;Pawcegi;5
-741;fu_state_area_1193;Muffintilla;1193;Muffintilla;6
-742;fu_state_area_520;Elowineapolis;520;Elowineapolis;5
-743;fu_state_area_641;Tailgorod;641;Tailgorod;5
-744;fu_state_area_1123;Ventown;1123;Ventown;5
-745;fu_state_area_1266;Near East Northern Ezicania;1266;Near East Northern Ezicania;7
-746;fu_state_area_843;Parachute;843;Parachute;7
-747;fu_state_area_1359;Armealnia;1359;Armealnia;6
-748;fu_state_area_728;High Hill;728;High Hill;5
-749;fu_state_area_473;Westpaw;473;Westpaw;5
-750;fu_state_area_822;Sagespire;822;Sagespire;5
-751;fu_state_area_736;Moulinet;736;Moulinet;5
-752;fu_state_area_413;West Tipanum;413;West Tipanum;6
-753;fu_state_area_480;Barkmonts;480;Barkmonts;5
-754;fu_state_area_939;Kisastrat;939;Kisastrat;6
-755;fu_state_area_938;Heimlichstaat;938;Heimlichstaat;5
-756;fu_state_area_1489;Crastoust;1489;Crastoust;6
-757;fu_state_area_628;Brestbone;628;Brestbone;5
-758;fu_state_area_274;Buyrity;274;Buyrity;5
-759;fu_state_area_227;Yinjetopol;227;Yinjetopol;6
-760;fu_state_area_614;Varinka;614;Varinka;5
-761;fu_state_area_104;Katzhaus;104;Katzhaus;5
-762;fu_state_area_1351;Batosani;1351;Batosani;5
-763;fu_state_area_165;Iorn;165;Iorn;6
-764;fu_state_area_816;Foresta Grande;816;Foresta Grande;5
-765;fu_state_area_1250;Southern Svitanok Desert;1250;Southern Svitanok Desert;5
-766;fu_state_area_603;Meowmeow;603;Meowmeow;6
-767;fu_state_area_723;Illiberie;723;Illiberie;5
-768;fu_state_area_97;Kittyshores;97;Kittyshores;5
-769;fu_state_area_1365;Yinjite Forest;1365;Yinjite Forest;7
-770;fu_state_area_319;Obscurie;319;Obscurie;5
-771;fu_state_area_1242;Funghrène;1242;Funghrène;6
-772;fu_state_area_1255;Honey Pass;1255;Honey Pass;5
-773;fu_state_area_41;Pouchkintton;41;Pouchkintton;6
-774;fu_state_area_132;Lionsbach;132;Lionsbach;6
-775;fu_state_area_350;Beauparc;350;Beauparc;5
-776;fu_state_area_782;Shimmering Hills;782;Shimmering Hills;4
-777;fu_state_area_1119;Katzburg;1119;Katzburg;6
-778;fu_state_area_1186;Granajón;1186;Granajón;5
-779;fu_state_area_173;Lionsburg;173;Lionsburg;5
-780;fu_state_area_531;Purrton;531;Purrton;5
-781;fu_state_area_410;Arctic Shores;410;Arctic Shores;6
-782;fu_state_area_1406;Elteriak;1406;Elteriak;5
-783;fu_state_area_1089;Far South Lokout;1089;Far South Lokout;6
-784;fu_state_area_513;Kibblesplein;513;Kibblesplein;6
-785;fu_state_area_1545;Yhabarovsk;1545;Yhabarovsk;6
-786;fu_state_area_284;Solemom;284;Solemom;5
-787;fu_state_area_660;Chantaw;660;Chantaw;6
-788;fu_state_area_1181;Koasski;1181;Koasski;6
-789;fu_state_area_351;Shingia;351;Shingia;5
-790;fu_state_area_1179;Potro;1179;Potro;6
-791;fu_state_area_778;Hopping Meadows;778;Hopping Meadows;6
-792;fu_state_area_432;Plavetan Groves;432;Plavetan Groves;5
-793;fu_state_area_764;Buyantse;764;Buyantse;5
-794;fu_state_area_978;Tundrabor;978;Tundrabor;6
-795;fu_state_area_1032;Upper Vasmar Ridge;1032;Upper Vasmar Ridge;6
-796;fu_state_area_1180;Rodridough;1180;Rodridough;6
-797;fu_state_area_1485;Far East Fodaria 1;1485;Far East Fodaria 1;6
-798;fu_state_area_492;Ost-Pawstion;492;Ost-Pawstion;6
-799;fu_state_area_1360;Baguetta;1360;Baguetta;6
-800;fu_state_area_101;Near North Western Ejac;101;Near North Western Ejac;6
-801;fu_state_area_89;Stronya;89;Stronya;7
-802;fu_state_area_718;Owaeville;718;Owaeville;6
-803;fu_state_area_1263;Near North Northern Heart Mountains;1263;Near North Northern Heart Mountains;6
-804;fu_state_area_529;Grossgato;529;Grossgato;6
-805;fu_state_area_265;Gallopia;265;Gallopia;6
-806;fu_state_area_1214;Eulyssian Interfluve;1214;Eulyssian Interfluve;6
-807;fu_state_area_1153;Far West Southern Stollparche 4;1153;Far West Southern Stollparche 4;6
-808;fu_state_area_1038;Humusenski;1038;Humusenski;6
-809;fu_state_area_470;Mediamus;470;Mediamus;7
-810;fu_state_area_631;Jimmygorod;631;Jimmygorod;6
-811;fu_state_area_757;Botetown;757;Botetown;6
-812;fu_state_area_400;East Craiovetzi;400;East Craiovetzi;6
-813;fu_state_area_1168;Paysages;1168;Paysages;7
-814;fu_state_area_345;Western Novhurst;345;Western Novhurst;6
-815;fu_state_area_607;Ajax;607;Ajax;7
-816;fu_state_area_727;Shady Creek;727;Shady Creek;6
-817;fu_state_area_1185;Toledough;1185;Toledough;7
-818;fu_state_area_515;Atarstadt;515;Atarstadt;6
-819;fu_state_area_131;Grüyettburg;131;Grüyettburg;6
-820;fu_state_area_1052;Krokodil;1052;Krokodil;5
-821;fu_state_area_214;Beownat;214;Beownat;6
-822;fu_state_area_1301;South Infernum's Castle;1301;South Infernum's Castle;7
-823;fu_state_area_759;Bunrry;759;Bunrry;6
-824;fu_state_area_901;Near South Cize;901;Near South Cize;5
-825;fu_state_area_147;Neu-Winston;147;Neu-Winston;6
-826;fu_state_area_1327;Cancrigrad;1327;Cancrigrad;6
-827;fu_state_area_285;Démotagne;285;Démotagne;6
-828;fu_state_area_149;Kijovt;149;Kijovt;6
-829;fu_state_area_1149;Far East Monke Slopes;1149;Far East Monke Slopes;6
-830;fu_state_area_496;Meowfelde;496;Meowfelde;6
-831;fu_state_area_198;Southern Stollparche;198;Southern Stollparche;5
-832;fu_state_area_1114;Miestan;1114;Miestan;5
-833;fu_state_area_638;Blasterburg;638;Blasterburg;7
-834;fu_state_area_427;Near East Irkentia;427;Near East Irkentia;6
-835;fu_state_area_1137;Queensberg;1137;Queensberg;5
-836;fu_state_area_744;Saumme;744;Saumme;6
-837;fu_state_area_322;Zharr Station;322;Zharr Station;6
-838;fu_state_area_554;Meowcerne;554;Meowcerne;7
-839;fu_state_area_1252;South Flerk;1252;South Flerk;6
-840;fu_state_area_1174;Bragallet;1174;Bragallet;6
-841;fu_state_area_1235;Far North Northern Heart Mountains 3;1235;Far North Northern Heart Mountains 3;6
-842;fu_state_area_257;West Plaz;257;West Plaz;6
-843;fu_state_area_374;Clawlogne;374;Clawlogne;6
-844;fu_state_area_733;Fossemontre;733;Fossemontre;6
-845;fu_state_area_156;Atarilla;156;Atarilla;6
-846;fu_state_area_618;Shromar;618;Shromar;7
-847;fu_state_area_1363;Psossqe;1363;Psossqe;6
-848;fu_state_area_729;Northern Pegasia;729;Northern Pegasia;6
-849;fu_state_area_751;Bundraford;751;Bundraford;5
-850;fu_state_area_1203;Sabadeirado;1203;Sabadeirado;6
-851;fu_state_area_1439;North Drakenburg;1439;North Drakenburg;6
-852;fu_state_area_359;Lakeside City;359;Lakeside City;7
-853;fu_state_area_640;Gomelhound;640;Gomelhound;6
-854;fu_state_area_1287;Chaparallia;1287;Chaparallia;6
-855;fu_state_area_1111;Batisoara;1111;Batisoara;6
-856;fu_state_area_1261;Fort Bear;1261;Fort Bear;7
-857;fu_state_area_1083;Far East Lokout 4;1083;Far East Lokout 4;6
-858;fu_state_area_447;Froicoubeh;447;Froicoubeh;1
-859;fu_state_area_175;Hofungi;175;Hofungi;6
-860;fu_state_area_484;Mogiluff;484;Mogiluff;6
-861;fu_state_area_1288;Copse Shores;1288;Copse Shores;7
-862;fu_state_area_53;West Western Ejac;53;West Western Ejac;6
-863;fu_state_area_503;Bloozega;503;Bloozega;6
-864;fu_state_area_163;North Plaz;163;North Plaz;6
-865;fu_state_area_194;Far West Southern Stollparche 3;194;Far West Southern Stollparche 3;6
-866;fu_state_area_1101;Monke Slopes;1101;Monke Slopes;6
-867;fu_state_area_534;Mittelmewxico;534;Mittelmewxico;6
-868;fu_state_area_497;Nhalutt;497;Nhalutt;6
-869;fu_state_area_406;Greater Bunville;406;Greater Bunville;6
-870;fu_state_area_1102;Bostroolia;1102;Bostroolia;7
-871;fu_state_area_1342;Near South Lokout;1342;Near South Lokout;7
-872;fu_state_area_329;Novari;329;Novari;6
-873;fu_state_area_926;Basquerud;926;Basquerud;6
-874;fu_state_area_636;Dogno;636;Dogno;6
-875;fu_state_area_1251;East Crabby Shores;1251;East Crabby Shores;6
-876;fu_state_area_1175;Callidus;1175;Callidus;6
-877;fu_state_area_1117;Felinenkost;1117;Felinenkost;6
-878;fu_state_area_1140;Buzzlyn;1140;Buzzlyn;7
-879;fu_state_area_1405;Mimifell;1405;Mimifell;6
-880;fu_state_area_315;Balreska;315;Balreska;6
-881;fu_state_area_621;Zuspaw;621;Zuspaw;7
-882;fu_state_area_1058;Leónduja;1058;Leónduja;6
-883;fu_state_area_1228;Port Urscyd;1228;Port Urscyd;7
-884;fu_state_area_578;Binettestadt;578;Binettestadt;7
-885;fu_state_area_471;Polatspoodle;471;Polatspoodle;7
-886;fu_state_area_546;Janglastadt;546;Janglastadt;7
-887;fu_state_area_1353;Rheilen;1353;Rheilen;7
-888;fu_state_area_311;Goaghan Steppes;311;Goaghan Steppes;6
-889;fu_state_area_924;Hopplandesk;924;Hopplandesk;6
-890;fu_state_area_103;Mewverest;103;Mewverest;6
-891;fu_state_area_524;Southeastern Grand Hills;524;Southeastern Grand Hills;6
-892;fu_state_area_1357;Novhurst;1357;Novhurst;6
-893;fu_state_area_1527;Kerm;1527;Kerm;6
-894;fu_state_area_1054;Kronmea;1054;Kronmea;7
-895;fu_state_area_1100;Bergtun;1100;Bergtun;6
-896;fu_state_area_1241;Far East Lokout 9;1241;Far East Lokout 9;6
-897;fu_state_area_140;Itchiloo;140;Itchiloo;7
-898;fu_state_area_232;Fangsani;232;Fangsani;7
-899;fu_state_area_1374;Ponedresa;1374;Ponedresa;7
-900;fu_state_area_1491;West Amphibia 7;1491;West Amphibia 7;7
-901;fu_state_area_625;Central Zuspriland;625;Central Zuspriland;6
-902;fu_state_area_1234;West Bearlin;1234;West Bearlin;8
-903;fu_state_area_435;Irkentia;435;Irkentia;6
-904;fu_state_area_216;Yinjozhizhia;216;Yinjozhizhia;6
-905;fu_state_area_1200;Churrilbao;1200;Churrilbao;6
-906;fu_state_area_1283;East Irkentia;1283;East Irkentia;6
-907;fu_state_area_1325;Great Kraksia;1325;Great Kraksia;6
-908;fu_state_area_1549;South Fodaria 5;1549;South Fodaria 5;6
-909;fu_state_area_215;Tilque;215;Tilque;7
-910;fu_state_area_395;Lily Groves;395;Lily Groves;7
-911;fu_state_area_75;Near West Flerk;75;Near West Flerk;6
-912;fu_state_area_610;Titanus;610;Titanus;7
-913;fu_state_area_842;Drillbit;842;Drillbit;7
-914;fu_state_area_1354;Eastern Novari;1354;Eastern Novari;7
-915;fu_state_area_28;Nordblasterien;28;Nordblasterien;6
-916;fu_state_area_70;Ost-Winston;70;Ost-Winston;6
-917;fu_state_area_1135;Pupalley;1135;Pupalley;7
-918;fu_state_area_353;West Dazhungli;353;West Dazhungli;7
-919;fu_state_area_719;Cocopiegne;719;Cocopiegne;7
-920;fu_state_area_143;Sanguine Hills;143;Sanguine Hills;7
-921;fu_state_area_945;Oshian Peaks;945;Oshian Peaks;7
-922;fu_state_area_1508;Far South Fodaria 9;1508;Far South Fodaria 9;6
-923;fu_state_area_769;Carotney;769;Carotney;6
-924;fu_state_area_117;Solar Valley;117;Solar Valley;6
-925;fu_state_area_928;Lake Ballatonne;928;Lake Ballatonne;6
-926;fu_state_area_957;Magnatia;957;Magnatia;6
-927;fu_state_area_317;Liliastar;317;Liliastar;5
-928;fu_state_area_421;Silal;421;Silal;7
-929;fu_state_area_1227;Bearside Lake;1227;Bearside Lake;6
-930;fu_state_area_1157;East Cize;1157;East Cize;7
-931;fu_state_area_468;Empayre;468;Empayre;7
-932;fu_state_area_504;Frosov;504;Frosov;7
-933;fu_state_area_517;Gathills;517;Gathills;6
-934;fu_state_area_418;Harelyne Magocracy;418;Harelyne Magocracy;6
-935;fu_state_area_731;Bordeleau;731;Bordeleau;7
-936;fu_state_area_927;Ballatonne Forests;927;Ballatonne Forests;7
-937;fu_state_area_1088;Shroomyad;1088;Shroomyad;7
-938;fu_state_area_1340;Far East Lokout 7;1340;Far East Lokout 7;7
-939;fu_state_area_1243;East Central Ezicania;1243;East Central Ezicania;8
-940;fu_state_area_296;Sedanne;296;Sedanne;7
-941;fu_state_area_1237;Old Bearia;1237;Old Bearia;8
-942;fu_state_area_1213;Rhayman;1213;Rhayman;6
-943;fu_state_area_1309;South Harelene;1309;South Harelene;7
-944;fu_state_area_1097;East Katezic;1097;East Katezic;8
-945;fu_state_area_300;Valledupèr;300;Valledupèr;7
-946;fu_state_area_1265;West Northern Heart Mountains;1265;West Northern Heart Mountains;6
-947;fu_state_area_1134;Near West Great Hill;1134;Near West Great Hill;7
-948;fu_state_area_139;Near East Southern Ezicania;139;Near East Southern Ezicania;7
-949;fu_state_area_323;Teksasse;323;Teksasse;6
-950;fu_state_area_10;Tiplett;10;Tiplett;7
-951;fu_state_area_107;West Northern Ezicania;107;West Northern Ezicania;7
-952;fu_state_area_1164;Marine Tranquille;1164;Marine Tranquille;6
-953;fu_state_area_1178;Lisbonbon;1178;Lisbonbon;7
-954;fu_state_area_466;Northkandle;466;Northkandle;6
-955;fu_state_area_1281;Near East The Valley;1281;Near East The Valley;6
-956;fu_state_area_461;East Meogartha;461;East Meogartha;1
-957;fu_state_area_1066;Extremar;1066;Extremar;7
-958;fu_state_area_335;Aricrest;335;Aricrest;6
-959;fu_state_area_1239;North Svitanok Ridges;1239;North Svitanok Ridges;6
-960;fu_state_area_288;Doughvila;288;Doughvila;7
-961;fu_state_area_1056;East Kobalt;1056;East Kobalt;6
-962;fu_state_area_142;Cuddlezone;142;Cuddlezone;6
-963;fu_state_area_1030;Arborian Shores;1030;Arborian Shores;6
-964;fu_state_area_1300;Krawedgory;1300;Krawedgory;7
-965;fu_state_area_956;Espen;956;Espen;6
-966;fu_state_area_796;Aqùkàr;796;Aqùkàr;7
-967;fu_state_area_1125;West Sea Beach;1125;West Sea Beach;7
-968;fu_state_area_766;Grandbuney;766;Grandbuney;8
-969;fu_state_area_472;Wintermagnet;472;Wintermagnet;7
-970;fu_state_area_632;Barkdivostok;632;Barkdivostok;7
-971;fu_state_area_1202;Burgeros;1202;Burgeros;8
-972;fu_state_area_380;Platishire;380;Platishire;7
-973;fu_state_area_1206;Jharuna;1206;Jharuna;7
-974;fu_state_area_748;Doneghare;748;Doneghare;8
-975;fu_state_area_1124;Calderi;1124;Calderi;8
-976;fu_state_area_1232;East Svitankovia;1232;East Svitankovia;7
-977;fu_state_area_1108;North Great Ape Groves;1108;North Great Ape Groves;8
-978;fu_state_area_138;Felstigerfels;138;Felstigerfels;8
-979;fu_state_area_266;Yinvastopol;266;Yinvastopol;7
-980;fu_state_area_1509;Far East Fodaria 10;1509;Far East Fodaria 10;6
-981;fu_state_area_747;Hoplin;747;Hoplin;8
-982;fu_state_area_1275;North Tipanum;1275;North Tipanum;8
-983;fu_state_area_960;Chaisen;960;Chaisen;6
-984;fu_state_area_369;Eastern Altairyu;369;Eastern Altairyu;7
-985;fu_state_area_1098;Ismhal;1098;Ismhal;8
-986;fu_state_area_771;Zhangbun;771;Zhangbun;7
-987;fu_state_area_1268;Far North Northern Heart Mountains;1268;Far North Northern Heart Mountains;7
-988;fu_state_area_1171;Eulyss Rapids;1171;Eulyss Rapids;7
-989;fu_state_area_1204;Meerut;1204;Meerut;7
-990;fu_state_area_412;Provicae;412;Provicae;7
-991;fu_state_area_1191;Sebowlia 2;1191;Sebowlia 2;6
-992;fu_state_area_289;Brekarya;289;Brekarya;7
-993;fu_state_area_1087;Near West Lokout;1087;Near West Lokout;7
-994;fu_state_area_195;Far West Great Hill;195;Far West Great Hill;8
-995;fu_state_area_360;Novanada;360;Novanada;7
-996;fu_state_area_784;Rockenbun;784;Rockenbun;6
-997;fu_state_area_784_2;Rockenbun;784;Rockenbun;3
-998;fu_state_area_460;Sebowlia;460;Sebowlia;1
-999;fu_state_area_499;Fungarish;499;Fungarish;6
-1000;fu_state_area_4;East Infernum's Castle;4;East Infernum's Castle;8
-1001;fu_state_area_1107;North Fishtun;1107;North Fishtun;8
-1002;fu_state_area_1215;Near North Great Hill;1215;Near North Great Hill;7
-1003;fu_state_area_162;North Lokout;162;North Lokout;7
-1004;fu_state_area_250;Aderalum;250;Aderalum;8
-1005;fu_state_area_199;Boiler Town;199;Boiler Town;7
-1006;fu_state_area_1084;Far East Lokout 3;1084;Far East Lokout 3;8
-1007;fu_state_area_167;Sea Beach;167;Sea Beach;7
-1008;fu_state_area_767;Bunmal;767;Bunmal;6
-1009;fu_state_area_1143;Bumbleburg;1143;Bumbleburg;7
-1010;fu_state_area_1110;Vampstanta;1110;Vampstanta;7
-1011;fu_state_area_1216;South Yinjatzbereich;1216;South Yinjatzbereich;5
-1012;fu_state_area_1216_2;South Yinjatzbereich;1216;South Yinjatzbereich;4
-1013;fu_state_area_1276;North Lomo;1276;North Lomo;8
-1014;fu_state_area_1208;New Kumakh;1208;New Kumakh;7
-1015;fu_state_area_1147;Far East Monke Slopes 6;1147;Far East Monke Slopes 6;7
-1016;fu_state_area_1260;Riverboden;1260;Riverboden;7
-1017;fu_state_area_318;Novenna;318;Novenna;7
-1018;fu_state_area_171;Staullparche;171;Staullparche;7
-1019;fu_state_area_1057;Panplona;1057;Panplona;8
-1020;fu_state_area_1298;Near South Infernum's Castle;1298;Near South Infernum's Castle;5
-1021;fu_state_area_1298_2;Near South Infernum's Castle;1298;Near South Infernum's Castle;4
-1022;fu_state_area_1142;Bensonlak;1142;Bensonlak;7
-1023;fu_state_area_750;Adhare;750;Adhare;8
-1024;fu_state_area_355;Northern Hervus;355;Northern Hervus;7
-1025;fu_state_area_1224;East Northern Svitanok Desert;1224;East Northern Svitanok Desert;7
-1026;fu_state_area_498;Hammerhand;498;Hammerhand;8
-1027;fu_state_area_1096;Shiitofuf;1096;Shiitofuf;8
-1028;fu_state_area_981;Badrock;981;Badrock;8
-1029;fu_state_area_1271;Croakenburg;1271;Croakenburg;8
-1030;fu_state_area_1271_2;Croakenburg;1271;Croakenburg;1
-1031;fu_state_area_5;New Iantrus;5;New Iantrus;7
-1032;fu_state_area_376;Far West Tundrabor;376;Far West Tundrabor;8
-1033;fu_state_area_774;Bunoshima;774;Bunoshima;7
-1034;fu_state_area_516;Mushile;516;Mushile;8
-1035;fu_state_area_749;Southport;749;Southport;8
-1036;fu_state_area_754;Firesea;754;Firesea;8
-1037;fu_state_area_1259;New Bearia;1259;New Bearia;8
-1038;fu_state_area_33;Kelp Coasts;33;Kelp Coasts;8
-1039;fu_state_area_1329;Near North Lokout;1329;Near North Lokout;7
-1040;fu_state_area_1282;North The Valley;1282;North The Valley;7
-1041;fu_state_area_399;Bunteria;399;Bunteria;7
-1042;fu_state_area_1412;Cheet;1412;Cheet;7
-1043;fu_state_area_159;Pawstion;159;Pawstion;8
-1044;fu_state_area_606;Nitros;606;Nitros;8
-1045;fu_state_area_1120;Drybourg;1120;Drybourg;5
-1046;fu_state_area_1120_2;Drybourg;1120;Drybourg;5
-1047;fu_state_area_1285;Lalaland;1285;Lalaland;5
-1048;fu_state_area_1285_2;Lalaland;1285;Lalaland;4
-1049;fu_state_area_1222;East Yinjite Forest;1222;East Yinjite Forest;8
-1050;fu_state_area_134;Svitanok Ridges;134;Svitanok Ridges;8
-1051;fu_state_area_1249;Central Svitanok Desert;1249;Central Svitanok Desert;7
-1052;fu_state_area_549;Katnemasse;549;Katnemasse;7
-1053;fu_state_area_871;Nova Sealtle;871;Nova Sealtle;1
-1054;fu_state_area_1205;Meghaduta;1205;Meghaduta;7
-1055;fu_state_area_20;Meoneva;20;Meoneva;7
-1056;fu_state_area_310;Far East Monke Slopes 4;310;Far East Monke Slopes 4;5
-1057;fu_state_area_310_2;Far East Monke Slopes 4;310;Far East Monke Slopes 4;4
-1058;fu_state_area_781;Pohtinville;781;Pohtinville;8
-1059;fu_state_area_1072;Meagas;1072;Meagas;7
-1060;fu_state_area_230;Meowscow;230;Meowscow;8
-1061;fu_state_area_170;Jonesbearo;170;Jonesbearo;5
-1062;fu_state_area_170_2;Jonesbearo;170;Jonesbearo;4
-1063;fu_state_area_77;Flerk;77;Flerk;8
-1064;fu_state_area_1236;East Northern Heart Mountains;1236;East Northern Heart Mountains;8
-1065;fu_state_area_1248;Svitankovia;1248;Svitankovia;8
-1066;fu_state_area_1141;East Brewtun;1141;East Brewtun;7
-1067;fu_state_area_1090;North Quiveria;1090;North Quiveria;6
-1068;fu_state_area_1090_2;North Quiveria;1090;North Quiveria;3
-1069;fu_state_area_1355;Ravenna;1355;Ravenna;8
-1070;fu_state_area_793;Nòvbàrùs;793;Nòvbàrùs;8
-1071;fu_state_area_1264;East Northern Ezicania;1264;East Northern Ezicania;8
-1072;fu_state_area_1207;New Basni;1207;New Basni;7
-1073;fu_state_area_1131;Gallifly;1131;Gallifly;8
-1074;fu_state_area_330;Novastaati;330;Novastaati;8
-1075;fu_state_area_92;Northern Ezicania;92;Northern Ezicania;7
-1076;fu_state_area_1225;West Flerk;1225;West Flerk;8
-1077;fu_state_area_1352;Kambosland;1352;Kambosland;8
-1078;fu_state_area_788;Grandbun Woods;788;Grandbun Woods;7
-1079;fu_state_area_952;Vensis;952;Vensis;7
-1080;fu_state_area_533;Kleinberg;533;Kleinberg;8
-1081;fu_state_area_1177;Dazhungli;1177;Dazhungli;8
-1082;fu_state_area_1133;Hymnburg;1133;Hymnburg;8
-1083;fu_state_area_72;Western Ejac;72;Western Ejac;6
-1084;fu_state_area_72_2;Western Ejac;72;Western Ejac;3
-1085;fu_state_area_1201;South Koti;1201;South Koti;8
-1086;fu_state_area_476;Biskuitgorod;476;Biskuitgorod;5
-1087;fu_state_area_476_2;Biskuitgorod;476;Biskuitgorod;4
-1088;fu_state_area_545;Katstone;545;Katstone;8
-1089;fu_state_area_1277;West Tundrabor;1277;West Tundrabor;7
-1090;fu_state_area_1293;Zachokran;1293;Zachokran;8
-1091;fu_state_area_1069;East-Tomopolis;1069;East-Tomopolis;7
-1092;fu_state_area_391;Oltenitza;391;Oltenitza;8
-1093;fu_state_area_1292;Wschobregi;1292;Wschobregi;7
-1094;fu_state_area_129;Warm Springs;129;Warm Springs;5
-1095;fu_state_area_129_2;Warm Springs;129;Warm Springs;4
-1096;fu_state_area_500;East Great Hill;500;East Great Hill;8
-1097;fu_state_area_130;South Katezic;130;South Katezic;8
-1098;fu_state_area_130_2;South Katezic;130;South Katezic;1
+38;fu_state_area_467_3;Broukburn;467;Broukburn;3
+39;fu_state_area_467_4;Broukburn;467;Broukburn;5
+40;fu_state_area_1158;South Latarada;1158;South Latarada;5
+41;fu_state_area_364;Baltiquie Superieure;364;Baltiquie Superieure;3
+42;fu_state_area_483;Tanba;483;Tanba;7
+43;fu_state_area_1156;South Démotagne;1156;South Démotagne;5
+44;fu_state_area_1504;Ameowzonia;1504;Ameowzonia;4
+45;fu_state_area_820;Greater Solity;820;Greater Solity;4
+46;fu_state_area_223;Petite Qualie;223;Petite Qualie;1
+47;fu_state_area_402;Tetelibre;402;Tetelibre;3
+48;fu_state_area_420;Western Hushed Forest;420;Western Hushed Forest;6
+49;fu_state_area_992;Rattlecoast;992;Rattlecoast;6
+50;fu_state_area_347;Tak-Icar;347;Tak-Icar;4
+51;fu_state_area_312;Dogeheit;312;Dogeheit;7
+52;fu_state_area_898;Narnburg;898;Narnburg;4
+53;fu_state_area_50;Katucky;50;Katucky;4
+54;fu_state_area_326;Lisejr Metroplitan Area;326;Lisejr Metroplitan Area;4
+55;fu_state_area_1150;Far North Southern Stollparche;1150;Far North Southern Stollparche;4
+56;fu_state_area_547;Lyuinwald;547;Lyuinwald;4
+57;fu_state_area_732;Oueston;732;Oueston;5
+58;fu_state_area_13;Meowenberg;13;Meowenberg;7
+59;fu_state_area_39;Wachatgon;39;Wachatgon;4
+60;fu_state_area_1163;North Southern Stollparche;1163;North Southern Stollparche;4
+61;fu_state_area_339;Battlebuns Frontier;339;Battlebuns Frontier;5
+62;fu_state_area_1308;North Fleatherwing;1308;North Fleatherwing;5
+63;fu_state_area_243;Catgirland;243;Catgirland;4
+64;fu_state_area_882;Lowcoast;882;Lowcoast;8
+65;fu_state_area_721;Ailesainque;721;Ailesainque;4
+66;fu_state_area_60;Pawmuda;60;Pawmuda;3
+67;fu_state_area_42;Katalonia;42;Katalonia;3
+68;fu_state_area_792;Filosimpàra;792;Filosimpàra;5
+69;fu_state_area_661;Nordansicht;661;Nordansicht;5
+70;fu_state_area_1369;East Hoxxhagen Surface Zone;1369;East Hoxxhagen Surface Zone;3
+71;fu_state_area_193;Far West Southern Stollparche;193;Far West Southern Stollparche;4
+72;fu_state_area_174;Gepardien;174;Gepardien;7
+73;fu_state_area_570;Rosestadt;570;Rosestadt;6
+74;fu_state_area_1315;East Hissity;1315;East Hissity;6
+75;fu_state_area_328;Inner Solity;328;Inner Solity;8
+76;fu_state_area_668;Eastern Pawldrinsel;668;Eastern Pawldrinsel;4
+77;fu_state_area_809;Heldford;809;Heldford;5
+78;fu_state_area_1154;West Southern Stollparche;1154;West Southern Stollparche;4
+79;fu_state_area_8;Mewsinki;8;Mewsinki;3
+80;fu_state_area_742;Styvellines;742;Styvellines;6
+81;fu_state_area_817;Iron Mounts;817;Iron Mounts;5
+82;fu_state_area_1160;Near West Petite Qualie;1160;Near West Petite Qualie;6
+83;fu_state_area_115;Süd-Auralien;115;Süd-Auralien;6
+84;fu_state_area_385;Françaslien;385;Françaslien;5
+85;fu_state_area_583;Punchiestadt;583;Punchiestadt;5
+86;fu_state_area_567;Middenpaw;567;Middenpaw;5
+87;fu_state_area_218;Jarvalin;218;Jarvalin;5
+88;fu_state_area_528;White Peaks Valley;528;White Peaks Valley;5
+89;fu_state_area_904;Sumadikat;904;Sumadikat;6
+90;fu_state_area_32;Bamsens Dock;32;Bamsens Dock;4
+91;fu_state_area_1159;South Cularie;1159;South Cularie;7
+92;fu_state_area_989;Hissity;989;Hissity;7
+93;fu_state_area_1427;Kaiserburg;1427;Kaiserburg;6
+94;fu_state_area_38;Meowdeburg;38;Meowdeburg;7
+95;fu_state_area_1347;Ottenon;1347;Ottenon;6
+96;fu_state_area_161;Vhi Gherizad;161;Vhi Gherizad;5
+97;fu_state_area_1307;South Fleatherwing;1307;South Fleatherwing;6
+98;fu_state_area_608;Kobalt;608;Kobalt;5
+99;fu_state_area_233;Northern Nekaston;233;Northern Nekaston;5
+100;fu_state_area_431;Port Ravke;431;Port Ravke;5
+101;fu_state_area_565;Magnetischergeschwollen;565;Magnetischergeschwollen;5
+102;fu_state_area_365;Lesser Lake;365;Lesser Lake;6
+103;fu_state_area_188;Bramble Wastes;188;Bramble Wastes;6
+104;fu_state_area_1345;Taupwald;1345;Taupwald;7
+105;fu_state_area_1346;Loudennes;1346;Loudennes;5
+106;fu_state_area_791;Grande Loutteria;791;Grande Loutteria;4
+107;fu_state_area_74;Dascinder;74;Dascinder;5
+108;fu_state_area_1128;Port Moll;1128;Port Moll;5
+109;fu_state_area_302;Grünfeld;302;Grünfeld;7
+110;fu_state_area_145;Near North Ezicania Pass;145;Near North Ezicania Pass;6
+111;fu_state_area_589;Batar;589;Batar;5
+112;fu_state_area_1433;Wafburg;1433;Wafburg;4
+113;fu_state_area_1016;Roquestrie;1016;Roquestrie;4
+114;fu_state_area_974;Godreim;974;Godreim;5
+115;fu_state_area_1460;Frankfurr;1460;Frankfurr;6
+116;fu_state_area_477;Kattail;477;Kattail;3
+117;fu_state_area_127;Southern Ezicania;127;Southern Ezicania;5
+118;fu_state_area_141;Ezicania Pass;141;Ezicania Pass;4
+119;fu_state_area_73;Infernum's Castle;73;Infernum's Castle;4
+120;fu_state_area_1043;Lorisgrad;1043;Lorisgrad;5
+121;fu_state_area_31;Meop;31;Meop;7
+122;fu_state_area_1453;Taikara;1453;Taikara;5
+123;fu_state_area_363;Frontiere Solarienne;363;Frontiere Solarienne;4
+124;fu_state_area_527;North Katzil;527;North Katzil;6
+125;fu_state_area_96;Copper-Match;96;Copper-Match;5
+126;fu_state_area_1467;Stokoslat;1467;Stokoslat;5
+127;fu_state_area_595;Yarnis Bergen;595;Yarnis Bergen;3
+128;fu_state_area_488;Mielstadt;488;Mielstadt;6
+129;fu_state_area_25;Clawtoust;25;Clawtoust;6
+130;fu_state_area_880;Velthordshire;880;Velthordshire;6
+131;fu_state_area_270;Mewmewmew;270;Mewmewmew;7
+132;fu_state_area_95;Altenkat;95;Altenkat;6
+133;fu_state_area_906;Chesedgrad;906;Chesedgrad;5
+134;fu_state_area_211;Near East Southern Stollparche;211;Near East Southern Stollparche;5
+135;fu_state_area_205;West Petite Qualie;205;West Petite Qualie;4
+136;fu_state_area_205_2;West Petite Qualie;205;West Petite Qualie;1
+137;fu_state_area_585;Neu-Loris;585;Neu-Loris;6
+138;fu_state_area_1013;Southern Venusia;1013;Southern Venusia;6
+139;fu_state_area_587;Katza;587;Katza;6
+140;fu_state_area_777;Nordbun;777;Nordbun;8
+141;fu_state_area_746;Rowotnik;746;Rowotnik;5
+142;fu_state_area_437;Greater Solstice;437;Greater Solstice;5
+143;fu_state_area_437_2;Greater Solstice;437;Greater Solstice;5
+144;fu_state_area_441;Antarctic Canal Zone;441;Antarctic Canal Zone;3
+145;fu_state_area_1496;Far South Fodaria 12;1496;Far South Fodaria 12;6
+146;fu_state_area_1144;Far North Great Hill;1144;Far North Great Hill;5
+147;fu_state_area_1144_2;Far North Great Hill;1144;Far North Great Hill;6
+148;fu_state_area_394;Katjeisland;394;Katjeisland;5
+149;fu_state_area_383;Collines Chaudiere;383;Collines Chaudiere;4
+150;fu_state_area_602;Eliottown;602;Eliottown;6
+151;fu_state_area_969;Mount Izwae;969;Mount Izwae;5
+152;fu_state_area_797;Indsitra;797;Indsitra;5
+153;fu_state_area_475;Ataril;475;Ataril;7
+154;fu_state_area_297;Aurleans;297;Aurleans;6
+155;fu_state_area_1542;Lower Kronkia 13;1542;Lower Kronkia 13;6
+156;fu_state_area_597;Sudflutstadt;597;Sudflutstadt;6
+157;fu_state_area_730;Celestadt;730;Celestadt;7
+158;fu_state_area_389;Watlern;389;Watlern;5
+159;fu_state_area_352;Platéire;352;Platéire;5
+160;fu_state_area_1465;Pawmur;1465;Pawmur;5
+161;fu_state_area_386;Neu-Meownich;386;Neu-Meownich;5
+162;fu_state_area_532;Drakenburg;532;Drakenburg;5
+163;fu_state_area_256;Louquio;256;Louquio;7
+164;fu_state_area_348;Euenum;348;Euenum;5
+165;fu_state_area_553;Mewdu Mush;553;Mewdu Mush;6
+166;fu_state_area_1289;Wybrezacho;1289;Wybrezacho;5
+167;fu_state_area_51;Pierwysp;51;Pierwysp;4
+168;fu_state_area_177;Katkenstein;177;Katkenstein;6
+169;fu_state_area_1551;Yinsk;1551;Yinsk;6
+170;fu_state_area_58;Purrsen;58;Purrsen;8
+171;fu_state_area_577;Pawrdeaux;577;Pawrdeaux;6
+172;fu_state_area_645;Mewssy;645;Mewssy;6
+173;fu_state_area_899;Havener;899;Havener;7
+174;fu_state_area_1253;Urscid Hollows;1253;Urscid Hollows;6
+175;fu_state_area_568;Finstratus;568;Finstratus;8
+176;fu_state_area_1506;Lower Neminia 7;1506;Lower Neminia 7;4
+177;fu_state_area_755;Buncible;755;Buncible;7
+178;fu_state_area_6;Pico;6;Pico;2
+179;fu_state_area_17;Laurnsums Docks;17;Laurnsums Docks;7
+180;fu_state_area_17_2;Laurnsums Docks;17;Laurnsums Docks;5
+181;fu_state_area_964;Plavetan Range;964;Plavetan Range;6
+182;fu_state_area_189;Centralia;189;Centralia;7
+183;fu_state_area_59;Qaradel Tas;59;Qaradel Tas;6
+184;fu_state_area_1421;Pérolville;1421;Pérolville;6
+185;fu_state_area_1021;Interfleuvie;1021;Interfleuvie;6
+186;fu_state_area_525;Northeastern Grand Hills;525;Northeastern Grand Hills;8
+187;fu_state_area_1498;Far West Praw 14;1498;Far West Praw 14;6
+188;fu_state_area_972;Zarbin;972;Zarbin;6
+189;fu_state_area_543;Katnover;543;Katnover;7
+190;fu_state_area_915;Hoffstadt;915;Hoffstadt;5
+191;fu_state_area_538;Melcey;538;Melcey;5
+192;fu_state_area_1544;Far South Fodaria 15;1544;Far South Fodaria 15;5
+193;fu_state_area_425;Plavevivorea;425;Plavevivorea;8
+194;fu_state_area_914;D.U.G.A. Array;914;D.U.G.A. Array;6
+195;fu_state_area_1416;Darinstadt;1416;Darinstadt;7
+196;fu_state_area_1198;Girardought;1198;Girardought;5
+197;fu_state_area_1458;Kibbleshaven;1458;Kibbleshaven;6
+198;fu_state_area_977;Tipanum;977;Tipanum;7
+199;fu_state_area_1472;Les Mosges;1472;Les Mosges;6
+200;fu_state_area_1518;Lower Fodaria 4;1518;Lower Fodaria 4;5
+201;fu_state_area_384;Republic of the Bay;384;Republic of the Bay;7
+202;fu_state_area_1514;East Temperia 15;1514;East Temperia 15;6
+203;fu_state_area_814;Distretto dei Pescatori;814;Distretto dei Pescatori;5
+204;fu_state_area_108;Odabin;108;Odabin;6
+205;fu_state_area_1547;Katznimbov;1547;Katznimbov;6
+206;fu_state_area_1167;Epoustouflant;1167;Epoustouflant;7
+207;fu_state_area_1450;Karnon;1450;Karnon;6
+208;fu_state_area_268;Nouvelle-Ronronlin;268;Nouvelle-Ronronlin;5
+209;fu_state_area_166;Kronkozavodsk;166;Kronkozavodsk;6
+210;fu_state_area_1528;Orefograd;1528;Orefograd;6
+211;fu_state_area_1116;Meowrres;1116;Meowrres;6
+212;fu_state_area_584;Mewbiere;584;Mewbiere;6
+213;fu_state_area_544;Narnburg;544;Narnburg;6
+214;fu_state_area_314;Limasin;314;Limasin;7
+215;fu_state_area_1312;North Slithervich;1312;North Slithervich;8
+216;fu_state_area_249;Near West Démotagne;249;Near West Démotagne;5
+217;fu_state_area_1452;Daskander;1452;Daskander;5
+218;fu_state_area_150;Khesedien;150;Khesedien;7
+219;fu_state_area_225;Krrama;225;Krrama;8
+220;fu_state_area_225_2;Krrama;225;Krrama;1
+221;fu_state_area_1471;Ville-Bruand;1471;Ville-Bruand;6
+222;fu_state_area_1151;West Cize;1151;West Cize;7
+223;fu_state_area_1290;Rowninalesna;1290;Rowninalesna;8
+224;fu_state_area_1297;Far West Westpaw 3;1297;Far West Westpaw 3;6
+225;fu_state_area_1304;Far South Infernum's Castle;1304;Far South Infernum's Castle;1
+226;fu_state_area_1297_2;Far West Westpaw 3;1297;Far West Westpaw 3;2
+227;fu_state_area_1218;East Yinjatzbereich;1218;East Yinjatzbereich;6
+228;fu_state_area_1219;Near South Northern Ezicania;1219;Near South Northern Ezicania;4
+229;fu_state_area_415;Seaside Groves;415;Seaside Groves;8
+230;fu_state_area_971;Usswaeri;971;Usswaeri;7
+231;fu_state_area_995;Nharsus;995;Nharsus;7
+232;fu_state_area_946;Palikova Interlakia;946;Palikova Interlakia;8
+233;fu_state_area_305;Near East Monke Slopes;305;Near East Monke Slopes;8
+234;fu_state_area_541;Cathy;541;Cathy;7
+235;fu_state_area_479;Nord-Purrgund;479;Nord-Purrgund;6
+236;fu_state_area_1432;Central Kharna 8;1432;Central Kharna 8;8
+237;fu_state_area_62;Pawris;62;Pawris;6
+238;fu_state_area_1122;Calderbug;1122;Calderbug;6
+239;fu_state_area_1121;Dunedocks;1121;Dunedocks;3
+240;fu_state_area_847;Gtuntuh;847;Gtuntuh;8
+241;fu_state_area_1026;South Vasmar Ridge;1026;South Vasmar Ridge;6
+242;fu_state_area_276;Bruvergne;276;Bruvergne;7
+243;fu_state_area_612;Myriad;612;Myriad;7
+244;fu_state_area_78;Tigar;78;Tigar;7
+245;fu_state_area_69;Clawlingen;69;Clawlingen;8
+246;fu_state_area_155;Zhagrebenstadt;155;Zhagrebenstadt;6
+247;fu_state_area_180;Alraxian Plains;180;Alraxian Plains;8
+248;fu_state_area_320;Lutécie;320;Lutécie;6
+249;fu_state_area_1474;Lugédunume;1474;Lugédunume;3
+250;fu_state_area_1451;Meopastadt;1451;Meopastadt;6
+251;fu_state_area_336;Alkroa;336;Alkroa;6
+252;fu_state_area_559;Luchsi;559;Luchsi;3
+253;fu_state_area_911;Sapiniere;911;Sapiniere;3
+254;fu_state_area_1348;Lanterien;1348;Lanterien;3
+255;fu_state_area_1440;Victoneustadt;1440;Victoneustadt;3
+256;fu_state_area_765;Western Shores;765;Western Shores;4
+257;fu_state_area_377;Seagoers' Republic;377;Seagoers' Republic;3
+258;fu_state_area_338;Albathorn;338;Albathorn;3
+259;fu_state_area_601;Neukatstadt;601;Neukatstadt;3
+260;fu_state_area_1005;Tirh Khaz'dan;1005;Tirh Khaz'dan;3
+261;fu_state_area_1079;Sabhanita;1079;Sabhanita;3
+262;fu_state_area_535;Mewselle;535;Mewselle;3
+263;fu_state_area_885;S. Arivoejan Mountains;885;S. Arivoejan Mountains;3
+264;fu_state_area_819;Upper Ganymeda;819;Upper Ganymeda;3
+265;fu_state_area_1425;Mont Gargame;1425;Mont Gargame;4
+266;fu_state_area_481;Winston;481;Winston;3
+267;fu_state_area_222;Far South Démotagne;222;Far South Démotagne;3
+268;fu_state_area_789;Heavenbun;789;Heavenbun;4
+269;fu_state_area_1004;Vhi Bramokh;1004;Vhi Bramokh;4
+270;fu_state_area_654;Derdoux;654;Derdoux;3
+271;fu_state_area_1349;Brashten;1349;Brashten;3
+272;fu_state_area_1541;Kronkienstadt;1541;Kronkienstadt;3
+273;fu_state_area_892;Dourouhtei;892;Dourouhtei;3
+274;fu_state_area_1482;Lower Fodaria 13;1482;Lower Fodaria 13;3
+275;fu_state_area_1546;West Fodaria 16;1546;West Fodaria 16;3
+276;fu_state_area_890;Xeirko;890;Xeirko;3
+277;fu_state_area_206;Drakwald;206;Drakwald;3
+278;fu_state_area_734;Pagen;734;Pagen;4
+279;fu_state_area_1044;Kronknoyarskien;1044;Kronknoyarskien;3
+280;fu_state_area_716;Tarva;716;Tarva;3
+281;fu_state_area_112;Vestefoldij;112;Vestefoldij;3
+282;fu_state_area_780;Foraoise Cairead;780;Foraoise Cairead;3
+283;fu_state_area_1006;Mazhuddar;1006;Mazhuddar;4
+284;fu_state_area_1106;Great Ape Groves;1106;Great Ape Groves;4
+285;fu_state_area_1313;Greater Bundengrad;1313;Greater Bundengrad;4
+286;fu_state_area_556;Channecy;556;Channecy;4
+287;fu_state_area_720;Xuhre;720;Xuhre;4
+288;fu_state_area_840;Bocerie du Sud;840;Bocerie du Sud;3
+289;fu_state_area_66;Raita;66;Raita;4
+290;fu_state_area_1483;Far North Fodaria 14;1483;Far North Fodaria 14;4
+291;fu_state_area_997;Khakhabad;997;Khakhabad;3
+292;fu_state_area_763;Upbuntrick;763;Upbuntrick;3
+293;fu_state_area_272;Sonyabourg;272;Sonyabourg;4
+294;fu_state_area_428;Eden;428;Eden;3
+295;fu_state_area_653;Kaisershafen;653;Kaisershafen;4
+296;fu_state_area_1334;Sporegazi;1334;Sporegazi;4
+297;fu_state_area_186;Northern Crngrad;186;Northern Crngrad;3
+298;fu_state_area_1081;Far East Lokout 8;1081;Far East Lokout 8;4
+299;fu_state_area_313;Silver-Match;313;Silver-Match;3
+300;fu_state_area_1104;East Monke Slopes;1104;East Monke Slopes;5
+301;fu_state_area_573;Xoeken;573;Xoeken;5
+302;fu_state_area_655;Elowinien;655;Elowinien;3
+303;fu_state_area_321;Animéquitaine;321;Animéquitaine;3
+304;fu_state_area_202;Gross-Amphisk;202;Gross-Amphisk;3
+305;fu_state_area_823;Chok;823;Chok;4
+306;fu_state_area_120;Nord-Amphisk;120;Nord-Amphisk;4
+307;fu_state_area_19;Pawmalay;19;Pawmalay;5
+308;fu_state_area_152;Zhytotska;152;Zhytotska;4
+309;fu_state_area_102;Central Ezicania;102;Central Ezicania;3
+310;fu_state_area_1011;Shroomfluss;1011;Shroomfluss;3
+311;fu_state_area_555;Sudstruken;555;Sudstruken;3
+312;fu_state_area_1341;Ghyatte;1341;Ghyatte;3
+313;fu_state_area_381;Karrotia;381;Karrotia;3
+314;fu_state_area_1113;Grovati;1113;Grovati;4
+315;fu_state_area_495;Isthriciti;495;Isthriciti;4
+316;fu_state_area_264;Goaghan Mountains;264;Goaghan Mountains;3
+317;fu_state_area_1448;Portélie;1448;Portélie;3
+318;fu_state_area_935;Slavoniciti;935;Slavoniciti;4
+319;fu_state_area_93;Krorilsk;93;Krorilsk;3
+320;fu_state_area_332;Genièvre;332;Genièvre;4
+321;fu_state_area_1370;Distretto Montano;1370;Distretto Montano;3
+322;fu_state_area_1466;Pimoussebühl;1466;Pimoussebühl;4
+323;fu_state_area_929;Novemberstadt;929;Novemberstadt;3
+324;fu_state_area_657;Teuyaka;657;Teuyaka;4
+325;fu_state_area_1050;Angriverien;1050;Angriverien;4
+326;fu_state_area_1490;East Amphibia 6;1490;East Amphibia 6;4
+327;fu_state_area_947;Diberre Woods;947;Diberre Woods;4
+328;fu_state_area_301;Biti;301;Biti;3
+329;fu_state_area_558;Mount Kitts;558;Mount Kitts;4
+330;fu_state_area_949;Novania's Shores;949;Novania's Shores;4
+331;fu_state_area_962;Waterdeen;962;Waterdeen;4
+332;fu_state_area_1538;East Neminia 9;1538;East Neminia 9;4
+333;fu_state_area_569;Zawrich;569;Zawrich;3
+334;fu_state_area_985;Bramble Woods;985;Bramble Woods;4
+335;fu_state_area_271;Ganymeda;271;Ganymeda;4
+336;fu_state_area_157;Landslid;157;Landslid;4
+337;fu_state_area_1435;Kaiserburg 2;1435;Kaiserburg 2;3
+338;fu_state_area_1230;Salmion;1230;Salmion;4
+339;fu_state_area_1536;Kufa;1536;Kufa;5
+340;fu_state_area_740;Lylle;740;Lylle;3
+341;fu_state_area_40;Darin;40;Darin;4
+342;fu_state_area_619;Shroom Valley;619;Shroom Valley;4
+343;fu_state_area_1099;Fungalhalla;1099;Fungalhalla;4
+344;fu_state_area_248;Poniweh;248;Poniweh;3
+345;fu_state_area_735;Kaillen;735;Kaillen;3
+346;fu_state_area_1086;Far East Lokout;1086;Far East Lokout;4
+347;fu_state_area_1362;Near West Dazhungli;1362;Near West Dazhungli;4
+348;fu_state_area_118;Sud-Solagnaw;118;Sud-Solagnaw;4
+349;fu_state_area_877;Seeker's Cove;877;Seeker's Cove;1
+350;fu_state_area_146;Katzenfluss;146;Katzenfluss;4
+351;fu_state_area_487;Ost-Lynxsi;487;Ost-Lynxsi;4
+352;fu_state_area_182;Far North Ezicania Pass 3;182;Far North Ezicania Pass 3;4
+353;fu_state_area_1443;West Kibblesben;1443;West Kibblesben;4
+354;fu_state_area_340;Die;340;Die;3
+355;fu_state_area_779;Bunvelline;779;Bunvelline;5
+356;fu_state_area_1540;Yasnodrien;1540;Yasnodrien;4
+357;fu_state_area_253;Great Calder Peak;253;Great Calder Peak;4
+358;fu_state_area_258;Gallicie;258;Gallicie;4
+359;fu_state_area_1516;Kattailsburg;1516;Kattailsburg;4
+360;fu_state_area_1049;West Greater Bundengrad;1049;West Greater Bundengrad;4
+361;fu_state_area_1441;Meowhorn;1441;Meowhorn;4
+362;fu_state_area_71;Kronkishes Enonita;71;Kronkishes Enonita;3
+363;fu_state_area_1529;Upper Fodaria 15;1529;Upper Fodaria 15;4
+364;fu_state_area_917;Temenice;917;Temenice;4
+365;fu_state_area_1534;Far West Fodaria 5;1534;Far West Fodaria 5;4
+366;fu_state_area_983;Feedwater;983;Feedwater;4
+367;fu_state_area_588;Katzi;588;Katzi;3
+368;fu_state_area_151;Stollparche;151;Stollparche;4
+369;fu_state_area_358;Baltiquie Inferieure;358;Baltiquie Inferieure;4
+370;fu_state_area_961;Northern Solstice;961;Northern Solstice;4
+371;fu_state_area_1333;Near East Lokout;1333;Near East Lokout;5
+372;fu_state_area_1437;Solagnaw;1437;Solagnaw;3
+373;fu_state_area_922;Trondelague;922;Trondelague;4
+374;fu_state_area_113;Neukitberg;113;Neukitberg;4
+375;fu_state_area_231;Kikol;231;Kikol;4
+376;fu_state_area_242;Meowbrucken;242;Meowbrucken;3
+377;fu_state_area_908;Crngrad Megapolis;908;Crngrad Megapolis;4
+378;fu_state_area_1418;Praw;1418;Praw;5
+379;fu_state_area_1001;Vhi Sobhanas;1001;Vhi Sobhanas;4
+380;fu_state_area_662;Wolfenstadt;662;Wolfenstadt;3
+381;fu_state_area_1000;Ad Khagaroth;1000;Ad Khagaroth;4
+382;fu_state_area_803;Neu-Meo;803;Neu-Meo;3
+383;fu_state_area_1513;South Fodaria 14;1513;South Fodaria 14;3
+384;fu_state_area_954;Reijen;954;Reijen;4
+385;fu_state_area_1377;Racogna;1377;Racogna;4
+386;fu_state_area_1431;Tartaryn;1431;Tartaryn;4
+387;fu_state_area_955;Paol;955;Paol;4
+388;fu_state_area_1375;Amburbia;1375;Amburbia;4
+389;fu_state_area_942;Droogenstadt;942;Droogenstadt;4
+390;fu_state_area_737;Cularie;737;Cularie;4
+391;fu_state_area_308;Massif Roqual;308;Massif Roqual;4
+392;fu_state_area_1487;Shranglien;1487;Shranglien;4
+393;fu_state_area_1468;Crimmatz;1468;Crimmatz;5
+394;fu_state_area_371;Greater Thamplatin Area;371;Greater Thamplatin Area;4
+395;fu_state_area_1426;Jeulie;1426;Jeulie;3
+396;fu_state_area_663;Felineheim;663;Felineheim;4
+397;fu_state_area_994;Dol Viiras;994;Dol Viiras;4
+398;fu_state_area_494;Morel Falls;494;Morel Falls;4
+399;fu_state_area_228;Tartaryn;228;Tartaryn;4
+400;fu_state_area_1539;Meowzan;1539;Meowzan;4
+401;fu_state_area_845;Lomo;845;Lomo;4
+402;fu_state_area_1478;Magnitokronk;1478;Magnitokronk;4
+403;fu_state_area_1015;Ravkan Range;1015;Ravkan Range;5
+404;fu_state_area_307;Bocérie;307;Bocérie;4
+405;fu_state_area_474;Ost-Meonelux;474;Ost-Meonelux;4
+406;fu_state_area_236;Hubschestadt;236;Hubschestadt;4
+407;fu_state_area_419;West Southport;419;West Southport;4
+408;fu_state_area_560;Kibbleshores;560;Kibbleshores;4
+409;fu_state_area_760;Covebun City;760;Covebun City;4
+410;fu_state_area_1411;Kittville;1411;Kittville;4
+411;fu_state_area_220;Himezulte;220;Himezulte;4
+412;fu_state_area_1501;South Kronkia 2;1501;South Kronkia 2;4
+413;fu_state_area_536;Katzbrucken;536;Katzbrucken;5
+414;fu_state_area_1517;Upper Kronkia 3;1517;Upper Kronkia 3;4
+415;fu_state_area_43;Meonelux;43;Meonelux;4
+416;fu_state_area_1480;Chawrnihiv;1480;Chawrnihiv;5
+417;fu_state_area_643;Parat;643;Parat;4
+418;fu_state_area_665;Yarnfelde;665;Yarnfelde;5
+419;fu_state_area_537;Stefanstadt;537;Stefanstadt;4
+420;fu_state_area_368;Central Hushed Forest;368;Central Hushed Forest;4
+421;fu_state_area_401;Firemaster Union;401;Firemaster Union;5
+422;fu_state_area_67;Drugirafa;67;Drugirafa;4
+423;fu_state_area_226;Volgokronk;226;Volgokronk;5
+424;fu_state_area_1002;Gvin Minhaz;1002;Gvin Minhaz;4
+425;fu_state_area_1047;East Ost-Hydronien;1047;East Ost-Hydronien;4
+426;fu_state_area_590;Meownisberg;590;Meownisberg;4
+427;fu_state_area_1152;North Ezicania Pass;1152;North Ezicania Pass;4
+428;fu_state_area_566;Boogenstadt;566;Boogenstadt;4
+429;fu_state_area_169;Lower Catalia;169;Lower Catalia;4
+430;fu_state_area_1479;Salamandria;1479;Salamandria;4
+431;fu_state_area_580;Catsden;580;Catsden;4
+432;fu_state_area_925;Roghalande;925;Roghalande;4
+433;fu_state_area_52;Or Tigas;52;Or Tigas;4
+434;fu_state_area_1085;Mossxor;1085;Mossxor;3
+435;fu_state_area_664;Felinesiedlung;664;Felinesiedlung;5
+436;fu_state_area_1525;South Fodaria 11;1525;South Fodaria 11;4
+437;fu_state_area_576;Fort Keneexno;576;Fort Keneexno;4
+438;fu_state_area_1497;Far East Praw 13;1497;Far East Praw 13;4
+439;fu_state_area_208;Oshian Holts;208;Oshian Holts;5
+440;fu_state_area_273;Protondria;273;Protondria;5
+441;fu_state_area_758;Bunork;758;Bunork;4
+442;fu_state_area_1515;West Temperia 1;1515;West Temperia 1;4
+443;fu_state_area_581;Kiat;581;Kiat;4
+444;fu_state_area_1532;Yiarophila;1532;Yiarophila;4
+445;fu_state_area_489;Neubelkan;489;Neubelkan;4
+446;fu_state_area_1419;Kibblesben;1419;Kibblesben;5
+447;fu_state_area_844;Wafburg;844;Wafburg;4
+448;fu_state_area_1473;Areline;1473;Areline;4
+449;fu_state_area_1039;Yasnbrask;1039;Yasnbrask;4
+450;fu_state_area_591;Sud-Himezulte;591;Sud-Himezulte;3
+451;fu_state_area_294;Greenwater;294;Greenwater;4
+452;fu_state_area_851;Brongon Gede;851;Brongon Gede;4
+453;fu_state_area_98;Felinda;98;Felinda;4
+454;fu_state_area_1316;Shripenstadt;1316;Shripenstadt;4
+455;fu_state_area_1373;Tartaphrogia;1373;Tartaphrogia;4
+456;fu_state_area_110;Meownich;110;Meownich;5
+457;fu_state_area_634;Samaruff;634;Samaruff;4
+458;fu_state_area_1127;Colliery;1127;Colliery;4
+459;fu_state_area_574;Aeries;574;Aeries;5
+460;fu_state_area_65;Mimia;65;Mimia;4
+461;fu_state_area_921;Floslo;921;Floslo;4
+462;fu_state_area_309;Rozzmione;309;Rozzmione;4
+463;fu_state_area_738;Beurrioude;738;Beurrioude;4
+464;fu_state_area_893;Xaerauvouk;893;Xaerauvouk;4
+465;fu_state_area_1126;Frusville;1126;Frusville;4
+466;fu_state_area_3;Fleupport;3;Fleupport;4
+467;fu_state_area_262;Orient Kapus;262;Orient Kapus;4
+468;fu_state_area_433;East Tartaphrogia;433;East Tartaphrogia;5
+469;fu_state_area_219;Fauraize;219;Fauraize;4
+470;fu_state_area_176;Opusetksi;176;Opusetksi;4
+471;fu_state_area_623;Kandlejhood;623;Kandlejhood;4
+472;fu_state_area_116;Mewzley;116;Mewzley;4
+473;fu_state_area_650;Herzkat;650;Herzkat;5
+474;fu_state_area_135;Catka;135;Catka;6
+475;fu_state_area_909;Santepij;909;Santepij;4
+476;fu_state_area_572;Fort Nxeen;572;Fort Nxeen;5
+477;fu_state_area_600;Potkin;600;Potkin;5
+478;fu_state_area_807;San Foglia;807;San Foglia;4
+479;fu_state_area_941;Nord-Droogien;941;Nord-Droogien;3
+480;fu_state_area_125;South Lokout;125;South Lokout;4
+481;fu_state_area_54;Deaktiviertekamera;54;Deaktiviertekamera;5
+482;fu_state_area_850;Umtraha;850;Umtraha;4
+483;fu_state_area_1339;Far West Lokout;1339;Far West Lokout;4
+484;fu_state_area_1361;Northern Heart Mountains;1361;Northern Heart Mountains;4
+485;fu_state_area_1481;Saltlarenstadt;1481;Saltlarenstadt;4
+486;fu_state_area_639;Dobrushund;639;Dobrushund;4
+487;fu_state_area_1364;Marossqenardhu;1364;Marossqenardhu;5
+488;fu_state_area_1305;Naval Hub;1305;Naval Hub;4
+489;fu_state_area_1226;White Town;1226;White Town;5
+490;fu_state_area_998;Gvin Tharun;998;Gvin Tharun;4
+491;fu_state_area_1209;East Dourouhtei;1209;East Dourouhtei;4
+492;fu_state_area_1477;South Kronkia 8;1477;South Kronkia 8;5
+493;fu_state_area_933;Bassaitte;933;Bassaitte;4
+494;fu_state_area_1014;Candoburg;1014;Candoburg;4
+495;fu_state_area_507;Fishtun;507;Fishtun;5
+496;fu_state_area_512;Ataropolis;512;Ataropolis;4
+497;fu_state_area_950;Gortian Prairie;950;Gortian Prairie;4
+498;fu_state_area_1115;Kribble;1115;Kribble;5
+499;fu_state_area_1420;Zentralpraw;1420;Zentralpraw;4
+500;fu_state_area_337;Smurden;337;Smurden;4
+501;fu_state_area_1446;Eibel;1446;Eibel;5
+502;fu_state_area_1512;North Fodaria 13;1512;North Fodaria 13;4
+503;fu_state_area_1414;Perawgen;1414;Perawgen;5
+504;fu_state_area_849;Yeryk;849;Yeryk;4
+505;fu_state_area_23;Meowgeve;23;Meowgeve;4
+506;fu_state_area_281;Velardennes;281;Velardennes;5
+507;fu_state_area_752;Armhop;752;Armhop;5
+508;fu_state_area_1041;Saltlarenstadt;1041;Saltlarenstadt;4
+509;fu_state_area_550;Kattnecy;550;Kattnecy;5
+510;fu_state_area_1476;North Kronkia 7;1476;North Kronkia 7;4
+511;fu_state_area_808;Costadipesci;808;Costadipesci;5
+512;fu_state_area_635;Barkzyr;635;Barkzyr;4
+513;fu_state_area_523;Katzkat;523;Katzkat;5
+514;fu_state_area_651;Stronberg;651;Stronberg;5
+515;fu_state_area_1046;Nordkraben;1046;Nordkraben;5
+516;fu_state_area_582;Westen-Tigar;582;Westen-Tigar;4
+517;fu_state_area_354;Datlof;354;Datlof;4
+518;fu_state_area_267;Khatshaeta;267;Khatshaeta;5
+519;fu_state_area_514;Solkatzia;514;Solkatzia;4
+520;fu_state_area_724;Vasiekoi;724;Vasiekoi;6
+521;fu_state_area_1190;Varhk;1190;Varhk;4
+522;fu_state_area_1328;Novoyinjaya;1328;Novoyinjaya;4
+523;fu_state_area_144;South Cize;144;South Cize;4
+524;fu_state_area_1291;Quantus Hub;1291;Quantus Hub;4
+525;fu_state_area_491;Srednjezemland;491;Srednjezemland;5
+526;fu_state_area_1505;Myriad;1505;Myriad;5
+527;fu_state_area_366;Grove Bounds;366;Grove Bounds;4
+528;fu_state_area_1335;East Lokout;1335;East Lokout;4
+529;fu_state_area_1500;North Kronkia 1;1500;North Kronkia 1;4
+530;fu_state_area_794;Kàpagroek;794;Kàpagroek;4
+531;fu_state_area_81;Near North Flerk;81;Near North Flerk;6
+532;fu_state_area_106;Kittenia;106;Kittenia;5
+533;fu_state_area_1338;Moushruque;1338;Moushruque;5
+534;fu_state_area_1408;Auralia;1408;Auralia;4
+535;fu_state_area_124;Philroen;124;Philroen;4
+536;fu_state_area_1537;Alabaster;1537;Alabaster;4
+537;fu_state_area_1037;South Crabby Shores;1037;South Crabby Shores;4
+538;fu_state_area_646;Meowntreal;646;Meowntreal;5
+539;fu_state_area_1169;Rustinia;1169;Rustinia;5
+540;fu_state_area_1256;Griffinville;1256;Griffinville;5
+541;fu_state_area_982;Bramballia;982;Bramballia;3
+542;fu_state_area_1494;Lower Amphibia 10;1494;Lower Amphibia 10;4
+543;fu_state_area_154;Brewtun;154;Brewtun;4
+544;fu_state_area_299;Dofusbourg;299;Dofusbourg;5
+545;fu_state_area_542;Kibblebaden;542;Kibblebaden;6
+546;fu_state_area_656;Kokoblentz;656;Kokoblentz;4
+547;fu_state_area_136;Western Grand Hills;136;Western Grand Hills;4
+548;fu_state_area_775;Fiftybun;775;Fiftybun;5
+549;fu_state_area_1212;Medoughlin;1212;Medoughlin;5
+550;fu_state_area_526;West Meterhills;526;West Meterhills;5
+551;fu_state_area_633;Wolfgorod;633;Wolfgorod;5
+552;fu_state_area_944;Novoshia;944;Novoshia;5
+553;fu_state_area_1492;Central Amphibia 8;1492;Central Amphibia 8;4
+554;fu_state_area_493;Banaplanina;493;Banaplanina;5
+555;fu_state_area_1469;Gepardenhausen;1469;Gepardenhausen;4
+556;fu_state_area_47;Clawrence;47;Clawrence;4
+557;fu_state_area_506;Saru;506;Saru;5
+558;fu_state_area_1424;Far South Macafia 15;1424;Far South Macafia 15;6
+559;fu_state_area_548;Lionlakstadt;548;Lionlakstadt;5
+560;fu_state_area_627;Minskbark;627;Minskbark;5
+561;fu_state_area_557;Katzberg;557;Katzberg;4
+562;fu_state_area_291;Taevuirae;291;Taevuirae;5
+563;fu_state_area_510;Liaküste;510;Liaküste;5
+564;fu_state_area_57;Mleow;57;Mleow;4
+565;fu_state_area_563;Celstor;563;Celstor;4
+566;fu_state_area_579;Konnon;579;Konnon;5
+567;fu_state_area_799;Septentri;799;Septentri;5
+568;fu_state_area_785;Bundor;785;Bundor;5
+569;fu_state_area_128;Magnitokronsk;128;Magnitokronsk;4
+570;fu_state_area_931;Tihanian Woodlands;931;Tihanian Woodlands;5
+571;fu_state_area_658;Leipig;658;Leipig;5
+572;fu_state_area_439;East Tundrabor;439;East Tundrabor;5
+573;fu_state_area_815;Castellaquercia;815;Castellaquercia;5
+574;fu_state_area_930;Zentraloshien;930;Zentraloshien;5
+575;fu_state_area_1376;Pandezia;1376;Pandezia;6
+576;fu_state_area_1244;South Central Ezicania;1244;South Central Ezicania;4
+577;fu_state_area_1055;South Yinjetopol;1055;South Yinjetopol;4
+578;fu_state_area_913;North Arlenisk;913;North Arlenisk;4
+579;fu_state_area_575;Exene;575;Exene;5
+580;fu_state_area_203;Yijnov;203;Yijnov;4
+581;fu_state_area_105;Sankt Krokersburg;105;Sankt Krokersburg;5
+582;fu_state_area_786;Morghare;786;Morghare;5
+583;fu_state_area_571;Point Ene;571;Point Ene;4
+584;fu_state_area_1409;Kittenia;1409;Kittenia;5
+585;fu_state_area_1330;Far North Lokout 3;1330;Far North Lokout 3;5
+586;fu_state_area_910;Uststadt;910;Uststadt;5
+587;fu_state_area_121;Struken;121;Struken;5
+588;fu_state_area_367;Near West Tipanum;367;Near West Tipanum;5
+589;fu_state_area_951;Cape Novi;951;Cape Novi;5
+590;fu_state_area_295;Latarada;295;Latarada;6
+591;fu_state_area_306;Pouldrezique;306;Pouldrezique;5
+592;fu_state_area_1530;Lower Amphibia 1;1530;Lower Amphibia 1;5
+593;fu_state_area_918;Belkansavet;918;Belkansavet;5
+594;fu_state_area_1172;Tsayan Mounts;1172;Tsayan Mounts;4
+595;fu_state_area_1554;Lower Catalia 10;1554;Lower Catalia 10;5
+596;fu_state_area_743;Aurlean;743;Aurlean;4
+597;fu_state_area_907;Nerva;907;Nerva;5
+598;fu_state_area_891;Aelveahein;891;Aelveahein;4
+599;fu_state_area_1036;Ezikyinjatz;1036;Ezikyinjatz;5
+600;fu_state_area_1493;Upper Amphibia 9;1493;Upper Amphibia 9;5
+601;fu_state_area_521;Ostmeopin;521;Ostmeopin;4
+602;fu_state_area_980;Bramble Range;980;Bramble Range;5
+603;fu_state_area_126;Bojnika Coast;126;Bojnika Coast;5
+604;fu_state_area_1146;Far West Great Hill 3;1146;Far West Great Hill 3;5
+605;fu_state_area_1511;Near Fodaria 12;1511;Near Fodaria 12;5
+606;fu_state_area_615;Lunre;615;Lunre;7
+607;fu_state_area_936;Dhalmaciti;936;Dhalmaciti;4
+608;fu_state_area_397;Southwestern Marshes;397;Southwestern Marshes;5
+609;fu_state_area_943;New Novarat;943;New Novarat;4
+610;fu_state_area_21;Tarrakis;21;Tarrakis;5
+611;fu_state_area_609;Valaros;609;Valaros;5
+612;fu_state_area_1182;Ehw Fauah;1182;Ehw Fauah;6
+613;fu_state_area_551;Mewport;551;Mewport;4
+614;fu_state_area_1331;East Puffy Island;1331;East Puffy Island;4
+615;fu_state_area_1372;Northern Melkhiigra;1372;Northern Melkhiigra;5
+616;fu_state_area_1187;San-Sebakestian;1187;San-Sebakestian;4
+617;fu_state_area_1531;Pincarograd;1531;Pincarograd;5
+618;fu_state_area_1267;North Northern Ezicania;1267;North Northern Ezicania;4
+619;fu_state_area_1520;Far South Amphibia 6;1520;Far South Amphibia 6;6
+620;fu_state_area_416;Great Gap;416;Great Gap;4
+621;fu_state_area_762;Lhara;762;Lhara;5
+622;fu_state_area_277;Southern Chok;277;Southern Chok;6
+623;fu_state_area_598;Kattailwald;598;Kattailwald;4
+624;fu_state_area_852;Imakani;852;Imakani;5
+625;fu_state_area_1176;Preballens;1176;Preballens;5
+626;fu_state_area_49;Ooooex;49;Ooooex;5
+627;fu_state_area_1094;Far North Lokout;1094;Far North Lokout;5
+628;fu_state_area_1045;Magnitokronsk;1045;Magnitokronsk;6
+629;fu_state_area_530;Mau-Vegas;530;Mau-Vegas;4
+630;fu_state_area_1336;Mushbarraz;1336;Mushbarraz;5
+631;fu_state_area_561;Brambaceg;561;Brambaceg;5
+632;fu_state_area_196;Siaufokisj;196;Siaufokisj;4
+633;fu_state_area_269;Pegasia;269;Pegasia;4
+634;fu_state_area_486;Meoshores;486;Meoshores;5
+635;fu_state_area_244;Dominiontracks;244;Dominiontracks;6
+636;fu_state_area_948;New Dogeheit;948;New Dogeheit;6
+637;fu_state_area_1139;West Great Hill;1139;West Great Hill;6
+638;fu_state_area_82;Mount Fleather;82;Mount Fleather;5
+639;fu_state_area_919;Bojnika Mountains;919;Bojnika Mountains;5
+640;fu_state_area_1166;Jeunes-Habitants;1166;Jeunes-Habitants;4
+641;fu_state_area_1303;Naturopolis;1303;Naturopolis;5
+642;fu_state_area_1211;Mahin Geh;1211;Mahin Geh;5
+643;fu_state_area_1522;Far West Fodaria 8;1522;Far West Fodaria 8;5
+644;fu_state_area_772;Carot Springs;772;Carot Springs;6
+645;fu_state_area_1103;Makaktun;1103;Makaktun;6
+646;fu_state_area_426;Eastern Hushed Forest;426;Eastern Hushed Forest;4
+647;fu_state_area_1195;S'jet;1195;S'jet;5
+648;fu_state_area_1523;Karksovk;1523;Karksovk;4
+649;fu_state_area_1028;Grove Plains;1028;Grove Plains;5
+650;fu_state_area_1407;Neu-Meowleans;1407;Neu-Meowleans;5
+651;fu_state_area_1286;Leapbound;1286;Leapbound;5
+652;fu_state_area_122;Lynxsi;122;Lynxsi;4
+653;fu_state_area_647;Luxempaw;647;Luxempaw;5
+654;fu_state_area_937;Bobbian Plains;937;Bobbian Plains;5
+655;fu_state_area_1279;West Euenum;1279;West Euenum;5
+656;fu_state_area_920;Northern Nerva;920;Northern Nerva;5
+657;fu_state_area_246;Neunovien Hills;246;Neunovien Hills;6
+658;fu_state_area_804;Nouvelle Yorke;804;Nouvelle Yorke;5
+659;fu_state_area_111;Mewdar;111;Mewdar;5
+660;fu_state_area_934;Kroassiciti;934;Kroassiciti;5
+661;fu_state_area_485;Pawscow;485;Pawscow;6
+662;fu_state_area_1417;Rat;1417;Rat;5
+663;fu_state_area_259;Inner Novoshia;259;Inner Novoshia;5
+664;fu_state_area_292;Poitouamie;292;Poitouamie;5
+665;fu_state_area_979;The Dish;979;The Dish;5
+666;fu_state_area_1258;Big Rock;1258;Big Rock;6
+667;fu_state_area_99;Mirbel;99;Mirbel;5
+668;fu_state_area_123;Waimern;123;Waimern;6
+669;fu_state_area_630;Cutelogne;630;Cutelogne;5
+670;fu_state_area_1270;Ranagrad;1270;Ranagrad;6
+671;fu_state_area_722;Midi-Viennadie;722;Midi-Viennadie;6
+672;fu_state_area_963;Southern Hervus;963;Southern Hervus;4
+673;fu_state_area_726;Galloping Crossing;726;Galloping Crossing;5
+674;fu_state_area_1510;Luzienskatz;1510;Luzienskatz;6
+675;fu_state_area_1332;Tripuffli;1332;Tripuffli;5
+676;fu_state_area_1310;Far West Southport;1310;Far West Southport;5
+677;fu_state_area_1344;Far East Lokout 5;1344;Far East Lokout 5;5
+678;fu_state_area_1053;Genevekt;1053;Genevekt;5
+679;fu_state_area_1356;Novmere;1356;Novmere;5
+680;fu_state_area_659;Challe;659;Challe;5
+681;fu_state_area_617;Teragaron;617;Teragaron;5
+682;fu_state_area_234;Aveibrigado;234;Aveibrigado;5
+683;fu_state_area_519;Grönawgen;519;Grönawgen;5
+684;fu_state_area_217;West Novoyinjaya;217;West Novoyinjaya;5
+685;fu_state_area_1009;Eastern Shroom Hills;1009;Eastern Shroom Hills;6
+686;fu_state_area_1080;Far East Lokout 10;1080;Far East Lokout 10;5
+687;fu_state_area_1445;Saltille;1445;Saltille;5
+688;fu_state_area_1314;Centragorz;1314;Centragorz;5
+689;fu_state_area_1484;Kokodesa;1484;Kokodesa;5
+690;fu_state_area_1533;Humusenski;1533;Humusenski;5
+691;fu_state_area_490;Blasteropolis;490;Blasteropolis;5
+692;fu_state_area_423;Near South Harelene;423;Near South Harelene;5
+693;fu_state_area_168;Catburg;168;Catburg;5
+694;fu_state_area_1318;South Ezikyinjatz;1318;South Ezikyinjatz;5
+695;fu_state_area_133;Meterhills;133;Meterhills;4
+696;fu_state_area_642;Carbarktsonnitz;642;Carbarktsonnitz;5
+697;fu_state_area_90;Elowia;90;Elowia;5
+698;fu_state_area_282;Kattailhain;282;Kattailhain;5
+699;fu_state_area_1067;Western Broukburn;1067;Western Broukburn;5
+700;fu_state_area_1129;Nibamt;1129;Nibamt;5
+701;fu_state_area_1326;Malyrali;1326;Malyrali;5
+702;fu_state_area_278;Moussie;278;Moussie;5
+703;fu_state_area_834;Purriland;834;Purriland;6
+704;fu_state_area_1438;Meadrech;1438;Meadrech;5
+705;fu_state_area_444;Extreme Ridges;444;Extreme Ridges;5
+706;fu_state_area_959;Daslai;959;Daslai;6
+707;fu_state_area_178;Flusojdina;178;Flusojdina;5
+708;fu_state_area_629;Grodnogrowl;629;Grodnogrowl;5
+709;fu_state_area_1012;Western Shroom Hills;1012;Western Shroom Hills;5
+710;fu_state_area_482;Sankt Mikhailsburg;482;Sankt Mikhailsburg;6
+711;fu_state_area_1550;East Fodaria 6;1550;East Fodaria 6;5
+712;fu_state_area_1029;Millennial Frontier;1029;Millennial Frontier;5
+713;fu_state_area_1048;Praeliumen;1048;Praeliumen;5
+714;fu_state_area_1221;South Svitankovia;1221;South Svitankovia;5
+715;fu_state_area_357;Tenetianen;357;Tenetianen;6
+716;fu_state_area_522;Altestadt;522;Altestadt;5
+717;fu_state_area_1229;Honelmyra;1229;Honelmyra;5
+718;fu_state_area_953;Shar;953;Shar;6
+719;fu_state_area_1272;Tsarigrad;1272;Tsarigrad;5
+720;fu_state_area_1413;Purrarienstadt;1413;Purrarienstadt;6
+721;fu_state_area_776;Bunfast;776;Bunfast;5
+722;fu_state_area_511;Stri;511;Stri;5
+723;fu_state_area_1254;North Flerk;1254;North Flerk;5
+724;fu_state_area_252;South Western New Kastra;252;South Western New Kastra;5
+725;fu_state_area_254;Mewlsass;254;Mewlsass;5
+726;fu_state_area_190;Katezic;190;Katezic;5
+727;fu_state_area_1010;Ost-Kattailwald;1010;Ost-Kattailwald;5
+728;fu_state_area_1231;East Bearlin;1231;East Bearlin;7
+729;fu_state_area_1337;Yanbasidi;1337;Yanbasidi;6
+730;fu_state_area_153;Lyuin;153;Lyuin;5
+731;fu_state_area_1257;Summerdale;1257;Summerdale;7
+732;fu_state_area_478;Barkenbadden;478;Barkenbadden;5
+733;fu_state_area_540;Kittensdorf;540;Kittensdorf;5
+734;fu_state_area_923;Rossevanejt;923;Rossevanejt;5
+735;fu_state_area_76;Crabby Shores;76;Crabby Shores;5
+736;fu_state_area_1035;Kronkhanghelsk;1035;Kronkhanghelsk;5
+737;fu_state_area_344;Watermaster Domain;344;Watermaster Domain;6
+738;fu_state_area_1486;Far West Fodaria 2;1486;Far West Fodaria 2;6
+739;fu_state_area_255;Pferdwaldgebiet;255;Pferdwaldgebiet;6
+740;fu_state_area_1430;Scratchausen;1430;Scratchausen;6
+741;fu_state_area_616;Pawcegi;616;Pawcegi;5
+742;fu_state_area_1193;Muffintilla;1193;Muffintilla;6
+743;fu_state_area_520;Elowineapolis;520;Elowineapolis;5
+744;fu_state_area_641;Tailgorod;641;Tailgorod;5
+745;fu_state_area_1123;Ventown;1123;Ventown;5
+746;fu_state_area_1266;Near East Northern Ezicania;1266;Near East Northern Ezicania;6
+747;fu_state_area_843;Parachute;843;Parachute;7
+748;fu_state_area_1359;Armealnia;1359;Armealnia;6
+749;fu_state_area_728;High Hill;728;High Hill;5
+750;fu_state_area_473;Westpaw;473;Westpaw;5
+751;fu_state_area_822;Sagespire;822;Sagespire;5
+752;fu_state_area_736;Moulinet;736;Moulinet;5
+753;fu_state_area_413;West Tipanum;413;West Tipanum;6
+754;fu_state_area_480;Barkmonts;480;Barkmonts;5
+755;fu_state_area_939;Kisastrat;939;Kisastrat;6
+756;fu_state_area_938;Heimlichstaat;938;Heimlichstaat;5
+757;fu_state_area_1489;Crastoust;1489;Crastoust;6
+758;fu_state_area_628;Brestbone;628;Brestbone;5
+759;fu_state_area_274;Buyrity;274;Buyrity;5
+760;fu_state_area_227;Yinjetopol;227;Yinjetopol;6
+761;fu_state_area_614;Varinka;614;Varinka;5
+762;fu_state_area_104;Katzhaus;104;Katzhaus;5
+763;fu_state_area_1351;Batosani;1351;Batosani;5
+764;fu_state_area_165;Iorn;165;Iorn;6
+765;fu_state_area_816;Foresta Grande;816;Foresta Grande;5
+766;fu_state_area_1250;Southern Svitanok Desert;1250;Southern Svitanok Desert;5
+767;fu_state_area_603;Meowmeow;603;Meowmeow;6
+768;fu_state_area_723;Illiberie;723;Illiberie;5
+769;fu_state_area_97;Kittyshores;97;Kittyshores;5
+770;fu_state_area_1365;Yinjite Forest;1365;Yinjite Forest;7
+771;fu_state_area_319;Obscurie;319;Obscurie;5
+772;fu_state_area_1242;Funghrène;1242;Funghrène;6
+773;fu_state_area_1255;Honey Pass;1255;Honey Pass;5
+774;fu_state_area_41;Pouchkintton;41;Pouchkintton;6
+775;fu_state_area_132;Lionsbach;132;Lionsbach;6
+776;fu_state_area_350;Beauparc;350;Beauparc;5
+777;fu_state_area_782;Shimmering Hills;782;Shimmering Hills;6
+778;fu_state_area_1119;Katzburg;1119;Katzburg;6
+779;fu_state_area_1186;Granajón;1186;Granajón;5
+780;fu_state_area_173;Lionsburg;173;Lionsburg;5
+781;fu_state_area_531;Purrton;531;Purrton;5
+782;fu_state_area_410;Arctic Shores;410;Arctic Shores;6
+783;fu_state_area_1406;Elteriak;1406;Elteriak;5
+784;fu_state_area_1089;Far South Lokout;1089;Far South Lokout;6
+785;fu_state_area_513;Kibblesplein;513;Kibblesplein;6
+786;fu_state_area_1545;Yhabarovsk;1545;Yhabarovsk;6
+787;fu_state_area_284;Solemom;284;Solemom;5
+788;fu_state_area_660;Chantaw;660;Chantaw;5
+789;fu_state_area_1181;Koasski;1181;Koasski;6
+790;fu_state_area_351;Shingia;351;Shingia;5
+791;fu_state_area_1179;Potro;1179;Potro;6
+792;fu_state_area_778;Hopping Meadows;778;Hopping Meadows;6
+793;fu_state_area_432;Plavetan Groves;432;Plavetan Groves;5
+794;fu_state_area_764;Buyantse;764;Buyantse;6
+795;fu_state_area_978;Tundrabor;978;Tundrabor;6
+796;fu_state_area_1032;Upper Vasmar Ridge;1032;Upper Vasmar Ridge;6
+797;fu_state_area_1180;Rodridough;1180;Rodridough;6
+798;fu_state_area_1485;Far East Fodaria 1;1485;Far East Fodaria 1;6
+799;fu_state_area_492;Ost-Pawstion;492;Ost-Pawstion;6
+800;fu_state_area_1360;Baguetta;1360;Baguetta;6
+801;fu_state_area_101;Near North Western Ejac;101;Near North Western Ejac;6
+802;fu_state_area_89;Stronya;89;Stronya;7
+803;fu_state_area_718;Owaeville;718;Owaeville;6
+804;fu_state_area_1263;Near North Northern Heart Mountains;1263;Near North Northern Heart Mountains;6
+805;fu_state_area_529;Grossgato;529;Grossgato;6
+806;fu_state_area_265;Gallopia;265;Gallopia;6
+807;fu_state_area_1214;Eulyssian Interfluve;1214;Eulyssian Interfluve;6
+808;fu_state_area_1153;Far West Southern Stollparche 4;1153;Far West Southern Stollparche 4;6
+809;fu_state_area_1038;Humusenski;1038;Humusenski;6
+810;fu_state_area_470;Mediamus;470;Mediamus;7
+811;fu_state_area_631;Jimmygorod;631;Jimmygorod;6
+812;fu_state_area_757;Botetown;757;Botetown;6
+813;fu_state_area_400;East Craiovetzi;400;East Craiovetzi;6
+814;fu_state_area_1168;Paysages;1168;Paysages;7
+815;fu_state_area_345;Western Novhurst;345;Western Novhurst;6
+816;fu_state_area_607;Ajax;607;Ajax;7
+817;fu_state_area_727;Shady Creek;727;Shady Creek;6
+818;fu_state_area_1185;Toledough;1185;Toledough;7
+819;fu_state_area_515;Atarstadt;515;Atarstadt;6
+820;fu_state_area_131;Grüyettburg;131;Grüyettburg;6
+821;fu_state_area_1052;Krokodil;1052;Krokodil;5
+822;fu_state_area_214;Beownat;214;Beownat;6
+823;fu_state_area_1301;South Infernum's Castle;1301;South Infernum's Castle;7
+824;fu_state_area_759;Bunrry;759;Bunrry;6
+825;fu_state_area_901;Near South Cize;901;Near South Cize;5
+826;fu_state_area_147;Neu-Winston;147;Neu-Winston;6
+827;fu_state_area_1327;Cancrigrad;1327;Cancrigrad;6
+828;fu_state_area_285;Démotagne;285;Démotagne;5
+829;fu_state_area_149;Kijovt;149;Kijovt;6
+830;fu_state_area_1149;Far East Monke Slopes;1149;Far East Monke Slopes;6
+831;fu_state_area_496;Meowfelde;496;Meowfelde;6
+832;fu_state_area_198;Southern Stollparche;198;Southern Stollparche;5
+833;fu_state_area_1114;Miestan;1114;Miestan;5
+834;fu_state_area_638;Blasterburg;638;Blasterburg;6
+835;fu_state_area_427;Near East Irkentia;427;Near East Irkentia;6
+836;fu_state_area_1137;Queensberg;1137;Queensberg;5
+837;fu_state_area_744;Saumme;744;Saumme;6
+838;fu_state_area_322;Zharr Station;322;Zharr Station;6
+839;fu_state_area_554;Meowcerne;554;Meowcerne;7
+840;fu_state_area_1252;South Flerk;1252;South Flerk;6
+841;fu_state_area_1174;Bragallet;1174;Bragallet;6
+842;fu_state_area_1235;Far North Northern Heart Mountains 3;1235;Far North Northern Heart Mountains 3;6
+843;fu_state_area_257;West Plaz;257;West Plaz;6
+844;fu_state_area_374;Clawlogne;374;Clawlogne;6
+845;fu_state_area_733;Fossemontre;733;Fossemontre;6
+846;fu_state_area_156;Atarilla;156;Atarilla;6
+847;fu_state_area_618;Shromar;618;Shromar;7
+848;fu_state_area_1363;Psossqe;1363;Psossqe;6
+849;fu_state_area_729;Northern Pegasia;729;Northern Pegasia;6
+850;fu_state_area_751;Bundraford;751;Bundraford;7
+851;fu_state_area_1203;Sabadeirado;1203;Sabadeirado;6
+852;fu_state_area_1439;North Drakenburg;1439;North Drakenburg;6
+853;fu_state_area_359;Lakeside City;359;Lakeside City;7
+854;fu_state_area_640;Gomelhound;640;Gomelhound;6
+855;fu_state_area_1287;Chaparallia;1287;Chaparallia;6
+856;fu_state_area_1111;Batisoara;1111;Batisoara;6
+857;fu_state_area_1261;Fort Bear;1261;Fort Bear;7
+858;fu_state_area_1083;Far East Lokout 4;1083;Far East Lokout 4;6
+859;fu_state_area_447;Froicoubeh;447;Froicoubeh;1
+860;fu_state_area_175;Hofungi;175;Hofungi;6
+861;fu_state_area_484;Mogiluff;484;Mogiluff;6
+862;fu_state_area_1288;Copse Shores;1288;Copse Shores;7
+863;fu_state_area_53;West Western Ejac;53;West Western Ejac;6
+864;fu_state_area_503;Bloozega;503;Bloozega;6
+865;fu_state_area_163;North Plaz;163;North Plaz;6
+866;fu_state_area_194;Far West Southern Stollparche 3;194;Far West Southern Stollparche 3;6
+867;fu_state_area_1101;Monke Slopes;1101;Monke Slopes;6
+868;fu_state_area_534;Mittelmewxico;534;Mittelmewxico;6
+869;fu_state_area_497;Nhalutt;497;Nhalutt;6
+870;fu_state_area_406;Greater Bunville;406;Greater Bunville;6
+871;fu_state_area_1102;Bostroolia;1102;Bostroolia;7
+872;fu_state_area_1342;Near South Lokout;1342;Near South Lokout;7
+873;fu_state_area_329;Novari;329;Novari;6
+874;fu_state_area_926;Basquerud;926;Basquerud;6
+875;fu_state_area_636;Dogno;636;Dogno;6
+876;fu_state_area_1251;East Crabby Shores;1251;East Crabby Shores;6
+877;fu_state_area_1175;Callidus;1175;Callidus;6
+878;fu_state_area_1117;Felinenkost;1117;Felinenkost;6
+879;fu_state_area_1140;Buzzlyn;1140;Buzzlyn;7
+880;fu_state_area_1405;Mimifell;1405;Mimifell;6
+881;fu_state_area_315;Balreska;315;Balreska;6
+882;fu_state_area_621;Zuspaw;621;Zuspaw;7
+883;fu_state_area_1058;Leónduja;1058;Leónduja;6
+884;fu_state_area_1228;Port Urscyd;1228;Port Urscyd;7
+885;fu_state_area_578;Binettestadt;578;Binettestadt;7
+886;fu_state_area_471;Polatspoodle;471;Polatspoodle;7
+887;fu_state_area_546;Janglastadt;546;Janglastadt;7
+888;fu_state_area_1353;Rheilen;1353;Rheilen;7
+889;fu_state_area_311;Goaghan Steppes;311;Goaghan Steppes;6
+890;fu_state_area_924;Hopplandesk;924;Hopplandesk;6
+891;fu_state_area_103;Mewverest;103;Mewverest;6
+892;fu_state_area_524;Southeastern Grand Hills;524;Southeastern Grand Hills;6
+893;fu_state_area_1357;Novhurst;1357;Novhurst;6
+894;fu_state_area_1527;Kerm;1527;Kerm;6
+895;fu_state_area_1054;Kronmea;1054;Kronmea;7
+896;fu_state_area_1100;Bergtun;1100;Bergtun;6
+897;fu_state_area_1241;Far East Lokout 9;1241;Far East Lokout 9;6
+898;fu_state_area_140;Itchiloo;140;Itchiloo;7
+899;fu_state_area_232;Fangsani;232;Fangsani;7
+900;fu_state_area_1374;Ponedresa;1374;Ponedresa;7
+901;fu_state_area_1491;West Amphibia 7;1491;West Amphibia 7;7
+902;fu_state_area_625;Central Zuspriland;625;Central Zuspriland;6
+903;fu_state_area_1234;West Bearlin;1234;West Bearlin;8
+904;fu_state_area_435;Irkentia;435;Irkentia;6
+905;fu_state_area_216;Yinjozhizhia;216;Yinjozhizhia;6
+906;fu_state_area_1200;Churrilbao;1200;Churrilbao;6
+907;fu_state_area_1283;East Irkentia;1283;East Irkentia;6
+908;fu_state_area_1325;Great Kraksia;1325;Great Kraksia;6
+909;fu_state_area_1549;South Fodaria 5;1549;South Fodaria 5;6
+910;fu_state_area_215;Tilque;215;Tilque;7
+911;fu_state_area_395;Lily Groves;395;Lily Groves;7
+912;fu_state_area_75;Near West Flerk;75;Near West Flerk;6
+913;fu_state_area_610;Titanus;610;Titanus;7
+914;fu_state_area_842;Drillbit;842;Drillbit;7
+915;fu_state_area_1354;Eastern Novari;1354;Eastern Novari;7
+916;fu_state_area_28;Nordblasterien;28;Nordblasterien;6
+917;fu_state_area_70;Ost-Winston;70;Ost-Winston;6
+918;fu_state_area_1135;Pupalley;1135;Pupalley;7
+919;fu_state_area_353;West Dazhungli;353;West Dazhungli;7
+920;fu_state_area_719;Cocopiegne;719;Cocopiegne;7
+921;fu_state_area_143;Sanguine Hills;143;Sanguine Hills;7
+922;fu_state_area_945;Oshian Peaks;945;Oshian Peaks;7
+923;fu_state_area_1508;Far South Fodaria 9;1508;Far South Fodaria 9;6
+924;fu_state_area_769;Carotney;769;Carotney;6
+925;fu_state_area_117;Solar Valley;117;Solar Valley;6
+926;fu_state_area_928;Lake Ballatonne;928;Lake Ballatonne;6
+927;fu_state_area_957;Magnatia;957;Magnatia;6
+928;fu_state_area_317;Liliastar;317;Liliastar;5
+929;fu_state_area_421;Silal;421;Silal;7
+930;fu_state_area_1227;Bearside Lake;1227;Bearside Lake;6
+931;fu_state_area_1157;East Cize;1157;East Cize;7
+932;fu_state_area_468;Empayre;468;Empayre;7
+933;fu_state_area_504;Frosov;504;Frosov;7
+934;fu_state_area_517;Gathills;517;Gathills;6
+935;fu_state_area_418;Harelyne Magocracy;418;Harelyne Magocracy;6
+936;fu_state_area_731;Bordeleau;731;Bordeleau;7
+937;fu_state_area_927;Ballatonne Forests;927;Ballatonne Forests;7
+938;fu_state_area_1088;Shroomyad;1088;Shroomyad;7
+939;fu_state_area_1340;Far East Lokout 7;1340;Far East Lokout 7;7
+940;fu_state_area_1243;East Central Ezicania;1243;East Central Ezicania;8
+941;fu_state_area_296;Sedanne;296;Sedanne;7
+942;fu_state_area_1237;Old Bearia;1237;Old Bearia;8
+943;fu_state_area_1213;Rhayman;1213;Rhayman;6
+944;fu_state_area_1309;South Harelene;1309;South Harelene;7
+945;fu_state_area_1097;East Katezic;1097;East Katezic;8
+946;fu_state_area_300;Valledupèr;300;Valledupèr;7
+947;fu_state_area_1265;West Northern Heart Mountains;1265;West Northern Heart Mountains;6
+948;fu_state_area_1134;Near West Great Hill;1134;Near West Great Hill;7
+949;fu_state_area_139;Near East Southern Ezicania;139;Near East Southern Ezicania;7
+950;fu_state_area_323;Teksasse;323;Teksasse;6
+951;fu_state_area_10;Tiplett;10;Tiplett;7
+952;fu_state_area_107;West Northern Ezicania;107;West Northern Ezicania;7
+953;fu_state_area_1164;Marine Tranquille;1164;Marine Tranquille;6
+954;fu_state_area_1178;Lisbonbon;1178;Lisbonbon;7
+955;fu_state_area_466;Northkandle;466;Northkandle;6
+956;fu_state_area_1281;Near East The Valley;1281;Near East The Valley;6
+957;fu_state_area_461;East Meogartha;461;East Meogartha;1
+958;fu_state_area_1066;Extremar;1066;Extremar;7
+959;fu_state_area_335;Aricrest;335;Aricrest;6
+960;fu_state_area_1239;North Svitanok Ridges;1239;North Svitanok Ridges;6
+961;fu_state_area_288;Doughvila;288;Doughvila;7
+962;fu_state_area_1056;East Kobalt;1056;East Kobalt;6
+963;fu_state_area_142;Cuddlezone;142;Cuddlezone;6
+964;fu_state_area_1030;Arborian Shores;1030;Arborian Shores;6
+965;fu_state_area_1300;Krawedgory;1300;Krawedgory;7
+966;fu_state_area_956;Espen;956;Espen;6
+967;fu_state_area_796;Aqùkàr;796;Aqùkàr;7
+968;fu_state_area_1125;West Sea Beach;1125;West Sea Beach;7
+969;fu_state_area_766;Grandbuney;766;Grandbuney;8
+970;fu_state_area_472;Wintermagnet;472;Wintermagnet;7
+971;fu_state_area_632;Barkdivostok;632;Barkdivostok;7
+972;fu_state_area_1202;Burgeros;1202;Burgeros;8
+973;fu_state_area_380;Platishire;380;Platishire;7
+974;fu_state_area_1206;Jharuna;1206;Jharuna;7
+975;fu_state_area_748;Doneghare;748;Doneghare;8
+976;fu_state_area_1124;Calderi;1124;Calderi;8
+977;fu_state_area_1232;East Svitankovia;1232;East Svitankovia;7
+978;fu_state_area_1108;North Great Ape Groves;1108;North Great Ape Groves;8
+979;fu_state_area_138;Felstigerfels;138;Felstigerfels;8
+980;fu_state_area_266;Yinvastopol;266;Yinvastopol;7
+981;fu_state_area_1509;Far East Fodaria 10;1509;Far East Fodaria 10;6
+982;fu_state_area_747;Hoplin;747;Hoplin;8
+983;fu_state_area_1275;North Tipanum;1275;North Tipanum;8
+984;fu_state_area_960;Chaisen;960;Chaisen;6
+985;fu_state_area_369;Eastern Altairyu;369;Eastern Altairyu;7
+986;fu_state_area_1098;Ismhal;1098;Ismhal;8
+987;fu_state_area_771;Zhangbun;771;Zhangbun;7
+988;fu_state_area_1268;Far North Northern Heart Mountains;1268;Far North Northern Heart Mountains;7
+989;fu_state_area_1171;Eulyss Rapids;1171;Eulyss Rapids;7
+990;fu_state_area_1204;Meerut;1204;Meerut;7
+991;fu_state_area_412;Provicae;412;Provicae;7
+992;fu_state_area_1191;Sebowlia 2;1191;Sebowlia 2;6
+993;fu_state_area_289;Brekarya;289;Brekarya;7
+994;fu_state_area_1087;Near West Lokout;1087;Near West Lokout;7
+995;fu_state_area_195;Far West Great Hill;195;Far West Great Hill;8
+996;fu_state_area_360;Novanada;360;Novanada;7
+997;fu_state_area_784;Rockenbun;784;Rockenbun;5
+998;fu_state_area_784_2;Rockenbun;784;Rockenbun;4
+999;fu_state_area_460;Sebowlia;460;Sebowlia;1
+1000;fu_state_area_499;Fungarish;499;Fungarish;6
+1001;fu_state_area_4;East Infernum's Castle;4;East Infernum's Castle;8
+1002;fu_state_area_1107;North Fishtun;1107;North Fishtun;8
+1003;fu_state_area_1215;Near North Great Hill;1215;Near North Great Hill;7
+1004;fu_state_area_162;North Lokout;162;North Lokout;7
+1005;fu_state_area_250;Aderalum;250;Aderalum;8
+1006;fu_state_area_199;Boiler Town;199;Boiler Town;7
+1007;fu_state_area_1084;Far East Lokout 3;1084;Far East Lokout 3;8
+1008;fu_state_area_167;Sea Beach;167;Sea Beach;7
+1009;fu_state_area_767;Bunmal;767;Bunmal;6
+1010;fu_state_area_1143;Bumbleburg;1143;Bumbleburg;7
+1011;fu_state_area_1110;Vampstanta;1110;Vampstanta;7
+1012;fu_state_area_1216;South Yinjatzbereich;1216;South Yinjatzbereich;5
+1013;fu_state_area_1216_2;South Yinjatzbereich;1216;South Yinjatzbereich;4
+1014;fu_state_area_1276;North Lomo;1276;North Lomo;8
+1015;fu_state_area_1208;New Kumakh;1208;New Kumakh;7
+1016;fu_state_area_1147;Far East Monke Slopes 6;1147;Far East Monke Slopes 6;7
+1017;fu_state_area_1260;Riverboden;1260;Riverboden;7
+1018;fu_state_area_318;Novenna;318;Novenna;7
+1019;fu_state_area_171;Staullparche;171;Staullparche;7
+1020;fu_state_area_1057;Panplona;1057;Panplona;8
+1021;fu_state_area_1298;Near South Infernum's Castle;1298;Near South Infernum's Castle;5
+1022;fu_state_area_1298_2;Near South Infernum's Castle;1298;Near South Infernum's Castle;4
+1023;fu_state_area_1142;Bensonlak;1142;Bensonlak;7
+1024;fu_state_area_750;Adhare;750;Adhare;8
+1025;fu_state_area_355;Northern Hervus;355;Northern Hervus;7
+1026;fu_state_area_1224;East Northern Svitanok Desert;1224;East Northern Svitanok Desert;7
+1027;fu_state_area_498;Hammerhand;498;Hammerhand;8
+1028;fu_state_area_1096;Shiitofuf;1096;Shiitofuf;8
+1029;fu_state_area_981;Badrock;981;Badrock;8
+1030;fu_state_area_1271;Croakenburg;1271;Croakenburg;8
+1031;fu_state_area_1271_2;Croakenburg;1271;Croakenburg;1
+1032;fu_state_area_5;New Iantrus;5;New Iantrus;7
+1033;fu_state_area_376;Far West Tundrabor;376;Far West Tundrabor;8
+1034;fu_state_area_774;Bunoshima;774;Bunoshima;7
+1035;fu_state_area_516;Mushile;516;Mushile;8
+1036;fu_state_area_749;Southport;749;Southport;8
+1037;fu_state_area_754;Firesea;754;Firesea;8
+1038;fu_state_area_1259;New Bearia;1259;New Bearia;8
+1039;fu_state_area_33;Kelp Coasts;33;Kelp Coasts;8
+1040;fu_state_area_1329;Near North Lokout;1329;Near North Lokout;7
+1041;fu_state_area_1282;North The Valley;1282;North The Valley;7
+1042;fu_state_area_399;Bunteria;399;Bunteria;7
+1043;fu_state_area_1412;Cheet;1412;Cheet;7
+1044;fu_state_area_159;Pawstion;159;Pawstion;8
+1045;fu_state_area_606;Nitros;606;Nitros;8
+1046;fu_state_area_1120;Drybourg;1120;Drybourg;5
+1047;fu_state_area_1120_2;Drybourg;1120;Drybourg;5
+1048;fu_state_area_1285;Lalaland;1285;Lalaland;5
+1049;fu_state_area_1285_2;Lalaland;1285;Lalaland;4
+1050;fu_state_area_1222;East Yinjite Forest;1222;East Yinjite Forest;8
+1051;fu_state_area_134;Svitanok Ridges;134;Svitanok Ridges;8
+1052;fu_state_area_1249;Central Svitanok Desert;1249;Central Svitanok Desert;7
+1053;fu_state_area_549;Katnemasse;549;Katnemasse;7
+1054;fu_state_area_871;Nova Sealtle;871;Nova Sealtle;1
+1055;fu_state_area_1205;Meghaduta;1205;Meghaduta;7
+1056;fu_state_area_20;Meoneva;20;Meoneva;7
+1057;fu_state_area_310;Far East Monke Slopes 4;310;Far East Monke Slopes 4;5
+1058;fu_state_area_310_2;Far East Monke Slopes 4;310;Far East Monke Slopes 4;4
+1059;fu_state_area_781;Pohtinville;781;Pohtinville;8
+1060;fu_state_area_1072;Meagas;1072;Meagas;7
+1061;fu_state_area_230;Meowscow;230;Meowscow;7
+1062;fu_state_area_170;Jonesbearo;170;Jonesbearo;5
+1063;fu_state_area_170_2;Jonesbearo;170;Jonesbearo;4
+1064;fu_state_area_77;Flerk;77;Flerk;8
+1065;fu_state_area_1236;East Northern Heart Mountains;1236;East Northern Heart Mountains;8
+1066;fu_state_area_1248;Svitankovia;1248;Svitankovia;8
+1067;fu_state_area_1141;East Brewtun;1141;East Brewtun;7
+1068;fu_state_area_1090;North Quiveria;1090;North Quiveria;8
+1069;fu_state_area_1090_2;North Quiveria;1090;North Quiveria;1
+1070;fu_state_area_1355;Ravenna;1355;Ravenna;8
+1071;fu_state_area_793;Nòvbàrùs;793;Nòvbàrùs;8
+1072;fu_state_area_1264;East Northern Ezicania;1264;East Northern Ezicania;8
+1073;fu_state_area_1207;New Basni;1207;New Basni;7
+1074;fu_state_area_1131;Gallifly;1131;Gallifly;8
+1075;fu_state_area_330;Novastaati;330;Novastaati;8
+1076;fu_state_area_92;Northern Ezicania;92;Northern Ezicania;7
+1077;fu_state_area_1225;West Flerk;1225;West Flerk;8
+1078;fu_state_area_1352;Kambosland;1352;Kambosland;8
+1079;fu_state_area_788;Grandbun Woods;788;Grandbun Woods;7
+1080;fu_state_area_952;Vensis;952;Vensis;7
+1081;fu_state_area_533;Kleinberg;533;Kleinberg;8
+1082;fu_state_area_1177;Dazhungli;1177;Dazhungli;8
+1083;fu_state_area_1133;Hymnburg;1133;Hymnburg;8
+1084;fu_state_area_72;Western Ejac;72;Western Ejac;6
+1085;fu_state_area_72_2;Western Ejac;72;Western Ejac;3
+1086;fu_state_area_1201;South Koti;1201;South Koti;8
+1087;fu_state_area_476;Biskuitgorod;476;Biskuitgorod;5
+1088;fu_state_area_476_2;Biskuitgorod;476;Biskuitgorod;4
+1089;fu_state_area_545;Katstone;545;Katstone;8
+1090;fu_state_area_1277;West Tundrabor;1277;West Tundrabor;7
+1091;fu_state_area_1293;Zachokran;1293;Zachokran;8
+1092;fu_state_area_1069;East-Tomopolis;1069;East-Tomopolis;7
+1093;fu_state_area_391;Oltenitza;391;Oltenitza;8
+1094;fu_state_area_1292;Wschobregi;1292;Wschobregi;7
+1095;fu_state_area_129;Warm Springs;129;Warm Springs;6
+1096;fu_state_area_129_2;Warm Springs;129;Warm Springs;3
+1097;fu_state_area_500;East Great Hill;500;East Great Hill;8
+1098;fu_state_area_130;South Katezic;130;South Katezic;8
 1099;fu_state_area_422;Airmaster Sanctuaries;422;Airmaster Sanctuaries;5
 1100;fu_state_area_422_2;Airmaster Sanctuaries;422;Airmaster Sanctuaries;4
 1101;fu_state_area_753;Bungle;753;Bungle;8
@@ -1124,8 +1124,8 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 1123;fu_state_area_191_2;Roquatzia;191;Roquatzia;3
 1124;fu_state_area_172;Plaz;172;Plaz;8
 1125;fu_state_area_407;Zeeland;407;Zeeland;8
-1126;fu_state_area_184;Albatlulia;184;Albatlulia;5
-1127;fu_state_area_184_2;Albatlulia;184;Albatlulia;4
+1126;fu_state_area_184;Albatlulia;184;Albatlulia;6
+1127;fu_state_area_184_2;Albatlulia;184;Albatlulia;3
 1128;fu_state_area_1278;Near West Tundrabor;1278;Near West Tundrabor;5
 1129;fu_state_area_1278_2;Near West Tundrabor;1278;Near West Tundrabor;4
 1130;fu_state_area_114;North Western Ejac;114;North Western Ejac;5
@@ -1134,7 +1134,7 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 1133;fu_state_area_1082_2;Far East Lokout 6;1082;Far East Lokout 6;2
 1134;fu_state_area_773;Harity Falls;773;Harity Falls;5
 1135;fu_state_area_773_2;Harity Falls;773;Harity Falls;4
-1136;fu_state_area_1196;Manaan;1196;Manaan;8
+1136;fu_state_area_1196;Manaan;1196;Manaan;7
 1137;fu_state_area_1233;East Svitanok Ridges;1233;East Svitanok Ridges;5
 1138;fu_state_area_1233_2;East Svitanok Ridges;1233;East Svitanok Ridges;4
 1139;fu_state_area_1061;Bergshire;1061;Bergshire;6
@@ -1142,377 +1142,377 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 1141;fu_state_area_18;Jhaoq;18;Jhaoq;8
 1142;fu_state_area_64;Southern Lebril;64;Southern Lebril;5
 1143;fu_state_area_64_2;Southern Lebril;64;Southern Lebril;4
-1144;fu_state_area_1051;Sudkronk;1051;Sudkronk;6
-1145;fu_state_area_1051_2;Sudkronk;1051;Sudkronk;3
-1146;fu_state_area_1077;Podomia;1077;Podomia;8
-1147;fu_state_area_304;Craiovetzi;304;Craiovetzi;5
-1148;fu_state_area_304_2;Craiovetzi;304;Craiovetzi;4
-1149;fu_state_area_1148;Far East Monke Slopes 5;1148;Far East Monke Slopes 5;5
-1150;fu_state_area_1148_2;Far East Monke Slopes 5;1148;Far East Monke Slopes 5;4
-1151;fu_state_area_874;Neufennhause;874;Neufennhause;5
-1152;fu_state_area_1112;Batau;1112;Batau;5
-1153;fu_state_area_1112_2;Batau;1112;Batau;4
-1154;fu_state_area_1245;Near South Flerk;1245;Near South Flerk;8
-1155;fu_state_area_1188;Zaradoughza;1188;Zaradoughza;5
-1156;fu_state_area_1188_2;Zaradoughza;1188;Zaradoughza;5
-1157;fu_state_area_200;Krazan;200;Krazan;5
-1158;fu_state_area_200_2;Krazan;200;Krazan;4
-1159;fu_state_area_378;The Valley;378;The Valley;5
-1160;fu_state_area_378_2;The Valley;378;The Valley;4
-1161;fu_state_area_411;Earthmaster Quarries;411;Earthmaster Quarries;5
-1162;fu_state_area_411_2;Earthmaster Quarries;411;Earthmaster Quarries;4
-1163;fu_state_area_1070;Tomopolis;1070;Tomopolis;5
-1164;fu_state_area_1070_2;Tomopolis;1070;Tomopolis;5
-1165;fu_state_area_620;Tyukland;620;Tyukland;5
-1166;fu_state_area_620_2;Tyukland;620;Tyukland;4
-1167;fu_state_area_1189;Pastelona;1189;Pastelona;6
-1168;fu_state_area_1189_2;Pastelona;1189;Pastelona;4
-1169;fu_state_area_624;Daichester;624;Daichester;5
-1170;fu_state_area_624_2;Daichester;624;Daichester;5
-1171;fu_state_area_1274;North Usswaeri;1274;North Usswaeri;8
-1172;fu_state_area_783;Buntowel;783;Buntowel;5
-1173;fu_state_area_783_2;Buntowel;783;Buntowel;4
-1174;fu_state_area_853;Pidin;853;Pidin;5
-1175;fu_state_area_1210;Bakecaramangé;1210;Bakecaramangé;6
-1176;fu_state_area_1210_2;Bakecaramangé;1210;Bakecaramangé;3
-1177;fu_state_area_795;Korpeio;795;Korpeio;5
-1178;fu_state_area_795_2;Korpeio;795;Korpeio;4
-1179;fu_state_area_1247;Northern Svitanok Desert;1247;Northern Svitanok Desert;5
-1180;fu_state_area_1247_2;Northern Svitanok Desert;1247;Northern Svitanok Desert;4
-1181;fu_state_area_210;North Northern Heart Mountains;210;North Northern Heart Mountains;6
-1182;fu_state_area_210_2;North Northern Heart Mountains;210;North Northern Heart Mountains;3
-1183;fu_state_area_1217;South Northern Ezicania;1217;South Northern Ezicania;5
-1184;fu_state_area_1217_2;South Northern Ezicania;1217;South Northern Ezicania;5
-1185;fu_state_area_1223;Bearton;1223;Bearton;7
-1186;fu_state_area_1223_2;Bearton;1223;Bearton;3
-1187;fu_state_area_1170;Ballens;1170;Ballens;5
-1188;fu_state_area_1170_2;Ballens;1170;Ballens;4
-1189;fu_state_area_1306;Near West Southport;1306;Near West Southport;6
-1190;fu_state_area_1306_2;Near West Southport;1306;Near West Southport;3
-1191;fu_state_area_1109;Near North Great Ape Groves;1109;Near North Great Ape Groves;7
-1192;fu_state_area_1109_2;Near North Great Ape Groves;1109;Near North Great Ape Groves;3
-1193;fu_state_area_1296;Duzygaj;1296;Duzygaj;5
-1194;fu_state_area_1296_2;Duzygaj;1296;Duzygaj;4
-1195;fu_state_area_1280;East The Valley;1280;East The Valley;5
-1196;fu_state_area_1280_2;East The Valley;1280;East The Valley;5
-1197;fu_state_area_1136;Beeronx;1136;Beeronx;5
-1198;fu_state_area_1136_2;Beeronx;1136;Beeronx;5
-1199;fu_state_area_505;Kraiiovat;505;Kraiiovat;5
-1200;fu_state_area_505_2;Kraiiovat;505;Kraiiovat;4
-1201;fu_state_area_1240;Far West Lokout 5;1240;Far West Lokout 5;5
-1202;fu_state_area_1240_2;Far West Lokout 5;1240;Far West Lokout 5;4
-1203;fu_state_area_1302;Near West Westpaw;1302;Near West Westpaw;5
-1204;fu_state_area_1302_2;Near West Westpaw;1302;Near West Westpaw;5
-1205;fu_state_area_434;Kipu;434;Kipu;5
-1206;fu_state_area_1197;Tiir;1197;Tiir;5
-1207;fu_state_area_1197_2;Tiir;1197;Tiir;4
-1208;fu_state_area_1183;Doughnada;1183;Doughnada;5
-1209;fu_state_area_1183_2;Doughnada;1183;Doughnada;4
-1210;fu_state_area_404;Regnus;404;Regnus;5
-1211;fu_state_area_404_2;Regnus;404;Regnus;5
-1212;fu_state_area_181;Great Hill;181;Great Hill;5
-1213;fu_state_area_181_2;Great Hill;181;Great Hill;5
-1214;fu_state_area_867;Konigland;867;Konigland;2
-1215;fu_state_area_1294;West Westpaw;1294;West Westpaw;5
-1216;fu_state_area_1294_2;West Westpaw;1294;West Westpaw;5
-1217;fu_state_area_1194;Somtaaw;1194;Somtaaw;5
-1218;fu_state_area_1194_2;Somtaaw;1194;Somtaaw;5
-1219;fu_state_area_1220;Near North Northern Ezicania;1220;Near North Northern Ezicania;5
-1220;fu_state_area_1220_2;Near North Northern Ezicania;1220;Near North Northern Ezicania;5
-1221;fu_state_area_958;Lairen;958;Lairen;5
-1222;fu_state_area_958_2;Lairen;958;Lairen;4
-1223;fu_state_area_458;South Westpaw;458;South Westpaw;2
-1224;fu_state_area_457;Far South Infernum's Castle 3;457;Far South Infernum's Castle 3;2
-1225;fu_state_area_787;Hareport;787;Hareport;5
-1226;fu_state_area_787_2;Hareport;787;Hareport;5
-1227;fu_state_area_1092;West Lokout;1092;West Lokout;5
-1228;fu_state_area_1092_2;West Lokout;1092;West Lokout;5
-1229;fu_state_area_362;North Monke Slopes;362;North Monke Slopes;6
-1230;fu_state_area_362_2;North Monke Slopes;362;North Monke Slopes;5
-1231;fu_state_area_1284;South Irkentia;1284;South Irkentia;7
-1232;fu_state_area_1284_2;South Irkentia;1284;South Irkentia;5
-1233;fu_state_area_247;Cookartagena;247;Cookartagena;6
-1234;fu_state_area_247_2;Cookartagena;247;Cookartagena;5
-1235;fu_state_area_1295;Far West Westpaw;1295;Far West Westpaw;6
-1236;fu_state_area_1295_2;Far West Westpaw;1295;Far West Westpaw;4
-1237;fu_state_area_1192;Crumbrid;1192;Crumbrid;5
-1238;fu_state_area_1192_2;Crumbrid;1192;Crumbrid;6
-1239;fu_state_area_46;Lebril Range;46;Lebril Range;6
-1240;fu_state_area_46_2;Lebril Range;46;Lebril Range;5
-1241;fu_state_area_1273;North Datlof;1273;North Datlof;5
-1242;fu_state_area_1273_2;North Datlof;1273;North Datlof;6
-1243;fu_state_area_209;Paktu;209;Paktu;5
-1244;fu_state_area_209_2;Paktu;209;Paktu;5
-1245;fu_state_area_1093;Far West Lokout 4;1093;Far West Lokout 4;5
-1246;fu_state_area_1093_2;Far West Lokout 4;1093;Far West Lokout 4;5
-1247;fu_state_area_1246;Far West Flerk;1246;Far West Flerk;5
-1248;fu_state_area_1246_2;Far West Flerk;1246;Far West Flerk;7
-1249;fu_state_area_1091;Far West Lokout 3;1091;Far West Lokout 3;6
-1250;fu_state_area_1091_2;Far West Lokout 3;1091;Far West Lokout 3;5
-1251;fu_state_area_465;South Pico;465;South Pico;2
-1252;fu_state_area_55;Duuhr Sanctuary;55;Duuhr Sanctuary;5
-1253;fu_state_area_55_2;Duuhr Sanctuary;55;Duuhr Sanctuary;6
-1254;fu_state_area_263;Great Vardalv;263;Great Vardalv;5
-1255;fu_state_area_263_2;Great Vardalv;263;Great Vardalv;6
-1256;fu_state_area_622;Qwydai;622;Qwydai;5
-1257;fu_state_area_622_2;Qwydai;622;Qwydai;6
-1258;fu_state_area_1184;Bakecelona;1184;Bakecelona;5
-1259;fu_state_area_1184_2;Bakecelona;1184;Bakecelona;6
-1260;fu_state_area_1138;Far East Monke Slopes 3;1138;Far East Monke Slopes 3;5
-1261;fu_state_area_1138_2;Far East Monke Slopes 3;1138;Far East Monke Slopes 3;6
-1262;fu_state_area_290;Magdalonja;290;Magdalonja;7
-1263;fu_state_area_290_2;Magdalonja;290;Magdalonja;3
-1264;fu_state_area_1060;Ejac;1060;Ejac;6
-1265;fu_state_area_1060_2;Ejac;1060;Ejac;5
-1266;fu_state_area_26;Ibrumore;26;Ibrumore;5
-1267;fu_state_area_26_2;Ibrumore;26;Ibrumore;6
-1268;fu_state_area_424;Far East Irkentia;424;Far East Irkentia;7
-1269;fu_state_area_424_2;Far East Irkentia;424;Far East Irkentia;5
-1270;fu_state_area_1063;Lebril;1063;Lebril;6
-1271;fu_state_area_1063_2;Lebril;1063;Lebril;6
-1272;fu_state_area_462;North Southern Ice Cap;462;North Southern Ice Cap;2
-1273;fu_state_area_390;South Espen;390;South Espen;7
-1274;fu_state_area_390_2;South Espen;390;South Espen;7
-1275;fu_state_area_1130;Calder Coasts;1130;Calder Coasts;5
-1276;fu_state_area_1130_2;Calder Coasts;1130;Calder Coasts;5
-1277;fu_state_area_1130_3;Calder Coasts;1130;Calder Coasts;3
-1278;fu_state_area_857;Paimen;857;Paimen;3
-1279;fu_state_area_61;Inner Arkbus;61;Inner Arkbus;7
-1280;fu_state_area_61_2;Inner Arkbus;61;Inner Arkbus;6
-1281;fu_state_area_1075;Southern Meagas;1075;Southern Meagas;7
-1282;fu_state_area_1075_2;Southern Meagas;1075;Southern Meagas;5
-1283;fu_state_area_854;Teho;854;Teho;7
-1284;fu_state_area_1064;Central Arkbus;1064;Central Arkbus;7
-1285;fu_state_area_1064_2;Central Arkbus;1064;Central Arkbus;5
-1286;fu_state_area_501;North Myriad;501;North Myriad;5
-1287;fu_state_area_501_2;North Myriad;501;North Myriad;5
-1288;fu_state_area_501_3;North Myriad;501;North Myriad;4
-1289;fu_state_area_86;Quiveria;86;Quiveria;5
-1290;fu_state_area_86_2;Quiveria;86;Quiveria;6
-1291;fu_state_area_86_3;Quiveria;86;Quiveria;3
-1292;fu_state_area_1068;Ibrum Marsh;1068;Ibrum Marsh;7
-1293;fu_state_area_1068_2;Ibrum Marsh;1068;Ibrum Marsh;5
-1294;fu_state_area_1074;Central Laurandar;1074;Central Laurandar;5
-1295;fu_state_area_1074_2;Central Laurandar;1074;Central Laurandar;5
-1296;fu_state_area_1074_3;Central Laurandar;1074;Central Laurandar;3
-1297;fu_state_area_440;Las Pengu;440;Las Pengu;2
-1298;fu_state_area_855;Koti;855;Koti;7
-1299;fu_state_area_1059;Vey;1059;Vey;5
-1300;fu_state_area_1059_2;Vey;1059;Vey;5
-1301;fu_state_area_1059_3;Vey;1059;Vey;3
-1302;fu_state_area_1071;Tatshire;1071;Tatshire;5
-1303;fu_state_area_1071_2;Tatshire;1071;Tatshire;6
-1304;fu_state_area_1071_3;Tatshire;1071;Tatshire;4
-1305;fu_state_area_451;South Stratia;451;South Stratia;7
-1306;fu_state_area_1065;Rivshire;1065;Rivshire;5
-1307;fu_state_area_1065_2;Rivshire;1065;Rivshire;5
-1308;fu_state_area_1065_3;Rivshire;1065;Rivshire;4
-1309;fu_state_area_1073;Lakshire;1073;Lakshire;6
-1310;fu_state_area_1073_2;Lakshire;1073;Lakshire;5
-1311;fu_state_area_1073_3;Lakshire;1073;Lakshire;4
-1312;fu_state_area_862;Suokaa;862;Suokaa;3
-1313;fu_state_area_35;Tatsania;35;Tatsania;5
-1314;fu_state_area_35_2;Tatsania;35;Tatsania;5
-1315;fu_state_area_35_3;Tatsania;35;Tatsania;5
-1316;fu_state_area_1062;Coastal Arkbus;1062;Coastal Arkbus;5
-1317;fu_state_area_1062_2;Coastal Arkbus;1062;Coastal Arkbus;5
-1318;fu_state_area_1062_3;Coastal Arkbus;1062;Coastal Arkbus;5
-1319;fu_state_area_9;Sodburn;9;Sodburn;6
-1320;fu_state_area_9_2;Sodburn;9;Sodburn;8
-1321;fu_state_area_861;Uutta;861;Uutta;7
-1322;fu_state_area_1078;Sodandar;1078;Sodandar;5
-1323;fu_state_area_1078_2;Sodandar;1078;Sodandar;6
-1324;fu_state_area_1078_3;Sodandar;1078;Sodandar;5
-1325;fu_state_area_1076;Laurngrove;1076;Laurngrove;5
-1326;fu_state_area_1076_2;Laurngrove;1076;Laurngrove;6
-1327;fu_state_area_1076_3;Laurngrove;1076;Laurngrove;4
-1328;fu_state_area_858;Palaa;858;Palaa;5
-1329;fu_state_area_860;Kivaa;860;Kivaa;8
-1330;fu_state_area_442;Penghatan;442;Penghatan;5
-1331;fu_state_area_442_2;Penghatan;442;Penghatan;4
-1332;fu_state_area_63;Dredshire;63;Dredshire;7
-1333;fu_state_area_63_2;Dredshire;63;Dredshire;5
-1334;fu_state_area_63_3;Dredshire;63;Dredshire;5
-1335;fu_state_area_446;Nonik;446;Nonik;3
-1336;fu_state_area_859;Uutta;859;Uutta;5
-1337;fu_state_area_859_2;Uutta;859;Uutta;4
-1338;fu_state_area_469;Ibrumopolis;469;Ibrumopolis;5
-1339;fu_state_area_469_2;Ibrumopolis;469;Ibrumopolis;5
-1340;fu_state_area_469_3;Ibrumopolis;469;Ibrumopolis;5
-1341;fu_state_area_469_4;Ibrumopolis;469;Ibrumopolis;3
-1342;fu_state_area_464;South Ciptol;464;South Ciptol;3
-1343;fu_state_area_872;Penglia;872;Penglia;3
-1344;fu_state_area_863;Tuomita;863;Tuomita;5
-1345;fu_state_area_429;Jolloin;429;Jolloin;4
-1346;fu_state_area_856;Siina;856;Siina;6
-1347;fu_state_area_856_2;Siina;856;Siina;4
-1348;fu_state_area_508;Harelene;508;Harelene;5
-1349;fu_state_area_865;Pysya;865;Pysya;5
-1350;fu_state_area_1;Far South Infernum's Castle 4;1;Far South Infernum's Castle 4;6
-1351;fu_state_area_463;South Fleupport;463;South Fleupport;8
-1352;fu_state_area_457_2;Far South Infernum's Castle 3;457;Far South Infernum's Castle 3;1
-1353;fu_state_area_1297_3;Far West Westpaw 3;1297;Far West Westpaw 3;1
-1354;fu_state_area_1291_2;Quantus Hub;1291;Quantus Hub;1
-1355;fu_state_area_1301_2;South Infernum's Castle;1301;South Infernum's Castle;1
-1356;fu_state_area_1301_3;South Infernum's Castle;1301;South Infernum's Castle;1
-1357;fu_state_area_18_2;Jhaoq;18;Jhaoq;1
-1358;fu_state_area_1465_2;Pawmur;1465;Pawmur;1
-1359;fu_state_area_375;Atarbuhl;375;Atarbuhl;1
-1360;fu_state_area_18_3;Jhaoq;18;Jhaoq;1
-1361;fu_state_area_37;Kattenburg;37;Kattenburg;1
-1362;fu_state_area_26_3;Ibrumore;26;Ibrumore;1
-1363;fu_state_area_26_4;Ibrumore;26;Ibrumore;1
-1364;fu_state_area_627_2;Minskbark;627;Minskbark;1
-1365;fu_state_area_632_2;Barkdivostok;632;Barkdivostok;1
-1366;fu_state_area_571_2;Point Ene;571;Point Ene;1
-1367;fu_state_area_633_2;Wolfgorod;633;Wolfgorod;1
-1368;fu_state_area_48;Mittelpurrsen;48;Mittelpurrsen;1
-1369;fu_state_area_55_3;Duuhr Sanctuary;55;Duuhr Sanctuary;1
-1370;fu_state_area_481_2;Winston;481;Winston;1
-1371;fu_state_area_575_2;Exene;575;Exene;1
-1372;fu_state_area_993;Copper Ridges;993;Copper Ridges;1
-1373;fu_state_area_564;Ezikat;564;Ezikat;1
-1374;fu_state_area_651_2;Stronberg;651;Stronberg;1
-1375;fu_state_area_84;Tailsbaden;84;Tailsbaden;1
-1376;fu_state_area_78_2;Tigar;78;Tigar;1
-1377;fu_state_area_1254_2;North Flerk;1254;North Flerk;1
-1378;fu_state_area_1225_2;West Flerk;1225;West Flerk;1
-1379;fu_state_area_81_2;Near North Flerk;81;Near North Flerk;1
-1380;fu_state_area_539;Becatlingen;539;Becatlingen;1
-1381;fu_state_area_1361_2;Northern Heart Mountains;1361;Northern Heart Mountains;1
-1382;fu_state_area_521_2;Ostmeopin;521;Ostmeopin;1
-1383;fu_state_area_1266_2;Near East Northern Ezicania;1266;Near East Northern Ezicania;1
-1384;fu_state_area_553_2;Mewdu Mush;553;Mewdu Mush;1
-1385;fu_state_area_552;Mewbet;552;Mewbet;1
-1386;fu_state_area_92_2;Northern Ezicania;92;Northern Ezicania;1
-1387;fu_state_area_1442;Darwinsball;1442;Darwinsball;1
-1388;fu_state_area_92_3;Northern Ezicania;92;Northern Ezicania;1
-1389;fu_state_area_119;Katzil;119;Katzil;1
-1390;fu_state_area_118_2;Sud-Solagnaw;118;Sud-Solagnaw;1
-1391;fu_state_area_923_2;Rossevanejt;923;Rossevanejt;1
-1392;fu_state_area_135_2;Catka;135;Catka;1
-1393;fu_state_area_1264_2;East Northern Ezicania;1264;East Northern Ezicania;1
-1394;fu_state_area_138_2;Felstigerfels;138;Felstigerfels;1
-1395;fu_state_area_148;North Southern Ezicania;148;North Southern Ezicania;1
-1396;fu_state_area_185;Near West Cize;185;Near West Cize;1
-1397;fu_state_area_986;Upper Bramble Basin;986;Upper Bramble Basin;1
-1398;fu_state_area_610_2;Titanus;610;Titanus;1
-1399;fu_state_area_1538_2;East Neminia 9;1538;East Neminia 9;1
-1400;fu_state_area_987;Middle Bramble Basin;987;Middle Bramble Basin;1
-1401;fu_state_area_165_2;Iorn;165;Iorn;1
-1402;fu_state_area_609_2;Valaros;609;Valaros;1
-1403;fu_state_area_1155;Near West Southern Stollparche;1155;Near West Southern Stollparche;1
-1404;fu_state_area_984;Great Bramble Basin;984;Great Bramble Basin;1
-1405;fu_state_area_165_3;Iorn;165;Iorn;1
-1406;fu_state_area_1007;Unkhus Vel;1007;Unkhus Vel;1
-1407;fu_state_area_988;Lower Bramble Basin;988;Lower Bramble Basin;1
-1408;fu_state_area_613;Sudbergen;613;Sudbergen;1
-1409;fu_state_area_1449;Neu-Mewxico;1449;Neu-Mewxico;1
-1410;fu_state_area_498_2;Hammerhand;498;Hammerhand;1
-1411;fu_state_area_1167_2;Epoustouflant;1167;Epoustouflant;1
-1412;fu_state_area_999;Zorud Tal;999;Zorud Tal;1
-1413;fu_state_area_197;Meonwald;197;Meonwald;1
-1414;fu_state_area_609_3;Valaros;609;Valaros;1
-1415;fu_state_area_350_2;Beauparc;350;Beauparc;1
-1416;fu_state_area_1165;Nouvelle Roqualie;1165;Nouvelle Roqualie;1
-1417;fu_state_area_531_2;Purrton;531;Purrton;1
-1418;fu_state_area_189_2;Centralia;189;Centralia;1
-1419;fu_state_area_59_2;Qaradel Tas;59;Qaradel Tas;1
-1420;fu_state_area_1319;Solonien;1319;Solonien;1
-1421;fu_state_area_530_2;Mau-Vegas;530;Mau-Vegas;1
-1422;fu_state_area_205_3;West Petite Qualie;205;West Petite Qualie;1
-1423;fu_state_area_189_3;Centralia;189;Centralia;1
-1424;fu_state_area_1213_2;Rhayman;1213;Rhayman;1
-1425;fu_state_area_606_2;Nitros;606;Nitros;1
-1426;fu_state_area_221;Near North Southern Stollparche;221;Near North Southern Stollparche;1
-1427;fu_state_area_59_3;Qaradel Tas;59;Qaradel Tas;1
-1428;fu_state_area_532_2;Drakenburg;532;Drakenburg;1
-1429;fu_state_area_205_4;West Petite Qualie;205;West Petite Qualie;1
-1430;fu_state_area_607_2;Ajax;607;Ajax;1
-1431;fu_state_area_1440_2;Victoneustadt;1440;Victoneustadt;1
-1432;fu_state_area_1150_2;Far North Southern Stollparche;1150;Far North Southern Stollparche;1
-1433;fu_state_area_531_3;Purrton;531;Purrton;1
-1434;fu_state_area_1507;Aluminitas;1507;Aluminitas;1
-1435;fu_state_area_187;East Southern Stollparche;187;East Southern Stollparche;1
-1436;fu_state_area_502_2;Platnum;502;Platnum;1
-1437;fu_state_area_1211_2;Mahin Geh;1211;Mahin Geh;1
-1438;fu_state_area_612;Myriad;612;Myriad;1
-1439;fu_state_area_1507_2;Aluminitas;1507;Aluminitas;1
-1440;fu_state_area_206_2;Drakwald;206;Drakwald;1
-1441;fu_state_area_237;Near South Démotagne;237;Near South Démotagne;1
-1442;fu_state_area_1506_2;Lower Neminia 7;1506;Lower Neminia 7;1
-1443;fu_state_area_1522_2;Far West Fodaria 8;1522;Far West Fodaria 8;1
-1444;fu_state_area_220_2;Himezulte;220;Himezulte;1
-1445;fu_state_area_612_2;Myriad;612;Myriad;1
-1446;fu_state_area_1505_2;Myriad;1505;Myriad;1
-1447;fu_state_area_1199;Funchaleta;1199;Funchaleta;1
-1448;fu_state_area_263_3;Great Vardalv;263;Great Vardalv;1
-1449;fu_state_area_1188_3;Zaradoughza;1188;Zaradoughza;1
-1450;fu_state_area_253_2;Great Calder Peak;253;Great Calder Peak;1
-1451;fu_state_area_1172_2;Tsayan Mounts;1172;Tsayan Mounts;1
-1452;fu_state_area_1173_2;Cookimbra;1173;Cookimbra;1
-1453;fu_state_area_253_3;Great Calder Peak;253;Great Calder Peak;1
-1454;fu_state_area_850_2;Umtraha;850;Umtraha;1
-1455;fu_state_area_850_3;Umtraha;850;Umtraha;1
-1456;fu_state_area_1100_2;Bergtun;1100;Bergtun;1
-1457;fu_state_area_316;Franckfort;316;Franckfort;1
-1458;fu_state_area_1472_2;Les Mosges;1472;Les Mosges;1
-1459;fu_state_area_274_2;Buyrity;274;Buyrity;1
-1460;fu_state_area_1209_2;East Dourouhtei;1209;East Dourouhtei;1
-1461;fu_state_area_289_2;Brekarya;289;Brekarya;1
-1462;fu_state_area_1105_2;Near East Brewtun;1105;Near East Brewtun;1
-1463;fu_state_area_883;N. Arivoejan Mountains;883;N. Arivoejan Mountains;1
-1464;fu_state_area_1200_2;Churrilbao;1200;Churrilbao;1
-1465;fu_state_area_289_3;Brekarya;289;Brekarya;1
-1466;fu_state_area_171_2;Staullparche;171;Staullparche;1
-1467;fu_state_area_322_2;Zharr Station;322;Zharr Station;1
-1468;fu_state_area_1364_2;Marossqenardhu;1364;Marossqenardhu;1
-1469;fu_state_area_1364_3;Marossqenardhu;1364;Marossqenardhu;1
-1470;fu_state_area_321_2;Animéquitaine;321;Animéquitaine;1
-1471;fu_state_area_851_2;Brongon Gede;851;Brongon Gede;1
-1472;fu_state_area_852_2;Imakani;852;Imakani;1
-1473;fu_state_area_1208_2;New Kumakh;1208;New Kumakh;1
-1474;fu_state_area_330_2;Novastaati;330;Novastaati;1
-1475;fu_state_area_1470;Roquitz;1470;Roquitz;1
-1476;fu_state_area_888;Terence Mountains;888;Terence Mountains;1
-1477;fu_state_area_1149_2;Far East Monke Slopes;1149;Far East Monke Slopes;1
-1478;fu_state_area_353_2;West Dazhungli;353;West Dazhungli;1
-1479;fu_state_area_889;Mount Ylmira;889;Mount Ylmira;1
-1480;fu_state_area_1205_2;Meghaduta;1205;Meghaduta;1
-1481;fu_state_area_1206_2;Jharuna;1206;Jharuna;1
-1482;fu_state_area_1019;Deux-Rivieres;1019;Deux-Rivieres;1
-1483;fu_state_area_838;Katpine Mountains (N);838;Katpine Mountains (N);1
-1484;fu_state_area_393;Katpine Mountains (W);393;Katpine Mountains (W);1
-1485;fu_state_area_839;Katpine Mountain (E);839;Katpine Mountain (E);1
-1486;fu_state_area_383_2;Collines Chaudiere;383;Collines Chaudiere;1
-1487;fu_state_area_1015_2;Ravkan Range;1015;Ravkan Range;1
-1488;fu_state_area_401_2;Firemaster Union;401;Firemaster Union;1
-1489;fu_state_area_755_2;Buncible;755;Buncible;1
-1490;fu_state_area_390_3;South Espen;390;South Espen;1
-1491;fu_state_area_750_2;Adhare;750;Adhare;1
-1492;fu_state_area_418_2;Harelyne Magocracy;418;Harelyne Magocracy;1
-1493;fu_state_area_817_2;Iron Mounts;817;Iron Mounts;1
-1494;fu_state_area_869;Flux Towns;869;Flux Towns;1
-1495;fu_state_area_1_2;Far South Infernum's Castle 4;1;Far South Infernum's Castle 4;1
-1496;fu_state_area_generated_1496;Area 1496;0;;6
+1144;fu_state_area_1051;Sudkronk;1051;Sudkronk;8
+1145;fu_state_area_1077;Podomia;1077;Podomia;8
+1146;fu_state_area_304;Craiovetzi;304;Craiovetzi;5
+1147;fu_state_area_304_2;Craiovetzi;304;Craiovetzi;4
+1148;fu_state_area_1148;Far East Monke Slopes 5;1148;Far East Monke Slopes 5;5
+1149;fu_state_area_1148_2;Far East Monke Slopes 5;1148;Far East Monke Slopes 5;4
+1150;fu_state_area_874;Neufennhause;874;Neufennhause;5
+1151;fu_state_area_1112;Batau;1112;Batau;5
+1152;fu_state_area_1112_2;Batau;1112;Batau;4
+1153;fu_state_area_1245;Near South Flerk;1245;Near South Flerk;8
+1154;fu_state_area_1188;Zaradoughza;1188;Zaradoughza;5
+1155;fu_state_area_1188_2;Zaradoughza;1188;Zaradoughza;5
+1156;fu_state_area_200;Krazan;200;Krazan;5
+1157;fu_state_area_200_2;Krazan;200;Krazan;4
+1158;fu_state_area_378;The Valley;378;The Valley;5
+1159;fu_state_area_378_2;The Valley;378;The Valley;4
+1160;fu_state_area_411;Earthmaster Quarries;411;Earthmaster Quarries;5
+1161;fu_state_area_411_2;Earthmaster Quarries;411;Earthmaster Quarries;4
+1162;fu_state_area_1070;Tomopolis;1070;Tomopolis;5
+1163;fu_state_area_1070_2;Tomopolis;1070;Tomopolis;5
+1164;fu_state_area_620;Tyukland;620;Tyukland;5
+1165;fu_state_area_620_2;Tyukland;620;Tyukland;4
+1166;fu_state_area_1189;Pastelona;1189;Pastelona;6
+1167;fu_state_area_1189_2;Pastelona;1189;Pastelona;4
+1168;fu_state_area_624;Daichester;624;Daichester;5
+1169;fu_state_area_624_2;Daichester;624;Daichester;5
+1170;fu_state_area_1274;North Usswaeri;1274;North Usswaeri;8
+1171;fu_state_area_783;Buntowel;783;Buntowel;5
+1172;fu_state_area_783_2;Buntowel;783;Buntowel;4
+1173;fu_state_area_853;Pidin;853;Pidin;5
+1174;fu_state_area_1210;Bakecaramangé;1210;Bakecaramangé;6
+1175;fu_state_area_1210_2;Bakecaramangé;1210;Bakecaramangé;3
+1176;fu_state_area_795;Korpeio;795;Korpeio;5
+1177;fu_state_area_795_2;Korpeio;795;Korpeio;4
+1178;fu_state_area_1247;Northern Svitanok Desert;1247;Northern Svitanok Desert;5
+1179;fu_state_area_1247_2;Northern Svitanok Desert;1247;Northern Svitanok Desert;4
+1180;fu_state_area_210;North Northern Heart Mountains;210;North Northern Heart Mountains;6
+1181;fu_state_area_210_2;North Northern Heart Mountains;210;North Northern Heart Mountains;3
+1182;fu_state_area_1217;South Northern Ezicania;1217;South Northern Ezicania;5
+1183;fu_state_area_1217_2;South Northern Ezicania;1217;South Northern Ezicania;5
+1184;fu_state_area_1223;Bearton;1223;Bearton;7
+1185;fu_state_area_1223_2;Bearton;1223;Bearton;3
+1186;fu_state_area_1170;Ballens;1170;Ballens;5
+1187;fu_state_area_1170_2;Ballens;1170;Ballens;4
+1188;fu_state_area_1306;Near West Southport;1306;Near West Southport;6
+1189;fu_state_area_1306_2;Near West Southport;1306;Near West Southport;3
+1190;fu_state_area_1109;Near North Great Ape Groves;1109;Near North Great Ape Groves;7
+1191;fu_state_area_1109_2;Near North Great Ape Groves;1109;Near North Great Ape Groves;3
+1192;fu_state_area_1296;Duzygaj;1296;Duzygaj;5
+1193;fu_state_area_1296_2;Duzygaj;1296;Duzygaj;4
+1194;fu_state_area_1280;East The Valley;1280;East The Valley;5
+1195;fu_state_area_1280_2;East The Valley;1280;East The Valley;5
+1196;fu_state_area_1136;Beeronx;1136;Beeronx;5
+1197;fu_state_area_1136_2;Beeronx;1136;Beeronx;5
+1198;fu_state_area_505;Kraiiovat;505;Kraiiovat;5
+1199;fu_state_area_505_2;Kraiiovat;505;Kraiiovat;4
+1200;fu_state_area_1240;Far West Lokout 5;1240;Far West Lokout 5;5
+1201;fu_state_area_1240_2;Far West Lokout 5;1240;Far West Lokout 5;4
+1202;fu_state_area_1302;Near West Westpaw;1302;Near West Westpaw;5
+1203;fu_state_area_1302_2;Near West Westpaw;1302;Near West Westpaw;5
+1204;fu_state_area_434;Kipu;434;Kipu;5
+1205;fu_state_area_1197;Tiir;1197;Tiir;5
+1206;fu_state_area_1197_2;Tiir;1197;Tiir;4
+1207;fu_state_area_1183;Doughnada;1183;Doughnada;5
+1208;fu_state_area_1183_2;Doughnada;1183;Doughnada;4
+1209;fu_state_area_404;Regnus;404;Regnus;5
+1210;fu_state_area_404_2;Regnus;404;Regnus;5
+1211;fu_state_area_181;Great Hill;181;Great Hill;5
+1212;fu_state_area_181_2;Great Hill;181;Great Hill;5
+1213;fu_state_area_867;Konigland;867;Konigland;2
+1214;fu_state_area_1294;West Westpaw;1294;West Westpaw;5
+1215;fu_state_area_1294_2;West Westpaw;1294;West Westpaw;5
+1216;fu_state_area_1194;Somtaaw;1194;Somtaaw;5
+1217;fu_state_area_1194_2;Somtaaw;1194;Somtaaw;5
+1218;fu_state_area_1220;Near North Northern Ezicania;1220;Near North Northern Ezicania;5
+1219;fu_state_area_1220_2;Near North Northern Ezicania;1220;Near North Northern Ezicania;5
+1220;fu_state_area_958;Lairen;958;Lairen;5
+1221;fu_state_area_958_2;Lairen;958;Lairen;4
+1222;fu_state_area_458;South Westpaw;458;South Westpaw;2
+1223;fu_state_area_457;Far South Infernum's Castle 3;457;Far South Infernum's Castle 3;2
+1224;fu_state_area_787;Hareport;787;Hareport;5
+1225;fu_state_area_787_2;Hareport;787;Hareport;6
+1226;fu_state_area_1092;West Lokout;1092;West Lokout;5
+1227;fu_state_area_1092_2;West Lokout;1092;West Lokout;5
+1228;fu_state_area_362;North Monke Slopes;362;North Monke Slopes;7
+1229;fu_state_area_362_2;North Monke Slopes;362;North Monke Slopes;4
+1230;fu_state_area_1284;South Irkentia;1284;South Irkentia;7
+1231;fu_state_area_1284_2;South Irkentia;1284;South Irkentia;5
+1232;fu_state_area_247;Cookartagena;247;Cookartagena;5
+1233;fu_state_area_247_2;Cookartagena;247;Cookartagena;6
+1234;fu_state_area_1295;Far West Westpaw;1295;Far West Westpaw;6
+1235;fu_state_area_1295_2;Far West Westpaw;1295;Far West Westpaw;4
+1236;fu_state_area_1192;Crumbrid;1192;Crumbrid;5
+1237;fu_state_area_1192_2;Crumbrid;1192;Crumbrid;6
+1238;fu_state_area_46;Lebril Range;46;Lebril Range;6
+1239;fu_state_area_46_2;Lebril Range;46;Lebril Range;5
+1240;fu_state_area_1273;North Datlof;1273;North Datlof;5
+1241;fu_state_area_1273_2;North Datlof;1273;North Datlof;6
+1242;fu_state_area_209;Paktu;209;Paktu;5
+1243;fu_state_area_209_2;Paktu;209;Paktu;5
+1244;fu_state_area_1093;Far West Lokout 4;1093;Far West Lokout 4;5
+1245;fu_state_area_1093_2;Far West Lokout 4;1093;Far West Lokout 4;5
+1246;fu_state_area_1246;Far West Flerk;1246;Far West Flerk;7
+1247;fu_state_area_1246_2;Far West Flerk;1246;Far West Flerk;5
+1248;fu_state_area_1091;Far West Lokout 3;1091;Far West Lokout 3;5
+1249;fu_state_area_1091_2;Far West Lokout 3;1091;Far West Lokout 3;6
+1250;fu_state_area_465;South Pico;465;South Pico;2
+1251;fu_state_area_55;Duuhr Sanctuary;55;Duuhr Sanctuary;6
+1252;fu_state_area_55_2;Duuhr Sanctuary;55;Duuhr Sanctuary;5
+1253;fu_state_area_263;Great Vardalv;263;Great Vardalv;5
+1254;fu_state_area_263_2;Great Vardalv;263;Great Vardalv;6
+1255;fu_state_area_622;Qwydai;622;Qwydai;6
+1256;fu_state_area_622_2;Qwydai;622;Qwydai;5
+1257;fu_state_area_1184;Bakecelona;1184;Bakecelona;5
+1258;fu_state_area_1184_2;Bakecelona;1184;Bakecelona;6
+1259;fu_state_area_1138;Far East Monke Slopes 3;1138;Far East Monke Slopes 3;5
+1260;fu_state_area_1138_2;Far East Monke Slopes 3;1138;Far East Monke Slopes 3;6
+1261;fu_state_area_290;Magdalonja;290;Magdalonja;7
+1262;fu_state_area_290_2;Magdalonja;290;Magdalonja;3
+1263;fu_state_area_1060;Ejac;1060;Ejac;6
+1264;fu_state_area_1060_2;Ejac;1060;Ejac;5
+1265;fu_state_area_26;Ibrumore;26;Ibrumore;5
+1266;fu_state_area_26_2;Ibrumore;26;Ibrumore;7
+1267;fu_state_area_424;Far East Irkentia;424;Far East Irkentia;6
+1268;fu_state_area_424_2;Far East Irkentia;424;Far East Irkentia;6
+1269;fu_state_area_1063;Lebril;1063;Lebril;6
+1270;fu_state_area_1063_2;Lebril;1063;Lebril;6
+1271;fu_state_area_462;North Southern Ice Cap;462;North Southern Ice Cap;2
+1272;fu_state_area_390;South Espen;390;South Espen;7
+1273;fu_state_area_390_2;South Espen;390;South Espen;7
+1274;fu_state_area_1130;Calder Coasts;1130;Calder Coasts;5
+1275;fu_state_area_1130_2;Calder Coasts;1130;Calder Coasts;5
+1276;fu_state_area_1130_3;Calder Coasts;1130;Calder Coasts;3
+1277;fu_state_area_857;Paimen;857;Paimen;3
+1278;fu_state_area_61;Inner Arkbus;61;Inner Arkbus;7
+1279;fu_state_area_61_2;Inner Arkbus;61;Inner Arkbus;6
+1280;fu_state_area_1075;Southern Meagas;1075;Southern Meagas;7
+1281;fu_state_area_1075_2;Southern Meagas;1075;Southern Meagas;5
+1282;fu_state_area_854;Teho;854;Teho;7
+1283;fu_state_area_1064;Central Arkbus;1064;Central Arkbus;7
+1284;fu_state_area_1064_2;Central Arkbus;1064;Central Arkbus;5
+1285;fu_state_area_501;North Myriad;501;North Myriad;7
+1286;fu_state_area_501_2;North Myriad;501;North Myriad;7
+1287;fu_state_area_86;Quiveria;86;Quiveria;5
+1288;fu_state_area_86_2;Quiveria;86;Quiveria;5
+1289;fu_state_area_86_3;Quiveria;86;Quiveria;3
+1290;fu_state_area_1068;Ibrum Marsh;1068;Ibrum Marsh;7
+1291;fu_state_area_1068_2;Ibrum Marsh;1068;Ibrum Marsh;5
+1292;fu_state_area_1074;Central Laurandar;1074;Central Laurandar;5
+1293;fu_state_area_1074_2;Central Laurandar;1074;Central Laurandar;8
+1294;fu_state_area_440;Las Pengu;440;Las Pengu;2
+1295;fu_state_area_855;Koti;855;Koti;7
+1296;fu_state_area_1059;Vey;1059;Vey;5
+1297;fu_state_area_1059_2;Vey;1059;Vey;5
+1298;fu_state_area_1059_3;Vey;1059;Vey;3
+1299;fu_state_area_1071;Tatshire;1071;Tatshire;5
+1300;fu_state_area_1071_2;Tatshire;1071;Tatshire;7
+1301;fu_state_area_1071_3;Tatshire;1071;Tatshire;3
+1302;fu_state_area_451;South Stratia;451;South Stratia;7
+1303;fu_state_area_1065;Rivshire;1065;Rivshire;6
+1304;fu_state_area_1065_2;Rivshire;1065;Rivshire;5
+1305;fu_state_area_1065_3;Rivshire;1065;Rivshire;3
+1306;fu_state_area_1073;Lakshire;1073;Lakshire;5
+1307;fu_state_area_1073_2;Lakshire;1073;Lakshire;7
+1308;fu_state_area_1073_3;Lakshire;1073;Lakshire;3
+1309;fu_state_area_862;Suokaa;862;Suokaa;3
+1310;fu_state_area_35;Tatsania;35;Tatsania;5
+1311;fu_state_area_35_2;Tatsania;35;Tatsania;5
+1312;fu_state_area_35_3;Tatsania;35;Tatsania;5
+1313;fu_state_area_1062;Coastal Arkbus;1062;Coastal Arkbus;5
+1314;fu_state_area_1062_2;Coastal Arkbus;1062;Coastal Arkbus;5
+1315;fu_state_area_1062_3;Coastal Arkbus;1062;Coastal Arkbus;5
+1316;fu_state_area_9;Sodburn;9;Sodburn;6
+1317;fu_state_area_9_2;Sodburn;9;Sodburn;8
+1318;fu_state_area_861;Uutta;861;Uutta;7
+1319;fu_state_area_1078;Sodandar;1078;Sodandar;5
+1320;fu_state_area_1078_2;Sodandar;1078;Sodandar;6
+1321;fu_state_area_1078_3;Sodandar;1078;Sodandar;5
+1322;fu_state_area_1076;Laurngrove;1076;Laurngrove;5
+1323;fu_state_area_1076_2;Laurngrove;1076;Laurngrove;6
+1324;fu_state_area_1076_3;Laurngrove;1076;Laurngrove;4
+1325;fu_state_area_858;Palaa;858;Palaa;5
+1326;fu_state_area_860;Kivaa;860;Kivaa;8
+1327;fu_state_area_442;Penghatan;442;Penghatan;5
+1328;fu_state_area_442_2;Penghatan;442;Penghatan;4
+1329;fu_state_area_63;Dredshire;63;Dredshire;5
+1330;fu_state_area_63_2;Dredshire;63;Dredshire;7
+1331;fu_state_area_63_3;Dredshire;63;Dredshire;5
+1332;fu_state_area_446;Nonik;446;Nonik;3
+1333;fu_state_area_859;Uutta;859;Uutta;5
+1334;fu_state_area_859_2;Uutta;859;Uutta;4
+1335;fu_state_area_469;Ibrumopolis;469;Ibrumopolis;5
+1336;fu_state_area_469_2;Ibrumopolis;469;Ibrumopolis;5
+1337;fu_state_area_469_3;Ibrumopolis;469;Ibrumopolis;5
+1338;fu_state_area_469_4;Ibrumopolis;469;Ibrumopolis;3
+1339;fu_state_area_464;South Ciptol;464;South Ciptol;3
+1340;fu_state_area_872;Penglia;872;Penglia;3
+1341;fu_state_area_863;Tuomita;863;Tuomita;5
+1342;fu_state_area_429;Jolloin;429;Jolloin;4
+1343;fu_state_area_856;Siina;856;Siina;6
+1344;fu_state_area_856_2;Siina;856;Siina;4
+1345;fu_state_area_508;Harelene;508;Harelene;5
+1346;fu_state_area_865;Pysya;865;Pysya;5
+1347;fu_state_area_1;Far South Infernum's Castle 4;1;Far South Infernum's Castle 4;6
+1348;fu_state_area_463;South Fleupport;463;South Fleupport;8
+1349;fu_state_area_457_2;Far South Infernum's Castle 3;457;Far South Infernum's Castle 3;1
+1350;fu_state_area_1297_3;Far West Westpaw 3;1297;Far West Westpaw 3;1
+1351;fu_state_area_1291_2;Quantus Hub;1291;Quantus Hub;1
+1352;fu_state_area_1301_2;South Infernum's Castle;1301;South Infernum's Castle;1
+1353;fu_state_area_1301_3;South Infernum's Castle;1301;South Infernum's Castle;1
+1354;fu_state_area_18_2;Jhaoq;18;Jhaoq;1
+1355;fu_state_area_1465_2;Pawmur;1465;Pawmur;1
+1356;fu_state_area_375;Atarbuhl;375;Atarbuhl;1
+1357;fu_state_area_18_3;Jhaoq;18;Jhaoq;1
+1358;fu_state_area_37;Kattenburg;37;Kattenburg;1
+1359;fu_state_area_26_3;Ibrumore;26;Ibrumore;1
+1360;fu_state_area_26_4;Ibrumore;26;Ibrumore;1
+1361;fu_state_area_627_2;Minskbark;627;Minskbark;1
+1362;fu_state_area_632_2;Barkdivostok;632;Barkdivostok;1
+1363;fu_state_area_571_2;Point Ene;571;Point Ene;1
+1364;fu_state_area_633_2;Wolfgorod;633;Wolfgorod;1
+1365;fu_state_area_48;Mittelpurrsen;48;Mittelpurrsen;1
+1366;fu_state_area_55_3;Duuhr Sanctuary;55;Duuhr Sanctuary;1
+1367;fu_state_area_481_2;Winston;481;Winston;1
+1368;fu_state_area_575_2;Exene;575;Exene;1
+1369;fu_state_area_993;Copper Ridges;993;Copper Ridges;1
+1370;fu_state_area_564;Ezikat;564;Ezikat;1
+1371;fu_state_area_651_2;Stronberg;651;Stronberg;1
+1372;fu_state_area_84;Tailsbaden;84;Tailsbaden;1
+1373;fu_state_area_78_2;Tigar;78;Tigar;1
+1374;fu_state_area_1254_2;North Flerk;1254;North Flerk;1
+1375;fu_state_area_1225_2;West Flerk;1225;West Flerk;1
+1376;fu_state_area_81_2;Near North Flerk;81;Near North Flerk;1
+1377;fu_state_area_539;Becatlingen;539;Becatlingen;1
+1378;fu_state_area_1361_2;Northern Heart Mountains;1361;Northern Heart Mountains;1
+1379;fu_state_area_521_2;Ostmeopin;521;Ostmeopin;1
+1380;fu_state_area_1266_2;Near East Northern Ezicania;1266;Near East Northern Ezicania;1
+1381;fu_state_area_553_2;Mewdu Mush;553;Mewdu Mush;1
+1382;fu_state_area_552;Mewbet;552;Mewbet;1
+1383;fu_state_area_92_2;Northern Ezicania;92;Northern Ezicania;1
+1384;fu_state_area_1442;Darwinsball;1442;Darwinsball;1
+1385;fu_state_area_92_3;Northern Ezicania;92;Northern Ezicania;1
+1386;fu_state_area_119;Katzil;119;Katzil;1
+1387;fu_state_area_118_2;Sud-Solagnaw;118;Sud-Solagnaw;1
+1388;fu_state_area_923_2;Rossevanejt;923;Rossevanejt;1
+1389;fu_state_area_135_2;Catka;135;Catka;1
+1390;fu_state_area_1264_2;East Northern Ezicania;1264;East Northern Ezicania;1
+1391;fu_state_area_138_2;Felstigerfels;138;Felstigerfels;1
+1392;fu_state_area_148;North Southern Ezicania;148;North Southern Ezicania;1
+1393;fu_state_area_185;Near West Cize;185;Near West Cize;1
+1394;fu_state_area_986;Upper Bramble Basin;986;Upper Bramble Basin;1
+1395;fu_state_area_610_2;Titanus;610;Titanus;1
+1396;fu_state_area_1538_2;East Neminia 9;1538;East Neminia 9;1
+1397;fu_state_area_987;Middle Bramble Basin;987;Middle Bramble Basin;1
+1398;fu_state_area_165_2;Iorn;165;Iorn;1
+1399;fu_state_area_609_2;Valaros;609;Valaros;1
+1400;fu_state_area_1155;Near West Southern Stollparche;1155;Near West Southern Stollparche;1
+1401;fu_state_area_984;Great Bramble Basin;984;Great Bramble Basin;1
+1402;fu_state_area_165_3;Iorn;165;Iorn;1
+1403;fu_state_area_1007;Unkhus Vel;1007;Unkhus Vel;1
+1404;fu_state_area_988;Lower Bramble Basin;988;Lower Bramble Basin;1
+1405;fu_state_area_613;Sudbergen;613;Sudbergen;1
+1406;fu_state_area_1449;Neu-Mewxico;1449;Neu-Mewxico;1
+1407;fu_state_area_498_2;Hammerhand;498;Hammerhand;1
+1408;fu_state_area_1167_2;Epoustouflant;1167;Epoustouflant;1
+1409;fu_state_area_999;Zorud Tal;999;Zorud Tal;1
+1410;fu_state_area_197;Meonwald;197;Meonwald;1
+1411;fu_state_area_609_3;Valaros;609;Valaros;1
+1412;fu_state_area_350_2;Beauparc;350;Beauparc;1
+1413;fu_state_area_1165;Nouvelle Roqualie;1165;Nouvelle Roqualie;1
+1414;fu_state_area_531_2;Purrton;531;Purrton;1
+1415;fu_state_area_189_2;Centralia;189;Centralia;1
+1416;fu_state_area_59_2;Qaradel Tas;59;Qaradel Tas;1
+1417;fu_state_area_1319;Solonien;1319;Solonien;1
+1418;fu_state_area_530_2;Mau-Vegas;530;Mau-Vegas;1
+1419;fu_state_area_205_3;West Petite Qualie;205;West Petite Qualie;1
+1420;fu_state_area_189_3;Centralia;189;Centralia;1
+1421;fu_state_area_1213_2;Rhayman;1213;Rhayman;1
+1422;fu_state_area_606_2;Nitros;606;Nitros;1
+1423;fu_state_area_221;Near North Southern Stollparche;221;Near North Southern Stollparche;1
+1424;fu_state_area_59_3;Qaradel Tas;59;Qaradel Tas;1
+1425;fu_state_area_532_2;Drakenburg;532;Drakenburg;1
+1426;fu_state_area_205_4;West Petite Qualie;205;West Petite Qualie;1
+1427;fu_state_area_607_2;Ajax;607;Ajax;1
+1428;fu_state_area_1440_2;Victoneustadt;1440;Victoneustadt;1
+1429;fu_state_area_1150_2;Far North Southern Stollparche;1150;Far North Southern Stollparche;1
+1430;fu_state_area_531_3;Purrton;531;Purrton;1
+1431;fu_state_area_1507;Aluminitas;1507;Aluminitas;1
+1432;fu_state_area_187;East Southern Stollparche;187;East Southern Stollparche;1
+1433;fu_state_area_502;Platnum;502;Platnum;1
+1434;fu_state_area_1211_2;Mahin Geh;1211;Mahin Geh;1
+1435;fu_state_area_612_2;Myriad;612;Myriad;1
+1436;fu_state_area_1507_2;Aluminitas;1507;Aluminitas;1
+1437;fu_state_area_206_2;Drakwald;206;Drakwald;1
+1438;fu_state_area_237;Near South Démotagne;237;Near South Démotagne;1
+1439;fu_state_area_1506_2;Lower Neminia 7;1506;Lower Neminia 7;1
+1440;fu_state_area_1522_2;Far West Fodaria 8;1522;Far West Fodaria 8;1
+1441;fu_state_area_220_2;Himezulte;220;Himezulte;1
+1442;fu_state_area_612_3;Myriad;612;Myriad;1
+1443;fu_state_area_1505_2;Myriad;1505;Myriad;1
+1444;fu_state_area_1199;Funchaleta;1199;Funchaleta;1
+1445;fu_state_area_263_3;Great Vardalv;263;Great Vardalv;1
+1446;fu_state_area_1188_3;Zaradoughza;1188;Zaradoughza;1
+1447;fu_state_area_253_2;Great Calder Peak;253;Great Calder Peak;1
+1448;fu_state_area_1172_2;Tsayan Mounts;1172;Tsayan Mounts;1
+1449;fu_state_area_1173_2;Cookimbra;1173;Cookimbra;1
+1450;fu_state_area_253_3;Great Calder Peak;253;Great Calder Peak;1
+1451;fu_state_area_850_2;Umtraha;850;Umtraha;1
+1452;fu_state_area_850_3;Umtraha;850;Umtraha;1
+1453;fu_state_area_1100_2;Bergtun;1100;Bergtun;1
+1454;fu_state_area_316;Franckfort;316;Franckfort;1
+1455;fu_state_area_1472_2;Les Mosges;1472;Les Mosges;1
+1456;fu_state_area_274_2;Buyrity;274;Buyrity;1
+1457;fu_state_area_1209_2;East Dourouhtei;1209;East Dourouhtei;1
+1458;fu_state_area_289_2;Brekarya;289;Brekarya;1
+1459;fu_state_area_1105;Near East Brewtun;1105;Near East Brewtun;1
+1460;fu_state_area_883;N. Arivoejan Mountains;883;N. Arivoejan Mountains;1
+1461;fu_state_area_1200_2;Churrilbao;1200;Churrilbao;1
+1462;fu_state_area_289_3;Brekarya;289;Brekarya;1
+1463;fu_state_area_171_2;Staullparche;171;Staullparche;1
+1464;fu_state_area_322_2;Zharr Station;322;Zharr Station;1
+1465;fu_state_area_1364_2;Marossqenardhu;1364;Marossqenardhu;1
+1466;fu_state_area_1364_3;Marossqenardhu;1364;Marossqenardhu;1
+1467;fu_state_area_321_2;Animéquitaine;321;Animéquitaine;1
+1468;fu_state_area_851_2;Brongon Gede;851;Brongon Gede;1
+1469;fu_state_area_852_2;Imakani;852;Imakani;1
+1470;fu_state_area_1208_2;New Kumakh;1208;New Kumakh;1
+1471;fu_state_area_330_2;Novastaati;330;Novastaati;1
+1472;fu_state_area_1470;Roquitz;1470;Roquitz;1
+1473;fu_state_area_888;Terence Mountains;888;Terence Mountains;1
+1474;fu_state_area_1149_2;Far East Monke Slopes;1149;Far East Monke Slopes;1
+1475;fu_state_area_353_2;West Dazhungli;353;West Dazhungli;1
+1476;fu_state_area_889;Mount Ylmira;889;Mount Ylmira;1
+1477;fu_state_area_1205_2;Meghaduta;1205;Meghaduta;1
+1478;fu_state_area_1206_2;Jharuna;1206;Jharuna;1
+1479;fu_state_area_1019;Deux-Rivieres;1019;Deux-Rivieres;1
+1480;fu_state_area_838;Katpine Mountains (N);838;Katpine Mountains (N);1
+1481;fu_state_area_393;Katpine Mountains (W);393;Katpine Mountains (W);1
+1482;fu_state_area_839;Katpine Mountain (E);839;Katpine Mountain (E);1
+1483;fu_state_area_383_2;Collines Chaudiere;383;Collines Chaudiere;1
+1484;fu_state_area_1015_2;Ravkan Range;1015;Ravkan Range;1
+1485;fu_state_area_401_2;Firemaster Union;401;Firemaster Union;1
+1486;fu_state_area_755_2;Buncible;755;Buncible;1
+1487;fu_state_area_390_3;South Espen;390;South Espen;1
+1488;fu_state_area_750_2;Adhare;750;Adhare;1
+1489;fu_state_area_418_2;Harelyne Magocracy;418;Harelyne Magocracy;1
+1490;fu_state_area_817_2;Iron Mounts;817;Iron Mounts;1
+1491;fu_state_area_869;Flux Towns;869;Flux Towns;1
+1492;fu_state_area_1_2;Far South Infernum's Castle 4;1;Far South Infernum's Castle 4;1
+1493;fu_state_area_generated_1493;Area 1493;0;;6
+1494;fu_state_area_generated_1494;Area 1494;0;;6
+1495;fu_state_area_generated_1495;Area 1495;0;;6
+1496;fu_state_area_generated_1496;Area 1496;0;;7
 1497;fu_state_area_generated_1497;Area 1497;0;;6
-1498;fu_state_area_generated_1498;Area 1498;0;;6
+1498;fu_state_area_generated_1498;Area 1498;0;;8
 1499;fu_state_area_generated_1499;Area 1499;0;;6
-1500;fu_state_area_generated_1500;Area 1500;0;;6
-1501;fu_state_area_generated_1501;Area 1501;0;;7
-1502;fu_state_area_generated_1502;Area 1502;0;;6
+1500;fu_state_area_generated_1500;Area 1500;0;;9
+1501;fu_state_area_generated_1501;Area 1501;0;;6
+1502;fu_state_area_generated_1502;Area 1502;0;;8
 1503;fu_state_area_generated_1503;Area 1503;0;;6
-1504;fu_state_area_generated_1504;Area 1504;0;;6
-1505;fu_state_area_generated_1505;Area 1505;0;;6
+1504;fu_state_area_generated_1504;Area 1504;0;;8
+1505;fu_state_area_generated_1505;Area 1505;0;;7
 1506;fu_state_area_generated_1506;Area 1506;0;;6
 1507;fu_state_area_generated_1507;Area 1507;0;;6
-1508;fu_state_area_generated_1508;Area 1508;0;;6
-1509;fu_state_area_generated_1509;Area 1509;0;;6
+1508;fu_state_area_generated_1508;Area 1508;0;;8
+1509;fu_state_area_generated_1509;Area 1509;0;;8
 1510;fu_state_area_generated_1510;Area 1510;0;;6
 1511;fu_state_area_generated_1511;Area 1511;0;;6
 1512;fu_state_area_generated_1512;Area 1512;0;;6
-1513;fu_state_area_generated_1513;Area 1513;0;;6
-1514;fu_state_area_generated_1514;Area 1514;0;;7
+1513;fu_state_area_generated_1513;Area 1513;0;;1
+1514;fu_state_area_generated_1514;Area 1514;0;;6
 1515;fu_state_area_generated_1515;Area 1515;0;;6
 1516;fu_state_area_generated_1516;Area 1516;0;;6
 1517;fu_state_area_generated_1517;Area 1517;0;;6
@@ -1520,203 +1520,192 @@ eu4_area;internal_key;display_name;hoi4_state_id;hoi4_state_name;province_count
 1519;fu_state_area_generated_1519;Area 1519;0;;6
 1520;fu_state_area_generated_1520;Area 1520;0;;6
 1521;fu_state_area_generated_1521;Area 1521;0;;6
-1522;fu_state_area_generated_1522;Area 1522;0;;7
-1523;fu_state_area_generated_1523;Area 1523;0;;6
+1522;fu_state_area_generated_1522;Area 1522;0;;6
+1523;fu_state_area_generated_1523;Area 1523;0;;8
 1524;fu_state_area_generated_1524;Area 1524;0;;6
 1525;fu_state_area_generated_1525;Area 1525;0;;6
 1526;fu_state_area_generated_1526;Area 1526;0;;6
 1527;fu_state_area_generated_1527;Area 1527;0;;6
 1528;fu_state_area_generated_1528;Area 1528;0;;6
 1529;fu_state_area_generated_1529;Area 1529;0;;6
-1530;fu_state_area_generated_1530;Area 1530;0;;6
-1531;fu_state_area_generated_1531;Area 1531;0;;7
-1532;fu_state_area_generated_1532;Area 1532;0;;6
+1530;fu_state_area_generated_1530;Area 1530;0;;7
+1531;fu_state_area_344_2;Watermaster Domain;344;Watermaster Domain;6
+1532;fu_state_area_1156_2;South Démotagne;1156;South Démotagne;3
 1533;fu_state_area_generated_1533;Area 1533;0;;6
 1534;fu_state_area_generated_1534;Area 1534;0;;6
-1535;fu_state_area_generated_1535;Area 1535;0;;6
-1536;fu_state_area_generated_1536;Area 1536;0;;6
+1535;fu_state_area_generated_1535;Area 1535;0;;9
+1536;fu_state_area_1404;Solakean Sea Strait;1404;Solakean Sea Strait;6
 1537;fu_state_area_generated_1537;Area 1537;0;;6
-1538;fu_state_area_generated_1538;Area 1538;0;;8
-1539;fu_state_area_1404;Solakean Sea Strait;1404;Solakean Sea Strait;6
+1538;fu_state_area_generated_1538;Area 1538;0;;6
+1539;fu_state_area_generated_1539;Area 1539;0;;6
 1540;fu_state_area_generated_1540;Area 1540;0;;6
-1541;fu_state_area_generated_1541;Area 1541;0;;8
-1542;fu_state_area_generated_1542;Area 1542;0;;6
-1543;fu_state_area_828;Baie Lunaire;828;Baie Lunaire;6
-1544;fu_state_area_generated_1544;Area 1544;0;;6
+1541;fu_state_area_1402;Solkatzia Bridge (SW);1402;Solkatzia Bridge (SW);8
+1542;fu_state_area_829;Halile Septentrionale;829;Halile Septentrionale;6
+1543;fu_state_area_generated_1543;Area 1543;0;;6
+1544;fu_state_area_1023;Saumurie;1023;Saumurie;4
 1545;fu_state_area_generated_1545;Area 1545;0;;6
-1546;fu_state_area_generated_1546;Area 1546;0;;8
-1547;fu_state_area_generated_1547;Area 1547;0;;6
+1546;fu_state_area_generated_1546;Area 1546;0;;7
+1547;fu_state_area_generated_1547;Area 1547;0;;3
 1548;fu_state_area_generated_1548;Area 1548;0;;6
-1549;fu_state_area_generated_1549;Area 1549;0;;6
-1550;fu_state_area_generated_1550;Area 1550;0;;6
-1551;fu_state_area_generated_1551;Area 1551;0;;6
+1549;fu_state_area_1401;Solkatzia Bridge (N);1401;Solkatzia Bridge (N);6
+1550;fu_state_area_generated_1550;Area 1550;0;;5
+1551;fu_state_area_generated_1551;Area 1551;0;;4
 1552;fu_state_area_generated_1552;Area 1552;0;;6
-1553;fu_state_area_generated_1553;Area 1553;0;;3
-1554;fu_state_area_generated_1554;Area 1554;0;;6
+1553;fu_state_area_generated_1553;Area 1553;0;;6
+1554;fu_state_area_generated_1554;Area 1554;0;;3
 1555;fu_state_area_generated_1555;Area 1555;0;;6
 1556;fu_state_area_generated_1556;Area 1556;0;;6
 1557;fu_state_area_generated_1557;Area 1557;0;;6
 1558;fu_state_area_generated_1558;Area 1558;0;;6
-1559;fu_state_area_generated_1559;Area 1559;0;;6
+1559;fu_state_area_898_2;Narnburg;898;Narnburg;6
 1560;fu_state_area_generated_1560;Area 1560;0;;6
-1561;fu_state_area_generated_1561;Area 1561;0;;7
-1562;fu_state_area_generated_1562;Area 1562;0;;8
+1561;fu_state_area_generated_1561;Area 1561;0;;6
+1562;fu_state_area_generated_1562;Area 1562;0;;6
 1563;fu_state_area_generated_1563;Area 1563;0;;6
-1564;fu_state_area_generated_1564;Area 1564;0;;3
-1565;fu_state_area_generated_1565;Area 1565;0;;4
+1564;fu_state_area_generated_1564;Area 1564;0;;6
+1565;fu_state_area_generated_1565;Area 1565;0;;6
 1566;fu_state_area_generated_1566;Area 1566;0;;6
-1567;fu_state_area_1401;Solkatzia Bridge (N);1401;Solkatzia Bridge (N);6
-1568;fu_state_area_generated_1568;Area 1568;0;;7
-1569;fu_state_area_generated_1569;Area 1569;0;;4
-1570;fu_state_area_generated_1570;Area 1570;0;;4
-1571;fu_state_area_generated_1571;Area 1571;0;;3
-1572;fu_state_area_generated_1572;Area 1572;0;;7
-1573;fu_state_area_898_2;Narnburg;898;Narnburg;6
-1574;fu_state_area_generated_1574;Area 1574;0;;6
+1567;fu_state_area_generated_1567;Area 1567;0;;6
+1568;fu_state_area_generated_1568;Area 1568;0;;5
+1569;fu_state_area_generated_1569;Area 1569;0;;6
+1570;fu_state_area_generated_1570;Area 1570;0;;6
+1571;fu_state_area_generated_1571;Area 1571;0;;6
+1572;fu_state_area_generated_1572;Area 1572;0;;4
+1573;fu_state_area_generated_1573;Area 1573;0;;6
+1574;fu_state_area_generated_1574;Area 1574;0;;7
 1575;fu_state_area_generated_1575;Area 1575;0;;6
-1576;fu_state_area_generated_1576;Area 1576;0;;7
-1577;fu_state_area_generated_1577;Area 1577;0;;6
-1578;fu_state_area_generated_1578;Area 1578;0;;6
-1579;fu_state_area_generated_1579;Area 1579;0;;6
-1580;fu_state_area_generated_1580;Area 1580;0;;7
-1581;fu_state_area_generated_1581;Area 1581;0;;6
-1582;fu_state_area_generated_1582;Area 1582;0;;6
-1583;fu_state_area_generated_1583;Area 1583;0;;4
-1584;fu_state_area_generated_1584;Area 1584;0;;6
-1585;fu_state_area_generated_1585;Area 1585;0;;3
-1586;fu_state_area_generated_1586;Area 1586;0;;4
-1587;fu_state_area_generated_1587;Area 1587;0;;1
-1588;fu_state_area_generated_1588;Area 1588;0;;1
-1589;fu_state_area_generated_1589;Area 1589;0;;1
-1590;fu_state_area_183;Sud-Katspianmeer;183;Sud-Katspianmeer;5
-1591;fu_state_area_generated_1591;Area 1591;0;;1
-1592;fu_state_area_467_4;Broukburn;467;Broukburn;1
-1593;fu_state_area_1072_2;Meagas;1072;Meagas;1
-1594;fu_state_area_569_2;Zawrich;569;Zawrich;1
-1595;fu_state_area_1077_2;Podomia;1077;Podomia;1
-1596;fu_state_area_1290_2;Rowninalesna;1290;Rowninalesna;1
-1597;fu_state_area_1073_4;Lakshire;1073;Lakshire;1
-1598;fu_state_area_1073_5;Lakshire;1073;Lakshire;1
-1599;fu_state_area_77_2;Flerk;77;Flerk;1
-1600;fu_state_area_1251_2;East Crabby Shores;1251;East Crabby Shores;1
-1601;fu_state_area_1251_3;East Crabby Shores;1251;East Crabby Shores;1
-1602;fu_state_area_1251_4;East Crabby Shores;1251;East Crabby Shores;1
-1603;fu_state_area_1244_2;South Central Ezicania;1244;South Central Ezicania;1
-1604;fu_state_area_53_2;West Western Ejac;53;West Western Ejac;1
-1605;fu_state_area_1243_2;East Central Ezicania;1243;East Central Ezicania;1
-1606;fu_state_area_1254_3;North Flerk;1254;North Flerk;1
-1607;fu_state_area_1219_2;Near South Northern Ezicania;1219;Near South Northern Ezicania;1
-1608;fu_state_area_1486_2;Far West Fodaria 2;1486;Far West Fodaria 2;1
-1609;fu_state_area_549_2;Katnemasse;549;Katnemasse;1
-1610;fu_state_area_918_2;Belkansavet;918;Belkansavet;1
-1611;fu_state_area_924_2;Hopplandesk;924;Hopplandesk;1
-1612;fu_state_area_1550_2;East Fodaria 6;1550;East Fodaria 6;1
-1613;fu_state_area_1253_2;Urscid Hollows;1253;Urscid Hollows;1
-1614;fu_state_area_1261_2;Fort Bear;1261;Fort Bear;1
-1615;fu_state_area_597_2;Sudflutstadt;597;Sudflutstadt;1
-1616;fu_state_area_150_2;Khesedien;150;Khesedien;1
-1617;fu_state_area_160;Far North Ezicania Pass;160;Far North Ezicania Pass;1
-1618;fu_state_area_129_3;Warm Springs;129;Warm Springs;1
-1619;fu_state_area_1253_3;Urscid Hollows;1253;Urscid Hollows;1
-1620;fu_state_area_1255_2;Honey Pass;1255;Honey Pass;1
-1621;fu_state_area_907_2;Nerva;907;Nerva;1
-1622;fu_state_area_1258_2;Big Rock;1258;Big Rock;1
-1623;fu_state_area_1237_2;Old Bearia;1237;Old Bearia;1
-1624;fu_state_area_1508_2;Far South Fodaria 9;1508;Far South Fodaria 9;1
-1625;fu_state_area_610_3;Titanus;610;Titanus;1
-1626;fu_state_area_979_2;The Dish;979;The Dish;1
-1627;fu_state_area_1151_2;West Cize;1151;West Cize;1
-1628;fu_state_area_178_2;Flusojdina;178;Flusojdina;1
-1629;fu_state_area_1531_2;Pincarograd;1531;Pincarograd;1
-1630;fu_state_area_1537_2;Alabaster;1537;Alabaster;1
-1631;fu_state_area_999_2;Zorud Tal;999;Zorud Tal;1
-1632;fu_state_area_1232_2;East Svitankovia;1232;East Svitankovia;1
-1633;fu_state_area_193_2;Far West Southern Stollparche;193;Far West Southern Stollparche;1
-1634;fu_state_area_498_3;Hammerhand;498;Hammerhand;1
-1635;fu_state_area_606_3;Nitros;606;Nitros;1
-1636;fu_state_area_1000_2;Ad Khagaroth;1000;Ad Khagaroth;1
-1637;fu_state_area_1231_2;East Bearlin;1231;East Bearlin;1
-1638;fu_state_area_929_2;Novemberstadt;929;Novemberstadt;1
-1639;fu_state_area_498_4;Hammerhand;498;Hammerhand;1
-1640;fu_state_area_928_2;Lake Ballatonne;928;Lake Ballatonne;1
-1641;fu_state_area_1524;North Fodaria 10;1524;North Fodaria 10;1
-1642;fu_state_area_613_2;Sudbergen;613;Sudbergen;1
-1643;fu_state_area_1223_3;Bearton;1223;Bearton;1
-1644;fu_state_area_1051_3;Sudkronk;1051;Sudkronk;1
-1645;fu_state_area_200_3;Krazan;200;Krazan;1
-1646;fu_state_area_1230_2;Salmion;1230;Salmion;1
-1647;fu_state_area_1213_3;Rhayman;1213;Rhayman;1
-1648;fu_state_area_212_2;Jérezucar;212;Jérezucar;1
-1649;fu_state_area_1189_3;Pastelona;1189;Pastelona;1
-1650;fu_state_area_946_2;Palikova Interlakia;946;Palikova Interlakia;1
-1651;fu_state_area_607_3;Ajax;607;Ajax;1
-1652;fu_state_area_generated_1652;Area 1652;0;;1
-1653;fu_state_area_1494_2;Lower Amphibia 10;1494;Lower Amphibia 10;1
-1654;fu_state_area_1195_2;S'jet;1195;S'jet;1
-1655;fu_state_area_1210_3;Bakecaramangé;1210;Bakecaramangé;1
-1656;fu_state_area_1058_2;Leónduja;1058;Leónduja;1
-1657;fu_state_area_1506_3;Lower Neminia 7;1506;Lower Neminia 7;1
-1658;fu_state_area_1210_4;Bakecaramangé;1210;Bakecaramangé;1
-1659;fu_state_area_1156_2;South Démotagne;1156;South Démotagne;1
-1660;fu_state_area_1374_2;Ponedresa;1374;Ponedresa;1
-1661;fu_state_area_233_2;Northern Nekaston;233;Northern Nekaston;1
-1662;fu_state_area_501_4;North Myriad;501;North Myriad;1
-1663;fu_state_area_501_5;North Myriad;501;North Myriad;1
-1664;fu_state_area_1359_2;Armealnia;1359;Armealnia;1
-1665;fu_state_area_1056_2;East Kobalt;1056;East Kobalt;1
-1666;fu_state_area_501_6;North Myriad;501;North Myriad;1
-1667;fu_state_area_243;Catgirland;243;Catgirland;1
-1668;fu_state_area_1360_2;Baguetta;1360;Baguetta;1
-1669;fu_state_area_501_7;North Myriad;501;North Myriad;1
-1670;fu_state_area_503_2;Bloozega;503;Bloozega;1
-1671;fu_state_area_1058_3;Leónduja;1058;Leónduja;1
-1672;fu_state_area_1137_2;Queensberg;1137;Queensberg;1
-1673;fu_state_area_1057_2;Panplona;1057;Panplona;1
-1674;fu_state_area_1057_3;Panplona;1057;Panplona;1
-1675;fu_state_area_1057_4;Panplona;1057;Panplona;1
-1676;fu_state_area_799_2;Septentri;799;Septentri;1
-1677;fu_state_area_263_4;Great Vardalv;263;Great Vardalv;1
-1678;fu_state_area_1186_2;Granajón;1186;Granajón;1
-1679;fu_state_area_263_5;Great Vardalv;263;Great Vardalv;1
-1680;fu_state_area_295_2;Latarada;295;Latarada;1
-1681;fu_state_area_1136_3;Beeronx;1136;Beeronx;1
-1682;fu_state_area_1140_2;Buzzlyn;1140;Buzzlyn;1
-1683;fu_state_area_1192_3;Crumbrid;1192;Crumbrid;1
-1684;fu_state_area_1142_2;Bensonlak;1142;Bensonlak;1
-1685;fu_state_area_199_2;Boiler Town;199;Boiler Town;1
-1686;fu_state_area_847_2;Gtuntuh;847;Gtuntuh;1
-1687;fu_state_area_316_2;Franckfort;316;Franckfort;1
-1688;fu_state_area_1178_2;Lisbonbon;1178;Lisbonbon;1
-1689;fu_state_area_1432_2;Central Kharna 8;1432;Central Kharna 8;1
-1690;fu_state_area_848;Katernkanta;848;Katernkanta;1
-1691;fu_state_area_1132_3;Steaming Lake;1132;Steaming Lake;1
-1692;fu_state_area_1184_3;Bakecelona;1184;Bakecelona;1
-1693;fu_state_area_1133_2;Hymnburg;1133;Hymnburg;1
-1694;fu_state_area_1180_2;Rodridough;1180;Rodridough;1
-1695;fu_state_area_288_2;Doughvila;288;Doughvila;1
-1696;fu_state_area_330_3;Novastaati;330;Novastaati;1
-1697;fu_state_area_1202_2;Burgeros;1202;Burgeros;1
-1698;fu_state_area_1205_3;Meghaduta;1205;Meghaduta;1
-1699;fu_state_area_310_3;Far East Monke Slopes 4;310;Far East Monke Slopes 4;1
-1700;fu_state_area_333;Felinensee;333;Felinensee;1
-1701;fu_state_area_335_2;Aricrest;335;Aricrest;1
-1702;fu_state_area_353_3;West Dazhungli;353;West Dazhungli;1
-1703;fu_state_area_1206_3;Jharuna;1206;Jharuna;1
-1704;fu_state_area_818;Goaghan Lake;818;Goaghan Lake;1
-1705;fu_state_area_generated_1705;Area 1705;0;;1
-1706;fu_state_area_1134_2;Near West Great Hill;1134;Near West Great Hill;1
-1707;fu_state_area_721_2;Ailesainque;721;Ailesainque;1
-1708;fu_state_area_1215_2;Near North Great Hill;1215;Near North Great Hill;1
-1709;fu_state_area_841;Garyxia;841;Garyxia;1
-1710;fu_state_area_720_2;Xuhre;720;Xuhre;1
-1711;fu_state_area_359_2;Lakeside City;359;Lakeside City;1
-1712;fu_state_area_generated_1712;Area 1712;0;;1
-1713;fu_state_area_1348_2;Lanterien;1348;Lanterien;1
-1714;fu_state_area_1350;Ottre;1350;Ottre;1
-1715;fu_state_area_958_3;Lairen;958;Lairen;1
-1716;fu_state_area_407_2;Zeeland;407;Zeeland;1
-1717;fu_state_area_1352_2;Kambosland;1352;Kambosland;1
-1718;fu_state_area_365_2;Lesser Lake;365;Lesser Lake;1
-1719;fu_state_area_420_2;Western Hushed Forest;420;Western Hushed Forest;1
-1720;fu_state_area_874_2;Neufennhause;874;Neufennhause;1
-1721;fu_state_area_generated_1721;Area 1721;0;;1
+1576;fu_state_area_generated_1576;Area 1576;0;;1
+1577;fu_state_area_generated_1577;Area 1577;0;;1
+1578;fu_state_area_183;Sud-Katspianmeer;183;Sud-Katspianmeer;8
+1579;fu_state_area_generated_1579;Area 1579;0;;2
+1580;fu_state_area_generated_1580;Area 1580;0;;3
+1581;fu_state_area_467_5;Broukburn;467;Broukburn;1
+1582;fu_state_area_1072_2;Meagas;1072;Meagas;1
+1583;fu_state_area_569_2;Zawrich;569;Zawrich;1
+1584;fu_state_area_1077_2;Podomia;1077;Podomia;1
+1585;fu_state_area_1290_2;Rowninalesna;1290;Rowninalesna;1
+1586;fu_state_area_1073_4;Lakshire;1073;Lakshire;1
+1587;fu_state_area_1073_5;Lakshire;1073;Lakshire;1
+1588;fu_state_area_77_2;Flerk;77;Flerk;1
+1589;fu_state_area_1251_2;East Crabby Shores;1251;East Crabby Shores;1
+1590;fu_state_area_1251_3;East Crabby Shores;1251;East Crabby Shores;1
+1591;fu_state_area_1251_4;East Crabby Shores;1251;East Crabby Shores;1
+1592;fu_state_area_1244_2;South Central Ezicania;1244;South Central Ezicania;1
+1593;fu_state_area_53_2;West Western Ejac;53;West Western Ejac;1
+1594;fu_state_area_1243_2;East Central Ezicania;1243;East Central Ezicania;1
+1595;fu_state_area_1254_3;North Flerk;1254;North Flerk;1
+1596;fu_state_area_1219_2;Near South Northern Ezicania;1219;Near South Northern Ezicania;1
+1597;fu_state_area_1486_2;Far West Fodaria 2;1486;Far West Fodaria 2;1
+1598;fu_state_area_549_2;Katnemasse;549;Katnemasse;1
+1599;fu_state_area_918_2;Belkansavet;918;Belkansavet;1
+1600;fu_state_area_924_2;Hopplandesk;924;Hopplandesk;1
+1601;fu_state_area_1550_2;East Fodaria 6;1550;East Fodaria 6;1
+1602;fu_state_area_1253_2;Urscid Hollows;1253;Urscid Hollows;1
+1603;fu_state_area_1261_2;Fort Bear;1261;Fort Bear;1
+1604;fu_state_area_597_2;Sudflutstadt;597;Sudflutstadt;1
+1605;fu_state_area_150_2;Khesedien;150;Khesedien;1
+1606;fu_state_area_160;Far North Ezicania Pass;160;Far North Ezicania Pass;1
+1607;fu_state_area_129_3;Warm Springs;129;Warm Springs;1
+1608;fu_state_area_1253_3;Urscid Hollows;1253;Urscid Hollows;1
+1609;fu_state_area_1255_2;Honey Pass;1255;Honey Pass;1
+1610;fu_state_area_907_2;Nerva;907;Nerva;1
+1611;fu_state_area_1258_2;Big Rock;1258;Big Rock;1
+1612;fu_state_area_1237_2;Old Bearia;1237;Old Bearia;1
+1613;fu_state_area_1508_2;Far South Fodaria 9;1508;Far South Fodaria 9;1
+1614;fu_state_area_610_3;Titanus;610;Titanus;1
+1615;fu_state_area_979_2;The Dish;979;The Dish;1
+1616;fu_state_area_1151_2;West Cize;1151;West Cize;1
+1617;fu_state_area_178_2;Flusojdina;178;Flusojdina;1
+1618;fu_state_area_1531_2;Pincarograd;1531;Pincarograd;1
+1619;fu_state_area_1537_2;Alabaster;1537;Alabaster;1
+1620;fu_state_area_999_2;Zorud Tal;999;Zorud Tal;1
+1621;fu_state_area_1232_2;East Svitankovia;1232;East Svitankovia;1
+1622;fu_state_area_193_2;Far West Southern Stollparche;193;Far West Southern Stollparche;1
+1623;fu_state_area_498_3;Hammerhand;498;Hammerhand;1
+1624;fu_state_area_606_3;Nitros;606;Nitros;1
+1625;fu_state_area_1000_2;Ad Khagaroth;1000;Ad Khagaroth;1
+1626;fu_state_area_1231_2;East Bearlin;1231;East Bearlin;1
+1627;fu_state_area_929_2;Novemberstadt;929;Novemberstadt;1
+1628;fu_state_area_498_4;Hammerhand;498;Hammerhand;1
+1629;fu_state_area_928_2;Lake Ballatonne;928;Lake Ballatonne;1
+1630;fu_state_area_1524;North Fodaria 10;1524;North Fodaria 10;1
+1631;fu_state_area_613_2;Sudbergen;613;Sudbergen;1
+1632;fu_state_area_1223_3;Bearton;1223;Bearton;1
+1633;fu_state_area_1051_2;Sudkronk;1051;Sudkronk;1
+1634;fu_state_area_200_3;Krazan;200;Krazan;1
+1635;fu_state_area_1230_2;Salmion;1230;Salmion;1
+1636;fu_state_area_1213_3;Rhayman;1213;Rhayman;1
+1637;fu_state_area_212_2;Jérezucar;212;Jérezucar;1
+1638;fu_state_area_1189_3;Pastelona;1189;Pastelona;1
+1639;fu_state_area_946_2;Palikova Interlakia;946;Palikova Interlakia;1
+1640;fu_state_area_607_3;Ajax;607;Ajax;1
+1641;fu_state_area_generated_1641;Area 1641;0;;1
+1642;fu_state_area_1494_2;Lower Amphibia 10;1494;Lower Amphibia 10;1
+1643;fu_state_area_1195_2;S'jet;1195;S'jet;1
+1644;fu_state_area_1210_3;Bakecaramangé;1210;Bakecaramangé;1
+1645;fu_state_area_1058_2;Leónduja;1058;Leónduja;1
+1646;fu_state_area_1506_3;Lower Neminia 7;1506;Lower Neminia 7;1
+1647;fu_state_area_1210_4;Bakecaramangé;1210;Bakecaramangé;1
+1648;fu_state_area_1156_3;South Démotagne;1156;South Démotagne;1
+1649;fu_state_area_1374_2;Ponedresa;1374;Ponedresa;1
+1650;fu_state_area_233_2;Northern Nekaston;233;Northern Nekaston;1
+1651;fu_state_area_501_3;North Myriad;501;North Myriad;1
+1652;fu_state_area_501_4;North Myriad;501;North Myriad;1
+1653;fu_state_area_1359_2;Armealnia;1359;Armealnia;1
+1654;fu_state_area_1056_2;East Kobalt;1056;East Kobalt;1
+1655;fu_state_area_501_5;North Myriad;501;North Myriad;1
+1656;fu_state_area_243_2;Catgirland;243;Catgirland;1
+1657;fu_state_area_1360_2;Baguetta;1360;Baguetta;1
+1658;fu_state_area_501_6;North Myriad;501;North Myriad;1
+1659;fu_state_area_503_2;Bloozega;503;Bloozega;1
+1660;fu_state_area_1058_3;Leónduja;1058;Leónduja;1
+1661;fu_state_area_1137_2;Queensberg;1137;Queensberg;1
+1662;fu_state_area_1057_2;Panplona;1057;Panplona;1
+1663;fu_state_area_1057_3;Panplona;1057;Panplona;1
+1664;fu_state_area_1057_4;Panplona;1057;Panplona;1
+1665;fu_state_area_799_2;Septentri;799;Septentri;1
+1666;fu_state_area_263_4;Great Vardalv;263;Great Vardalv;1
+1667;fu_state_area_1186_2;Granajón;1186;Granajón;1
+1668;fu_state_area_263_5;Great Vardalv;263;Great Vardalv;1
+1669;fu_state_area_295_2;Latarada;295;Latarada;1
+1670;fu_state_area_1136_3;Beeronx;1136;Beeronx;1
+1671;fu_state_area_1140_2;Buzzlyn;1140;Buzzlyn;1
+1672;fu_state_area_1192_3;Crumbrid;1192;Crumbrid;1
+1673;fu_state_area_1142_2;Bensonlak;1142;Bensonlak;1
+1674;fu_state_area_199_2;Boiler Town;199;Boiler Town;1
+1675;fu_state_area_847_2;Gtuntuh;847;Gtuntuh;1
+1676;fu_state_area_316_2;Franckfort;316;Franckfort;1
+1677;fu_state_area_1178_2;Lisbonbon;1178;Lisbonbon;1
+1678;fu_state_area_1432_2;Central Kharna 8;1432;Central Kharna 8;1
+1679;fu_state_area_848;Katernkanta;848;Katernkanta;1
+1680;fu_state_area_1132_3;Steaming Lake;1132;Steaming Lake;1
+1681;fu_state_area_1184_3;Bakecelona;1184;Bakecelona;1
+1682;fu_state_area_1133_2;Hymnburg;1133;Hymnburg;1
+1683;fu_state_area_1180_2;Rodridough;1180;Rodridough;1
+1684;fu_state_area_288_2;Doughvila;288;Doughvila;1
+1685;fu_state_area_330_3;Novastaati;330;Novastaati;1
+1686;fu_state_area_1202_2;Burgeros;1202;Burgeros;1
+1687;fu_state_area_1205_3;Meghaduta;1205;Meghaduta;1
+1688;fu_state_area_310_3;Far East Monke Slopes 4;310;Far East Monke Slopes 4;1
+1689;fu_state_area_333;Felinensee;333;Felinensee;1
+1690;fu_state_area_335_2;Aricrest;335;Aricrest;1
+1691;fu_state_area_353_3;West Dazhungli;353;West Dazhungli;1
+1692;fu_state_area_1206_3;Jharuna;1206;Jharuna;1
+1693;fu_state_area_818;Goaghan Lake;818;Goaghan Lake;1
+1694;fu_state_area_generated_1694;Area 1694;0;;1
+1695;fu_state_area_1134_2;Near West Great Hill;1134;Near West Great Hill;1
+1696;fu_state_area_721_2;Ailesainque;721;Ailesainque;1
+1697;fu_state_area_1215_2;Near North Great Hill;1215;Near North Great Hill;1
+1698;fu_state_area_841;Garyxia;841;Garyxia;1
+1699;fu_state_area_720_2;Xuhre;720;Xuhre;1
+1700;fu_state_area_359_2;Lakeside City;359;Lakeside City;1
+1701;fu_state_area_generated_1701;Area 1701;0;;1
+1702;fu_state_area_1348_2;Lanterien;1348;Lanterien;1
+1703;fu_state_area_1350;Ottre;1350;Ottre;1
+1704;fu_state_area_958_3;Lairen;958;Lairen;1
+1705;fu_state_area_407_2;Zeeland;407;Zeeland;1
+1706;fu_state_area_1352_2;Kambosland;1352;Kambosland;1
+1707;fu_state_area_365_2;Lesser Lake;365;Lesser Lake;1
+1708;fu_state_area_420_2;Western Hushed Forest;420;Western Hushed Forest;1
+1709;fu_state_area_874_2;Neufennhause;874;Neufennhause;1
+1710;fu_state_area_generated_1710;Area 1710;0;;1

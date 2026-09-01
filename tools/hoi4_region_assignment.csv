@@ -4,399 +4,406 @@ eu4_region;internal_key;display_name;hoi4_strategic_region_id;hoi4_strategic_reg
 3;fu_strategic_region_2;Greater Katown;2;Greater Katown;6
 4;fu_strategic_region_3;Meop;3;Meop;6
 5;fu_strategic_region_4;Tarrakis;4;Tarrakis;2
-6;fu_strategic_region_134;East Pawcific;134;East Pawcific;2
-7;fu_strategic_region_10;Pawmalay;10;Pawmalay;10
-8;fu_strategic_region_6;Angilian Peninsula;6;Angilian Peninsula;2
-9;fu_strategic_region_135;West Katlantic;135;West Katlantic;2
-10;fu_strategic_region_7;Blasterian Canal;7;Blasterian Canal;8
-11;fu_strategic_region_8;Cutelogne;8;Cutelogne;6
-12;fu_strategic_region_11;Pouchkinn Plains;11;Pouchkinn Plains;8
-13;fu_strategic_region_9;Pawris;9;Pawris;3
-14;fu_strategic_region_12;Pawmur-Clawtoust;12;Pawmur-Clawtoust;8
-15;fu_strategic_region_50;Islakatz;50;Islakatz;1
-16;fu_strategic_region_14;Clermeowth;14;Clermeowth;8
-17;fu_strategic_region_16;Auralia;16;Auralia;7
-18;fu_strategic_region_15;Elowia;15;Elowia;6
-19;fu_strategic_region_26;Northern Katzen Mountains;26;Northern Katzen Mountains;6
-20;fu_strategic_region_17;Meopinstaat;17;Meopinstaat;4
-21;fu_strategic_region_26_2;Northern Katzen Mountains;26;Northern Katzen Mountains;4
-22;fu_strategic_region_18;Frankfurr;18;Frankfurr;7
-23;fu_strategic_region_29;Furrballeares;29;Furrballeares;1
-24;fu_strategic_region_19;Purrsia;19;Purrsia;7
-25;fu_strategic_region_20;Neu-Kibbles;20;Neu-Kibbles;7
-26;fu_strategic_region_21;Pawscow;21;Pawscow;4
-27;fu_strategic_region_138;Eastern Sun Sea;138;Eastern Sun Sea;1
-28;fu_strategic_region_22;Northern Sobakiland;22;Northern Sobakiland;6
-29;fu_strategic_region_22_2;Northern Sobakiland;22;Northern Sobakiland;3
-30;fu_strategic_region_136;Blasterian Approaches;136;Blasterian Approaches;2
-31;fu_strategic_region_23;Ostkreuz;23;Ostkreuz;6
-32;fu_strategic_region_147;Highest Sea;147;Highest Sea;1
-33;fu_strategic_region_30;Itchiloo;30;Itchiloo;6
-34;fu_strategic_region_25;Tailsbaden;25;Tailsbaden;7
-35;fu_strategic_region_30_2;Itchiloo;30;Itchiloo;3
-36;fu_strategic_region_27;Los Kibbles;27;Los Kibbles;7
-37;fu_strategic_region_28;Feline Sea;28;Feline Sea;1
-38;fu_strategic_region_31;Lionsburg;31;Lionsburg;6
-39;fu_strategic_region_31_2;Lionsburg;31;Lionsburg;5
-40;fu_strategic_region_101;Roqualian Approaches;101;Roqualian Approaches;1
-41;fu_strategic_region_32;Neu-Mewxico;32;Neu-Mewxico;6
-42;fu_strategic_region_32_2;Neu-Mewxico;32;Neu-Mewxico;4
-43;fu_strategic_region_139;Kastran Approaches;139;Kastran Approaches;1
-44;fu_strategic_region_40;Meowfelde;40;Meowfelde;10
-45;fu_strategic_region_131;Nitros;131;Nitros;5
-46;fu_strategic_region_131_2;Nitros;131;Nitros;2
-47;fu_strategic_region_131_3;Nitros;131;Nitros;6
-48;fu_strategic_region_131_4;Nitros;131;Nitros;2
-49;fu_strategic_region_131_5;Nitros;131;Nitros;2
-50;fu_strategic_region_131_6;Nitros;131;Nitros;1
-51;fu_strategic_region_105;Mount Izwae;105;Mount Izwae;7
-52;fu_strategic_region_35;Bryumen;35;Bryumen;6
-53;fu_strategic_region_37;Solagnaw;37;Solagnaw;6
-54;fu_strategic_region_36;Katzen Hills;36;Katzen Hills;7
-55;fu_strategic_region_36_2;Katzen Hills;36;Katzen Hills;7
-56;fu_strategic_region_38;Meownich;38;Meownich;7
-57;fu_strategic_region_43;Lionita;43;Lionita;6
-58;fu_strategic_region_39;Catburg;39;Catburg;9
-59;fu_strategic_region_41;Feline Frontier;41;Feline Frontier;6
-60;fu_strategic_region_42;Gruyettburg;42;Gruyettburg;4
-61;fu_strategic_region_42_2;Gruyettburg;42;Gruyettburg;1
-62;fu_strategic_region_44;Catpine Range;44;Catpine Range;8
-63;fu_strategic_region_45;Struken;45;Struken;4
-64;fu_strategic_region_46;Felinda;46;Felinda;3
-65;fu_strategic_region_123;Ezikatzen Sea;123;Ezikatzen Sea;1
-66;fu_strategic_region_48;Ezikanien;48;Ezikanien;10
-67;fu_strategic_region_49;Mediamus;49;Mediamus;6
-68;fu_strategic_region_126;Pawldrin Island;126;Pawldrin Island;2
-69;fu_strategic_region_141;Rustalia;141;Rustalia;8
-70;fu_strategic_region_52;Low Sea;52;Low Sea;1
-71;fu_strategic_region_141_2;Rustalia;141;Rustalia;6
-72;fu_strategic_region_54;Kusnurkia;54;Kusnurkia;8
-73;fu_strategic_region_54_2;Kusnurkia;54;Kusnurkia;1
-74;fu_strategic_region_55;Gallopia;55;Gallopia;8
-75;fu_strategic_region_63;Pegasia;63;Pegasia;3
+6;fu_strategic_region_134;East Pawcific;134;East Pawcific;1
+7;fu_strategic_region_5;Meowemberg;5;Meowemberg;3
+8;fu_strategic_region_270;Pawcific-Katlantic Ridge;270;Pawcific-Katlantic Ridge;1
+9;fu_strategic_region_6;Angilian Peninsula;6;Angilian Peninsula;2
+10;fu_strategic_region_135;West Katlantic;135;West Katlantic;1
+11;fu_strategic_region_7;Blasterian Canal;7;Blasterian Canal;8
+12;fu_strategic_region_8;Cutelogne;8;Cutelogne;6
+13;fu_strategic_region_11;Pouchkinn Plains;11;Pouchkinn Plains;8
+14;fu_strategic_region_9;Pawris;9;Pawris;3
+15;fu_strategic_region_12;Pawmur-Clawtoust;12;Pawmur-Clawtoust;7
+16;fu_strategic_region_10;Pawmalay;10;Pawmalay;8
+17;fu_strategic_region_14;Clermeowth;14;Clermeowth;8
+18;fu_strategic_region_16;Auralia;16;Auralia;7
+19;fu_strategic_region_15;Elowia;15;Elowia;6
+20;fu_strategic_region_26;Northern Katzen Mountains;26;Northern Katzen Mountains;6
+21;fu_strategic_region_17;Meopinstaat;17;Meopinstaat;4
+22;fu_strategic_region_26_2;Northern Katzen Mountains;26;Northern Katzen Mountains;4
+23;fu_strategic_region_18;Frankfurr;18;Frankfurr;7
+24;fu_strategic_region_29;Furrballeares;29;Furrballeares;1
+25;fu_strategic_region_19;Purrsia;19;Purrsia;7
+26;fu_strategic_region_20;Neu-Kibbles;20;Neu-Kibbles;7
+27;fu_strategic_region_21;Pawscow;21;Pawscow;4
+28;fu_strategic_region_138;Eastern Sun Sea;138;Eastern Sun Sea;3
+29;fu_strategic_region_22;Northern Sobakiland;22;Northern Sobakiland;6
+30;fu_strategic_region_22_2;Northern Sobakiland;22;Northern Sobakiland;3
+31;fu_strategic_region_137;Northeastern Sun Sea;137;Northeastern Sun Sea;2
+32;fu_strategic_region_23;Ostkreuz;23;Ostkreuz;6
+33;fu_strategic_region_147;Highest Sea;147;Highest Sea;1
+34;fu_strategic_region_52;Low Sea;52;Low Sea;2
+35;fu_strategic_region_30;Itchiloo;30;Itchiloo;6
+36;fu_strategic_region_25;Tailsbaden;25;Tailsbaden;7
+37;fu_strategic_region_30_2;Itchiloo;30;Itchiloo;3
+38;fu_strategic_region_27;Los Kibbles;27;Los Kibbles;7
+39;fu_strategic_region_28;Feline Sea;28;Feline Sea;2
+40;fu_strategic_region_31;Lionsburg;31;Lionsburg;6
+41;fu_strategic_region_31_2;Lionsburg;31;Lionsburg;2
+42;fu_strategic_region_101;Roqualian Approaches;101;Roqualian Approaches;1
+43;fu_strategic_region_31_3;Lionsburg;31;Lionsburg;3
+44;fu_strategic_region_32;Neu-Mewxico;32;Neu-Mewxico;9
+45;fu_strategic_region_102;Solakatzen Channel;102;Solakatzen Channel;1
+46;fu_strategic_region_40;Meowfelde;40;Meowfelde;10
+47;fu_strategic_region_131;Nitros;131;Nitros;6
+48;fu_strategic_region_131_2;Nitros;131;Nitros;3
+49;fu_strategic_region_131_3;Nitros;131;Nitros;5
+50;fu_strategic_region_131_4;Nitros;131;Nitros;2
+51;fu_strategic_region_131_5;Nitros;131;Nitros;1
+52;fu_strategic_region_35;Bryumen;35;Bryumen;7
+53;fu_strategic_region_139;Kastran Approaches;139;Kastran Approaches;1
+54;fu_strategic_region_35_2;Bryumen;35;Bryumen;4
+55;fu_strategic_region_37;Solagnaw;37;Solagnaw;6
+56;fu_strategic_region_36;Katzen Hills;36;Katzen Hills;7
+57;fu_strategic_region_36_2;Katzen Hills;36;Katzen Hills;7
+58;fu_strategic_region_38;Meownich;38;Meownich;7
+59;fu_strategic_region_43;Lionita;43;Lionita;6
+60;fu_strategic_region_39;Catburg;39;Catburg;9
+61;fu_strategic_region_41;Feline Frontier;41;Feline Frontier;6
+62;fu_strategic_region_42;Gruyettburg;42;Gruyettburg;4
+63;fu_strategic_region_42_2;Gruyettburg;42;Gruyettburg;1
+64;fu_strategic_region_44;Catpine Range;44;Catpine Range;8
+65;fu_strategic_region_45;Struken;45;Struken;4
+66;fu_strategic_region_46;Felinda;46;Felinda;3
+67;fu_strategic_region_123;Ezikatzen Sea;123;Ezikatzen Sea;2
+68;fu_strategic_region_48;Ezikanien;48;Ezikanien;10
+69;fu_strategic_region_49;Mediamus;49;Mediamus;4
+70;fu_strategic_region_124;Fishy Pass;124;Fishy Pass;2
+71;fu_strategic_region_273;Central Katlantic;273;Central Katlantic;2
+72;fu_strategic_region_54;Kusnurkia;54;Kusnurkia;5
+73;fu_strategic_region_51;Feline Gulf;51;Feline Gulf;2
+74;fu_strategic_region_63;Pegasia;63;Pegasia;6
+75;fu_strategic_region_55;Gallopia;55;Gallopia;6
 76;fu_strategic_region_56;Solaria;56;Solaria;6
 77;fu_strategic_region_57;Goatlandia;57;Goatlandia;5
 78;fu_strategic_region_57_2;Goatlandia;57;Goatlandia;1
-79;fu_strategic_region_57_3;Goatlandia;57;Goatlandia;4
-80;fu_strategic_region_58;Lesser Lake;58;Lesser Lake;7
-81;fu_strategic_region_79;Central Solakean Sea;79;Central Solakean Sea;2
+79;fu_strategic_region_57_3;Goatlandia;57;Goatlandia;3
+80;fu_strategic_region_58;Lesser Lake;58;Lesser Lake;6
+81;fu_strategic_region_77;Eastern Solakean Sea;77;Eastern Solakean Sea;3
 82;fu_strategic_region_59;Midi-Vidanie;59;Midi-Vidanie;3
-83;fu_strategic_region_77;Eastern Solakean Sea;77;Eastern Solakean Sea;1
-84;fu_strategic_region_61;Louquiobitumittie;61;Louquiobitumittie;9
-85;fu_strategic_region_60;Pink Sea;60;Pink Sea;1
-86;fu_strategic_region_64;Lutecie;64;Lutecie;9
-87;fu_strategic_region_66;Bocerie;66;Bocerie;7
-88;fu_strategic_region_69;Bruvergne;69;Bruvergne;8
-89;fu_strategic_region_68;Velardenne;68;Velardenne;6
-90;fu_strategic_region_145;Mer De Qualie;145;Mer De Qualie;1
-91;fu_strategic_region_70;Demotagne;70;Demotagne;3
-92;fu_strategic_region_144;Triplet Bay;144;Triplet Bay;1
-93;fu_strategic_region_72;Massif Roqual;72;Massif Roqual;7
-94;fu_strategic_region_72_2;Massif Roqual;72;Massif Roqual;2
-95;fu_strategic_region_71;Poitouamie;71;Poitouamie;2
-96;fu_strategic_region_73;Animequitaine;73;Animequitaine;7
-97;fu_strategic_region_78;Solakean Strait;78;Solakean Strait;1
-98;fu_strategic_region_76;Alkroan Peninsula;76;Alkroan Peninsula;6
-99;fu_strategic_region_76_2;Alkroan Peninsula;76;Alkroan Peninsula;3
-100;fu_strategic_region_96;Battlebuns Frontier;96;Battlebuns Frontier;6
-101;fu_strategic_region_82;Bunville;82;Bunville;7
-102;fu_strategic_region_83;Harelyne;83;Harelyne;8
-103;fu_strategic_region_82_2;Bunville;82;Bunville;6
-104;fu_strategic_region_84;Lalaland;84;Lalaland;7
-105;fu_strategic_region_192;Vasmar Channel;192;Vasmar Channel;1
-106;fu_strategic_region_85;Vasmar;85;Vasmar;9
-107;fu_strategic_region_87;Talsan'ar;87;Talsan'ar;6
-108;fu_strategic_region_86;Hushed Forest;86;Hushed Forest;1
-109;fu_strategic_region_88;Buncible;88;Buncible;10
-110;fu_strategic_region_94;Earthmaster Quarries;94;Earthmaster Quarries;10
-111;fu_strategic_region_91;Lakeside City;91;Lakeside City;8
-112;fu_strategic_region_91_2;Lakeside City;91;Lakeside City;1
-113;fu_strategic_region_93;Karrotia;93;Karrotia;3
-114;fu_strategic_region_251;Paluush Strait;251;Paluush Strait;1
-115;fu_strategic_region_95;Airmaster Sanctuaries;95;Airmaster Sanctuaries;10
-116;fu_strategic_region_97;Kepler;97;Kepler;6
-117;fu_strategic_region_98;Plaveta;98;Plaveta;7
-118;fu_strategic_region_98_2;Plaveta;98;Plaveta;4
-119;fu_strategic_region_109;Majakhemer;109;Majakhemer;9
-120;fu_strategic_region_99;Datlof;99;Datlof;1
-121;fu_strategic_region_108;The Valley;108;The Valley;8
-122;fu_strategic_region_103;Nekaston;103;Nekaston;7
-123;fu_strategic_region_103_2;Nekaston;103;Nekaston;2
-124;fu_strategic_region_119;Brekarya;119;Brekarya;7
-125;fu_strategic_region_104;Teryakr;104;Teryakr;2
-126;fu_strategic_region_206;Purrhelmshaven;206;Purrhelmshaven;7
-127;fu_strategic_region_206_2;Purrhelmshaven;206;Purrhelmshaven;1
-128;fu_strategic_region_115;Lundil;115;Lundil;9
-129;fu_strategic_region_146;Solstia;146;Solstia;10
-130;fu_strategic_region_113;Dov'Gil;113;Dov'Gil;8
-131;fu_strategic_region_112;Coltur;112;Coltur;4
-132;fu_strategic_region_205;Purrhelmshaven Shores;205;Purrhelmshaven Shores;1
-133;fu_strategic_region_114;Vauro;114;Vauro;2
-134;fu_strategic_region_203;Great Southern Sea;203;Great Southern Sea;2
-135;fu_strategic_region_116;Nacru;116;Nacru;9
-136;fu_strategic_region_116_2;Nacru;116;Nacru;1
-137;fu_strategic_region_118;Cerepisenia;118;Cerepisenia;5
-138;fu_strategic_region_171;Arivoshian Ocean;171;Arivoshian Ocean;2
-139;fu_strategic_region_140;Krokatzia;140;Krokatzia;6
-140;fu_strategic_region_140_2;Krokatzia;140;Krokatzia;5
-141;fu_strategic_region_120;Bryumen;120;Bryumen;5
-142;fu_strategic_region_121;Ooooex;121;Ooooex;4
-143;fu_strategic_region_124;Fishy Pass;124;Fishy Pass;1
-144;fu_strategic_region_122;Xoeken;122;Xoeken;5
-145;fu_strategic_region_125;Zuspriland;125;Zuspriland;6
-146;fu_strategic_region_125_2;Zuspriland;125;Zuspriland;6
-147;fu_strategic_region_125_3;Zuspriland;125;Zuspriland;3
-148;fu_strategic_region_274;East Katlantic;274;East Katlantic;4
-149;fu_strategic_region_129;Sudflutstadt;129;Sudflutstadt;5
-150;fu_strategic_region_129_2;Sudflutstadt;129;Sudflutstadt;1
-151;fu_strategic_region_132;Valaros;132;Valaros;6
-152;fu_strategic_region_132_2;Valaros;132;Valaros;1
-153;fu_strategic_region_383;Flusionea11;383;Flusionea11;6
-154;fu_strategic_region_383_2;Flusionea11;383;Flusionea11;3
-155;fu_strategic_region_133;Myriad;133;Myriad;6
-156;fu_strategic_region_133_2;Myriad;133;Myriad;2
-157;fu_strategic_region_383_3;Flusionea11;383;Flusionea11;4
-158;fu_strategic_region_383_4;Flusionea11;383;Flusionea11;2
-159;fu_strategic_region_142;Fleäderreich;142;Fleäderreich;3
-160;fu_strategic_region_137;Northeastern Sun Sea;137;Northeastern Sun Sea;1
-161;fu_strategic_region_241;Hyphaeicia;241;Hyphaeicia;9
-162;fu_strategic_region_143;Central Sun Sea;143;Central Sun Sea;1
-163;fu_strategic_region_153;Katteneiland;153;Katteneiland;6
-164;fu_strategic_region_153_2;Katteneiland;153;Katteneiland;5
-165;fu_strategic_region_155;Haranian Channel;155;Haranian Channel;4
-166;fu_strategic_region_154;West Katteneiland Sea;154;West Katteneiland Sea;2
-167;fu_strategic_region_156;Novaplatten Channel;156;Novaplatten Channel;1
-168;fu_strategic_region_157;Southern Arivoejan Ocean;157;Southern Arivoejan Ocean;3
-169;fu_strategic_region_158;Novhurst;158;Novhurst;7
-170;fu_strategic_region_361;Ballens;361;Ballens;3
-171;fu_strategic_region_159;Eulysses Bay;159;Eulysses Bay;1
-172;fu_strategic_region_161;Arivoejan Mountains;161;Arivoejan Mountains;6
-173;fu_strategic_region_160;The Swamplands;160;The Swamplands;6
-174;fu_strategic_region_160_2;The Swamplands;160;The Swamplands;1
-175;fu_strategic_region_161_2;Arivoejan Mountains;161;Arivoejan Mountains;5
-176;fu_strategic_region_161_3;Arivoejan Mountains;161;Arivoejan Mountains;2
-177;fu_strategic_region_160_3;The Swamplands;160;The Swamplands;2
-178;fu_strategic_region_160_4;The Swamplands;160;The Swamplands;1
-179;fu_strategic_region_164;Loutterian Peninsula;164;Loutterian Peninsula;4
-180;fu_strategic_region_164_2;Loutterian Peninsula;164;Loutterian Peninsula;2
-181;fu_strategic_region_162;Central Arivoejo;162;Central Arivoejo;6
-182;fu_strategic_region_164_3;Loutterian Peninsula;164;Loutterian Peninsula;5
-183;fu_strategic_region_166;East Kapland;166;East Kapland;5
-184;fu_strategic_region_163;Northern Ariveojan Oceans;163;Northern Ariveojan Oceans;3
-185;fu_strategic_region_165;West Kapland;165;West Kapland;6
-186;fu_strategic_region_169;Procione Heartlands;169;Procione Heartlands;6
-187;fu_strategic_region_333;Puffiland5;333;Puffiland5;3
-188;fu_strategic_region_169_2;Procione Heartlands;169;Procione Heartlands;3
-189;fu_strategic_region_216;Dhalmaciti;216;Dhalmaciti;5
-190;fu_strategic_region_170;Southern Pordoshian Strait;170;Southern Pordoshian Strait;1
-191;fu_strategic_region_172;Kipu;172;Kipu;8
-192;fu_strategic_region_175;Haranian Steppes;175;Haranian Steppes;6
-193;fu_strategic_region_174;Antero;174;Antero;4
-194;fu_strategic_region_177;Central Harania;177;Central Harania;6
-195;fu_strategic_region_179;Endless Gate;179;Endless Gate;1
-196;fu_strategic_region_204;Siina Sea;204;Siina Sea;1
-197;fu_strategic_region_182;Fenntown Tundra;182;Fenntown Tundra;2
-198;fu_strategic_region_181;Foxsnot;181;Foxsnot;2
-199;fu_strategic_region_187;Penglia;187;Penglia;3
-200;fu_strategic_region_185;Western Pinglandia;185;Western Pinglandia;3
-201;fu_strategic_region_254;Eastern Arivoshean Ocean;254;Eastern Arivoshean Ocean;1
-202;fu_strategic_region_291;Great Lake;291;Great Lake;3
-203;fu_strategic_region_304;Kronkstaat;304;Kronkstaat;8
-204;fu_strategic_region_196;Upper Crabspian Sea;196;Upper Crabspian Sea;2
-205;fu_strategic_region_310;Hydronien;310;Hydronien;6
-206;fu_strategic_region_310_2;Hydronien;310;Hydronien;1
-207;fu_strategic_region_301;Southern Enotita;301;Southern Enotita;6
-208;fu_strategic_region_301_2;Southern Enotita;301;Southern Enotita;6
-209;fu_strategic_region_200;Amfibien;200;Amfibien;6
-210;fu_strategic_region_303;Amphisk;303;Amphisk;6
-211;fu_strategic_region_200_2;Amfibien;200;Amfibien;6
-212;fu_strategic_region_371;Spri11;371;Spri11;6
-213;fu_strategic_region_371_2;Spri11;371;Spri11;1
-214;fu_strategic_region_207;Western Sueno Del Sol;207;Western Sueno Del Sol;6
-215;fu_strategic_region_259;Quivering Sea;259;Quivering Sea;3
-216;fu_strategic_region_208;Eastern Sueno Del Sol;208;Eastern Sueno Del Sol;3
-217;fu_strategic_region_228;Southern Flusiocean;228;Southern Flusiocean;1
-218;fu_strategic_region_209;Belkansavet;209;Belkansavet;3
-219;fu_strategic_region_229;Belkansavet Approaches;229;Belkansavet Approaches;3
-220;fu_strategic_region_215;Crngrad;215;Crngrad;9
-221;fu_strategic_region_211;Frusia;211;Frusia;7
-222;fu_strategic_region_213;Oredsk;213;Oredsk;6
-223;fu_strategic_region_213_2;Oredsk;213;Oredsk;1
-224;fu_strategic_region_217;Ballatonne Basin;217;Ballatonne Basin;4
-225;fu_strategic_region_217_2;Ballatonne Basin;217;Ballatonne Basin;2
-226;fu_strategic_region_214;Nerva;214;Nerva;3
-227;fu_strategic_region_214_2;Nerva;214;Nerva;2
-228;fu_strategic_region_218;Hivelands;218;Hivelands;4
-229;fu_strategic_region_253;Pengrak Waters;253;Pengrak Waters;1
-230;fu_strategic_region_220;Alraxia;220;Alraxia;5
-231;fu_strategic_region_224;Novoshian Shores;224;Novoshian Shores;6
-232;fu_strategic_region_221;Kirtikia;221;Kirtikia;1
-233;fu_strategic_region_315;Droogia2;315;Droogia2;7
-234;fu_strategic_region_248;Antophilia;248;Antophilia;8
-235;fu_strategic_region_248_2;Antophilia;248;Antophilia;2
-236;fu_strategic_region_225;New Novarat;225;New Novarat;3
-237;fu_strategic_region_230;Parelian Gulf;230;Parelian Gulf;1
-238;fu_strategic_region_234;Poltro Sea;234;Poltro Sea;4
-239;fu_strategic_region_235;Duuhr Sea;235;Duuhr Sea;4
-240;fu_strategic_region_256;Mercurian Gulf;256;Mercurian Gulf;3
-241;fu_strategic_region_256_2;Mercurian Gulf;256;Mercurian Gulf;2
-242;fu_strategic_region_256_3;Mercurian Gulf;256;Mercurian Gulf;2
-243;fu_strategic_region_268;West Pawcific;268;West Pawcific;3
-244;fu_strategic_region_239;Northern Altaria;239;Northern Altaria;6
-245;fu_strategic_region_237;Tiefland;237;Tiefland;6
-246;fu_strategic_region_239_2;Northern Altaria;239;Northern Altaria;2
-247;fu_strategic_region_240;Oervoud;240;Oervoud;5
-248;fu_strategic_region_240_2;Oervoud;240;Oervoud;1
-249;fu_strategic_region_238;Groundhogistan;238;Groundhogistan;5
-250;fu_strategic_region_238_2;Groundhogistan;238;Groundhogistan;1
-251;fu_strategic_region_242;Altarimen Roams;242;Altarimen Roams;7
-252;fu_strategic_region_316;Greater Saru;316;Greater Saru;9
-253;fu_strategic_region_245;Droogia;245;Droogia;6
-254;fu_strategic_region_245_2;Droogia;245;Droogia;1
-255;fu_strategic_region_323;Parelia2;323;Parelia2;8
-256;fu_strategic_region_324;Formicidea2;324;Formicidea2;5
-257;fu_strategic_region_324_2;Formicidea2;324;Formicidea2;2
-258;fu_strategic_region_247;Formicidea;247;Formicidea;4
-259;fu_strategic_region_247_2;Formicidea;247;Formicidea;1
-260;fu_strategic_region_322;Variitia2;322;Variitia2;5
-261;fu_strategic_region_322_2;Variitia2;322;Variitia2;2
-262;fu_strategic_region_249;Variitia;249;Variitia;4
-263;fu_strategic_region_249_2;Variitia;249;Variitia;2
-264;fu_strategic_region_250;Frusian Savannah;250;Frusian Savannah;7
-265;fu_strategic_region_326;Formicidea4;326;Formicidea4;1
-266;fu_strategic_region_252;Kerak;252;Kerak;5
-267;fu_strategic_region_327;Hivelands2;327;Hivelands2;6
-268;fu_strategic_region_388;Mercurian Panhandle;388;Mercurian Panhandle;4
-269;fu_strategic_region_255;Anatheman Waters;255;Anatheman Waters;1
-270;fu_strategic_region_260;Theian Sea;260;Theian Sea;2
-271;fu_strategic_region_262;Polarian Islands;262;Polarian Islands;2
-272;fu_strategic_region_261;Laurnaise Approaches;261;Laurnaise Approaches;2
-273;fu_strategic_region_263;Lux-Flupanian Waters;263;Lux-Flupanian Waters;1
-274;fu_strategic_region_279;Northwestern Flusiocean;279;Northwestern Flusiocean;3
-275;fu_strategic_region_264;Western Flusiocean;264;Western Flusiocean;1
-276;fu_strategic_region_275;Polar Flusiocean;275;Polar Flusiocean;3
-277;fu_strategic_region_278;Snowdonian Cape;278;Snowdonian Cape;4
-278;fu_strategic_region_300;Lebril;300;Lebril;7
-279;fu_strategic_region_266;Central Flusiocean;266;Central Flusiocean;2
-280;fu_strategic_region_385;Naturopolis Marshes;385;Naturopolis Marshes;9
-281;fu_strategic_region_267;Lake Mercurr;267;Lake Mercurr;1
-282;fu_strategic_region_282;Snowdonia;282;Snowdonia;8
-283;fu_strategic_region_269;North Mercurian Channel;269;North Mercurian Channel;1
-284;fu_strategic_region_282_2;Snowdonia;282;Snowdonia;3
-285;fu_strategic_region_282_3;Snowdonia;282;Snowdonia;1
-286;fu_strategic_region_269_2;North Mercurian Channel;269;North Mercurian Channel;2
-287;fu_strategic_region_270;Pawcific-Katlantic Ridge;270;Pawcific-Katlantic Ridge;2
-288;fu_strategic_region_387;Mercurian Mountains;387;Mercurian Mountains;8
-289;fu_strategic_region_272;Northwest Pawcific;272;Northwest Pawcific;1
-290;fu_strategic_region_290;Sanguine Hills;290;Sanguine Hills;5
-291;fu_strategic_region_273;Central Katlantic;273;Central Katlantic;1
-292;fu_strategic_region_294;Broukburn-Meagas;294;Broukburn-Meagas;5
-293;fu_strategic_region_294_2;Broukburn-Meagas;294;Broukburn-Meagas;1
-294;fu_strategic_region_294_3;Broukburn-Meagas;294;Broukburn-Meagas;6
-295;fu_strategic_region_294_4;Broukburn-Meagas;294;Broukburn-Meagas;1
-296;fu_strategic_region_294_5;Broukburn-Meagas;294;Broukburn-Meagas;3
-297;fu_strategic_region_276;Frigid Approaches;276;Frigid Approaches;1
-298;fu_strategic_region_386;Great Grove Ridge;386;Great Grove Ridge;6
-299;fu_strategic_region_277;Northeastern Flusiocean;277;Northeastern Flusiocean;1
-300;fu_strategic_region_280;Ibrumore;280;Ibrumore;9
-301;fu_strategic_region_299;Arkbus;299;Arkbus;6
-302;fu_strategic_region_280_2;Ibrumore;280;Ibrumore;1
-303;fu_strategic_region_281;Giant Metallic Hearts of Iron Divider;281;Giant Metallic Hearts of Iron Divider;1
-304;fu_strategic_region_295;Central Laurandar;295;Central Laurandar;6
-305;fu_strategic_region_295_2;Central Laurandar;295;Central Laurandar;1
-306;fu_strategic_region_295_3;Central Laurandar;295;Central Laurandar;4
-307;fu_strategic_region_285;Bramble Basins;285;Bramble Basins;6
-308;fu_strategic_region_286;The Dish;286;The Dish;6
-309;fu_strategic_region_286_2;The Dish;286;The Dish;1
-310;fu_strategic_region_289;Sand Kolechia;289;Sand Kolechia;6
-311;fu_strategic_region_287;Stone Kolechia;287;Stone Kolechia;6
-312;fu_strategic_region_288;Red Kolechia;288;Red Kolechia;5
-313;fu_strategic_region_288_2;Red Kolechia;288;Red Kolechia;2
-314;fu_strategic_region_382;Flusionea10;382;Flusionea10;5
-315;fu_strategic_region_382_2;Flusionea10;382;Flusionea10;2
-316;fu_strategic_region_384;X.I.R.;384;X.I.R.;9
-317;fu_strategic_region_297;Dredshire;297;Dredshire;7
-318;fu_strategic_region_296;Tatsania;296;Tatsania;7
-319;fu_strategic_region_297_2;Dredshire;297;Dredshire;6
-320;fu_strategic_region_297_3;Dredshire;297;Dredshire;2
-321;fu_strategic_region_341;Neuvoria;341;Neuvoria;6
-322;fu_strategic_region_341_2;Neuvoria;341;Neuvoria;2
-323;fu_strategic_region_298;Ejac;298;Ejac;6
-324;fu_strategic_region_302;Crabby Shores;302;Crabby Shores;6
-325;fu_strategic_region_342;Nordenland;342;Nordenland;5
-326;fu_strategic_region_342_2;Nordenland;342;Nordenland;2
-327;fu_strategic_region_342_3;Nordenland;342;Nordenland;2
-328;fu_strategic_region_342_4;Nordenland;342;Nordenland;1
-329;fu_strategic_region_306;Genevekt;306;Genevekt;6
-330;fu_strategic_region_305;Kronk5;305;Kronk5;5
-331;fu_strategic_region_305_2;Kronk5;305;Kronk5;2
-332;fu_strategic_region_309;Greater Bundengrad;309;Greater Bundengrad;6
-333;fu_strategic_region_309_2;Greater Bundengrad;309;Greater Bundengrad;1
-334;fu_strategic_region_307;Yinjatzbereich;307;Yinjatzbereich;5
-335;fu_strategic_region_307_2;Yinjatzbereich;307;Yinjatzbereich;1
-336;fu_strategic_region_311;Zikua;311;Zikua;7
-337;fu_strategic_region_311_2;Zikua;311;Zikua;1
-338;fu_strategic_region_308;Aleksis;308;Aleksis;8
-339;fu_strategic_region_312;Erokt;312;Erokt;6
-340;fu_strategic_region_312_2;Erokt;312;Erokt;1
-341;fu_strategic_region_314;Kronmea;314;Kronmea;5
-342;fu_strategic_region_353;Midflusionea12;353;Midflusionea12;6
-343;fu_strategic_region_353_2;Midflusionea12;353;Midflusionea12;1
-344;fu_strategic_region_313;Sudgrad;313;Sudgrad;5
-345;fu_strategic_region_317;Droogia4;317;Droogia4;7
-346;fu_strategic_region_317_2;Droogia4;317;Droogia4;1
-347;fu_strategic_region_325;Formicidea3;325;Formicidea3;9
-348;fu_strategic_region_325_2;Formicidea3;325;Formicidea3;1
-349;fu_strategic_region_389;Zachodterenia;389;Zachodterenia;8
-350;fu_strategic_region_332;Puffiland4;332;Puffiland4;9
-351;fu_strategic_region_330;Puffiland2;330;Puffiland2;9
-352;fu_strategic_region_336;Puffiland8;336;Puffiland8;6
-353;fu_strategic_region_336_2;Puffiland8;336;Puffiland8;6
-354;fu_strategic_region_335;Puffiland7;335;Puffiland7;10
-355;fu_strategic_region_337;Puffiland9;337;Puffiland9;9
-356;fu_strategic_region_360;Midflusionea19;360;Midflusionea19;5
-357;fu_strategic_region_360_2;Midflusionea19;360;Midflusionea19;1
-358;fu_strategic_region_340;Puffiland12;340;Puffiland12;5
-359;fu_strategic_region_344;Midflusionea3;344;Midflusionea3;7
-360;fu_strategic_region_343;Midflusionea2;343;Midflusionea2;2
-361;fu_strategic_region_343_2;Midflusionea2;343;Midflusionea2;2
-362;fu_strategic_region_346;Midflusionea5;346;Midflusionea5;5
-363;fu_strategic_region_346_2;Midflusionea5;346;Midflusionea5;1
-364;fu_strategic_region_345;Midflusionea4;345;Midflusionea4;4
-365;fu_strategic_region_345_2;Midflusionea4;345;Midflusionea4;1
-366;fu_strategic_region_348;Midflusionea7;348;Midflusionea7;7
-367;fu_strategic_region_349;Midflusionea8;349;Midflusionea8;2
-368;fu_strategic_region_350;Midflusionea9;350;Midflusionea9;5
-369;fu_strategic_region_351;Midflusionea10;351;Midflusionea10;7
-370;fu_strategic_region_351_2;Midflusionea10;351;Midflusionea10;2
-371;fu_strategic_region_356;Midflusionea15;356;Midflusionea15;6
-372;fu_strategic_region_354;Midflusionea13;354;Midflusionea13;2
-373;fu_strategic_region_355;Midflusionea14;355;Midflusionea14;7
-374;fu_strategic_region_359;Midflusionea18;359;Midflusionea18;1
-375;fu_strategic_region_358;Midflusionea17;358;Midflusionea17;6
-376;fu_strategic_region_358_2;Midflusionea17;358;Midflusionea17;2
-377;fu_strategic_region_363;Spri3;363;Spri3;8
-378;fu_strategic_region_368;Spri8;368;Spri8;2
-379;fu_strategic_region_370;Spri10;370;Spri10;7
-380;fu_strategic_region_370_2;Spri10;370;Spri10;2
-381;fu_strategic_region_365;Spri5;365;Spri5;1
-382;fu_strategic_region_365_2;Spri5;365;Spri5;1
-383;fu_strategic_region_367;Spri7;367;Spri7;9
-384;fu_strategic_region_375;Flusionea3;375;Flusionea3;9
-385;fu_strategic_region_369;Spri9;369;Spri9;1
-386;fu_strategic_region_374;Flusionea2;374;Flusionea2;4
-387;fu_strategic_region_374_2;Flusionea2;374;Flusionea2;2
-388;fu_strategic_region_372;Spri12;372;Spri12;4
-389;fu_strategic_region_372_2;Spri12;372;Spri12;1
-390;fu_strategic_region_373;Flusionea1;373;Flusionea1;6
-391;fu_strategic_region_378;Flusionea6;378;Flusionea6;5
-392;fu_strategic_region_376;Flusionea4;376;Flusionea4;5
-393;fu_strategic_region_377;Flusionea5;377;Flusionea5;1
-394;fu_strategic_region_380;Flusionea8;380;Flusionea8;6
-395;fu_strategic_region_380_2;Flusionea8;380;Flusionea8;3
-396;fu_strategic_region_379;Flusionea7;379;Flusionea7;3
-397;fu_strategic_region_379_2;Flusionea7;379;Flusionea7;1
-398;fu_strategic_region_381;Flusionea9;381;Flusionea9;4
-399;fu_strategic_region_381_2;Flusionea9;381;Flusionea9;5
-400;fu_strategic_region_381_3;Flusionea9;381;Flusionea9;1
-401;fu_strategic_region_381_4;Flusionea9;381;Flusionea9;2
+83;fu_strategic_region_60;Pink Sea;60;Pink Sea;1
+84;fu_strategic_region_61;Louquiobitumittie;61;Louquiobitumittie;6
+85;fu_strategic_region_61_2;Louquiobitumittie;61;Louquiobitumittie;4
+86;fu_strategic_region_62;Chalsace;62;Chalsace;3
+87;fu_strategic_region_64;Lutecie;64;Lutecie;10
+88;fu_strategic_region_65;Midi-Sunazure;65;Midi-Sunazure;5
+89;fu_strategic_region_79;Central Solakean Sea;79;Central Solakean Sea;1
+90;fu_strategic_region_66;Bocerie;66;Bocerie;6
+91;fu_strategic_region_69;Bruvergne;69;Bruvergne;6
+92;fu_strategic_region_145;Mer De Qualie;145;Mer De Qualie;2
+93;fu_strategic_region_70;Demotagne;70;Demotagne;3
+94;fu_strategic_region_144;Triplet Bay;144;Triplet Bay;1
+95;fu_strategic_region_72;Massif Roqual;72;Massif Roqual;7
+96;fu_strategic_region_72_2;Massif Roqual;72;Massif Roqual;2
+97;fu_strategic_region_71;Poitouamie;71;Poitouamie;2
+98;fu_strategic_region_73;Animequitaine;73;Animequitaine;7
+99;fu_strategic_region_78;Solakean Strait;78;Solakean Strait;1
+100;fu_strategic_region_74;Takicardie;74;Takicardie;2
+101;fu_strategic_region_80;Western Solakean Sea;80;Western Solakean Sea;1
+102;fu_strategic_region_96;Battlebuns Frontier;96;Battlebuns Frontier;6
+103;fu_strategic_region_76;Alkroan Peninsula;76;Alkroan Peninsula;4
+104;fu_strategic_region_76_2;Alkroan Peninsula;76;Alkroan Peninsula;3
+105;fu_strategic_region_84;Lalaland;84;Lalaland;6
+106;fu_strategic_region_82;Bunville;82;Bunville;6
+107;fu_strategic_region_82_2;Bunville;82;Bunville;6
+108;fu_strategic_region_83;Harelyne;83;Harelyne;5
+109;fu_strategic_region_82_3;Bunville;82;Bunville;4
+110;fu_strategic_region_85;Vasmar;85;Vasmar;9
+111;fu_strategic_region_87;Talsan'ar;87;Talsan'ar;6
+112;fu_strategic_region_86;Hushed Forest;86;Hushed Forest;1
+113;fu_strategic_region_88;Buncible;88;Buncible;9
+114;fu_strategic_region_91;Lakeside City;91;Lakeside City;8
+115;fu_strategic_region_91_2;Lakeside City;91;Lakeside City;1
+116;fu_strategic_region_92;Watermaster Domain;92;Watermaster Domain;3
+117;fu_strategic_region_194;Oshian Channel;194;Oshian Channel;1
+118;fu_strategic_region_93;Karrotia;93;Karrotia;3
+119;fu_strategic_region_192;Vasmar Channel;192;Vasmar Channel;1
+120;fu_strategic_region_95;Airmaster Sanctuaries;95;Airmaster Sanctuaries;8
+121;fu_strategic_region_94;Earthmaster Quarries;94;Earthmaster Quarries;8
+122;fu_strategic_region_97;Kepler;97;Kepler;6
+123;fu_strategic_region_98;Plaveta;98;Plaveta;6
+124;fu_strategic_region_98_2;Plaveta;98;Plaveta;5
+125;fu_strategic_region_109;Majakhemer;109;Majakhemer;9
+126;fu_strategic_region_99;Datlof;99;Datlof;1
+127;fu_strategic_region_108;The Valley;108;The Valley;8
+128;fu_strategic_region_103;Nekaston;103;Nekaston;7
+129;fu_strategic_region_103_2;Nekaston;103;Nekaston;2
+130;fu_strategic_region_119;Brekarya;119;Brekarya;7
+131;fu_strategic_region_104;Teryakr;104;Teryakr;2
+132;fu_strategic_region_105;Mount Izwae;105;Mount Izwae;6
+133;fu_strategic_region_115;Lundil;115;Lundil;9
+134;fu_strategic_region_146;Solstia;146;Solstia;10
+135;fu_strategic_region_113;Dov'Gil;113;Dov'Gil;8
+136;fu_strategic_region_112;Coltur;112;Coltur;4
+137;fu_strategic_region_204;Siina Sea;204;Siina Sea;1
+138;fu_strategic_region_114;Vauro;114;Vauro;2
+139;fu_strategic_region_202;Lintersea;202;Lintersea;1
+140;fu_strategic_region_116;Nacru;116;Nacru;9
+141;fu_strategic_region_116_2;Nacru;116;Nacru;1
+142;fu_strategic_region_118;Cerepisenia;118;Cerepisenia;9
+143;fu_strategic_region_206;Purrhelmshaven;206;Purrhelmshaven;1
+144;fu_strategic_region_140;Krokatzia;140;Krokatzia;6
+145;fu_strategic_region_140_2;Krokatzia;140;Krokatzia;5
+146;fu_strategic_region_120;Bryumen;120;Bryumen;5
+147;fu_strategic_region_122;Xoeken;122;Xoeken;9
+148;fu_strategic_region_125;Zuspriland;125;Zuspriland;5
+149;fu_strategic_region_126;Pawldrin Island;126;Pawldrin Island;1
+150;fu_strategic_region_125_2;Zuspriland;125;Zuspriland;6
+151;fu_strategic_region_125_3;Zuspriland;125;Zuspriland;6
+152;fu_strategic_region_282;Snowdonia;282;Snowdonia;8
+153;fu_strategic_region_128;Zuspri Waters;128;Zuspri Waters;1
+154;fu_strategic_region_282_2;Snowdonia;282;Snowdonia;3
+155;fu_strategic_region_282_3;Snowdonia;282;Snowdonia;1
+156;fu_strategic_region_129;Sudflutstadt;129;Sudflutstadt;5
+157;fu_strategic_region_129_2;Sudflutstadt;129;Sudflutstadt;1
+158;fu_strategic_region_132;Valaros;132;Valaros;6
+159;fu_strategic_region_132_2;Valaros;132;Valaros;1
+160;fu_strategic_region_133;Myriad;133;Myriad;4
+161;fu_strategic_region_133_2;Myriad;133;Myriad;2
+162;fu_strategic_region_133_3;Myriad;133;Myriad;6
+163;fu_strategic_region_133_4;Myriad;133;Myriad;1
+164;fu_strategic_region_383;Flusionea11;383;Flusionea11;6
+165;fu_strategic_region_383_2;Flusionea11;383;Flusionea11;3
+166;fu_strategic_region_383_3;Flusionea11;383;Flusionea11;1
+167;fu_strategic_region_141;Rustalia;141;Rustalia;8
+168;fu_strategic_region_141_2;Rustalia;141;Rustalia;6
+169;fu_strategic_region_167;Mewraine;167;Mewraine;3
+170;fu_strategic_region_142;Fleäderreich;142;Fleäderreich;3
+171;fu_strategic_region_236;Mercurian Trench;236;Mercurian Trench;3
+172;fu_strategic_region_237;Tiefland;237;Tiefland;6
+173;fu_strategic_region_143;Central Sun Sea;143;Central Sun Sea;4
+174;fu_strategic_region_143_2;Central Sun Sea;143;Central Sun Sea;2
+175;fu_strategic_region_153;Katteneiland;153;Katteneiland;6
+176;fu_strategic_region_153_2;Katteneiland;153;Katteneiland;4
+177;fu_strategic_region_155;Haranian Channel;155;Haranian Channel;2
+178;fu_strategic_region_153_3;Katteneiland;153;Katteneiland;1
+179;fu_strategic_region_155_2;Haranian Channel;155;Haranian Channel;2
+180;fu_strategic_region_154;West Katteneiland Sea;154;West Katteneiland Sea;2
+181;fu_strategic_region_156;Novaplatten Channel;156;Novaplatten Channel;1
+182;fu_strategic_region_159;Eulysses Bay;159;Eulysses Bay;3
+183;fu_strategic_region_174;Antero;174;Antero;3
+184;fu_strategic_region_157;Southern Arivoejan Ocean;157;Southern Arivoejan Ocean;1
+185;fu_strategic_region_158;Novhurst;158;Novhurst;7
+186;fu_strategic_region_161;Arivoejan Mountains;161;Arivoejan Mountains;6
+187;fu_strategic_region_160;The Swamplands;160;The Swamplands;7
+188;fu_strategic_region_160_2;The Swamplands;160;The Swamplands;2
+189;fu_strategic_region_161_2;Arivoejan Mountains;161;Arivoejan Mountains;6
+190;fu_strategic_region_161_3;Arivoejan Mountains;161;Arivoejan Mountains;2
+191;fu_strategic_region_164;Loutterian Peninsula;164;Loutterian Peninsula;4
+192;fu_strategic_region_164_2;Loutterian Peninsula;164;Loutterian Peninsula;2
+193;fu_strategic_region_162;Central Arivoejo;162;Central Arivoejo;6
+194;fu_strategic_region_164_3;Loutterian Peninsula;164;Loutterian Peninsula;5
+195;fu_strategic_region_166;East Kapland;166;East Kapland;5
+196;fu_strategic_region_163;Northern Ariveojan Oceans;163;Northern Ariveojan Oceans;3
+197;fu_strategic_region_165;West Kapland;165;West Kapland;6
+198;fu_strategic_region_169;Procione Heartlands;169;Procione Heartlands;6
+199;fu_strategic_region_169_2;Procione Heartlands;169;Procione Heartlands;3
+200;fu_strategic_region_171;Arivoshian Ocean;171;Arivoshian Ocean;3
+201;fu_strategic_region_172;Kipu;172;Kipu;8
+202;fu_strategic_region_175;Haranian Steppes;175;Haranian Steppes;6
+203;fu_strategic_region_177;Central Harania;177;Central Harania;3
+204;fu_strategic_region_179;Endless Gate;179;Endless Gate;2
+205;fu_strategic_region_182;Fenntown Tundra;182;Fenntown Tundra;2
+206;fu_strategic_region_181;Foxsnot;181;Foxsnot;2
+207;fu_strategic_region_183;Penghattan;183;Penghattan;3
+208;fu_strategic_region_187;Penglia;187;Penglia;3
+209;fu_strategic_region_185;Western Pinglandia;185;Western Pinglandia;3
+210;fu_strategic_region_254;Eastern Arivoshean Ocean;254;Eastern Arivoshean Ocean;1
+211;fu_strategic_region_371;Spri11;371;Spri11;5
+212;fu_strategic_region_189;Darvitonian Shores;189;Darvitonian Shores;2
+213;fu_strategic_region_304;Kronkstaat;304;Kronkstaat;8
+214;fu_strategic_region_197;Lower Crabspian Sea;197;Lower Crabspian Sea;1
+215;fu_strategic_region_304_2;Kronkstaat;304;Kronkstaat;1
+216;fu_strategic_region_304_3;Kronkstaat;304;Kronkstaat;1
+217;fu_strategic_region_301;Southern Enotita;301;Southern Enotita;6
+218;fu_strategic_region_301_2;Southern Enotita;301;Southern Enotita;6
+219;fu_strategic_region_200;Amfibien;200;Amfibien;6
+220;fu_strategic_region_303;Amphisk;303;Amphisk;6
+221;fu_strategic_region_200_2;Amfibien;200;Amfibien;6
+222;fu_strategic_region_384;X.I.R.;384;X.I.R.;5
+223;fu_strategic_region_205;Purrhelmshaven Shores;205;Purrhelmshaven Shores;1
+224;fu_strategic_region_207;Western Sueno Del Sol;207;Western Sueno Del Sol;6
+225;fu_strategic_region_229;Belkansavet Approaches;229;Belkansavet Approaches;3
+226;fu_strategic_region_208;Eastern Sueno Del Sol;208;Eastern Sueno Del Sol;3
+227;fu_strategic_region_266;Central Flusiocean;266;Central Flusiocean;1
+228;fu_strategic_region_210;Bojnika;210;Bojnika;6
+229;fu_strategic_region_209;Belkansavet;209;Belkansavet;1
+230;fu_strategic_region_211;Frusia;211;Frusia;7
+231;fu_strategic_region_213;Oredsk;213;Oredsk;6
+232;fu_strategic_region_213_2;Oredsk;213;Oredsk;1
+233;fu_strategic_region_216;Dhalmaciti;216;Dhalmaciti;8
+234;fu_strategic_region_214;Nerva;214;Nerva;2
+235;fu_strategic_region_217;Ballatonne Basin;217;Ballatonne Basin;5
+236;fu_strategic_region_217_2;Ballatonne Basin;217;Ballatonne Basin;1
+237;fu_strategic_region_215;Crngrad;215;Crngrad;3
+238;fu_strategic_region_217_3;Ballatonne Basin;217;Ballatonne Basin;2
+239;fu_strategic_region_217_4;Ballatonne Basin;217;Ballatonne Basin;1
+240;fu_strategic_region_218;Hivelands;218;Hivelands;4
+241;fu_strategic_region_253;Pengrak Waters;253;Pengrak Waters;1
+242;fu_strategic_region_220;Alraxia;220;Alraxia;5
+243;fu_strategic_region_224;Novoshian Shores;224;Novoshian Shores;6
+244;fu_strategic_region_221;Kirtikia;221;Kirtikia;1
+245;fu_strategic_region_315;Droogia2;315;Droogia2;7
+246;fu_strategic_region_248;Antophilia;248;Antophilia;8
+247;fu_strategic_region_248_2;Antophilia;248;Antophilia;2
+248;fu_strategic_region_225;New Novarat;225;New Novarat;3
+249;fu_strategic_region_233;Donofettian Ridge;233;Donofettian Ridge;1
+250;fu_strategic_region_228;Southern Flusiocean;228;Southern Flusiocean;2
+251;fu_strategic_region_231;Propanian Shores;231;Propanian Shores;2
+252;fu_strategic_region_240;Oervoud;240;Oervoud;5
+253;fu_strategic_region_232;Altarian Ridge;232;Altarian Ridge;2
+254;fu_strategic_region_239;Northern Altaria;239;Northern Altaria;6
+255;fu_strategic_region_234;Poltro Sea;234;Poltro Sea;3
+256;fu_strategic_region_235;Duuhr Sea;235;Duuhr Sea;6
+257;fu_strategic_region_256;Mercurian Gulf;256;Mercurian Gulf;3
+258;fu_strategic_region_241;Hyphaeicia;241;Hyphaeicia;6
+259;fu_strategic_region_238;Groundhogistan;238;Groundhogistan;4
+260;fu_strategic_region_238_2;Groundhogistan;238;Groundhogistan;1
+261;fu_strategic_region_242;Altarimen Roams;242;Altarimen Roams;7
+262;fu_strategic_region_316;Greater Saru;316;Greater Saru;9
+263;fu_strategic_region_245;Droogia;245;Droogia;6
+264;fu_strategic_region_245_2;Droogia;245;Droogia;1
+265;fu_strategic_region_323;Parelia2;323;Parelia2;8
+266;fu_strategic_region_324;Formicidea2;324;Formicidea2;5
+267;fu_strategic_region_324_2;Formicidea2;324;Formicidea2;2
+268;fu_strategic_region_247;Formicidea;247;Formicidea;4
+269;fu_strategic_region_247_2;Formicidea;247;Formicidea;1
+270;fu_strategic_region_322;Variitia2;322;Variitia2;5
+271;fu_strategic_region_322_2;Variitia2;322;Variitia2;2
+272;fu_strategic_region_249;Variitia;249;Variitia;4
+273;fu_strategic_region_249_2;Variitia;249;Variitia;2
+274;fu_strategic_region_250;Frusian Savannah;250;Frusian Savannah;5
+275;fu_strategic_region_252;Kerak;252;Kerak;5
+276;fu_strategic_region_327;Hivelands2;327;Hivelands2;6
+277;fu_strategic_region_389;Zachodterenia;389;Zachodterenia;4
+278;fu_strategic_region_255;Anatheman Waters;255;Anatheman Waters;1
+279;fu_strategic_region_261;Laurnaise Approaches;261;Laurnaise Approaches;3
+280;fu_strategic_region_296;Tatsania;296;Tatsania;8
+281;fu_strategic_region_258;Laurnaise Channel;258;Laurnaise Channel;1
+282;fu_strategic_region_262;Polarian Islands;262;Polarian Islands;2
+283;fu_strategic_region_276;Frigid Approaches;276;Frigid Approaches;1
+284;fu_strategic_region_263;Lux-Flupanian Waters;263;Lux-Flupanian Waters;1
+285;fu_strategic_region_279;Northwestern Flusiocean;279;Northwestern Flusiocean;1
+286;fu_strategic_region_264;Western Flusiocean;264;Western Flusiocean;1
+287;fu_strategic_region_275;Polar Flusiocean;275;Polar Flusiocean;2
+288;fu_strategic_region_385;Naturopolis Marshes;385;Naturopolis Marshes;9
+289;fu_strategic_region_267;Lake Mercurr;267;Lake Mercurr;1
+290;fu_strategic_region_268;West Pawcific;268;West Pawcific;2
+291;fu_strategic_region_278;Snowdonian Cape;278;Snowdonian Cape;2
+292;fu_strategic_region_280;Ibrumore;280;Ibrumore;6
+293;fu_strategic_region_299;Arkbus;299;Arkbus;6
+294;fu_strategic_region_299_2;Arkbus;299;Arkbus;4
+295;fu_strategic_region_281;Giant Metallic Hearts of Iron Divider;281;Giant Metallic Hearts of Iron Divider;1
+296;fu_strategic_region_295;Central Laurandar;295;Central Laurandar;6
+297;fu_strategic_region_295_2;Central Laurandar;295;Central Laurandar;1
+298;fu_strategic_region_295_3;Central Laurandar;295;Central Laurandar;4
+299;fu_strategic_region_285;Bramble Basins;285;Bramble Basins;6
+300;fu_strategic_region_286;The Dish;286;The Dish;6
+301;fu_strategic_region_286_2;The Dish;286;The Dish;1
+302;fu_strategic_region_287;Stone Kolechia;287;Stone Kolechia;8
+303;fu_strategic_region_290;Sanguine Hills;290;Sanguine Hills;3
+304;fu_strategic_region_382;Flusionea10;382;Flusionea10;8
+305;fu_strategic_region_288;Red Kolechia;288;Red Kolechia;1
+306;fu_strategic_region_382_2;Flusionea10;382;Flusionea10;1
+307;fu_strategic_region_382_3;Flusionea10;382;Flusionea10;1
+308;fu_strategic_region_288_2;Red Kolechia;288;Red Kolechia;1
+309;fu_strategic_region_288_3;Red Kolechia;288;Red Kolechia;1
+310;fu_strategic_region_382_4;Flusionea10;382;Flusionea10;1
+311;fu_strategic_region_289;Sand Kolechia;289;Sand Kolechia;9
+312;fu_strategic_region_379;Flusionea7;379;Flusionea7;1
+313;fu_strategic_region_292;Solakean Shores;292;Solakean Shores;6
+314;fu_strategic_region_294;Broukburn-Meagas;294;Broukburn-Meagas;5
+315;fu_strategic_region_294_2;Broukburn-Meagas;294;Broukburn-Meagas;1
+316;fu_strategic_region_294_3;Broukburn-Meagas;294;Broukburn-Meagas;5
+317;fu_strategic_region_294_4;Broukburn-Meagas;294;Broukburn-Meagas;1
+318;fu_strategic_region_344;Midflusionea3;344;Midflusionea3;4
+319;fu_strategic_region_344_2;Midflusionea3;344;Midflusionea3;1
+320;fu_strategic_region_294_5;Broukburn-Meagas;294;Broukburn-Meagas;5
+321;fu_strategic_region_298;Ejac;298;Ejac;6
+322;fu_strategic_region_297;Dredshire;297;Dredshire;6
+323;fu_strategic_region_298_2;Ejac;298;Ejac;3
+324;fu_strategic_region_297_2;Dredshire;297;Dredshire;5
+325;fu_strategic_region_297_3;Dredshire;297;Dredshire;2
+326;fu_strategic_region_331;Puffiland3;331;Puffiland3;4
+327;fu_strategic_region_300;Lebril;300;Lebril;7
+328;fu_strategic_region_302;Crabby Shores;302;Crabby Shores;6
+329;fu_strategic_region_342;Nordenland;342;Nordenland;5
+330;fu_strategic_region_342_2;Nordenland;342;Nordenland;2
+331;fu_strategic_region_342_3;Nordenland;342;Nordenland;2
+332;fu_strategic_region_342_4;Nordenland;342;Nordenland;1
+333;fu_strategic_region_305;Kronk5;305;Kronk5;5
+334;fu_strategic_region_305_2;Kronk5;305;Kronk5;2
+335;fu_strategic_region_377;Flusionea5;377;Flusionea5;3
+336;fu_strategic_region_377_2;Flusionea5;377;Flusionea5;1
+337;fu_strategic_region_314;Kronmea;314;Kronmea;9
+338;fu_strategic_region_306;Genevekt;306;Genevekt;3
+339;fu_strategic_region_309;Greater Bundengrad;309;Greater Bundengrad;6
+340;fu_strategic_region_309_2;Greater Bundengrad;309;Greater Bundengrad;1
+341;fu_strategic_region_307;Yinjatzbereich;307;Yinjatzbereich;5
+342;fu_strategic_region_307_2;Yinjatzbereich;307;Yinjatzbereich;1
+343;fu_strategic_region_308;Aleksis;308;Aleksis;6
+344;fu_strategic_region_308_2;Aleksis;308;Aleksis;5
+345;fu_strategic_region_310;Hydronien;310;Hydronien;2
+346;fu_strategic_region_310_2;Hydronien;310;Hydronien;1
+347;fu_strategic_region_311;Zikua;311;Zikua;6
+348;fu_strategic_region_312;Erokt;312;Erokt;5
+349;fu_strategic_region_311_2;Zikua;311;Zikua;2
+350;fu_strategic_region_353;Midflusionea12;353;Midflusionea12;6
+351;fu_strategic_region_353_2;Midflusionea12;353;Midflusionea12;1
+352;fu_strategic_region_313;Sudgrad;313;Sudgrad;5
+353;fu_strategic_region_317;Droogia4;317;Droogia4;7
+354;fu_strategic_region_326;Formicidea4;326;Formicidea4;2
+355;fu_strategic_region_318;Macaquian Far South;318;Macaquian Far South;7
+356;fu_strategic_region_325;Formicidea3;325;Formicidea3;9
+357;fu_strategic_region_325_2;Formicidea3;325;Formicidea3;1
+358;fu_strategic_region_332;Puffiland4;332;Puffiland4;9
+359;fu_strategic_region_334;Puffiland6;334;Puffiland6;10
+360;fu_strategic_region_335;Puffiland7;335;Puffiland7;9
+361;fu_strategic_region_336;Puffiland8;336;Puffiland8;9
+362;fu_strategic_region_339;Puffiland11;339;Puffiland11;2
+363;fu_strategic_region_340;Puffiland12;340;Puffiland12;10
+364;fu_strategic_region_338;Puffiland10;338;Puffiland10;6
+365;fu_strategic_region_359;Midflusionea18;359;Midflusionea18;1
+366;fu_strategic_region_343;Midflusionea2;343;Midflusionea2;6
+367;fu_strategic_region_343_2;Midflusionea2;343;Midflusionea2;2
+368;fu_strategic_region_341;Neuvoria;341;Neuvoria;2
+369;fu_strategic_region_341_2;Neuvoria;341;Neuvoria;1
+370;fu_strategic_region_346;Midflusionea5;346;Midflusionea5;5
+371;fu_strategic_region_346_2;Midflusionea5;346;Midflusionea5;1
+372;fu_strategic_region_345;Midflusionea4;345;Midflusionea4;4
+373;fu_strategic_region_345_2;Midflusionea4;345;Midflusionea4;1
+374;fu_strategic_region_348;Midflusionea7;348;Midflusionea7;7
+375;fu_strategic_region_349;Midflusionea8;349;Midflusionea8;2
+376;fu_strategic_region_350;Midflusionea9;350;Midflusionea9;5
+377;fu_strategic_region_351;Midflusionea10;351;Midflusionea10;7
+378;fu_strategic_region_351_2;Midflusionea10;351;Midflusionea10;2
+379;fu_strategic_region_356;Midflusionea15;356;Midflusionea15;6
+380;fu_strategic_region_354;Midflusionea13;354;Midflusionea13;2
+381;fu_strategic_region_355;Midflusionea14;355;Midflusionea14;8
+382;fu_strategic_region_358;Midflusionea17;358;Midflusionea17;2
+383;fu_strategic_region_360;Midflusionea19;360;Midflusionea19;7
+384;fu_strategic_region_360_2;Midflusionea19;360;Midflusionea19;1
+385;fu_strategic_region_363;Spri3;363;Spri3;8
+386;fu_strategic_region_365;Spri5;365;Spri5;7
+387;fu_strategic_region_365_2;Spri5;365;Spri5;2
+388;fu_strategic_region_367;Spri7;367;Spri7;9
+389;fu_strategic_region_369;Spri9;369;Spri9;7
+390;fu_strategic_region_369_2;Spri9;369;Spri9;3
+391;fu_strategic_region_373;Flusionea1;373;Flusionea1;6
+392;fu_strategic_region_370;Spri10;370;Spri10;5
+393;fu_strategic_region_370_2;Spri10;370;Spri10;1
+394;fu_strategic_region_374;Flusionea2;374;Flusionea2;4
+395;fu_strategic_region_374_2;Flusionea2;374;Flusionea2;2
+396;fu_strategic_region_372;Spri12;372;Spri12;4
+397;fu_strategic_region_372_2;Spri12;372;Spri12;1
+398;fu_strategic_region_376;Flusionea4;376;Flusionea4;7
+399;fu_strategic_region_378;Flusionea6;378;Flusionea6;6
+400;fu_strategic_region_380;Flusionea8;380;Flusionea8;1
+401;fu_strategic_region_380_2;Flusionea8;380;Flusionea8;5
+402;fu_strategic_region_380_3;Flusionea8;380;Flusionea8;2
+403;fu_strategic_region_387;Mercurian Mountains;387;Mercurian Mountains;8
+404;fu_strategic_region_381;Flusionea9;381;Flusionea9;4
+405;fu_strategic_region_381_2;Flusionea9;381;Flusionea9;5
+406;fu_strategic_region_381_3;Flusionea9;381;Flusionea9;1
+407;fu_strategic_region_381_4;Flusionea9;381;Flusionea9;2
+408;fu_strategic_region_386;Great Grove Ridge;386;Great Grove Ridge;10

@@ -1,7 +1,0 @@
-# Province 3616: Lake Ballatonne
-culture = english
-religion = catholic
-trade_goods = grain
-base_tax = 1
-base_production = 1
-base_manpower = 1

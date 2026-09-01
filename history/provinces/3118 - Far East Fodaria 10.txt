@@ -1,7 +1,0 @@
-# Province 3118: Far East Fodaria 10
-culture = english
-religion = catholic
-trade_goods = grain
-base_tax = 1
-base_production = 1
-base_manpower = 1

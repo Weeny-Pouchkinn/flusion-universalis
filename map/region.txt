@@ -32,15 +32,15 @@ fu_strategic_region_2 = {
         fu_state_area_39
         fu_state_area_42
         fu_state_area_38
-        fu_state_area_654
+        fu_state_area_657
     }
 }
 
 fu_strategic_region_3 = {
     areas = {
         fu_state_area_31
+        fu_state_area_654
         fu_state_area_653
-        fu_state_area_657
         fu_state_area_57
         fu_state_area_658
         fu_state_area_659
@@ -56,23 +56,21 @@ fu_strategic_region_4 = {
 
 fu_strategic_region_134 = {
     areas = {
-        fu_state_area_generated_1516
-        fu_state_area_generated_1521
+        fu_state_area_generated_1523
     }
 }
 
-fu_strategic_region_10 = {
+fu_strategic_region_5 = {
     areas = {
         fu_state_area_13
         fu_state_area_661
-        fu_state_area_19
         fu_state_area_662
-        fu_state_area_663
-        fu_state_area_665
-        fu_state_area_664
-        fu_state_area_23
-        fu_state_area_282
-        fu_state_area_375
+    }
+}
+
+fu_strategic_region_270 = {
+    areas = {
+        fu_state_area_generated_1504
     }
 }
 
@@ -85,8 +83,7 @@ fu_strategic_region_6 = {
 
 fu_strategic_region_135 = {
     areas = {
-        fu_state_area_generated_1546
-        fu_state_area_generated_1553
+        fu_state_area_generated_1505
     }
 }
 
@@ -140,7 +137,6 @@ fu_strategic_region_12 = {
         fu_state_area_25
         fu_state_area_602
         fu_state_area_1465
-        fu_state_area_1458
         fu_state_area_601
         fu_state_area_1466
         fu_state_area_600
@@ -148,9 +144,16 @@ fu_strategic_region_12 = {
     }
 }
 
-fu_strategic_region_50 = {
+fu_strategic_region_10 = {
     areas = {
-        fu_state_area_generated_1552
+        fu_state_area_1458
+        fu_state_area_19
+        fu_state_area_663
+        fu_state_area_665
+        fu_state_area_664
+        fu_state_area_23
+        fu_state_area_282
+        fu_state_area_375
     }
 }
 
@@ -221,7 +224,7 @@ fu_strategic_region_26_2 = {
 
 fu_strategic_region_18 = {
     areas = {
-        fu_state_area_652
+        fu_state_area_60
         fu_state_area_32
         fu_state_area_589
         fu_state_area_1460
@@ -233,7 +236,7 @@ fu_strategic_region_18 = {
 
 fu_strategic_region_29 = {
     areas = {
-        fu_state_area_generated_1566
+        fu_state_area_generated_1546
     }
 }
 
@@ -272,7 +275,9 @@ fu_strategic_region_21 = {
 
 fu_strategic_region_138 = {
     areas = {
-        fu_state_area_generated_1536
+        fu_state_area_generated_1525
+        fu_state_area_generated_1538
+        fu_state_area_generated_1540
     }
 }
 
@@ -295,10 +300,10 @@ fu_strategic_region_22_2 = {
     }
 }
 
-fu_strategic_region_136 = {
+fu_strategic_region_137 = {
     areas = {
-        fu_state_area_generated_1514
-        fu_state_area_generated_1520
+        fu_state_area_generated_1522
+        fu_state_area_generated_1524
     }
 }
 
@@ -315,7 +320,14 @@ fu_strategic_region_23 = {
 
 fu_strategic_region_147 = {
     areas = {
-        fu_state_area_generated_1522
+        fu_state_area_generated_1527
+    }
+}
+
+fu_strategic_region_52 = {
+    areas = {
+        fu_state_area_generated_1526
+        fu_state_area_generated_1528
     }
 }
 
@@ -352,7 +364,7 @@ fu_strategic_region_30_2 = {
 
 fu_strategic_region_27 = {
     areas = {
-        fu_state_area_1444
+        fu_state_area_87
         fu_state_area_1427
         fu_state_area_541
         fu_state_area_560
@@ -364,7 +376,8 @@ fu_strategic_region_27 = {
 
 fu_strategic_region_28 = {
     areas = {
-        fu_state_area_generated_1570
+        fu_state_area_generated_1548
+        fu_state_area_generated_1551
     }
 }
 
@@ -383,41 +396,40 @@ fu_strategic_region_31_2 = {
     areas = {
         fu_state_area_512
         fu_state_area_514
+    }
+}
+
+fu_strategic_region_101 = {
+    areas = {
+        fu_state_area_1402
+    }
+}
+
+fu_strategic_region_31_3 = {
+    areas = {
         fu_state_area_510
         fu_state_area_513
         fu_state_area_515
     }
 }
 
-fu_strategic_region_101 = {
-    areas = {
-        fu_state_area_1401
-    }
-}
-
 fu_strategic_region_32 = {
     areas = {
         fu_state_area_204
+        fu_state_area_177
         fu_state_area_1440
         fu_state_area_1441
         fu_state_area_530
+        fu_state_area_529
+        fu_state_area_1449
         fu_state_area_530_2
         fu_state_area_1440_2
     }
 }
 
-fu_strategic_region_32_2 = {
+fu_strategic_region_102 = {
     areas = {
-        fu_state_area_896
-        fu_state_area_177
-        fu_state_area_529
-        fu_state_area_1449
-    }
-}
-
-fu_strategic_region_139 = {
-    areas = {
-        fu_state_area_generated_1568
+        fu_state_area_1401
     }
 }
 
@@ -443,67 +455,65 @@ fu_strategic_region_131 = {
         fu_state_area_606
         fu_state_area_613
         fu_state_area_197
+        fu_state_area_606_2
     }
 }
 
 fu_strategic_region_131_2 = {
     areas = {
         fu_state_area_606_3
+        fu_state_area_498_4
         fu_state_area_613_2
     }
 }
 
 fu_strategic_region_131_3 = {
     areas = {
-        fu_state_area_502
+        fu_state_area_1537
         fu_state_area_498
+        fu_state_area_1538_2
         fu_state_area_498_2
         fu_state_area_1213_2
-        fu_state_area_606_2
-        fu_state_area_502_2
     }
 }
 
 fu_strategic_region_131_4 = {
     areas = {
+        fu_state_area_1537_2
         fu_state_area_498_3
-        fu_state_area_498_4
     }
 }
 
 fu_strategic_region_131_5 = {
     areas = {
-        fu_state_area_1537
-        fu_state_area_1538_2
-    }
-}
-
-fu_strategic_region_131_6 = {
-    areas = {
-        fu_state_area_1537_2
-    }
-}
-
-fu_strategic_region_105 = {
-    areas = {
-        fu_state_area_969
-        fu_state_area_341
-        fu_state_area_971
-        fu_state_area_851
-        fu_state_area_852
-        fu_state_area_851_2
-        fu_state_area_852_2
+        fu_state_area_502
     }
 }
 
 fu_strategic_region_35 = {
     areas = {
+        fu_state_area_896
         fu_state_area_850
         fu_state_area_274
         fu_state_area_250
         fu_state_area_850_2
         fu_state_area_850_3
         fu_state_area_274_2
+    }
+}
+
+fu_strategic_region_139 = {
+    areas = {
+        fu_state_area_generated_1558
+    }
+}
+
+fu_strategic_region_35_2 = {
+    areas = {
+        fu_state_area_851
+        fu_state_area_852
+        fu_state_area_851_2
+        fu_state_area_852_2
     }
 }
 
@@ -637,7 +647,8 @@ fu_strategic_region_46 = {
 
 fu_strategic_region_123 = {
     areas = {
-        fu_state_area_generated_1569
+        fu_state_area_generated_1552
+        fu_state_area_generated_1554
     }
 }
 
@@ -658,49 +669,24 @@ fu_strategic_region_48 = {
 
 fu_strategic_region_49 = {
     areas = {
-        fu_state_area_12
         fu_state_area_570
-        fu_state_area_668
         fu_state_area_569
         fu_state_area_470
         fu_state_area_20
     }
 }
 
-fu_strategic_region_126 = {
+fu_strategic_region_124 = {
     areas = {
-        fu_state_area_generated_1548
+        fu_state_area_generated_1550
         fu_state_area_569_2
     }
 }
 
-fu_strategic_region_141 = {
+fu_strategic_region_273 = {
     areas = {
-        fu_state_area_189
-        fu_state_area_1166
-        fu_state_area_215
-        fu_state_area_1164
-        fu_state_area_1167_2
-        fu_state_area_1165
-        fu_state_area_189_2
-        fu_state_area_189_3
-    }
-}
-
-fu_strategic_region_52 = {
-    areas = {
-        fu_state_area_generated_1537
-    }
-}
-
-fu_strategic_region_141_2 = {
-    areas = {
-        fu_state_area_1167
-        fu_state_area_1169
-        fu_state_area_350
-        fu_state_area_1168
-        fu_state_area_147
-        fu_state_area_350_2
+        fu_state_area_generated_1506
+        fu_state_area_generated_1545
     }
 }
 
@@ -711,34 +697,33 @@ fu_strategic_region_54 = {
         fu_state_area_225_2
         fu_state_area_716
         fu_state_area_231
-        fu_state_area_242
-        fu_state_area_244
-        fu_state_area_255
     }
 }
 
-fu_strategic_region_54_2 = {
+fu_strategic_region_51 = {
     areas = {
-        fu_state_area_generated_1652
-    }
-}
-
-fu_strategic_region_55 = {
-    areas = {
-        fu_state_area_96
-        fu_state_area_313
-        fu_state_area_1050
-        fu_state_area_294
-        fu_state_area_1424
-        fu_state_area_269
-        fu_state_area_726
-        fu_state_area_265
+        fu_state_area_generated_1547
+        fu_state_area_generated_1641
     }
 }
 
 fu_strategic_region_63 = {
     areas = {
+        fu_state_area_1423
+        fu_state_area_96
+        fu_state_area_313
+        fu_state_area_1424
+        fu_state_area_269
+        fu_state_area_726
+    }
+}
+
+fu_strategic_region_55 = {
+    areas = {
+        fu_state_area_1050
+        fu_state_area_294
         fu_state_area_728
+        fu_state_area_265
         fu_state_area_727
         fu_state_area_729
     }
@@ -746,10 +731,10 @@ fu_strategic_region_63 = {
 
 fu_strategic_region_56 = {
     areas = {
-        fu_state_area_327
         fu_state_area_820
         fu_state_area_328
         fu_state_area_819
+        fu_state_area_264
         fu_state_area_271
         fu_state_area_273
     }
@@ -773,7 +758,6 @@ fu_strategic_region_57_2 = {
 
 fu_strategic_region_57_3 = {
     areas = {
-        fu_state_area_264
         fu_state_area_228
         fu_state_area_267
         fu_state_area_277
@@ -782,7 +766,6 @@ fu_strategic_region_57_3 = {
 
 fu_strategic_region_58 = {
     areas = {
-        fu_state_area_1034
         fu_state_area_365
         fu_state_area_383
         fu_state_area_1021
@@ -792,9 +775,10 @@ fu_strategic_region_58 = {
     }
 }
 
-fu_strategic_region_79 = {
+fu_strategic_region_77 = {
     areas = {
-        fu_state_area_828
+        fu_state_area_generated_1543
+        fu_state_area_1023
         fu_state_area_365_2
     }
 }
@@ -807,85 +791,97 @@ fu_strategic_region_59 = {
     }
 }
 
-fu_strategic_region_77 = {
+fu_strategic_region_60 = {
     areas = {
-        fu_state_area_generated_1571
+        fu_state_area_generated_1579
     }
 }
 
 fu_strategic_region_61 = {
     areas = {
-        fu_state_area_605
+        fu_state_area_245
         fu_state_area_256
-        fu_state_area_1425
         fu_state_area_272
         fu_state_area_301
-        fu_state_area_740
-        fu_state_area_1426
         fu_state_area_299
         fu_state_area_744
     }
 }
 
-fu_strategic_region_60 = {
+fu_strategic_region_61_2 = {
     areas = {
-        fu_state_area_generated_1591
+        fu_state_area_605
+        fu_state_area_1425
+        fu_state_area_740
+        fu_state_area_1426
+    }
+}
+
+fu_strategic_region_62 = {
+    areas = {
+        fu_state_area_730
+        fu_state_area_236
+        fu_state_area_254
     }
 }
 
 fu_strategic_region_64 = {
     areas = {
-        fu_state_area_245
         fu_state_area_742
-        fu_state_area_730
+        fu_state_area_297
         fu_state_area_320
         fu_state_area_1448
         fu_state_area_258
-        fu_state_area_236
-        fu_state_area_254
+        fu_state_area_219
+        fu_state_area_281
+        fu_state_area_743
+        fu_state_area_278
         fu_state_area_719
+    }
+}
+
+fu_strategic_region_65 = {
+    areas = {
+        fu_state_area_303
+        fu_state_area_741
+        fu_state_area_402
+        fu_state_area_1474
+        fu_state_area_1473
+    }
+}
+
+fu_strategic_region_79 = {
+    areas = {
+        fu_state_area_829
     }
 }
 
 fu_strategic_region_66 = {
     areas = {
-        fu_state_area_303
-        fu_state_area_741
         fu_state_area_739
-        fu_state_area_1474
+        fu_state_area_735
         fu_state_area_307
-        fu_state_area_1473
+        fu_state_area_724
         fu_state_area_723
+        fu_state_area_319
     }
 }
 
 fu_strategic_region_69 = {
     areas = {
-        fu_state_area_207
-        fu_state_area_735
+        fu_state_area_223
+        fu_state_area_276
         fu_state_area_308
         fu_state_area_738
-        fu_state_area_724
         fu_state_area_736
-        fu_state_area_319
         fu_state_area_296
-    }
-}
-
-fu_strategic_region_68 = {
-    areas = {
-        fu_state_area_223
-        fu_state_area_297
-        fu_state_area_219
-        fu_state_area_281
-        fu_state_area_743
-        fu_state_area_278
     }
 }
 
 fu_strategic_region_145 = {
     areas = {
-        fu_state_area_generated_1538
+        fu_state_area_generated_1533
+        fu_state_area_generated_1539
     }
 }
 
@@ -899,7 +895,7 @@ fu_strategic_region_70 = {
 
 fu_strategic_region_144 = {
     areas = {
-        fu_state_area_1404
+        fu_state_area_generated_1530
     }
 }
 
@@ -943,26 +939,20 @@ fu_strategic_region_73 = {
 
 fu_strategic_region_78 = {
     areas = {
-        fu_state_area_generated_1542
+        fu_state_area_1404
     }
 }
 
-fu_strategic_region_76 = {
+fu_strategic_region_74 = {
     areas = {
         fu_state_area_347
-        fu_state_area_721
-        fu_state_area_336
-        fu_state_area_720
-        fu_state_area_840
         fu_state_area_340
     }
 }
 
-fu_strategic_region_76_2 = {
+fu_strategic_region_80 = {
     areas = {
-        fu_state_area_721_2
-        fu_state_area_841
-        fu_state_area_720_2
+        fu_state_area_generated_1537
     }
 }
 
@@ -977,45 +967,25 @@ fu_strategic_region_96 = {
     }
 }
 
-fu_strategic_region_82 = {
+fu_strategic_region_76 = {
     areas = {
-        fu_state_area_765
-        fu_state_area_769
-        fu_state_area_766
-        fu_state_area_750
-        fu_state_area_768
-        fu_state_area_768_2
-        fu_state_area_750_2
+        fu_state_area_721
+        fu_state_area_336
+        fu_state_area_720
+        fu_state_area_840
     }
 }
 
-fu_strategic_region_83 = {
+fu_strategic_region_76_2 = {
     areas = {
-        fu_state_area_752
-        fu_state_area_751
-        fu_state_area_418
-        fu_state_area_749
-        fu_state_area_788
-        fu_state_area_787
-        fu_state_area_787_2
-        fu_state_area_418_2
-    }
-}
-
-fu_strategic_region_82_2 = {
-    areas = {
-        fu_state_area_406
-        fu_state_area_767
-        fu_state_area_781
-        fu_state_area_770
-        fu_state_area_773
-        fu_state_area_773_2
+        fu_state_area_721_2
+        fu_state_area_841
+        fu_state_area_720_2
     }
 }
 
 fu_strategic_region_84 = {
     areas = {
-        fu_state_area_962
         fu_state_area_1286
         fu_state_area_1287
         fu_state_area_1288
@@ -1025,9 +995,44 @@ fu_strategic_region_84 = {
     }
 }
 
-fu_strategic_region_192 = {
+fu_strategic_region_82 = {
     areas = {
-        fu_state_area_generated_1541
+        fu_state_area_765
+        fu_state_area_769
+        fu_state_area_766
+        fu_state_area_750
+        fu_state_area_768
+        fu_state_area_768_2
+    }
+}
+
+fu_strategic_region_82_2 = {
+    areas = {
+        fu_state_area_752
+        fu_state_area_767
+        fu_state_area_781
+        fu_state_area_788
+        fu_state_area_787
+        fu_state_area_787_2
+    }
+}
+
+fu_strategic_region_83 = {
+    areas = {
+        fu_state_area_751
+        fu_state_area_418
+        fu_state_area_749
+        fu_state_area_750_2
+        fu_state_area_418_2
+    }
+}
+
+fu_strategic_region_82_3 = {
+    areas = {
+        fu_state_area_406
+        fu_state_area_770
+        fu_state_area_773
+        fu_state_area_773_2
     }
 }
 
@@ -1065,11 +1070,10 @@ fu_strategic_region_86 = {
 fu_strategic_region_88 = {
     areas = {
         fu_state_area_755
-        fu_state_area_756
-        fu_state_area_377
+        fu_state_area_384
+        fu_state_area_760
         fu_state_area_401
-        fu_state_area_758
-        fu_state_area_757
+        fu_state_area_759
         fu_state_area_754
         fu_state_area_753
         fu_state_area_401_2
@@ -1077,30 +1081,15 @@ fu_strategic_region_88 = {
     }
 }
 
-fu_strategic_region_94 = {
-    areas = {
-        fu_state_area_760
-        fu_state_area_785
-        fu_state_area_786
-        fu_state_area_759
-        fu_state_area_784
-        fu_state_area_784_2
-        fu_state_area_411
-        fu_state_area_411_2
-        fu_state_area_783
-        fu_state_area_783_2
-    }
-}
-
 fu_strategic_region_91 = {
     areas = {
+        fu_state_area_377
         fu_state_area_780
         fu_state_area_779
-        fu_state_area_344
+        fu_state_area_758
         fu_state_area_778
+        fu_state_area_757
         fu_state_area_359
-        fu_state_area_748
-        fu_state_area_747
         fu_state_area_774
     }
 }
@@ -1111,17 +1100,31 @@ fu_strategic_region_91_2 = {
     }
 }
 
+fu_strategic_region_92 = {
+    areas = {
+        fu_state_area_344
+        fu_state_area_748
+        fu_state_area_747
+    }
+}
+
+fu_strategic_region_194 = {
+    areas = {
+        fu_state_area_344_2
+    }
+}
+
 fu_strategic_region_93 = {
     areas = {
         fu_state_area_789
         fu_state_area_381
-        fu_state_area_419
+        fu_state_area_962
     }
 }
 
-fu_strategic_region_251 = {
+fu_strategic_region_192 = {
     areas = {
-        fu_state_area_generated_1540
+        fu_state_area_generated_1535
     }
 }
 
@@ -1135,8 +1138,19 @@ fu_strategic_region_95 = {
         fu_state_area_771
         fu_state_area_422
         fu_state_area_422_2
-        fu_state_area_442
-        fu_state_area_442_2
+    }
+}
+
+fu_strategic_region_94 = {
+    areas = {
+        fu_state_area_785
+        fu_state_area_786
+        fu_state_area_784
+        fu_state_area_784_2
+        fu_state_area_411
+        fu_state_area_411_2
+        fu_state_area_783
+        fu_state_area_783_2
     }
 }
 
@@ -1159,7 +1173,6 @@ fu_strategic_region_98 = {
         fu_state_area_803
         fu_state_area_426
         fu_state_area_432
-        fu_state_area_952
     }
 }
 
@@ -1169,6 +1182,7 @@ fu_strategic_region_98_2 = {
         fu_state_area_954
         fu_state_area_953
         fu_state_area_412
+        fu_state_area_952
     }
 }
 
@@ -1209,7 +1223,7 @@ fu_strategic_region_103 = {
     areas = {
         fu_state_area_745
         fu_state_area_286
-        fu_state_area_240
+        fu_state_area_243
         fu_state_area_233
         fu_state_area_270
         fu_state_area_746
@@ -1220,7 +1234,7 @@ fu_strategic_region_103 = {
 fu_strategic_region_103_2 = {
     areas = {
         fu_state_area_233_2
-        fu_state_area_243
+        fu_state_area_243_2
     }
 }
 
@@ -1243,21 +1257,14 @@ fu_strategic_region_104 = {
     }
 }
 
-fu_strategic_region_206 = {
+fu_strategic_region_105 = {
     areas = {
-        fu_state_area_898
-        fu_state_area_302
         fu_state_area_974
-        fu_state_area_386
+        fu_state_area_969
         fu_state_area_348
-        fu_state_area_899
+        fu_state_area_972
         fu_state_area_977
-    }
-}
-
-fu_strategic_region_206_2 = {
-    areas = {
-        fu_state_area_333
+        fu_state_area_971
     }
 }
 
@@ -1312,9 +1319,9 @@ fu_strategic_region_112 = {
     }
 }
 
-fu_strategic_region_205 = {
+fu_strategic_region_204 = {
     areas = {
-        fu_state_area_898_2
+        fu_state_area_generated_1561
     }
 }
 
@@ -1325,10 +1332,9 @@ fu_strategic_region_114 = {
     }
 }
 
-fu_strategic_region_203 = {
+fu_strategic_region_202 = {
     areas = {
-        fu_state_area_generated_1572
-        fu_state_area_generated_1574
+        fu_state_area_generated_1580
     }
 }
 
@@ -1354,6 +1360,10 @@ fu_strategic_region_116_2 = {
 
 fu_strategic_region_118 = {
     areas = {
+        fu_state_area_898
+        fu_state_area_302
+        fu_state_area_386
+        fu_state_area_899
         fu_state_area_1277
         fu_state_area_1278
         fu_state_area_1278_2
@@ -1362,10 +1372,9 @@ fu_strategic_region_118 = {
     }
 }
 
-fu_strategic_region_171 = {
+fu_strategic_region_206 = {
     areas = {
-        fu_state_area_generated_1530
-        fu_state_area_generated_1582
+        fu_state_area_333
     }
 }
 
@@ -1400,32 +1409,37 @@ fu_strategic_region_120 = {
     }
 }
 
-fu_strategic_region_121 = {
+fu_strategic_region_122 = {
     areas = {
+        fu_state_area_573
         fu_state_area_576
+        fu_state_area_574
+        fu_state_area_572
         fu_state_area_575
+        fu_state_area_571
         fu_state_area_49
+        fu_state_area_571_2
         fu_state_area_575_2
     }
 }
 
-fu_strategic_region_124 = {
-    areas = {
-        fu_state_area_generated_1555
-    }
-}
-
-fu_strategic_region_122 = {
-    areas = {
-        fu_state_area_573
-        fu_state_area_574
-        fu_state_area_572
-        fu_state_area_571
-        fu_state_area_571_2
-    }
-}
-
 fu_strategic_region_125 = {
+    areas = {
+        fu_state_area_12
+        fu_state_area_668
+        fu_state_area_468
+        fu_state_area_620
+        fu_state_area_620_2
+    }
+}
+
+fu_strategic_region_126 = {
+    areas = {
+        fu_state_area_generated_1553
+    }
+}
+
+fu_strategic_region_125_2 = {
     areas = {
         fu_state_area_623
         fu_state_area_466
@@ -1436,31 +1450,47 @@ fu_strategic_region_125 = {
     }
 }
 
-fu_strategic_region_125_2 = {
-    areas = {
-        fu_state_area_621
-        fu_state_area_468
-        fu_state_area_620
-        fu_state_area_620_2
-        fu_state_area_624
-        fu_state_area_624_2
-    }
-}
-
 fu_strategic_region_125_3 = {
     areas = {
+        fu_state_area_621
         fu_state_area_625
         fu_state_area_33
+        fu_state_area_624
+        fu_state_area_624_2
         fu_state_area_622_2
     }
 }
 
-fu_strategic_region_274 = {
+fu_strategic_region_282 = {
     areas = {
-        fu_state_area_generated_1545
-        fu_state_area_generated_1547
-        fu_state_area_generated_1549
-        fu_state_area_generated_1550
+        fu_state_area_461
+        fu_state_area_460
+        fu_state_area_458
+        fu_state_area_465
+        fu_state_area_462
+        fu_state_area_464
+        fu_state_area_463
+        fu_state_area_457_2
+    }
+}
+
+fu_strategic_region_128 = {
+    areas = {
+        fu_state_area_generated_1507
+    }
+}
+
+fu_strategic_region_282_2 = {
+    areas = {
+        fu_state_area_457
+        fu_state_area_1
+        fu_state_area_1_2
+    }
+}
+
+fu_strategic_region_282_3 = {
+    areas = {
+        fu_state_area_generated_1513
     }
 }
 
@@ -1497,26 +1527,23 @@ fu_strategic_region_132_2 = {
     }
 }
 
-fu_strategic_region_383 = {
+fu_strategic_region_133 = {
     areas = {
         fu_state_area_608
         fu_state_area_1505
         fu_state_area_1056
-        fu_state_area_501_2
-        fu_state_area_612_2
         fu_state_area_1505_2
     }
 }
 
-fu_strategic_region_383_2 = {
+fu_strategic_region_133_2 = {
     areas = {
-        fu_state_area_501_4
+        fu_state_area_1506_3
         fu_state_area_1056_2
-        fu_state_area_501_6
     }
 }
 
-fu_strategic_region_133 = {
+fu_strategic_region_133_3 = {
     areas = {
         fu_state_area_1506
         fu_state_area_607
@@ -1527,26 +1554,66 @@ fu_strategic_region_133 = {
     }
 }
 
-fu_strategic_region_133_2 = {
+fu_strategic_region_133_4 = {
     areas = {
         fu_state_area_607_3
-        fu_state_area_1506_3
+    }
+}
+
+fu_strategic_region_383 = {
+    areas = {
+        fu_state_area_612
+        fu_state_area_252
+        fu_state_area_501
+        fu_state_area_501_2
+        fu_state_area_612_2
+        fu_state_area_612_3
+    }
+}
+
+fu_strategic_region_383_2 = {
+    areas = {
+        fu_state_area_501_3
+        fu_state_area_501_4
+        fu_state_area_501_5
     }
 }
 
 fu_strategic_region_383_3 = {
     areas = {
-        fu_state_area_252
-        fu_state_area_501
-        fu_state_area_501_3
-        fu_state_area_612
+        fu_state_area_501_6
     }
 }
 
-fu_strategic_region_383_4 = {
+fu_strategic_region_141 = {
     areas = {
-        fu_state_area_501_5
-        fu_state_area_501_7
+        fu_state_area_189
+        fu_state_area_1166
+        fu_state_area_215
+        fu_state_area_1164
+        fu_state_area_1167_2
+        fu_state_area_1165
+        fu_state_area_189_2
+        fu_state_area_189_3
+    }
+}
+
+fu_strategic_region_141_2 = {
+    areas = {
+        fu_state_area_1167
+        fu_state_area_1169
+        fu_state_area_350
+        fu_state_area_1168
+        fu_state_area_147
+        fu_state_area_350_2
+    }
+}
+
+fu_strategic_region_167 = {
+    areas = {
+        fu_state_area_242
+        fu_state_area_244
+        fu_state_area_255
     }
 }
 
@@ -1558,29 +1625,38 @@ fu_strategic_region_142 = {
     }
 }
 
-fu_strategic_region_137 = {
+fu_strategic_region_236 = {
     areas = {
-        fu_state_area_generated_1523
+        fu_state_area_generated_1501
+        fu_state_area_generated_1516
+        fu_state_area_generated_1521
     }
 }
 
-fu_strategic_region_241 = {
+fu_strategic_region_237 = {
     areas = {
-        fu_state_area_1163
-        fu_state_area_211
-        fu_state_area_205
-        fu_state_area_205_2
-        fu_state_area_198
-        fu_state_area_1157
-        fu_state_area_205_3
-        fu_state_area_221
-        fu_state_area_205_4
+        fu_state_area_145
+        fu_state_area_127
+        fu_state_area_141
+        fu_state_area_144
+        fu_state_area_139
+        fu_state_area_148
     }
 }
 
 fu_strategic_region_143 = {
     areas = {
-        fu_state_area_generated_1534
+        fu_state_area_205
+        fu_state_area_205_2
+        fu_state_area_205_3
+        fu_state_area_205_4
+    }
+}
+
+fu_strategic_region_143_2 = {
+    areas = {
+        fu_state_area_generated_1519
+        fu_state_area_generated_1520
     }
 }
 
@@ -1601,23 +1677,33 @@ fu_strategic_region_153_2 = {
         fu_state_area_834
         fu_state_area_1353
         fu_state_area_1352
-        fu_state_area_407
     }
 }
 
 fu_strategic_region_155 = {
     areas = {
-        fu_state_area_generated_1584
-        fu_state_area_generated_1586
-        fu_state_area_407_2
+        fu_state_area_generated_1565
         fu_state_area_1352_2
+    }
+}
+
+fu_strategic_region_153_3 = {
+    areas = {
+        fu_state_area_407
+    }
+}
+
+fu_strategic_region_155_2 = {
+    areas = {
+        fu_state_area_generated_1573
+        fu_state_area_407_2
     }
 }
 
 fu_strategic_region_154 = {
     areas = {
-        fu_state_area_generated_1578
-        fu_state_area_generated_1583
+        fu_state_area_generated_1563
+        fu_state_area_generated_1564
     }
 }
 
@@ -1627,11 +1713,25 @@ fu_strategic_region_156 = {
     }
 }
 
+fu_strategic_region_159 = {
+    areas = {
+        fu_state_area_generated_1562
+        fu_state_area_generated_1566
+        fu_state_area_generated_1568
+    }
+}
+
+fu_strategic_region_174 = {
+    areas = {
+        fu_state_area_443
+        fu_state_area_447
+        fu_state_area_867
+    }
+}
+
 fu_strategic_region_157 = {
     areas = {
-        fu_state_area_generated_1579
-        fu_state_area_generated_1581
-        fu_state_area_generated_1585
+        fu_state_area_generated_1574
     }
 }
 
@@ -1644,20 +1744,6 @@ fu_strategic_region_158 = {
         fu_state_area_1354
         fu_state_area_318
         fu_state_area_1355
-    }
-}
-
-fu_strategic_region_361 = {
-    areas = {
-        fu_state_area_1176
-        fu_state_area_1170
-        fu_state_area_1170_2
-    }
-}
-
-fu_strategic_region_159 = {
-    areas = {
-        fu_state_area_generated_1577
     }
 }
 
@@ -1680,18 +1766,21 @@ fu_strategic_region_160 = {
         fu_state_area_352
         fu_state_area_338
         fu_state_area_371
+        fu_state_area_360
     }
 }
 
 fu_strategic_region_160_2 = {
     areas = {
-        fu_state_area_generated_1705
+        fu_state_area_generated_1694
+        fu_state_area_generated_1701
     }
 }
 
 fu_strategic_region_161_2 = {
     areas = {
         fu_state_area_792
+        fu_state_area_885
         fu_state_area_335
         fu_state_area_330
         fu_state_area_883
@@ -1703,19 +1792,6 @@ fu_strategic_region_161_3 = {
     areas = {
         fu_state_area_330_3
         fu_state_area_335_2
-    }
-}
-
-fu_strategic_region_160_3 = {
-    areas = {
-        fu_state_area_885
-        fu_state_area_360
-    }
-}
-
-fu_strategic_region_160_4 = {
-    areas = {
-        fu_state_area_generated_1712
     }
 }
 
@@ -1768,8 +1844,8 @@ fu_strategic_region_166 = {
 
 fu_strategic_region_163 = {
     areas = {
-        fu_state_area_generated_1576
-        fu_state_area_generated_1580
+        fu_state_area_generated_1567
+        fu_state_area_generated_1570
         fu_state_area_799_2
     }
 }
@@ -1796,14 +1872,6 @@ fu_strategic_region_169 = {
     }
 }
 
-fu_strategic_region_333 = {
-    areas = {
-        fu_state_area_1099
-        fu_state_area_1098
-        fu_state_area_499
-    }
-}
-
 fu_strategic_region_169_2 = {
     areas = {
         fu_state_area_815
@@ -1812,19 +1880,11 @@ fu_strategic_region_169_2 = {
     }
 }
 
-fu_strategic_region_216 = {
+fu_strategic_region_171 = {
     areas = {
-        fu_state_area_155
-        fu_state_area_495
-        fu_state_area_935
-        fu_state_area_931
-        fu_state_area_936
-    }
-}
-
-fu_strategic_region_170 = {
-    areas = {
-        fu_state_area_generated_1529
+        fu_state_area_generated_1518
+        fu_state_area_generated_1571
+        fu_state_area_generated_1575
     }
 }
 
@@ -1852,35 +1912,18 @@ fu_strategic_region_175 = {
     }
 }
 
-fu_strategic_region_174 = {
-    areas = {
-        fu_state_area_443
-        fu_state_area_447
-        fu_state_area_867
-        fu_state_area_865
-    }
-}
-
 fu_strategic_region_177 = {
     areas = {
-        fu_state_area_1362
-        fu_state_area_1190
-        fu_state_area_1181
-        fu_state_area_1363
         fu_state_area_863
         fu_state_area_429
+        fu_state_area_865
     }
 }
 
 fu_strategic_region_179 = {
     areas = {
+        fu_state_area_400
         fu_state_area_446
-    }
-}
-
-fu_strategic_region_204 = {
-    areas = {
-        fu_state_area_generated_1575
     }
 }
 
@@ -1894,7 +1937,15 @@ fu_strategic_region_182 = {
 fu_strategic_region_181 = {
     areas = {
         fu_state_area_874_2
-        fu_state_area_generated_1721
+        fu_state_area_generated_1710
+    }
+}
+
+fu_strategic_region_183 = {
+    areas = {
+        fu_state_area_441
+        fu_state_area_442
+        fu_state_area_442_2
     }
 }
 
@@ -1916,52 +1967,55 @@ fu_strategic_region_185 = {
 
 fu_strategic_region_254 = {
     areas = {
-        fu_state_area_generated_1531
+        fu_state_area_generated_1529
     }
 }
 
-fu_strategic_region_291 = {
+fu_strategic_region_371 = {
     areas = {
-        fu_state_area_1016
-        fu_state_area_441
-        fu_state_area_964
+        fu_state_area_1203
+        fu_state_area_1208
+        fu_state_area_1205
+        fu_state_area_1208_2
+        fu_state_area_1205_2
+    }
+}
+
+fu_strategic_region_189 = {
+    areas = {
+        fu_state_area_generated_1560
+        fu_state_area_1205_3
     }
 }
 
 fu_strategic_region_304 = {
     areas = {
-        fu_state_area_1543
-        fu_state_area_1042
+        fu_state_area_1496
+        fu_state_area_1544
         fu_state_area_166
         fu_state_area_1528
         fu_state_area_1529
         fu_state_area_1527
         fu_state_area_200
-        fu_state_area_200_2
-    }
-}
-
-fu_strategic_region_196 = {
-    areas = {
-        fu_state_area_183
-        fu_state_area_200_3
-    }
-}
-
-fu_strategic_region_310 = {
-    areas = {
-        fu_state_area_1482
-        fu_state_area_1483
-        fu_state_area_1047
-        fu_state_area_1508
-        fu_state_area_1509
         fu_state_area_1319
     }
 }
 
-fu_strategic_region_310_2 = {
+fu_strategic_region_197 = {
     areas = {
-        fu_state_area_1508_2
+        fu_state_area_183
+    }
+}
+
+fu_strategic_region_304_2 = {
+    areas = {
+        fu_state_area_200_2
+    }
+}
+
+fu_strategic_region_304_3 = {
+    areas = {
+        fu_state_area_200_3
     }
 }
 
@@ -2020,20 +2074,19 @@ fu_strategic_region_200_2 = {
     }
 }
 
-fu_strategic_region_371 = {
+fu_strategic_region_384 = {
     areas = {
-        fu_state_area_400
-        fu_state_area_1203
-        fu_state_area_1208
-        fu_state_area_1205
-        fu_state_area_1208_2
-        fu_state_area_1205_2
+        fu_state_area_892
+        fu_state_area_890
+        fu_state_area_893
+        fu_state_area_291
+        fu_state_area_891
     }
 }
 
-fu_strategic_region_371_2 = {
+fu_strategic_region_205 = {
     areas = {
-        fu_state_area_1205_3
+        fu_state_area_898_2
     }
 }
 
@@ -2048,10 +2101,10 @@ fu_strategic_region_207 = {
     }
 }
 
-fu_strategic_region_259 = {
+fu_strategic_region_229 = {
     areas = {
-        fu_state_area_generated_1528
-        fu_state_area_generated_1565
+        fu_state_area_generated_1514
+        fu_state_area_generated_1517
         fu_state_area_924_2
     }
 }
@@ -2064,39 +2117,26 @@ fu_strategic_region_208 = {
     }
 }
 
-fu_strategic_region_228 = {
+fu_strategic_region_266 = {
     areas = {
-        fu_state_area_generated_1524
+        fu_state_area_generated_1494
+    }
+}
+
+fu_strategic_region_210 = {
+    areas = {
+        fu_state_area_915
+        fu_state_area_917
+        fu_state_area_918
+        fu_state_area_126
+        fu_state_area_919
+        fu_state_area_920
     }
 }
 
 fu_strategic_region_209 = {
     areas = {
-        fu_state_area_915
-        fu_state_area_917
-        fu_state_area_918
-    }
-}
-
-fu_strategic_region_229 = {
-    areas = {
-        fu_state_area_generated_1525
-        fu_state_area_generated_1526
         fu_state_area_918_2
-    }
-}
-
-fu_strategic_region_215 = {
-    areas = {
-        fu_state_area_911
-        fu_state_area_186
-        fu_state_area_908
-        fu_state_area_909
-        fu_state_area_930
-        fu_state_area_910
-        fu_state_area_126
-        fu_state_area_919
-        fu_state_area_920
     }
 }
 
@@ -2129,34 +2169,60 @@ fu_strategic_region_213_2 = {
     }
 }
 
+fu_strategic_region_216 = {
+    areas = {
+        fu_state_area_155
+        fu_state_area_495
+        fu_state_area_935
+        fu_state_area_931
+        fu_state_area_907
+        fu_state_area_936
+        fu_state_area_934
+        fu_state_area_178
+    }
+}
+
+fu_strategic_region_214 = {
+    areas = {
+        fu_state_area_907_2
+        fu_state_area_178_2
+    }
+}
+
 fu_strategic_region_217 = {
     areas = {
-        fu_state_area_929
+        fu_state_area_911
+        fu_state_area_908
+        fu_state_area_909
         fu_state_area_196
-        fu_state_area_928
         fu_state_area_927
     }
 }
 
 fu_strategic_region_217_2 = {
     areas = {
-        fu_state_area_929_2
         fu_state_area_928_2
     }
 }
 
-fu_strategic_region_214 = {
+fu_strategic_region_215 = {
     areas = {
-        fu_state_area_907
-        fu_state_area_934
-        fu_state_area_178
+        fu_state_area_186
+        fu_state_area_930
+        fu_state_area_910
     }
 }
 
-fu_strategic_region_214_2 = {
+fu_strategic_region_217_3 = {
     areas = {
-        fu_state_area_907_2
-        fu_state_area_178_2
+        fu_state_area_929
+        fu_state_area_928
+    }
+}
+
+fu_strategic_region_217_4 = {
+    areas = {
+        fu_state_area_929_2
     }
 }
 
@@ -2171,7 +2237,7 @@ fu_strategic_region_218 = {
 
 fu_strategic_region_253 = {
     areas = {
-        fu_state_area_generated_1533
+        fu_state_area_generated_1534
     }
 }
 
@@ -2242,86 +2308,23 @@ fu_strategic_region_225 = {
     }
 }
 
-fu_strategic_region_230 = {
+fu_strategic_region_233 = {
     areas = {
-        fu_state_area_generated_1532
+        fu_state_area_generated_1502
     }
 }
 
-fu_strategic_region_234 = {
+fu_strategic_region_228 = {
     areas = {
-        fu_state_area_generated_1510
-        fu_state_area_generated_1519
-        fu_state_area_generated_1527
-        fu_state_area_generated_1535
+        fu_state_area_generated_1569
+        fu_state_area_generated_1572
     }
 }
 
-fu_strategic_region_235 = {
+fu_strategic_region_231 = {
     areas = {
-        fu_state_area_73
-        fu_state_area_55
-        fu_state_area_55_2
-        fu_state_area_55_3
-    }
-}
-
-fu_strategic_region_256 = {
-    areas = {
-        fu_state_area_generated_1507
-        fu_state_area_generated_1509
-        fu_state_area_generated_1589
-    }
-}
-
-fu_strategic_region_256_2 = {
-    areas = {
-        fu_state_area_51
-        fu_state_area_67
-    }
-}
-
-fu_strategic_region_256_3 = {
-    areas = {
-        fu_state_area_generated_1508
-        fu_state_area_generated_1588
-    }
-}
-
-fu_strategic_region_268 = {
-    areas = {
-        fu_state_area_generated_1513
-        fu_state_area_generated_1517
-        fu_state_area_generated_1518
-    }
-}
-
-fu_strategic_region_239 = {
-    areas = {
-        fu_state_area_158
-        fu_state_area_144
-        fu_state_area_901
-        fu_state_area_139
-        fu_state_area_148
-        fu_state_area_185
-    }
-}
-
-fu_strategic_region_237 = {
-    areas = {
-        fu_state_area_145
-        fu_state_area_127
-        fu_state_area_141
-        fu_state_area_1151
-        fu_state_area_182
-        fu_state_area_1152
-    }
-}
-
-fu_strategic_region_239_2 = {
-    areas = {
-        fu_state_area_160
-        fu_state_area_1151_2
+        fu_state_area_generated_1495
+        fu_state_area_generated_1499
     }
 }
 
@@ -2335,16 +2338,65 @@ fu_strategic_region_240 = {
     }
 }
 
-fu_strategic_region_240_2 = {
+fu_strategic_region_232 = {
     areas = {
         fu_state_area_1156_2
+        fu_state_area_1156_3
+    }
+}
+
+fu_strategic_region_239 = {
+    areas = {
+        fu_state_area_158
+        fu_state_area_1151
+        fu_state_area_182
+        fu_state_area_1152
+        fu_state_area_901
+        fu_state_area_185
+    }
+}
+
+fu_strategic_region_234 = {
+    areas = {
+        fu_state_area_generated_1503
+        fu_state_area_160
+        fu_state_area_1151_2
+    }
+}
+
+fu_strategic_region_235 = {
+    areas = {
+        fu_state_area_73
+        fu_state_area_51
+        fu_state_area_67
+        fu_state_area_55
+        fu_state_area_55_2
+        fu_state_area_55_3
+    }
+}
+
+fu_strategic_region_256 = {
+    areas = {
+        fu_state_area_generated_1515
+        fu_state_area_generated_1576
+        fu_state_area_generated_1577
+    }
+}
+
+fu_strategic_region_241 = {
+    areas = {
+        fu_state_area_1163
+        fu_state_area_1154
+        fu_state_area_211
+        fu_state_area_198
+        fu_state_area_1157
+        fu_state_area_221
     }
 }
 
 fu_strategic_region_238 = {
     areas = {
         fu_state_area_193
-        fu_state_area_1154
         fu_state_area_1153
         fu_state_area_194
         fu_state_area_1155
@@ -2480,19 +2532,11 @@ fu_strategic_region_249_2 = {
 
 fu_strategic_region_250 = {
     areas = {
-        fu_state_area_163
-        fu_state_area_1140
-        fu_state_area_1135
+        fu_state_area_419
         fu_state_area_500
         fu_state_area_1130
         fu_state_area_1130_2
         fu_state_area_1130_3
-    }
-}
-
-fu_strategic_region_326 = {
-    areas = {
-        fu_state_area_1140_2
     }
 }
 
@@ -2517,25 +2561,45 @@ fu_strategic_region_327 = {
     }
 }
 
-fu_strategic_region_388 = {
+fu_strategic_region_389 = {
     areas = {
-        fu_state_area_1305
-        fu_state_area_1291
-        fu_state_area_5
-        fu_state_area_1291_2
+        fu_state_area_1300
+        fu_state_area_1293
+        fu_state_area_1296
+        fu_state_area_1296_2
     }
 }
 
 fu_strategic_region_255 = {
     areas = {
-        fu_state_area_generated_1503
+        fu_state_area_generated_1500
     }
 }
 
-fu_strategic_region_260 = {
+fu_strategic_region_261 = {
     areas = {
-        fu_state_area_generated_1554
-        fu_state_area_generated_1563
+        fu_state_area_generated_1510
+        fu_state_area_generated_1511
+        fu_state_area_generated_1555
+    }
+}
+
+fu_strategic_region_296 = {
+    areas = {
+        fu_state_area_1074
+        fu_state_area_1074_2
+        fu_state_area_1071
+        fu_state_area_1071_2
+        fu_state_area_1071_3
+        fu_state_area_35
+        fu_state_area_35_2
+        fu_state_area_35_3
+    }
+}
+
+fu_strategic_region_258 = {
+    areas = {
+        fu_state_area_generated_1556
     }
 }
 
@@ -2546,10 +2610,9 @@ fu_strategic_region_262 = {
     }
 }
 
-fu_strategic_region_261 = {
+fu_strategic_region_276 = {
     areas = {
-        fu_state_area_generated_1551
-        fu_state_area_generated_1560
+        fu_state_area_generated_1508
     }
 }
 
@@ -2561,9 +2624,7 @@ fu_strategic_region_263 = {
 
 fu_strategic_region_279 = {
     areas = {
-        fu_state_area_generated_1557
-        fu_state_area_generated_1558
-        fu_state_area_generated_1559
+        fu_state_area_generated_1509
     }
 }
 
@@ -2575,37 +2636,8 @@ fu_strategic_region_264 = {
 
 fu_strategic_region_275 = {
     areas = {
-        fu_state_area_generated_1498
-        fu_state_area_generated_1561
-        fu_state_area_generated_1562
-    }
-}
-
-fu_strategic_region_278 = {
-    areas = {
-        fu_state_area_generated_1496
-        fu_state_area_generated_1500
-        fu_state_area_generated_1504
-        fu_state_area_generated_1506
-    }
-}
-
-fu_strategic_region_300 = {
-    areas = {
-        fu_state_area_64
-        fu_state_area_64_2
-        fu_state_area_1063
-        fu_state_area_1063_2
-        fu_state_area_1059
-        fu_state_area_1059_2
-        fu_state_area_1059_3
-    }
-}
-
-fu_strategic_region_266 = {
-    areas = {
-        fu_state_area_generated_1505
-        fu_state_area_generated_1564
+        fu_state_area_generated_1512
+        fu_state_area_generated_1557
     }
 }
 
@@ -2629,149 +2661,17 @@ fu_strategic_region_267 = {
     }
 }
 
-fu_strategic_region_282 = {
-    areas = {
-        fu_state_area_461
-        fu_state_area_460
-        fu_state_area_458
-        fu_state_area_465
-        fu_state_area_462
-        fu_state_area_464
-        fu_state_area_463
-        fu_state_area_457_2
-    }
-}
-
-fu_strategic_region_269 = {
-    areas = {
-        fu_state_area_generated_1502
-    }
-}
-
-fu_strategic_region_282_2 = {
-    areas = {
-        fu_state_area_457
-        fu_state_area_1
-        fu_state_area_1_2
-    }
-}
-
-fu_strategic_region_282_3 = {
-    areas = {
-        fu_state_area_generated_1587
-    }
-}
-
-fu_strategic_region_269_2 = {
-    areas = {
-        fu_state_area_generated_1499
-        fu_state_area_generated_1501
-    }
-}
-
-fu_strategic_region_270 = {
-    areas = {
-        fu_state_area_generated_1512
-        fu_state_area_generated_1515
-    }
-}
-
-fu_strategic_region_387 = {
-    areas = {
-        fu_state_area_1297
-        fu_state_area_1304
-        fu_state_area_1297_2
-        fu_state_area_1299
-        fu_state_area_1299_2
-        fu_state_area_1294
-        fu_state_area_1294_2
-        fu_state_area_1297_3
-    }
-}
-
-fu_strategic_region_272 = {
-    areas = {
-        fu_state_area_generated_1511
-    }
-}
-
-fu_strategic_region_290 = {
-    areas = {
-        fu_state_area_1011
-        fu_state_area_1009
-        fu_state_area_1012
-        fu_state_area_1010
-        fu_state_area_143
-    }
-}
-
-fu_strategic_region_273 = {
-    areas = {
-        fu_state_area_generated_1544
-    }
-}
-
-fu_strategic_region_294 = {
-    areas = {
-        fu_state_area_467
-        fu_state_area_467_2
-        fu_state_area_467_3
-        fu_state_area_1078
-        fu_state_area_1078_2
-    }
-}
-
-fu_strategic_region_294_2 = {
-    areas = {
-        fu_state_area_467_4
-    }
-}
-
-fu_strategic_region_294_3 = {
-    areas = {
-        fu_state_area_1067
-        fu_state_area_10
-        fu_state_area_1066
-        fu_state_area_1072
-        fu_state_area_1075
-        fu_state_area_1075_2
-    }
-}
-
-fu_strategic_region_294_4 = {
-    areas = {
-        fu_state_area_1072_2
-    }
-}
-
-fu_strategic_region_294_5 = {
-    areas = {
-        fu_state_area_9
-        fu_state_area_9_2
-        fu_state_area_1078_3
-    }
-}
-
-fu_strategic_region_276 = {
-    areas = {
-        fu_state_area_generated_1556
-    }
-}
-
-fu_strategic_region_386 = {
-    areas = {
-        fu_state_area_1301
-        fu_state_area_4
-        fu_state_area_1298
-        fu_state_area_1298_2
-        fu_state_area_1301_2
-        fu_state_area_1301_3
-    }
-}
-
-fu_strategic_region_277 = {
+fu_strategic_region_268 = {
     areas = {
         fu_state_area_generated_1497
+        fu_state_area_generated_1498
+    }
+}
+
+fu_strategic_region_278 = {
+    areas = {
+        fu_state_area_generated_1493
+        fu_state_area_generated_1496
     }
 }
 
@@ -2780,11 +2680,8 @@ fu_strategic_region_280 = {
         fu_state_area_1069
         fu_state_area_26
         fu_state_area_26_2
-        fu_state_area_61
-        fu_state_area_61_2
         fu_state_area_1068
-        fu_state_area_1068_2
-        fu_state_area_1062_2
+        fu_state_area_26_3
         fu_state_area_26_4
     }
 }
@@ -2793,16 +2690,19 @@ fu_strategic_region_299 = {
     areas = {
         fu_state_area_46
         fu_state_area_46_2
+        fu_state_area_61
         fu_state_area_1064
         fu_state_area_1064_2
-        fu_state_area_1062
-        fu_state_area_1062_3
+        fu_state_area_1068_2
     }
 }
 
-fu_strategic_region_280_2 = {
+fu_strategic_region_299_2 = {
     areas = {
-        fu_state_area_26_3
+        fu_state_area_61_2
+        fu_state_area_1062
+        fu_state_area_1062_2
+        fu_state_area_1062_3
     }
 }
 
@@ -2866,6 +2766,76 @@ fu_strategic_region_286_2 = {
     }
 }
 
+fu_strategic_region_287 = {
+    areas = {
+        fu_state_area_995
+        fu_state_area_1005
+        fu_state_area_1006
+        fu_state_area_997
+        fu_state_area_994
+        fu_state_area_998
+        fu_state_area_1010
+        fu_state_area_143
+    }
+}
+
+fu_strategic_region_290 = {
+    areas = {
+        fu_state_area_1011
+        fu_state_area_1009
+        fu_state_area_1012
+    }
+}
+
+fu_strategic_region_382 = {
+    areas = {
+        fu_state_area_161
+        fu_state_area_59
+        fu_state_area_1000
+        fu_state_area_1211
+        fu_state_area_212
+        fu_state_area_999
+        fu_state_area_59_3
+        fu_state_area_1211_2
+    }
+}
+
+fu_strategic_region_288 = {
+    areas = {
+        fu_state_area_1000_2
+    }
+}
+
+fu_strategic_region_382_2 = {
+    areas = {
+        fu_state_area_1213
+    }
+}
+
+fu_strategic_region_382_3 = {
+    areas = {
+        fu_state_area_1213_3
+    }
+}
+
+fu_strategic_region_288_2 = {
+    areas = {
+        fu_state_area_59_2
+    }
+}
+
+fu_strategic_region_288_3 = {
+    areas = {
+        fu_state_area_999_2
+    }
+}
+
+fu_strategic_region_382_4 = {
+    areas = {
+        fu_state_area_212_2
+    }
+}
+
 fu_strategic_region_289 = {
     areas = {
         fu_state_area_1003
@@ -2873,66 +2843,95 @@ fu_strategic_region_289 = {
         fu_state_area_1001
         fu_state_area_1002
         fu_state_area_52
+        fu_state_area_1196
+        fu_state_area_1189
+        fu_state_area_1189_2
         fu_state_area_1007
     }
 }
 
-fu_strategic_region_287 = {
+fu_strategic_region_379 = {
     areas = {
-        fu_state_area_996
-        fu_state_area_1005
-        fu_state_area_1006
-        fu_state_area_997
-        fu_state_area_994
-        fu_state_area_998
+        fu_state_area_1189_3
     }
 }
 
-fu_strategic_region_288 = {
+fu_strategic_region_292 = {
     areas = {
-        fu_state_area_161
-        fu_state_area_59
-        fu_state_area_1000
-        fu_state_area_999
-        fu_state_area_59_2
-    }
-}
-
-fu_strategic_region_288_2 = {
-    areas = {
-        fu_state_area_999_2
-        fu_state_area_1000_2
-    }
-}
-
-fu_strategic_region_382 = {
-    areas = {
-        fu_state_area_1211
-        fu_state_area_1213
-        fu_state_area_212
-        fu_state_area_59_3
-        fu_state_area_1211_2
-    }
-}
-
-fu_strategic_region_382_2 = {
-    areas = {
-        fu_state_area_1213_3
-        fu_state_area_212_2
-    }
-}
-
-fu_strategic_region_384 = {
-    areas = {
+        fu_state_area_1016
         fu_state_area_363
         fu_state_area_1013
-        fu_state_area_892
-        fu_state_area_890
-        fu_state_area_893
+        fu_state_area_964
         fu_state_area_1014
-        fu_state_area_291
-        fu_state_area_891
         fu_state_area_1019
+    }
+}
+
+fu_strategic_region_294 = {
+    areas = {
+        fu_state_area_467
+        fu_state_area_467_2
+        fu_state_area_467_3
+        fu_state_area_467_4
+        fu_state_area_1078
+    }
+}
+
+fu_strategic_region_294_2 = {
+    areas = {
+        fu_state_area_467_5
+    }
+}
+
+fu_strategic_region_294_3 = {
+    areas = {
+        fu_state_area_1067
+        fu_state_area_10
+        fu_state_area_1066
+        fu_state_area_1072
+        fu_state_area_1075
+    }
+}
+
+fu_strategic_region_294_4 = {
+    areas = {
+        fu_state_area_1072_2
+    }
+}
+
+fu_strategic_region_344 = {
+    areas = {
+        fu_state_area_1252
+        fu_state_area_75
+        fu_state_area_77
+        fu_state_area_1245
+    }
+}
+
+fu_strategic_region_344_2 = {
+    areas = {
+        fu_state_area_77_2
+    }
+}
+
+fu_strategic_region_294_5 = {
+    areas = {
+        fu_state_area_1075_2
+        fu_state_area_9
+        fu_state_area_9_2
+        fu_state_area_1078_2
+        fu_state_area_1078_3
+    }
+}
+
+fu_strategic_region_298 = {
+    areas = {
+        fu_state_area_72
+        fu_state_area_72_2
+        fu_state_area_1061
+        fu_state_area_1061_2
+        fu_state_area_1060
+        fu_state_area_86_2
     }
 }
 
@@ -2944,30 +2943,24 @@ fu_strategic_region_297 = {
         fu_state_area_1065_2
         fu_state_area_1065_3
         fu_state_area_63_2
-        fu_state_area_63_3
     }
 }
 
-fu_strategic_region_296 = {
+fu_strategic_region_298_2 = {
     areas = {
-        fu_state_area_1074
-        fu_state_area_1074_2
-        fu_state_area_1074_3
-        fu_state_area_1071_3
-        fu_state_area_35
-        fu_state_area_35_2
-        fu_state_area_35_3
+        fu_state_area_1060_2
+        fu_state_area_86
+        fu_state_area_86_3
     }
 }
 
 fu_strategic_region_297_2 = {
     areas = {
-        fu_state_area_1071
-        fu_state_area_1071_2
         fu_state_area_1073
         fu_state_area_1073_2
         fu_state_area_1073_3
         fu_state_area_63
+        fu_state_area_63_3
     }
 }
 
@@ -2978,32 +2971,24 @@ fu_strategic_region_297_3 = {
     }
 }
 
-fu_strategic_region_341 = {
+fu_strategic_region_331 = {
     areas = {
-        fu_state_area_101
-        fu_state_area_53
-        fu_state_area_1243
-        fu_state_area_72
-        fu_state_area_1061
-        fu_state_area_1061_2
+        fu_state_area_1344
+        fu_state_area_1084
+        fu_state_area_1082
+        fu_state_area_1082_2
     }
 }
 
-fu_strategic_region_341_2 = {
+fu_strategic_region_300 = {
     areas = {
-        fu_state_area_53_2
-        fu_state_area_1243_2
-    }
-}
-
-fu_strategic_region_298 = {
-    areas = {
-        fu_state_area_72_2
-        fu_state_area_1060
-        fu_state_area_1060_2
-        fu_state_area_86
-        fu_state_area_86_2
-        fu_state_area_86_3
+        fu_state_area_64
+        fu_state_area_64_2
+        fu_state_area_1063
+        fu_state_area_1063_2
+        fu_state_area_1059
+        fu_state_area_1059_2
+        fu_state_area_1059_3
     }
 }
 
@@ -3048,31 +3033,56 @@ fu_strategic_region_342_4 = {
     }
 }
 
-fu_strategic_region_306 = {
-    areas = {
-        fu_state_area_1547
-        fu_state_area_1490
-        fu_state_area_1053
-        fu_state_area_1489
-        fu_state_area_1052
-        fu_state_area_1522_2
-    }
-}
-
 fu_strategic_region_305 = {
     areas = {
         fu_state_area_1525
         fu_state_area_1522
         fu_state_area_1523
         fu_state_area_1051
-        fu_state_area_1051_2
+        fu_state_area_1522_2
     }
 }
 
 fu_strategic_region_305_2 = {
     areas = {
         fu_state_area_1524
-        fu_state_area_1051_3
+        fu_state_area_1051_2
+    }
+}
+
+fu_strategic_region_377 = {
+    areas = {
+        fu_state_area_1195
+        fu_state_area_1197
+        fu_state_area_1197_2
+    }
+}
+
+fu_strategic_region_377_2 = {
+    areas = {
+        fu_state_area_1195_2
+    }
+}
+
+fu_strategic_region_314 = {
+    areas = {
+        fu_state_area_1547
+        fu_state_area_152
+        fu_state_area_226
+        fu_state_area_176
+        fu_state_area_1492
+        fu_state_area_1053
+        fu_state_area_1326
+        fu_state_area_1054
+        fu_state_area_1491
+    }
+}
+
+fu_strategic_region_306 = {
+    areas = {
+        fu_state_area_1490
+        fu_state_area_1489
+        fu_state_area_1052
     }
 }
 
@@ -3109,61 +3119,65 @@ fu_strategic_region_307_2 = {
     }
 }
 
+fu_strategic_region_308 = {
+    areas = {
+        fu_state_area_1482
+        fu_state_area_1546
+        fu_state_area_1483
+        fu_state_area_1047
+        fu_state_area_1481
+        fu_state_area_1041
+    }
+}
+
+fu_strategic_region_308_2 = {
+    areas = {
+        fu_state_area_1540
+        fu_state_area_1049
+        fu_state_area_1539
+        fu_state_area_1480
+        fu_state_area_1039
+    }
+}
+
+fu_strategic_region_310 = {
+    areas = {
+        fu_state_area_1508
+        fu_state_area_1509
+    }
+}
+
+fu_strategic_region_310_2 = {
+    areas = {
+        fu_state_area_1508_2
+    }
+}
+
 fu_strategic_region_311 = {
     areas = {
         fu_state_area_1551
-        fu_state_area_1532
         fu_state_area_203
         fu_state_area_1530
-        fu_state_area_1531
         fu_state_area_1520
         fu_state_area_1048
+        fu_state_area_216
+    }
+}
+
+fu_strategic_region_312 = {
+    areas = {
+        fu_state_area_1532
+        fu_state_area_1494
+        fu_state_area_1055
+        fu_state_area_1493
+        fu_state_area_1531
     }
 }
 
 fu_strategic_region_311_2 = {
     areas = {
         fu_state_area_1531_2
-    }
-}
-
-fu_strategic_region_308 = {
-    areas = {
-        fu_state_area_1546
-        fu_state_area_1540
-        fu_state_area_1049
-        fu_state_area_1539
-        fu_state_area_1480
-        fu_state_area_1039
-        fu_state_area_1481
-        fu_state_area_1041
-    }
-}
-
-fu_strategic_region_312 = {
-    areas = {
-        fu_state_area_152
-        fu_state_area_176
-        fu_state_area_1494
-        fu_state_area_1055
-        fu_state_area_1493
-        fu_state_area_216
-    }
-}
-
-fu_strategic_region_312_2 = {
-    areas = {
         fu_state_area_1494_2
-    }
-}
-
-fu_strategic_region_314 = {
-    areas = {
-        fu_state_area_226
-        fu_state_area_1492
-        fu_state_area_1326
-        fu_state_area_1054
-        fu_state_area_1491
     }
 }
 
@@ -3196,31 +3210,44 @@ fu_strategic_region_313 = {
 
 fu_strategic_region_317 = {
     areas = {
-        fu_state_area_1105
-        fu_state_area_1104
         fu_state_area_257
+        fu_state_area_163
+        fu_state_area_1140
+        fu_state_area_1135
         fu_state_area_1142
         fu_state_area_505
         fu_state_area_505_2
-        fu_state_area_1105_2
     }
 }
 
-fu_strategic_region_317_2 = {
+fu_strategic_region_326 = {
     areas = {
+        fu_state_area_1140_2
         fu_state_area_1142_2
+    }
+}
+
+fu_strategic_region_318 = {
+    areas = {
+        fu_state_area_305
+        fu_state_area_1104
+        fu_state_area_1108
+        fu_state_area_1107
+        fu_state_area_1109
+        fu_state_area_1109_2
+        fu_state_area_1105
     }
 }
 
 fu_strategic_region_325 = {
     areas = {
-        fu_state_area_1108
-        fu_state_area_1107
+        fu_state_area_1119
+        fu_state_area_1120
+        fu_state_area_1120_2
         fu_state_area_310
         fu_state_area_310_2
+        fu_state_area_230
         fu_state_area_1141
-        fu_state_area_1109
-        fu_state_area_1109_2
         fu_state_area_1138
         fu_state_area_1138_2
     }
@@ -3229,19 +3256,6 @@ fu_strategic_region_325 = {
 fu_strategic_region_325_2 = {
     areas = {
         fu_state_area_310_3
-    }
-}
-
-fu_strategic_region_389 = {
-    areas = {
-        fu_state_area_1119
-        fu_state_area_1300
-        fu_state_area_1120
-        fu_state_area_1120_2
-        fu_state_area_230
-        fu_state_area_1293
-        fu_state_area_1296
-        fu_state_area_1296_2
     }
 }
 
@@ -3259,90 +3273,64 @@ fu_strategic_region_332 = {
     }
 }
 
-fu_strategic_region_330 = {
+fu_strategic_region_334 = {
     areas = {
         fu_state_area_1081
         fu_state_area_1341
-        fu_state_area_1338
-        fu_state_area_1344
-        fu_state_area_1080
-        fu_state_area_1242
-        fu_state_area_1084
-        fu_state_area_1082
-        fu_state_area_1082_2
-    }
-}
-
-fu_strategic_region_336 = {
-    areas = {
         fu_state_area_1086
         fu_state_area_1333
         fu_state_area_1335
-        fu_state_area_1329
-        fu_state_area_137
-        fu_state_area_137_2
-    }
-}
-
-fu_strategic_region_336_2 = {
-    areas = {
-        fu_state_area_1339
-        fu_state_area_1094
+        fu_state_area_1338
         fu_state_area_1332
+        fu_state_area_1080
+        fu_state_area_1242
         fu_state_area_1083
-        fu_state_area_1087
-        fu_state_area_162
     }
 }
 
 fu_strategic_region_335 = {
     areas = {
+        fu_state_area_1099
         fu_state_area_1336
         fu_state_area_1337
-        fu_state_area_175
         fu_state_area_1088
-        fu_state_area_1097
+        fu_state_area_1098
+        fu_state_area_499
         fu_state_area_1096
         fu_state_area_1095
         fu_state_area_1095_2
-        fu_state_area_1093
-        fu_state_area_1093_2
     }
 }
 
-fu_strategic_region_337 = {
+fu_strategic_region_336 = {
     areas = {
-        fu_state_area_125
-        fu_state_area_1089
-        fu_state_area_1342
-        fu_state_area_1090
-        fu_state_area_1090_2
+        fu_state_area_1339
+        fu_state_area_1094
+        fu_state_area_1087
+        fu_state_area_162
+        fu_state_area_1329
+        fu_state_area_137
+        fu_state_area_137_2
         fu_state_area_1092
         fu_state_area_1092_2
+    }
+}
+
+fu_strategic_region_339 = {
+    areas = {
         fu_state_area_1091
         fu_state_area_1091_2
     }
 }
 
-fu_strategic_region_360 = {
-    areas = {
-        fu_state_area_1235
-        fu_state_area_1261
-        fu_state_area_1268
-        fu_state_area_210
-        fu_state_area_210_2
-    }
-}
-
-fu_strategic_region_360_2 = {
-    areas = {
-        fu_state_area_1261_2
-    }
-}
-
 fu_strategic_region_340 = {
     areas = {
+        fu_state_area_125
+        fu_state_area_1089
+        fu_state_area_1342
         fu_state_area_1236
+        fu_state_area_1090
+        fu_state_area_1090_2
         fu_state_area_114
         fu_state_area_114_2
         fu_state_area_1240
@@ -3350,29 +3338,51 @@ fu_strategic_region_340 = {
     }
 }
 
-fu_strategic_region_344 = {
+fu_strategic_region_338 = {
     areas = {
-        fu_state_area_81
-        fu_state_area_1244
-        fu_state_area_1252
-        fu_state_area_75
-        fu_state_area_77
-        fu_state_area_1245
-        fu_state_area_81_2
+        fu_state_area_175
+        fu_state_area_1237
+        fu_state_area_1097
+        fu_state_area_130
+        fu_state_area_1093
+        fu_state_area_1093_2
+    }
+}
+
+fu_strategic_region_359 = {
+    areas = {
+        fu_state_area_1237_2
     }
 }
 
 fu_strategic_region_343 = {
     areas = {
-        fu_state_area_77_2
-        fu_state_area_1244_2
+        fu_state_area_81
+        fu_state_area_1244
+        fu_state_area_1243
+        fu_state_area_1238
+        fu_state_area_1238_2
+        fu_state_area_81_2
     }
 }
 
 fu_strategic_region_343_2 = {
     areas = {
-        fu_state_area_1238
-        fu_state_area_1238_2
+        fu_state_area_1244_2
+        fu_state_area_1243_2
+    }
+}
+
+fu_strategic_region_341 = {
+    areas = {
+        fu_state_area_101
+        fu_state_area_53
+    }
+}
+
+fu_strategic_region_341_2 = {
+    areas = {
+        fu_state_area_53_2
     }
 }
 
@@ -3475,37 +3485,39 @@ fu_strategic_region_354 = {
 
 fu_strategic_region_355 = {
     areas = {
+        fu_state_area_1256
+        fu_state_area_1258
         fu_state_area_1229
-        fu_state_area_1237
         fu_state_area_1260
         fu_state_area_170
         fu_state_area_170_2
-        fu_state_area_130
-        fu_state_area_130_2
-    }
-}
-
-fu_strategic_region_359 = {
-    areas = {
-        fu_state_area_1237_2
-    }
-}
-
-fu_strategic_region_358 = {
-    areas = {
-        fu_state_area_1256
-        fu_state_area_1258
-        fu_state_area_1214
-        fu_state_area_1171
         fu_state_area_129
         fu_state_area_129_2
     }
 }
 
-fu_strategic_region_358_2 = {
+fu_strategic_region_358 = {
     areas = {
         fu_state_area_129_3
         fu_state_area_1258_2
+    }
+}
+
+fu_strategic_region_360 = {
+    areas = {
+        fu_state_area_1214
+        fu_state_area_1235
+        fu_state_area_1261
+        fu_state_area_1268
+        fu_state_area_1171
+        fu_state_area_210
+        fu_state_area_210_2
+    }
+}
+
+fu_strategic_region_360_2 = {
+    areas = {
+        fu_state_area_1261_2
     }
 }
 
@@ -3513,43 +3525,23 @@ fu_strategic_region_363 = {
     areas = {
         fu_state_area_1364
         fu_state_area_1182
-        fu_state_area_1179
-        fu_state_area_1180
-        fu_state_area_1178
+        fu_state_area_1176
         fu_state_area_1177
+        fu_state_area_1170
+        fu_state_area_1170_2
         fu_state_area_1364_2
         fu_state_area_1364_3
     }
 }
 
-fu_strategic_region_368 = {
-    areas = {
-        fu_state_area_1178_2
-        fu_state_area_1180_2
-    }
-}
-
-fu_strategic_region_370 = {
-    areas = {
-        fu_state_area_353
-        fu_state_area_1202
-        fu_state_area_1206
-        fu_state_area_1204
-        fu_state_area_1201
-        fu_state_area_353_2
-        fu_state_area_1206_2
-    }
-}
-
-fu_strategic_region_370_2 = {
-    areas = {
-        fu_state_area_353_3
-        fu_state_area_1206_3
-    }
-}
-
 fu_strategic_region_365 = {
     areas = {
+        fu_state_area_1362
+        fu_state_area_1190
+        fu_state_area_1181
+        fu_state_area_1363
+        fu_state_area_353
+        fu_state_area_1202
         fu_state_area_1191
     }
 }
@@ -3557,6 +3549,7 @@ fu_strategic_region_365 = {
 fu_strategic_region_365_2 = {
     areas = {
         fu_state_area_1202_2
+        fu_state_area_353_3
     }
 }
 
@@ -3574,23 +3567,50 @@ fu_strategic_region_367 = {
     }
 }
 
-fu_strategic_region_375 = {
+fu_strategic_region_369 = {
     areas = {
-        fu_state_area_1193
         fu_state_area_284
+        fu_state_area_1179
+        fu_state_area_1180
         fu_state_area_1200
+        fu_state_area_1178
         fu_state_area_288
-        fu_state_area_1194
-        fu_state_area_1194_2
-        fu_state_area_290
-        fu_state_area_290_2
         fu_state_area_1200_2
     }
 }
 
-fu_strategic_region_369 = {
+fu_strategic_region_369_2 = {
     areas = {
+        fu_state_area_1178_2
+        fu_state_area_1180_2
         fu_state_area_288_2
+    }
+}
+
+fu_strategic_region_373 = {
+    areas = {
+        fu_state_area_1209
+        fu_state_area_322
+        fu_state_area_300
+        fu_state_area_1207
+        fu_state_area_1209_2
+        fu_state_area_322_2
+    }
+}
+
+fu_strategic_region_370 = {
+    areas = {
+        fu_state_area_1206
+        fu_state_area_1204
+        fu_state_area_1201
+        fu_state_area_353_2
+        fu_state_area_1206_2
+    }
+}
+
+fu_strategic_region_370_2 = {
+    areas = {
+        fu_state_area_1206_3
     }
 }
 
@@ -3625,20 +3645,22 @@ fu_strategic_region_372_2 = {
     }
 }
 
-fu_strategic_region_373 = {
+fu_strategic_region_376 = {
     areas = {
-        fu_state_area_1209
-        fu_state_area_322
-        fu_state_area_300
-        fu_state_area_1207
-        fu_state_area_1209_2
-        fu_state_area_322_2
+        fu_state_area_234
+        fu_state_area_1193
+        fu_state_area_1194
+        fu_state_area_1194_2
+        fu_state_area_290
+        fu_state_area_290_2
+        fu_state_area_1199
     }
 }
 
 fu_strategic_region_378 = {
     areas = {
         fu_state_area_1187
+        fu_state_area_1360
         fu_state_area_247
         fu_state_area_247_2
         fu_state_area_209
@@ -3646,25 +3668,14 @@ fu_strategic_region_378 = {
     }
 }
 
-fu_strategic_region_376 = {
-    areas = {
-        fu_state_area_1195
-        fu_state_area_234
-        fu_state_area_1197
-        fu_state_area_1197_2
-        fu_state_area_1199
-    }
-}
-
-fu_strategic_region_377 = {
-    areas = {
-        fu_state_area_1195_2
-    }
-}
-
 fu_strategic_region_380 = {
     areas = {
-        fu_state_area_1360
+        fu_state_area_1360_2
+    }
+}
+
+fu_strategic_region_380_2 = {
+    areas = {
         fu_state_area_1188
         fu_state_area_1188_2
         fu_state_area_1210
@@ -3673,25 +3684,23 @@ fu_strategic_region_380 = {
     }
 }
 
-fu_strategic_region_380_2 = {
+fu_strategic_region_380_3 = {
     areas = {
         fu_state_area_1210_3
         fu_state_area_1210_4
-        fu_state_area_1360_2
     }
 }
 
-fu_strategic_region_379 = {
+fu_strategic_region_387 = {
     areas = {
-        fu_state_area_1196
-        fu_state_area_1189
-        fu_state_area_1189_2
-    }
-}
-
-fu_strategic_region_379_2 = {
-    areas = {
-        fu_state_area_1189_3
+        fu_state_area_1297
+        fu_state_area_1304
+        fu_state_area_1297_2
+        fu_state_area_1299
+        fu_state_area_1299_2
+        fu_state_area_1294
+        fu_state_area_1294_2
+        fu_state_area_1297_3
     }
 }
 
@@ -3724,5 +3733,20 @@ fu_strategic_region_381_4 = {
     areas = {
         fu_state_area_1058_2
         fu_state_area_1058_3
+    }
+}
+
+fu_strategic_region_386 = {
+    areas = {
+        fu_state_area_1305
+        fu_state_area_1291
+        fu_state_area_1301
+        fu_state_area_4
+        fu_state_area_1298
+        fu_state_area_1298_2
+        fu_state_area_5
+        fu_state_area_1291_2
+        fu_state_area_1301_2
+        fu_state_area_1301_3
     }
 }
