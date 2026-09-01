@@ -1,5 +1,5 @@
 # Province 1109: Ost-Winston
-culture = english
+culture = oceanzuspri
 religion = catholic
 trade_goods = grain
 base_tax = 1

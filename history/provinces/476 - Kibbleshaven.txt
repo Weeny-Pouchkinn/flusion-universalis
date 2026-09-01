@@ -1,5 +1,5 @@
 # Province 476: Kibbleshaven
-culture = english
+culture = pawmalayian
 religion = catholic
 trade_goods = grain
 base_tax = 1

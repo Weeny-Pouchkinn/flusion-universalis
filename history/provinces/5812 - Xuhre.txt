@@ -1,5 +1,5 @@
 # Province 5812: Xuhre
-culture = english
+culture = oceanique
 religion = catholic
 trade_goods = grain
 base_tax = 1

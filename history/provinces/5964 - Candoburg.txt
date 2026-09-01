@@ -1,5 +1,5 @@
 # Province 5964: Candoburg
-culture = english
+culture = ganymedian
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -1,0 +1,46 @@
+# Managed by EU4 Culture Painter.
+
+
+unindexed_cultures = {
+	graphical_culture = westerngfx
+	english = {
+	}
+}
+
+cloudstrider = {
+	graphical_culture = westerngfx
+	gallopian = {
+	}
+	greenwaterian = {
+	}
+	soaring = {
+	}
+}
+
+solarian = {
+	graphical_culture = westerngfx
+	solitian = {
+	}
+	ganymedian = {
+	}
+}
+
+active_roqualian = {
+	graphical_culture = westerngfx
+	lutecien = {
+	}
+	galicien = {
+	}
+	ucetine = {
+	}
+}
+
+reflective_roqualian = {
+	graphical_culture = westerngfx
+}
+
+kocuran = {
+	graphical_culture = westerngfx
+	kocuran = {
+	}
+}

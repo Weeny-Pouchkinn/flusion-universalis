@@ -1,5 +1,5 @@
 # Province 149: Stokoslat
-culture = english
+culture = nordikat
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -1,5 +1,5 @@
 # Province 1147: Herzkat
-culture = english
+culture = purrsian
 religion = catholic
 trade_goods = grain
 base_tax = 1

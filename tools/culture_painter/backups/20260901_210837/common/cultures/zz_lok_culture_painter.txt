@@ -1,0 +1,23 @@
+# Managed by EU4 Culture Painter.
+# Do not delete while the painter is in use.
+
+
+nordherzlander = {
+	# lok_culture_painter_group_color = #FFD800
+	graphical_culture = westerngfx
+	katownite = {
+	# lok_culture_painter_source_color = #FFD800
+	}
+	cutelognian = {
+	# lok_culture_painter_source_color = #00137F
+	}
+	pawmalayian = {
+	# lok_culture_painter_source_color = #FF0000
+	}
+	nordikat = {
+	# lok_culture_painter_source_color = #0094FF
+	}
+	pawrisian = {
+	# lok_culture_painter_source_color = #00FFFF
+	}
+}

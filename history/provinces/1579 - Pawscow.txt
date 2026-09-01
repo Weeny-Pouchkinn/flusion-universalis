@@ -1,5 +1,5 @@
 # Province 1579: Pawscow
-culture = english
+culture = pawscovite
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -1,5 +1,5 @@
 # Province 5941: Frontiere Solarienne
-culture = english
+culture = ganymedian
 religion = catholic
 trade_goods = grain
 base_tax = 1

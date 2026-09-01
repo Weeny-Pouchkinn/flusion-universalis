@@ -1,5 +1,5 @@
 # Province 5126: Upper Ganymeda
-culture = english
+culture = gallopian
 religion = catholic
 trade_goods = grain
 base_tax = 1

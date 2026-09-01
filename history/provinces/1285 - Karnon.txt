@@ -1,5 +1,5 @@
 # Province 1285: Karnon
-culture = english
+culture = kocuran
 religion = catholic
 trade_goods = grain
 base_tax = 1

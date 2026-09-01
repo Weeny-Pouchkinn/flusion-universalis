@@ -1,5 +1,5 @@
 # Province 237: Northkandle
-culture = english
+culture = daichesterian
 religion = catholic
 trade_goods = grain
 base_tax = 1

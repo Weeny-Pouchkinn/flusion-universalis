@@ -1,5 +1,5 @@
 # Province 581: Meo
-culture = english
+culture = katownite
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -1,5 +1,5 @@
 # Province 4491: Styvellines
-culture = english
+culture = lutecien
 religion = catholic
 trade_goods = grain
 base_tax = 1

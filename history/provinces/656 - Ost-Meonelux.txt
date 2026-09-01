@@ -1,5 +1,5 @@
 # Province 656: Ost-Meonelux
-culture = english
+culture = pawrisian
 religion = catholic
 trade_goods = grain
 base_tax = 1

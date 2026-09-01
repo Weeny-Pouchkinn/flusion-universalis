@@ -1,5 +1,5 @@
 # Province 5647: Protondria
-culture = english
+culture = solitian
 religion = catholic
 trade_goods = grain
 base_tax = 1

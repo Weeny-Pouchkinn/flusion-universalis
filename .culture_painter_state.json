@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "group_colours": {
+    "nordherzlander": "#FFD800"
+  },
+  "culture_source_colours": {
+    "katownite": "#FFD800",
+    "cutelognian": "#00137F",
+    "pawmalayian": "#FF0000",
+    "nordikat": "#0094FF",
+    "pawrisian": "#00FFFF"
+  },
+  "paint_assignments": {
+    "#FFD800": {
+      "culture_id": "katownite",
+      "culture_name": "Katownite",
+      "group_id": "nordherzlander",
+      "group_name": "Nordherzlander",
+      "group_colour": "#FFD800",
+      "skipped": false
+    },
+    "#00137F": {
+      "culture_id": "cutelognian",
+      "culture_name": "Cutelognian",
+      "group_id": "nordherzlander",
+      "group_name": "nordherzlander",
+      "group_colour": "#FFD800",
+      "skipped": false
+    },
+    "#FF0000": {
+      "culture_id": "pawmalayian",
+      "culture_name": "Pawmalayian",
+      "group_id": "nordherzlander",
+      "group_name": "nordherzlander",
+      "group_colour": "#FFD800",
+      "skipped": false
+    },
+    "#0094FF": {
+      "culture_id": "nordikat",
+      "culture_name": "Nordikat",
+      "group_id": "nordherzlander",
+      "group_name": "nordherzlander",
+      "group_colour": "#FFD800",
+      "skipped": false
+    },
+    "#00FFFF": {
+      "culture_id": "pawrisian",
+      "culture_name": "Pawrisian",
+      "group_id": "nordherzlander",
+      "group_name": "nordherzlander",
+      "group_colour": "#FFD800",
+      "skipped": false
+    }
+  },
+  "last_overlay": "C:\\Users\\elowi\\Documents\\Modding\\EU4\\FSRP4EU4\\culture_map_test.png",
+  "last_applied": "2026-09-01T19:56:52"
+}

@@ -1,5 +1,5 @@
 # Province 150: Western Pawldrininsel
-culture = english
+culture = furrbalearian
 religion = catholic
 trade_goods = grain
 base_tax = 1
