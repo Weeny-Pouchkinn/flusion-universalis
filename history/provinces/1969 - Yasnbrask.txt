@@ -1,5 +1,5 @@
 # Province 1969: Yasnbrask
-culture = english
+culture = salarenskite
 religion = catholic
 trade_goods = grain
 base_tax = 1

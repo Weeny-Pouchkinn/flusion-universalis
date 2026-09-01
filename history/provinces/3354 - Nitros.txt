@@ -1,5 +1,5 @@
 # Province 3354: Nitros
-culture = english
+culture = red_kolekh
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -81,6 +81,8 @@ zuspri = {
 	}
 	south_zuspri = {
 	}
+	continental_zuspri = {
+	}
 }
 
 sobaki = {
@@ -239,6 +241,12 @@ kronk = {
 	graphical_culture = westerngfx
 	amphiskian = {
 	}
+	kralian = {
+	}
+	kronmean = {
+	}
+	kronkorod = {
+	}
 }
 
 yinjite = {
@@ -246,6 +254,10 @@ yinjite = {
 	bogdessan = {
 	}
 	ykatrian = {
+	}
+	switanok = {
+	}
+	salarenskite = {
 	}
 }
 
@@ -271,4 +283,26 @@ brambile = {
 	graphical_culture = westerngfx
 	brambile = {
 	}
+}
+
+enotitan = {
+	graphical_culture = westerngfx
+	copperian = {
+	}
+	hissitian = {
+	}
+}
+
+droogian = {
+	graphical_culture = westerngfx
+}
+
+ascarl = {
+	graphical_culture = westerngfx
+	ascarl = {
+	}
+}
+
+ravkan = {
+	graphical_culture = westerngfx
 }

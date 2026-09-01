@@ -15,6 +15,10 @@
       "loc_name": "Altarian",
       "colour": "#66E3EA"
     },
+    "ascarl": {
+      "loc_name": "Ascarl",
+      "colour": "#D8D8D8"
+    },
     "beardie": {
       "loc_name": "Beardie",
       "colour": "#32CD80"
@@ -27,9 +31,17 @@
       "loc_name": "Cloudstrider",
       "colour": "#80FFFF"
     },
+    "droogian": {
+      "loc_name": "Droogian",
+      "colour": "#FDFBD5"
+    },
     "eistronbien": {
       "loc_name": "Eistronbien",
       "colour": "#409FBF"
+    },
+    "enotitan": {
+      "loc_name": "Enotitan",
+      "colour": "#8080FF"
     },
     "estalai": {
       "loc_name": "Estalai",
@@ -99,6 +111,10 @@
       "loc_name": "Plavetan",
       "colour": "#FF2B2B"
     },
+    "ravkan": {
+      "loc_name": "Ravkan",
+      "colour": "#FB6844"
+    },
     "reflective_roqualian": {
       "loc_name": "Reflective Roqualian",
       "colour": "#D9B3FF"
@@ -152,6 +168,11 @@
       "colour": "#4B7B04",
       "group_id": "katuneri"
     },
+    "ascarl": {
+      "loc_name": "Ascarl",
+      "colour": "#CFCFCF",
+      "group_id": "ascarl"
+    },
     "auralian": {
       "loc_name": "Auralian",
       "colour": "#138A64",
@@ -201,6 +222,16 @@
       "loc_name": "Champinien",
       "colour": "#F40B74",
       "group_id": "palatian_roqualian"
+    },
+    "continental_zuspri": {
+      "loc_name": "Eastern Zuspri",
+      "colour": "#C1C1C1",
+      "group_id": "zuspri"
+    },
+    "copperian": {
+      "loc_name": "Copperian",
+      "colour": "#FF6820",
+      "group_id": "enotitan"
     },
     "cutelognian": {
       "loc_name": "Cutelognian",
@@ -302,6 +333,11 @@
       "colour": "#3CA5C4",
       "group_id": "altarian"
     },
+    "hissitian": {
+      "loc_name": "Hissitian",
+      "colour": "#EABE64",
+      "group_id": "enotitan"
+    },
     "hyphaenic": {
       "loc_name": "Hyphaenic",
       "colour": "#1EBFE1",
@@ -341,6 +377,21 @@
       "loc_name": "Kocuran",
       "colour": "#8000FF",
       "group_id": "kocuran"
+    },
+    "kralian": {
+      "loc_name": "Kralian",
+      "colour": "#FFDEB3",
+      "group_id": "kronk"
+    },
+    "kronkorod": {
+      "loc_name": "Kronkorod",
+      "colour": "#FAA3A3",
+      "group_id": "kronk"
+    },
+    "kronmean": {
+      "loc_name": "Kronmean",
+      "colour": "#FFC6B3",
+      "group_id": "kronk"
     },
     "lakeside": {
       "loc_name": "Lakeside",
@@ -487,6 +538,11 @@
       "colour": "#E7A418",
       "group_id": "kolekh"
     },
+    "salarenskite": {
+      "loc_name": "Salarenskite",
+      "colour": "#7EF178",
+      "group_id": "yinjite"
+    },
     "sand_kolekh": {
       "loc_name": "Sand Kolekhian",
       "colour": "#F4F8B6",
@@ -526,6 +582,11 @@
       "loc_name": "Sonnemeerisches",
       "colour": "#11EEBC",
       "group_id": "sudherzlander"
+    },
+    "switanok": {
+      "loc_name": "Switanok",
+      "colour": "#B3FB7D",
+      "group_id": "yinjite"
     },
     "ucetine": {
       "loc_name": "Ucétien",

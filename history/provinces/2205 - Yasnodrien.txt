@@ -1,5 +1,5 @@
 # Province 2205: Yasnodrien
-culture = english
+culture = salarenskite
 religion = catholic
 trade_goods = grain
 base_tax = 1

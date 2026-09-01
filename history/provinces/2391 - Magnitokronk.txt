@@ -1,5 +1,5 @@
 # Province 2391: Magnitokronk
-culture = english
+culture = amphiskian
 religion = catholic
 trade_goods = grain
 base_tax = 1

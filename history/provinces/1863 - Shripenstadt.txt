@@ -1,5 +1,5 @@
 # Province 1863: Shripenstadt
-culture = english
+culture = kronkorod
 religion = catholic
 trade_goods = grain
 base_tax = 1

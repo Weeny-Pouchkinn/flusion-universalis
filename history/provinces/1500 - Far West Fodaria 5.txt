@@ -1,5 +1,5 @@
 # Province 1500: Far West Fodaria 5
-culture = english
+culture = copperian
 religion = catholic
 trade_goods = grain
 base_tax = 1

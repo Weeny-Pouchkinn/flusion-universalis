@@ -1,5 +1,5 @@
 # Province 916: Fort Nxeen
-culture = english
+culture = hissitian
 religion = catholic
 trade_goods = grain
 base_tax = 1
