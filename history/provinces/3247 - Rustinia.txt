@@ -1,0 +1,7 @@
+# Province 3247: Rustinia
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

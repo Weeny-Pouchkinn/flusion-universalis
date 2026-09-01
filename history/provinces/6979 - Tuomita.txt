@@ -1,0 +1,11 @@
+# Province 6979: Tuomita
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
+owner = FUS
+controller = FUS
+add_core = FUS
+capital = "Tuomita"

@@ -1,1 +1,1 @@
-# Bootstrap: no ambient objects/canals yet.
+# none yet

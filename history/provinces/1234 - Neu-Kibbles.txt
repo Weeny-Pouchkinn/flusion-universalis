@@ -1,0 +1,7 @@
+# Province 1234: Neu-Kibbles
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

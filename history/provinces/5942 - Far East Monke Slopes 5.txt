@@ -1,0 +1,7 @@
+# Province 5942: Far East Monke Slopes 5
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

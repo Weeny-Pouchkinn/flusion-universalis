@@ -1,0 +1,10 @@
+EU4 serialized area/region validation
+=======================================
+Area definitions: 1721
+Region definitions: 401
+Area references from regions: 1721
+Duplicate area definition keys: 0
+Duplicate region definition keys: 0
+Areas missing from regions: 0
+Areas referenced by multiple regions: 0
+Unknown area references: 0

@@ -1,0 +1,45 @@
+Flusion Ecumenopolis — province_density.png reference
+=====================================================
+
+Paint province_density.png in grayscale.
+
+  RGB 128,128,128 = 1.0x default province AREA (legacy/default size)
+  RGB   0,  0,  0 = 0.1x default AREA (10x as many provinces locally)
+  RGB 255,255,255 = 10.0x default AREA (1/10 as many provinces locally)
+
+The scale is logarithmic in AREA.
+Gray sea still uses the normal large sea target; gray land still uses the normal land target.
+
+Requested area multiplier -> nearest grayscale authoring value
+-------------------------------------------------------------
+ requested   gray RGB       actual multiplier at that gray
+    0.100x   (  0,  0,  0)        0.1000x
+    0.125x   ( 12, 12, 12)        0.1241x
+    0.200x   ( 39, 39, 39)        0.2017x
+    0.250x   ( 51, 51, 51)        0.2503x
+    0.333x   ( 67, 67, 67)        0.3338x
+    0.500x   ( 89, 89, 89)        0.4958x
+    0.750x   (112,112,112)        0.7499x
+    1.000x   (128,128,128)        1.0000x
+    1.250x   (140,140,140)        1.2430x
+    1.500x   (150,150,150)        1.4901x
+    2.000x   (166,166,166)        1.9916x
+    3.000x   (189,189,189)        3.0221x
+    4.000x   (204,204,204)        3.9667x
+    5.000x   (217,217,217)        5.0210x
+    6.000x   (227,227,227)        6.0190x
+    8.000x   (243,243,243)        8.0447x
+   10.000x   (255,255,255)       10.0000x
+
+Interpretation examples
+-----------------------
+  0.5x area = provinces aim for half their ordinary local area (~2x density).
+  2.0x area = provinces aim for twice their ordinary local area (~1/2 density).
+ 10.0x area = maximum sparse setting.
+  0.1x area = maximum dense setting.
+
+The layer changes target province AREA, not terrain, areas, regions, or impassability.
+Impassable provinces remain one province per connected impassable component.
+
+A missing province_density.png or a perfectly uniform 128-gray file uses the old
+neutral generation path exactly.

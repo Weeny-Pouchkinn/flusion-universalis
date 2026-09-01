@@ -1,0 +1,7 @@
+# Province 3244: Far West Southern Stollparche 4
+culture = english
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

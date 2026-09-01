@@ -1,0 +1,33 @@
+Flusion Ecumenopolis v19 terrain.png authoring guide
+==================================================
+
+terrain.png is the PRIMARY world-definition file.
+
+WATER / GEOGRAPHY
+  255,255,255  PURE WHITE   = OCEAN / ordinary sea
+  0,0,200                    = INLAND SEA (navigable)
+  0,255,255    PURE CYAN    = LAKE
+
+IMPASSABLE EXCEPTION COLORS
+  255,255,0    PURE YELLOW  = IMPASSABLE DESERT
+  0,0,0        PURE BLACK   = IMPASSABLE RELIC
+  128,128,128  HALF WHITE   = IMPASSABLE GLACIER
+  255,0,0      PURE RED     = IMPASSABLE MOUNTAIN
+  0,255,0      PURE GREEN   = IMPASSABLE JUNGLE
+  0,0,255      PURE BLUE    = IMPASSABLE OCEAN
+
+Everything else is LAND and uses the normal terrain RGB/alias table.
+
+Actual pure cyan is 0,255,255.
+255,255,0 is pure yellow and is reserved for IMPASSABLE DESERT.
+
+OPTIONAL EXTRA INPUTS
+  impassable.png            White background; pure green ADDS impassable land.
+  below_sea_level_mask.png  White normal, blue water reference, red drained seabed.
+  boundary.png              Optional province-shape constraints.
+  rivers.bmp                Optional; missing file generates blank indexed rivers.bmp.
+
+base_map.png is obsolete and ignored.
+
+Minimum theoretical input:
+  input/terrain.png

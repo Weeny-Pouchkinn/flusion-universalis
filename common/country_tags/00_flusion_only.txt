@@ -1,4 +1,4 @@
-# Required special engine countries
+# Required EU4 special pseudo-countries
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
