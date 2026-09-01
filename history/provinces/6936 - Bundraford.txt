@@ -1,7 +1,10 @@
 # Province 6936: Bundraford
+controller = PLR
+owner = PLR
 culture = magocratic
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = PLR

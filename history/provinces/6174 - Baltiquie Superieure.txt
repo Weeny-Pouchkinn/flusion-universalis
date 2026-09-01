@@ -1,7 +1,10 @@
 # Province 6174: Baltiquie Superieure
+controller = PLA
+owner = PLA
 culture = west_plavetan
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = PLA

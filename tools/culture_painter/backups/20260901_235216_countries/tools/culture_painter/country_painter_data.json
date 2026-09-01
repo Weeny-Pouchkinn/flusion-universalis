@@ -1,0 +1,350 @@
+{
+  "version": 1,
+  "notes": "Country setup metadata for EU4 Setup Painter. Flag designer values are baked to gfx/flags/TAG.tga on Save.",
+  "countries": {
+    "BRU": {
+      "name": "Bruvergne",
+      "adjective": "Bruvergnat",
+      "colour": "#FFFFA6",
+      "original": false,
+      "managed": true,
+      "country_file": "common/countries/ZZ_Painter_BRU.txt",
+      "history_file": "history/countries/BRU - bruvergne.txt",
+      "graphical_culture": "westerngfx",
+      "government": "monarchy",
+      "government_rank": 1,
+      "government_reform": "",
+      "stability": 0,
+      "capital": 4527,
+      "religion": "catholic",
+      "primary_culture": "bruvergnat",
+      "accepted_cultures": [],
+      "technology_group": "western",
+      "custom_tech_levels": false,
+      "adm_tech": 3,
+      "dip_tech": 3,
+      "mil_tech": 3,
+      "start_date": "1444.11.11",
+      "treasury": 50.0,
+      "prestige": 0.0,
+      "ruler": {
+        "enabled": true,
+        "name": "Pierre",
+        "dynasty": "Macheli",
+        "adm": 2,
+        "dip": 4,
+        "mil": 2,
+        "age": 27,
+        "gender": "Male",
+        "culture": "bruvergnat",
+        "religion": "catholic",
+        "claim": 100,
+        "traits": []
+      },
+      "heir": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 15,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 50,
+        "traits": []
+      },
+      "consort": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 25,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 100,
+        "traits": []
+      },
+      "estate_mode": "default",
+      "estate_shares": {},
+      "national_ideas": {
+        "mode": "default",
+        "traditions": "",
+        "ambition": "",
+        "ideas": [
+          {
+            "name": "Idea 1",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 2",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 3",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 4",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 5",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 6",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 7",
+            "modifiers": ""
+          }
+        ]
+      },
+      "flag_mode": "designer",
+      "flag_source": "",
+      "flag_pattern": "Center cross",
+      "flag_colours": [
+        "#FFFF00",
+        "#FF0000",
+        "#006A00"
+      ],
+      "flag_emblem": "None"
+    },
+    "JAR": {
+      "name": "Jarvalin",
+      "adjective": "Jarvalite",
+      "colour": "#FF8040",
+      "original": false,
+      "managed": true,
+      "country_file": "common/countries/ZZ_Painter_JAR.txt",
+      "history_file": "history/countries/JAR - jarvalin.txt",
+      "graphical_culture": "westerngfx",
+      "government": "republic",
+      "government_rank": 1,
+      "government_reform": "",
+      "stability": 1,
+      "capital": 3797,
+      "religion": "catholic",
+      "primary_culture": "jarvalite",
+      "accepted_cultures": [],
+      "technology_group": "western",
+      "custom_tech_levels": false,
+      "adm_tech": 3,
+      "dip_tech": 3,
+      "mil_tech": 3,
+      "start_date": "1444.11.11",
+      "treasury": 0.0,
+      "prestige": 0.0,
+      "ruler": {
+        "enabled": true,
+        "name": "Topi",
+        "dynasty": "Gemeetra",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 30,
+        "gender": "Male",
+        "culture": "jarvalite",
+        "religion": "catholic",
+        "claim": 100,
+        "traits": []
+      },
+      "heir": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 15,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 50,
+        "traits": []
+      },
+      "consort": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 25,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 100,
+        "traits": []
+      },
+      "estate_mode": "default",
+      "estate_shares": {},
+      "national_ideas": {
+        "mode": "default",
+        "traditions": "",
+        "ambition": "",
+        "ideas": [
+          {
+            "name": "Idea 1",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 2",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 3",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 4",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 5",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 6",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 7",
+            "modifiers": ""
+          }
+        ]
+      },
+      "flag_mode": "designer",
+      "flag_source": "",
+      "flag_pattern": "Horizontal bicolor",
+      "flag_colours": [
+        "#FF8040",
+        "#509F00",
+        "#C02020"
+      ],
+      "flag_emblem": "None"
+    },
+    "PLR": {
+      "name": "Paluushia",
+      "adjective": "Paluushian",
+      "colour": "#FFFFB0",
+      "original": false,
+      "managed": true,
+      "country_file": "common/countries/ZZ_Painter_PLR.txt",
+      "history_file": "history/countries/PLR - paluushia.txt",
+      "graphical_culture": "westerngfx",
+      "government": "monarchy",
+      "government_rank": 1,
+      "government_reform": "",
+      "stability": 3,
+      "capital": 6454,
+      "religion": "catholic",
+      "primary_culture": "bunville_paluush",
+      "accepted_cultures": [],
+      "technology_group": "western",
+      "custom_tech_levels": false,
+      "adm_tech": 3,
+      "dip_tech": 3,
+      "mil_tech": 3,
+      "start_date": "1444.11.11",
+      "treasury": 0.0,
+      "prestige": 0.0,
+      "ruler": {
+        "enabled": true,
+        "name": "Bunbun III",
+        "dynasty": "Grandbunnia",
+        "adm": 4,
+        "dip": 5,
+        "mil": 0,
+        "age": 30,
+        "gender": "Male",
+        "culture": "bunville_paluush",
+        "religion": "catholic",
+        "claim": 100,
+        "traits": [
+          "cruel_personality"
+        ]
+      },
+      "heir": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 15,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 50,
+        "traits": []
+      },
+      "consort": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 25,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 100,
+        "traits": []
+      },
+      "estate_mode": "default",
+      "estate_shares": {},
+      "national_ideas": {
+        "mode": "default",
+        "traditions": "",
+        "ambition": "",
+        "ideas": [
+          {
+            "name": "Idea 1",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 2",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 3",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 4",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 5",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 6",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 7",
+            "modifiers": ""
+          }
+        ]
+      },
+      "flag_mode": "designer",
+      "flag_source": "",
+      "flag_pattern": "Saltire",
+      "flag_colours": [
+        "#FFFF80",
+        "#A5B3F1",
+        "#400040"
+      ],
+      "flag_emblem": "None"
+    }
+  }
+}

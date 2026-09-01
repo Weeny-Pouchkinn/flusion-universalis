@@ -1,0 +1,6 @@
+# Managed by EU4 Setup Painter.
+BRU = "countries/ZZ_Painter_BRU.txt"
+JAR = "countries/ZZ_Painter_JAR.txt"
+MEO = "countries/ZZ_Painter_MEO.txt"
+PLR = "countries/ZZ_Painter_PLR.txt"
+UCE = "countries/ZZ_Painter_UCE.txt"

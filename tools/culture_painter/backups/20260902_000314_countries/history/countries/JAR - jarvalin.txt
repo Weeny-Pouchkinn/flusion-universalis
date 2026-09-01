@@ -1,0 +1,27 @@
+
+
+# === EU4 SETUP PAINTER: COUNTRY SETUP START ===
+government = republic
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = jarvalite
+capital = 3797
+
+1444.11.11 = {
+	add_stability = 1
+	define_ruler = {
+		name = "Topi"
+		dynasty = "Gemeetra"
+		age = 30
+		adm = 3
+		dip = 3
+		mil = 3
+		fixed = yes
+		male = yes
+		culture = jarvalite
+		religion = catholic
+	}
+	add_ruler_personality = fierce_negotiator_personality
+}
+# === EU4 SETUP PAINTER: COUNTRY SETUP END ===
