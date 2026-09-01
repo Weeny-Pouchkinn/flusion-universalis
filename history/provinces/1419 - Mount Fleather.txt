@@ -1,5 +1,5 @@
 # Province 1419: Mount Fleather
-culture = english
+culture = fleatherite
 religion = catholic
 trade_goods = grain
 base_tax = 1

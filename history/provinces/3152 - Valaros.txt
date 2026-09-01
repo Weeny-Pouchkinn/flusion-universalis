@@ -1,5 +1,5 @@
 # Province 3152: Valaros
-culture = english
+culture = red_kolekh
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -1,5 +1,5 @@
 # Province 6898: Hareport
-culture = english
+culture = mountainbun
 religion = catholic
 trade_goods = grain
 base_tax = 1

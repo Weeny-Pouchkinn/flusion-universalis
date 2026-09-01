@@ -1,0 +1,410 @@
+{
+  "version": 4,
+  "culture_definition_mode": "replace_vanilla",
+  "region_color_sync": {
+    "enabled": true,
+    "palette_file": "common/region_colors/00_region_colors.txt",
+    "culture_group_offset": 1
+  },
+  "groups": {
+    "active_roqualian": {
+      "loc_name": "Active Roqualian",
+      "colour": "#8000FF"
+    },
+    "altarian": {
+      "loc_name": "Altarian",
+      "colour": "#66E3EA"
+    },
+    "beardie": {
+      "loc_name": "Beardie",
+      "colour": "#32CD80"
+    },
+    "cloudstrider": {
+      "loc_name": "Cloudstrider",
+      "colour": "#80FFFF"
+    },
+    "eistronbien": {
+      "loc_name": "Eistronbien",
+      "colour": "#409FBF"
+    },
+    "estalai": {
+      "loc_name": "Estalai",
+      "colour": "#FF8000"
+    },
+    "jeffian": {
+      "loc_name": "Jèffite",
+      "colour": "#008013"
+    },
+    "kocuran": {
+      "loc_name": "Kocuran",
+      "colour": "#8000FF"
+    },
+    "mercurian": {
+      "loc_name": "Mercurian",
+      "colour": "#8B07F8"
+    },
+    "muntognien": {
+      "loc_name": "Muntognien",
+      "colour": "#D5512B"
+    },
+    "nordherzlander": {
+      "loc_name": "Nordherzlander",
+      "colour": "#1430F1"
+    },
+    "oerwoudian": {
+      "loc_name": "Oerwoudian",
+      "colour": "#6464FF"
+    },
+    "palatian_roqualian": {
+      "loc_name": "Palatian Roqualian",
+      "colour": "#640FF0"
+    },
+    "paluush": {
+      "loc_name": "Paluush",
+      "colour": "#979700"
+    },
+    "parelian": {
+      "loc_name": "Parelian",
+      "colour": "#FFB56A"
+    },
+    "reflective_roqualian": {
+      "loc_name": "Reflective Roqualian",
+      "colour": "#D9B3FF"
+    },
+    "seazuspri": {
+      "loc_name": "Oceanic Zuspri",
+      "colour": "#737373"
+    },
+    "sobaki": {
+      "loc_name": "Sobaki",
+      "colour": "#FF0000"
+    },
+    "solakatzen": {
+      "loc_name": "Solakatzen",
+      "colour": "#272727"
+    },
+    "solarian": {
+      "loc_name": "Solarian",
+      "colour": "#E4941B"
+    },
+    "sudherzlander": {
+      "loc_name": "Sudherzlander",
+      "colour": "#30CF94"
+    },
+    "unindexed_cultures": {
+      "loc_name": "Unindexed Cultures",
+      "colour": "#523C87"
+    },
+    "zuspri": {
+      "loc_name": "Zuspri",
+      "colour": "#626262"
+    }
+  },
+  "cultures": {
+    "animequitain": {
+      "loc_name": "Animéquitain",
+      "colour": "#B78EC4",
+      "group_id": "reflective_roqualian"
+    },
+    "auralian": {
+      "loc_name": "Auralian",
+      "colour": "#138A64",
+      "group_id": "sudherzlander"
+    },
+    "beardie": {
+      "loc_name": "Beardie",
+      "colour": "#38C767",
+      "group_id": "beardie"
+    },
+    "bocerien": {
+      "loc_name": "Bocérien",
+      "colour": "#A54AFF",
+      "group_id": "active_roqualian"
+    },
+    "bruvergnat": {
+      "loc_name": "Bruvergnat",
+      "colour": "#F7FEDE",
+      "group_id": "reflective_roqualian"
+    },
+    "bunville_paluush": {
+      "loc_name": "Bunvillian",
+      "colour": "#D2D200",
+      "group_id": "paluush"
+    },
+    "champinien": {
+      "loc_name": "Champinien",
+      "colour": "#F40B74",
+      "group_id": "palatian_roqualian"
+    },
+    "cutelognian": {
+      "loc_name": "Cutelognian",
+      "colour": "#3D83EB",
+      "group_id": "nordherzlander"
+    },
+    "daichesterian": {
+      "loc_name": "Daichesterian",
+      "colour": "#7C6C93",
+      "group_id": "zuspri"
+    },
+    "demotagnon": {
+      "loc_name": "Démotagnon",
+      "colour": "#8F8F8F",
+      "group_id": "reflective_roqualian"
+    },
+    "divchykishian": {
+      "loc_name": "Divchykishian",
+      "colour": "#595959",
+      "group_id": "solakatzen"
+    },
+    "eistronbien": {
+      "loc_name": "Eistronbien",
+      "colour": "#445FBB",
+      "group_id": "eistronbien"
+    },
+    "elowian": {
+      "loc_name": "Elowian",
+      "colour": "#97EA9B",
+      "group_id": "sudherzlander"
+    },
+    "empayrean": {
+      "loc_name": "Empayrean",
+      "colour": "#6C8593",
+      "group_id": "zuspri"
+    },
+    "english": {
+      "loc_name": "English",
+      "colour": "#644EC6",
+      "group_id": "unindexed_cultures"
+    },
+    "fountainian": {
+      "loc_name": "Fountainian",
+      "colour": "#80D6FF",
+      "group_id": "altarian"
+    },
+    "furrbalearian": {
+      "loc_name": "Furrballerian",
+      "colour": "#1B809C",
+      "group_id": "nordherzlander"
+    },
+    "galicien": {
+      "loc_name": "Galicien",
+      "colour": "#A54AFF",
+      "group_id": "active_roqualian"
+    },
+    "gallopian": {
+      "loc_name": "Gallopian",
+      "colour": "#33A6CC",
+      "group_id": "cloudstrider"
+    },
+    "ganymedian": {
+      "loc_name": "Ganymedian",
+      "colour": "#777128",
+      "group_id": "solarian"
+    },
+    "greenwaterian": {
+      "loc_name": "Greenwaterian",
+      "colour": "#65E4EF",
+      "group_id": "cloudstrider"
+    },
+    "grodnovite": {
+      "loc_name": "Grodnovite",
+      "colour": "#DB3624",
+      "group_id": "sobaki"
+    },
+    "groverite": {
+      "loc_name": "Groverite",
+      "colour": "#FF5B5B",
+      "group_id": "sobaki"
+    },
+    "healing": {
+      "loc_name": "Healing",
+      "colour": "#3CA5C4",
+      "group_id": "altarian"
+    },
+    "hyphaenic": {
+      "loc_name": "Hyphaenic",
+      "colour": "#1EBFE1",
+      "group_id": "altarian"
+    },
+    "intarian": {
+      "loc_name": "Intarian",
+      "colour": "#ABCF30",
+      "group_id": "reflective_roqualian"
+    },
+    "itechilien": {
+      "loc_name": "Itechilien",
+      "colour": "#CB348B",
+      "group_id": "palatian_roqualian"
+    },
+    "jarvalite": {
+      "loc_name": "Jarvalite",
+      "colour": "#FF9933",
+      "group_id": "estalai"
+    },
+    "jeffian": {
+      "loc_name": "Jèffite",
+      "colour": "#008000",
+      "group_id": "jeffian"
+    },
+    "katownite": {
+      "loc_name": "Katownite",
+      "colour": "#0F32AC",
+      "group_id": "nordherzlander"
+    },
+    "kocuran": {
+      "loc_name": "Kocuran",
+      "colour": "#8000FF",
+      "group_id": "kocuran"
+    },
+    "liacustien": {
+      "loc_name": "Liacustien",
+      "colour": "#F25EF7",
+      "group_id": "palatian_roqualian"
+    },
+    "lutecien": {
+      "loc_name": "Lutécien",
+      "colour": "#6600CC",
+      "group_id": "active_roqualian"
+    },
+    "meopisches": {
+      "loc_name": "Meopisches",
+      "colour": "#5BA857",
+      "group_id": "sudherzlander"
+    },
+    "mercurian": {
+      "loc_name": "Mercurian",
+      "colour": "#9D3EC1",
+      "group_id": "mercurian"
+    },
+    "miaoujavien": {
+      "loc_name": "Miaoujavien",
+      "colour": "#D0CFB0",
+      "group_id": "solakatzen"
+    },
+    "mikusien": {
+      "loc_name": "Mikusien",
+      "colour": "#580EF1",
+      "group_id": "active_roqualian"
+    },
+    "mittelherzlander": {
+      "loc_name": "Mittelherzlander",
+      "colour": "#1EA2E1",
+      "group_id": "nordherzlander"
+    },
+    "muntognien": {
+      "loc_name": "Muntognien",
+      "colour": "#D1462E",
+      "group_id": "muntognien"
+    },
+    "narbomand": {
+      "loc_name": "Narbomand",
+      "colour": "#56A97B",
+      "group_id": "reflective_roqualian"
+    },
+    "nordikat": {
+      "loc_name": "Nordikat",
+      "colour": "#2C9BD1",
+      "group_id": "nordherzlander"
+    },
+    "obscurien": {
+      "loc_name": "Obscurien",
+      "colour": "#4A5EB5",
+      "group_id": "reflective_roqualian"
+    },
+    "oceanique": {
+      "loc_name": "Océanique",
+      "colour": "#DE8CE8",
+      "group_id": "active_roqualian"
+    },
+    "oceanzuspri": {
+      "loc_name": "Oceanic Zuspri",
+      "colour": "#6F6D87",
+      "group_id": "zuspri"
+    },
+    "oerwoudian": {
+      "loc_name": "Oerwoudian",
+      "colour": "#2B2FD5",
+      "group_id": "oerwoudian"
+    },
+    "ostkreuzisches": {
+      "loc_name": "Ostkreuzisches",
+      "colour": "#507DAF",
+      "group_id": "nordherzlander"
+    },
+    "parelian": {
+      "loc_name": "Parelian",
+      "colour": "#DDBA51",
+      "group_id": "parelian"
+    },
+    "pawmalayian": {
+      "loc_name": "Pawmalayian",
+      "colour": "#4D66CA",
+      "group_id": "nordherzlander"
+    },
+    "pawrisian": {
+      "loc_name": "Pawrisian",
+      "colour": "#598CEA",
+      "group_id": "nordherzlander"
+    },
+    "pawscovite": {
+      "loc_name": "Pawscovite",
+      "colour": "#FF7171",
+      "group_id": "sobaki"
+    },
+    "pizisches": {
+      "loc_name": "Pizisches",
+      "colour": "#9A6565",
+      "group_id": "muntognien"
+    },
+    "poitouamien": {
+      "loc_name": "Poitouamien",
+      "colour": "#868EB5",
+      "group_id": "reflective_roqualian"
+    },
+    "purrsian": {
+      "loc_name": "Purrsian",
+      "colour": "#383F8B",
+      "group_id": "nordherzlander"
+    },
+    "pyroclastic": {
+      "loc_name": "Pyroclastic",
+      "colour": "#A6A331",
+      "group_id": "paluush"
+    },
+    "soaring": {
+      "loc_name": "Soaring",
+      "colour": "#24DBD7",
+      "group_id": "cloudstrider"
+    },
+    "solitian": {
+      "loc_name": "Solitian",
+      "colour": "#CFAB30",
+      "group_id": "solarian"
+    },
+    "south_zuspri": {
+      "loc_name": "Psmutoghu",
+      "colour": "#98A05F",
+      "group_id": "zuspri"
+    },
+    "strait_estalai": {
+      "loc_name": "Navarian",
+      "colour": "#EDBB52",
+      "group_id": "estalai"
+    },
+    "sunsea_katzen": {
+      "loc_name": "Sonnemeerisches",
+      "colour": "#11EEBC",
+      "group_id": "sudherzlander"
+    },
+    "ucetine": {
+      "loc_name": "Ucétien",
+      "colour": "#CD83F5",
+      "group_id": "active_roqualian"
+    },
+    "velardenois": {
+      "loc_name": "Velardennois",
+      "colour": "#B434F8",
+      "group_id": "active_roqualian"
+    }
+  }
+}

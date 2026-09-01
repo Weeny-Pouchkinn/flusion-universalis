@@ -1,5 +1,5 @@
 # Province 1663: Stronya
-culture = english
+culture = eistronbien
 religion = catholic
 trade_goods = grain
 base_tax = 1

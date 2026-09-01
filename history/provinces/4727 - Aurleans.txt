@@ -1,5 +1,5 @@
 # Province 4727: Aurleans
-culture = english
+culture = velardenois
 religion = catholic
 trade_goods = grain
 base_tax = 1

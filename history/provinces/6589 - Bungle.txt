@@ -1,5 +1,5 @@
 # Province 6589: Bungle
-culture = english
+culture = pyroclastic
 religion = catholic
 trade_goods = grain
 base_tax = 1

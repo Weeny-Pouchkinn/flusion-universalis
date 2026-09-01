@@ -1,5 +1,5 @@
 # Province 4062: South Latarada
-culture = english
+culture = hyphaenic
 religion = catholic
 trade_goods = grain
 base_tax = 1

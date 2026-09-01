@@ -1,5 +1,5 @@
 # Province 3732: Krrama
-culture = english
+culture = strait_estalai
 religion = catholic
 trade_goods = grain
 base_tax = 1

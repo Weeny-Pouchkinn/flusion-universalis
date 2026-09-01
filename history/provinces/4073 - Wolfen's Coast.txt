@@ -1,5 +1,5 @@
 # Province 4073: Wolfen's Coast
-culture = english
+culture = divchykishian
 religion = catholic
 trade_goods = grain
 base_tax = 1

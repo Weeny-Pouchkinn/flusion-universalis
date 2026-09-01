@@ -1,5 +1,5 @@
 # Province 3825: Far South Démotagne
-culture = english
+culture = oerwoudian
 religion = catholic
 trade_goods = grain
 base_tax = 1

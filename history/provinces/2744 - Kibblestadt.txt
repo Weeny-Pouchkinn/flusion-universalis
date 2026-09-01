@@ -1,5 +1,5 @@
 # Province 2744: Kibblestadt
-culture = english
+culture = itechilien
 religion = catholic
 trade_goods = grain
 base_tax = 1

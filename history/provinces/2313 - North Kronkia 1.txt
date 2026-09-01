@@ -1,5 +1,5 @@
 # Province 2313: North Kronkia 1
-culture = english
+culture = stone_kolekh
 religion = catholic
 trade_goods = grain
 base_tax = 1

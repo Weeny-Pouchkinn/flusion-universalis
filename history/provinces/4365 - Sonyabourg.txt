@@ -1,5 +1,5 @@
 # Province 4365: Sonyabourg
-culture = english
+culture = greenwaterian
 religion = catholic
 trade_goods = grain
 base_tax = 1

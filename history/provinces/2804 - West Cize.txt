@@ -1,5 +1,5 @@
 # Province 2804: West Cize
-culture = english
+culture = fountainian
 religion = catholic
 trade_goods = grain
 base_tax = 1

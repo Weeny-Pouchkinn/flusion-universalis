@@ -1,5 +1,5 @@
 # Province 3681: Yinjozhizhia
-culture = english
+culture = bogdessan
 religion = catholic
 trade_goods = grain
 base_tax = 1

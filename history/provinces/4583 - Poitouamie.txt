@@ -1,5 +1,5 @@
 # Province 4583: Poitouamie
-culture = english
+culture = bruvergnat
 religion = catholic
 trade_goods = grain
 base_tax = 1

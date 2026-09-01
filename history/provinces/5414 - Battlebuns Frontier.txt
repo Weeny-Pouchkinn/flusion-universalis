@@ -1,5 +1,5 @@
 # Province 5414: Battlebuns Frontier
-culture = english
+culture = oceabun
 religion = catholic
 trade_goods = grain
 base_tax = 1

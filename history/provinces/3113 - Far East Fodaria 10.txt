@@ -1,5 +1,5 @@
 # Province 3113: Far East Fodaria 10
-culture = english
+culture = ykatrian
 religion = catholic
 trade_goods = grain
 base_tax = 1

@@ -1,5 +1,5 @@
 # Province 2705: Purrarienstadt
-culture = english
+culture = itechilien
 religion = catholic
 trade_goods = grain
 base_tax = 1

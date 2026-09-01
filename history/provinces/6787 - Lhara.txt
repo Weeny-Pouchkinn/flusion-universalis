@@ -1,5 +1,5 @@
 # Province 6787: Lhara
-culture = english
+culture = mountainbun
 religion = catholic
 trade_goods = grain
 base_tax = 1

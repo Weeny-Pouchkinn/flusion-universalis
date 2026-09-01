@@ -1,5 +1,5 @@
 # Province 4735: Bakecelona
-culture = english
+culture = panpanel
 religion = catholic
 trade_goods = grain
 base_tax = 1

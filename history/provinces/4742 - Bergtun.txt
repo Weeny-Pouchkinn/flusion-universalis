@@ -1,5 +1,5 @@
 # Province 4742: Bergtun
-culture = english
+culture = brewtunite
 religion = catholic
 trade_goods = grain
 base_tax = 1

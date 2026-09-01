@@ -1,5 +1,5 @@
 # Province 1676: Kittenia
-culture = english
+culture = auralian
 religion = catholic
 trade_goods = grain
 base_tax = 1

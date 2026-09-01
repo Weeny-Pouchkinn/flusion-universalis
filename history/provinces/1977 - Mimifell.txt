@@ -1,5 +1,5 @@
 # Province 1977: Mimifell
-culture = english
+culture = muntognien
 religion = catholic
 trade_goods = grain
 base_tax = 1

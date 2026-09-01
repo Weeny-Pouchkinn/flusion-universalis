@@ -1,0 +1,7 @@
+# Province 2874: Grande Qualie
+culture = ostkreuzisches
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1

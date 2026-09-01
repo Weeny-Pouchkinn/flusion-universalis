@@ -18,9 +18,19 @@ The editor is split into a generic map/selection layer and a culture-specific
 LayerModel. A future ReligionLayerModel can reuse the map renderer, province /
 area / region selection, water protection, undo/redo and save workflow.
 
-EU4 does not have a culture/group RGB field. Colours in this editor are
-SOFTWARE-ONLY metadata stored in:
-    tools/culture_painter/culture_painter_data.json
+EU4 does not expose a color = {...} field on culture-group definitions. Instead,
+the culture map mode takes group colours positionally from:
+    common/region_colors/00_region_colors.txt
+
+This editor keeps the culture-group colour shown in the software synchronized with
+that in-game positional palette whenever Save is clicked. Individual culture colours
+remain editor-only metadata.
+
+IMPORTANT: culture-group palette indexes are global. A total-conversion mod must not
+also load vanilla culture groups, or every custom group is shifted to a later palette
+slot. On Save, the editor therefore ensures replace_path="common/cultures" and
+replace_path="common/region_colors" in the mod descriptor (and the matching local
+.mod launcher descriptor when it can identify it).
 
 The editor reads and writes:
     map/provinces.bmp
@@ -30,6 +40,7 @@ The editor reads and writes:
     map/region.txt
     history/provinces/*.txt
     common/cultures/*.txt
+    common/region_colors/00_region_colors.txt
     localisation/*.yml
 """
 
@@ -62,6 +73,12 @@ APP_TITLE = "EU4 Culture Painter"
 DATA_FILENAME = "culture_painter_data.json"
 MANAGED_CULTURES_FILENAME = "zz_culture_painter_managed.txt"
 MANAGED_LOC_FILENAME = "zz_culture_painter_l_english.yml"
+REGION_COLORS_FILENAME = "00_region_colors.txt"
+# EU4 assigns culture-group colours positionally from common/region_colors.
+# Community testing reports that palette entry 0 is skipped for culture groups,
+# so group 0 uses palette entry 1, group 1 uses entry 2, etc.
+REGION_COLOR_GROUP_OFFSET = 1
+MIN_REGION_PALETTE_SIZE = 200
 BACKUP_DIRNAME = "backups"
 WATER_RGB = (48, 76, 108)
 UNASSIGNED_RGB = (112, 112, 112)
@@ -149,6 +166,34 @@ def deterministic_colour(identifier: str) -> str:
 
 def rgb_code(r: int, g: int, b: int) -> int:
     return (r << 16) | (g << 8) | b
+
+
+REGION_RGB_RE = re.compile(
+    r"\{\s*(\d{1,3})\s+(\d{1,3})\s+(\d{1,3})\s*\}"
+)
+
+
+def parse_region_colour_palette(text: str) -> List[Tuple[int, int, int]]:
+    """
+    Read the anonymous RGB tuples used by EU4's common/region_colors palette.
+
+    The parser is intentionally tolerant: it finds { R G B } tuples even if a
+    mod has wrapped them in another block or added comments/whitespace.
+    """
+    # Remove comments first so numbers/braces in comments cannot be mistaken for
+    # palette entries. Clausewitz # comments end at the newline.
+    clean = "\n".join(line.split("#", 1)[0] for line in text.splitlines())
+    colours: List[Tuple[int, int, int]] = []
+    for match in REGION_RGB_RE.finditer(clean):
+        rgb = tuple(int(match.group(i)) for i in (1, 2, 3))
+        if all(0 <= channel <= 255 for channel in rgb):
+            colours.append(rgb)
+    return colours
+
+
+def palette_fallback_colour(index: int) -> Tuple[int, int, int]:
+    """Stable fallback RGB for palette entries the mod does not already have."""
+    return hex_to_rgb(deterministic_colour(f"region-palette:{index}"))
 
 
 def matching_brace(text: str, opening: int) -> int:
@@ -629,11 +674,14 @@ class CultureLayerModel(LayerModel):
         self.tool_dir = Path(__file__).resolve().parent
         self.data_path = self.tool_dir / DATA_FILENAME
         self.groups: Dict[str, GroupInfo] = {}
+        self.group_order: List[str] = []
         self.items: Dict[str, ItemInfo] = {}
         self.assignments: Dict[int, Optional[str]] = {}
         self.localisation: Dict[str, str] = {}
+        self._loaded_region_palette: List[Tuple[int, int, int]] = []
         self._load_localisation()
         self._load_definitions()
+        self._load_region_palette()
         self._load_metadata()
         self._load_assignments()
 
@@ -655,17 +703,19 @@ class CultureLayerModel(LayerModel):
     def _load_definitions(self):
         culture_dir = self.mod_root / "common" / "cultures"
         culture_dir.mkdir(parents=True, exist_ok=True)
-        for path in sorted(culture_dir.glob("*.txt"), key=lambda p: p.name.lower()):
+        for path in sorted(culture_dir.glob("*.txt"), key=lambda p: p.name):
             text, _ = read_text(path)
             for group_block in top_level_blocks(text):
                 gid = group_block.key
-                self.groups.setdefault(gid, GroupInfo(
-                    id=gid,
-                    loc_name=self.localisation.get(gid, pretty_name(gid)),
-                    colour=deterministic_colour("group:" + gid),
-                    source_path=path,
-                    original=True,
-                ))
+                if gid not in self.groups:
+                    self.groups[gid] = GroupInfo(
+                        id=gid,
+                        loc_name=self.localisation.get(gid, pretty_name(gid)),
+                        colour=deterministic_colour("group:" + gid),
+                        source_path=path,
+                        original=True,
+                    )
+                    self.group_order.append(gid)
                 inner_start = group_block.open_brace + 1
                 inner = text[inner_start:group_block.close_brace]
                 for child in top_level_blocks(inner, offset=inner_start):
@@ -684,6 +734,27 @@ class CultureLayerModel(LayerModel):
                         original_group_id=gid,
                         original=True,
                     )
+
+    def _region_colours_path(self) -> Path:
+        return self.mod_root / "common" / "region_colors" / REGION_COLORS_FILENAME
+
+    def _load_region_palette(self):
+        """Load actual in-game culture-group colours when the mod has a palette."""
+        path = self._region_colours_path()
+        if not path.exists():
+            return
+        try:
+            text, _ = read_text(path)
+            palette = parse_region_colour_palette(text)
+        except Exception:
+            return
+        self._loaded_region_palette = palette
+        for group_index, gid in enumerate(self.group_order):
+            palette_index = REGION_COLOR_GROUP_OFFSET + group_index
+            if palette_index >= len(palette):
+                break
+            r, g, b = palette[palette_index]
+            self.groups[gid].colour = f"#{r:02X}{g:02X}{b:02X}"
 
     def _load_metadata(self):
         if not self.data_path.exists():
@@ -790,7 +861,13 @@ class CultureLayerModel(LayerModel):
 
     def _metadata_dict(self) -> dict:
         return {
-            "version": 2,
+            "version": 4,
+            "culture_definition_mode": "replace_vanilla",
+            "region_color_sync": {
+                "enabled": True,
+                "palette_file": f"common/region_colors/{REGION_COLORS_FILENAME}",
+                "culture_group_offset": REGION_COLOR_GROUP_OFFSET,
+            },
             "groups": {
                 gid: {"loc_name": g.loc_name, "colour": g.colour}
                 for gid, g in sorted(self.groups.items())
@@ -807,7 +884,7 @@ class CultureLayerModel(LayerModel):
 
     def _find_group_block(self, gid: str) -> Optional[Tuple[Path, str, str, Block]]:
         culture_dir = self.mod_root / "common" / "cultures"
-        for path in sorted(culture_dir.glob("*.txt")):
+        for path in sorted(culture_dir.glob("*.txt"), key=lambda p: p.name):
             text, enc = read_text(path)
             for block in top_level_blocks(text):
                 if block.key == gid:
@@ -816,7 +893,7 @@ class CultureLayerModel(LayerModel):
 
     def _find_culture_block(self, cid: str) -> Optional[Tuple[Path, str, str, Block, str]]:
         culture_dir = self.mod_root / "common" / "cultures"
-        for path in sorted(culture_dir.glob("*.txt")):
+        for path in sorted(culture_dir.glob("*.txt"), key=lambda p: p.name):
             text, enc = read_text(path)
             for group in top_level_blocks(text):
                 inner_start = group.open_brace + 1
@@ -875,6 +952,92 @@ class CultureLayerModel(LayerModel):
                 block_text = self._remove_culture_block(found)
                 self._insert_culture_into_group(item.group_id, block_text)
 
+    def _culture_group_load_order(self) -> List[str]:
+        """Return culture-group IDs in the same filename/block order EU4 loads."""
+        culture_dir = self.mod_root / "common" / "cultures"
+        order: List[str] = []
+        seen: Set[str] = set()
+        for path in sorted(culture_dir.glob("*.txt"), key=lambda p: p.name):
+            text, _ = read_text(path)
+            for block in top_level_blocks(text):
+                if block.key not in seen:
+                    seen.add(block.key)
+                    order.append(block.key)
+        return order
+
+    def _write_region_colours(self):
+        """
+        Synchronize software culture-group colours with EU4's positional
+        common/region_colors palette.
+
+        Culture-group #0 is written to palette entry 1, because EU4's culture map
+        mode skips the first region-colour entry. The rest of an existing palette
+        is preserved. If the mod did not previously contain a palette, a generous
+        deterministic tail is generated so area/region map modes still have enough
+        entries.
+        """
+        path = self._region_colours_path()
+        existing: List[Tuple[int, int, int]] = []
+        if path.exists():
+            text, _enc = read_text(path)
+            existing = parse_region_colour_palette(text)
+        elif self._loaded_region_palette:
+            existing = list(self._loaded_region_palette)
+
+        group_order = self._culture_group_load_order()
+        required = REGION_COLOR_GROUP_OFFSET + len(group_order)
+        # Keep enough entries for all of the mod's geography as well. The file is a
+        # shared colour pool used by several map modes, so truncating it is unsafe.
+        geography_need = max(
+            len(self.map_data.area_to_provinces),
+            len(self.map_data.region_to_provinces),
+            0,
+        ) + 1
+        target_size = max(len(existing), required, geography_need, MIN_REGION_PALETTE_SIZE)
+
+        palette = list(existing)
+        while len(palette) < target_size:
+            palette.append(palette_fallback_colour(len(palette)))
+
+        if not palette:
+            palette.append((96, 96, 96))
+
+        # Preserve palette entry 0 when it already exists. It is not assigned to a
+        # culture group by the engine. For a newly generated file, use a neutral
+        # deterministic value.
+        if len(existing) == 0:
+            palette[0] = palette_fallback_colour(0)
+
+        for group_index, gid in enumerate(group_order):
+            if gid not in self.groups:
+                continue
+            palette_index = REGION_COLOR_GROUP_OFFSET + group_index
+            palette[palette_index] = hex_to_rgb(self.groups[gid].colour)
+
+        lines = [
+            "# Managed by EU4 Culture Painter.",
+            "# EU4 culture-group colours are positional entries in this palette.",
+            f"# Palette entry 0 is reserved; culture groups start at entry {REGION_COLOR_GROUP_OFFSET}.",
+            "# The comments below do not affect palette indexing.",
+            "",
+        ]
+        group_for_palette_index = {
+            REGION_COLOR_GROUP_OFFSET + i: gid
+            for i, gid in enumerate(group_order)
+        }
+        for index, (r, g, b) in enumerate(palette):
+            gid = group_for_palette_index.get(index)
+            if gid is not None:
+                lines.append(f"# culture_group[{index - REGION_COLOR_GROUP_OFFSET}] = {gid}")
+            elif index == 0:
+                lines.append("# reserved / skipped by culture-group map mode")
+            lines.append(f"color = {{ {r} {g} {b} }}")
+
+        path.parent.mkdir(parents=True, exist_ok=True)
+        write_text(path, "\n".join(lines) + "\n", "utf-8")
+        self._loaded_region_palette = palette
+        self.group_order = group_order
+
     def _write_localisation(self):
         loc_dir = self.mod_root / "localisation"
         loc_dir.mkdir(parents=True, exist_ok=True)
@@ -887,6 +1050,91 @@ class CultureLayerModel(LayerModel):
             name = item.loc_name.replace("\\", "\\\\").replace('"', '\\"')
             lines.append(f' {cid}:0 "{name}"')
         path.write_text("\n".join(lines) + "\n", encoding="utf-8-sig")
+
+    def _descriptor_files(self) -> List[Path]:
+        """
+        Return descriptor files which control this mod.
+
+        descriptor.mod in the mod root is authoritative for the launcher.  For a
+        local development mod there is commonly also a sibling <modname>.mod file;
+        update it too when it can be identified unambiguously so the change works
+        even before the launcher regenerates that file.
+        """
+        out: List[Path] = []
+        descriptor = self.mod_root / "descriptor.mod"
+        if descriptor.exists():
+            out.append(descriptor)
+
+        parent = self.mod_root.parent
+        try:
+            candidates = list(parent.glob("*.mod"))
+        except Exception:
+            candidates = []
+
+        root_name = self.mod_root.name.lower()
+        root_norm = str(self.mod_root.resolve()).replace("\\", "/").rstrip("/").lower()
+
+        for path in candidates:
+            if path.resolve() == descriptor.resolve() if descriptor.exists() else False:
+                continue
+            try:
+                text, _enc = read_text(path)
+            except Exception:
+                continue
+
+            matched = path.stem.lower() == root_name
+            m = re.search(r'(?mi)^\s*path\s*=\s*"([^"]+)"\s*$', text)
+            if m:
+                declared = m.group(1).replace("\\", "/").rstrip("/").lower()
+                # Absolute path, or the common launcher form mod/<folder>.
+                if declared == root_norm or declared.endswith("/" + root_name) or declared == root_name:
+                    matched = True
+
+            if matched and path not in out:
+                out.append(path)
+
+        return out
+
+    @staticmethod
+    def _has_replace_path(text: str, value: str) -> bool:
+        pattern = re.compile(
+            r'(?mi)^\s*replace_path\s*=\s*["\']' + re.escape(value) + r'["\']\s*(?:#.*)?$'
+        )
+        return bool(pattern.search(text))
+
+    def _ensure_culture_replace_paths(self) -> List[Path]:
+        """
+        Culture colours are indexed across *all loaded culture groups*.  If vanilla
+        groups are still loaded, group #0 in this tool is not group #0 in the game.
+        For this total-conversion painter, make the mod's culture and region-colour
+        folders replace vanilla so the palette order we write is the order EU4 uses.
+        """
+        required = ("common/cultures", "common/region_colors")
+        changed: List[Path] = []
+        descriptors = self._descriptor_files()
+
+        for path in descriptors:
+            text, enc = read_text(path)
+            missing = [value for value in required if not self._has_replace_path(text, value)]
+            if not missing:
+                continue
+
+            if text and not text.endswith("\n"):
+                text += "\n"
+            text += "\n# Managed by EU4 Culture Painter: required for exact culture-group palette indexing.\n"
+            for value in missing:
+                text += f'replace_path="{value}"\n'
+            write_text(path, text, enc)
+            changed.append(path)
+
+        if not descriptors:
+            raise RuntimeError(
+                "No descriptor.mod was found in the mod root. Exact culture-group colours "
+                "require replace_path=\"common/cultures\" so vanilla culture groups do not "
+                "shift the palette indexes. Create/fix descriptor.mod and save again."
+            )
+
+        return changed
 
     def _backup(self, dirty_provinces: Set[int]) -> Path:
         root = self.tool_dir / BACKUP_DIRNAME / datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -901,8 +1149,14 @@ class CultureLayerModel(LayerModel):
         loc = self.mod_root / "localisation" / MANAGED_LOC_FILENAME
         if loc.exists():
             paths.add(loc)
+        region_colours = self._region_colours_path()
+        if region_colours.exists():
+            paths.add(region_colours)
         if self.data_path.exists():
             paths.add(self.data_path)
+        for descriptor in self._descriptor_files():
+            if descriptor.exists():
+                paths.add(descriptor)
         for p in paths:
             try:
                 rel = p.resolve().relative_to(self.mod_root.resolve())
@@ -915,7 +1169,11 @@ class CultureLayerModel(LayerModel):
 
     def save(self, dirty_provinces: Set[int]) -> Path:
         backup = self._backup(dirty_provinces)
+        # This is essential, not cosmetic: if vanilla culture groups remain loaded,
+        # EU4 indexes our groups after them and therefore reads the wrong palette slots.
+        self._ensure_culture_replace_paths()
         self._sync_definitions()
+        self._write_region_colours()
         self._write_localisation()
         for pid in sorted(dirty_provinces):
             culture = self.assignments.get(pid)
@@ -942,7 +1200,8 @@ class PaintAction:
 class EntityDialog(tk.Toplevel):
     def __init__(self, parent, title: str, id_value: str, loc_value: str,
                  colour_value: str, groups: Optional[Sequence[str]] = None,
-                 group_value: Optional[str] = None, id_editable: bool = True):
+                 group_value: Optional[str] = None, id_editable: bool = True,
+                 colour_label: str = "Software colour"):
         super().__init__(parent)
         self.title(title)
         self.resizable(False, False)
@@ -965,7 +1224,7 @@ class EntityDialog(tk.Toplevel):
         self.loc_var = tk.StringVar(value=loc_value)
         ttk.Entry(frame, textvariable=self.loc_var, width=34).grid(row=1, column=1, sticky="ew", pady=5)
 
-        ttk.Label(frame, text="Software colour").grid(row=2, column=0, sticky="w", pady=5)
+        ttk.Label(frame, text=colour_label).grid(row=2, column=0, sticky="w", pady=5)
         colour_row = ttk.Frame(frame)
         colour_row.grid(row=2, column=1, sticky="ew", pady=5)
         self.colour_var = tk.StringVar(value=colour_value)
@@ -1175,7 +1434,10 @@ class CulturePainterApp:
     def new_group(self):
         if not self.model:
             return
-        dlg = EntityDialog(self.root, "New culture group", "", "", "#808080", id_editable=True)
+        dlg = EntityDialog(
+            self.root, "New culture group", "", "", "#808080",
+            id_editable=True, colour_label="Group colour (editor + in-game)"
+        )
         self.root.wait_window(dlg)
         if not dlg.result:
             return
@@ -1225,7 +1487,10 @@ class CulturePainterApp:
         if iid.startswith("g:"):
             gid = iid[2:]
             g = self.model.groups[gid]
-            dlg = EntityDialog(self.root, "Edit culture group", gid, g.loc_name, g.colour, id_editable=False)
+            dlg = EntityDialog(
+                self.root, "Edit culture group", gid, g.loc_name, g.colour,
+                id_editable=False, colour_label="Group colour (editor + in-game)"
+            )
             self.root.wait_window(dlg)
             if dlg.result:
                 try:
@@ -1402,7 +1667,7 @@ class CulturePainterApp:
             self._set_status("Saved")
             messagebox.showinfo(
                 APP_TITLE,
-                f"Saved culture definitions, localisation and {count} changed province(s).\n\n"
+                f"Saved culture definitions, in-game group colours, localisation and {count} changed province(s).\n\n"
                 f"Backup created at:\n{backup}"
             )
         except Exception as exc:

@@ -1,5 +1,5 @@
 # Province 5114: Limasin
-culture = english
+culture = narbomand
 religion = catholic
 trade_goods = grain
 base_tax = 1

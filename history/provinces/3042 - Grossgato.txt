@@ -1,5 +1,5 @@
 # Province 3042: Grossgato
-culture = english
+culture = liacustien
 religion = catholic
 trade_goods = grain
 base_tax = 1

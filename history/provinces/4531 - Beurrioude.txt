@@ -1,5 +1,5 @@
 # Province 4531: Beurrioude
-culture = english
+culture = velardenois
 religion = catholic
 trade_goods = grain
 base_tax = 1

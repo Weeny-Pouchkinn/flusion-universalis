@@ -1,5 +1,5 @@
 # Province 6737: Harelyne Magocracy
-culture = english
+culture = magocratic
 religion = catholic
 trade_goods = grain
 base_tax = 1

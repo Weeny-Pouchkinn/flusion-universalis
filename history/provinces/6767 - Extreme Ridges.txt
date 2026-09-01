@@ -1,5 +1,5 @@
 # Province 6767: Extreme Ridges
-culture = english
+culture = mercurian
 religion = catholic
 trade_goods = grain
 base_tax = 1

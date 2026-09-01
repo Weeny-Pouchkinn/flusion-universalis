@@ -1,5 +1,5 @@
 # Province 2204: Felstigerfels
-culture = english
+culture = champinien
 religion = catholic
 trade_goods = grain
 base_tax = 1

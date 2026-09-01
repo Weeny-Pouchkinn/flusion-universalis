@@ -1,5 +1,5 @@
 # Province 4577: Cularie
-culture = english
+culture = bruvergnat
 religion = catholic
 trade_goods = grain
 base_tax = 1

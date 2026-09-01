@@ -1,5 +1,5 @@
 # Province 6889: Uutta
-culture = english
+culture = west_haranian
 religion = catholic
 trade_goods = grain
 base_tax = 1

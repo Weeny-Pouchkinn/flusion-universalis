@@ -1,5 +1,5 @@
 # Province 4987: Makaktun
-culture = english
+culture = saruite
 religion = catholic
 trade_goods = grain
 base_tax = 1

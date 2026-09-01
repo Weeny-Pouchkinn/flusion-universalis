@@ -1,5 +1,5 @@
 # Province 6027: Bunvelline
-culture = english
+culture = lakeside
 religion = catholic
 trade_goods = grain
 base_tax = 1

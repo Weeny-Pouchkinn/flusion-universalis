@@ -1,5 +1,5 @@
 # Province 3749: Pastelona
-culture = english
+culture = sand_kolekh
 religion = catholic
 trade_goods = grain
 base_tax = 1

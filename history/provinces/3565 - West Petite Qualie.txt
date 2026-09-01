@@ -1,5 +1,5 @@
 # Province 3565: West Petite Qualie
-culture = english
+culture = beardie
 religion = catholic
 trade_goods = grain
 base_tax = 1

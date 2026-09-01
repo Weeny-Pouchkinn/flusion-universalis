@@ -1,0 +1,194 @@
+# Managed by EU4 Culture Painter.
+
+
+unindexed_cultures = {
+	graphical_culture = westerngfx
+	english = {
+	}
+}
+
+cloudstrider = {
+	graphical_culture = westerngfx
+	gallopian = {
+	}
+	greenwaterian = {
+	}
+	soaring = {
+	}
+}
+
+solarian = {
+	graphical_culture = westerngfx
+	solitian = {
+	}
+	ganymedian = {
+	}
+}
+
+active_roqualian = {
+	graphical_culture = westerngfx
+	lutecien = {
+	}
+	galicien = {
+	}
+	ucetine = {
+	}
+	bocerien = {
+	}
+	oceanique = {
+	}
+	mikusien = {
+	}
+	velardenois = {
+	}
+}
+
+reflective_roqualian = {
+	graphical_culture = westerngfx
+	demotagnon = {
+	}
+	bruvergnat = {
+	}
+	poitouamien = {
+	}
+	animequitain = {
+	}
+	narbomand = {
+	}
+	obscurien = {
+	}
+	intarian = {
+	}
+}
+
+kocuran = {
+	graphical_culture = westerngfx
+	kocuran = {
+	}
+}
+
+seazuspri = {
+	graphical_culture = westerngfx
+}
+
+zuspri = {
+	graphical_culture = westerngfx
+	oceanzuspri = {
+	}
+	daichesterian = {
+	}
+	empayrean = {
+	}
+	south_zuspri = {
+	}
+}
+
+sobaki = {
+	graphical_culture = westerngfx
+	pawscovite = {
+	}
+	groverite = {
+	}
+	grodnovite = {
+	}
+}
+
+estalai = {
+	graphical_culture = westerngfx
+	jarvalite = {
+	}
+	strait_estalai = {
+	}
+}
+
+palatian_roqualian = {
+	graphical_culture = westerngfx
+	liacustien = {
+	}
+	itechilien = {
+	}
+	champinien = {
+	}
+}
+
+sudherzlander = {
+	graphical_culture = westerngfx
+	sunsea_katzen = {
+	}
+	auralian = {
+	}
+	elowian = {
+	}
+	meopisches = {
+	}
+}
+
+muntognien = {
+	graphical_culture = westerngfx
+	muntognien = {
+	}
+	pizisches = {
+	}
+}
+
+eistronbien = {
+	graphical_culture = westerngfx
+	eistronbien = {
+	}
+}
+
+solakatzen = {
+	graphical_culture = westerngfx
+	divchykishian = {
+	}
+	miaoujavien = {
+	}
+}
+
+altarian = {
+	graphical_culture = westerngfx
+	fountainian = {
+	}
+	healing = {
+	}
+	hyphaenic = {
+	}
+}
+
+parelian = {
+	graphical_culture = westerngfx
+	parelian = {
+	}
+}
+
+beardie = {
+	graphical_culture = westerngfx
+	beardie = {
+	}
+}
+
+oerwoudian = {
+	graphical_culture = westerngfx
+	oerwoudian = {
+	}
+}
+
+mercurian = {
+	graphical_culture = westerngfx
+	mercurian = {
+	}
+}
+
+jeffian = {
+	graphical_culture = westerngfx
+	jeffian = {
+	}
+}
+
+paluush = {
+	graphical_culture = westerngfx
+	bunville_paluush = {
+	}
+	pyroclastic = {
+	}
+}

@@ -1,0 +1,16 @@
+version="0.0.3"
+tags={
+	"Map"
+	"Total Conversion"
+	"Gameplay"
+}
+name="Flusion Universalis"
+replace_path="common/bookmarks"
+replace_path="common/country_tags"
+replace_path="common/tradenodes"
+replace_path="history/countries"
+replace_path="history/provinces"
+replace_path="history/diplomacy"
+replace_path="history/wars"
+supported_version="1.37.*"
+path="C:/Users/elowi/Documents/Paradox Interactive/Europa Universalis IV/mod/flusion-universalis"

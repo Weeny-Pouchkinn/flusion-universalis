@@ -1,5 +1,5 @@
 # Province 3846: Himezulte
-culture = english
+culture = miaoujavien
 religion = catholic
 trade_goods = grain
 base_tax = 1

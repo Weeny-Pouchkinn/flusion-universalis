@@ -1,5 +1,5 @@
 # Province 1361: Tigar
-culture = english
+culture = elowian
 religion = catholic
 trade_goods = grain
 base_tax = 1

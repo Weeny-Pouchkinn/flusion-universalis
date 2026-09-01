@@ -1,5 +1,5 @@
 # Province 3054: Gvin Tharun
-culture = english
+culture = red_kolekh
 religion = catholic
 trade_goods = grain
 base_tax = 1

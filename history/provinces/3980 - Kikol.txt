@@ -1,5 +1,5 @@
 # Province 3980: Kikol
-culture = english
+culture = jarvalite
 religion = catholic
 trade_goods = grain
 base_tax = 1
