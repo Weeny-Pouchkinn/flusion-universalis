@@ -750,6 +750,125 @@
       "armies": [],
       "navies": []
     },
+    "KTN": {
+      "name": "Nederkatten Commonwealth",
+      "adjective": "Katteneilander",
+      "colour": "#152050",
+      "original": false,
+      "managed": true,
+      "country_file": "common/countries/ZZ_Painter_KTN.txt",
+      "history_file": "history/countries/KTN - new_country.txt",
+      "graphical_culture": "westerngfx",
+      "government": "republic",
+      "government_rank": 2,
+      "government_reform": "",
+      "stability": 1,
+      "capital": 6250,
+      "religion": "catholic",
+      "primary_culture": "amphiskian",
+      "accepted_cultures": [],
+      "technology_group": "western",
+      "custom_tech_levels": false,
+      "adm_tech": 3,
+      "dip_tech": 3,
+      "mil_tech": 3,
+      "start_date": "1444.11.11",
+      "treasury": 0.0,
+      "prestige": 0.0,
+      "ruler": {
+        "enabled": true,
+        "name": "Mauhan",
+        "dynasty": "",
+        "adm": 4,
+        "dip": 4,
+        "mil": 2,
+        "age": 46,
+        "gender": "Male",
+        "culture": "amphiskian",
+        "religion": "catholic",
+        "claim": 100,
+        "traits": [
+          "well_advised_personality"
+        ]
+      },
+      "heir": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 15,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 50,
+        "traits": []
+      },
+      "consort": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 25,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 100,
+        "traits": []
+      },
+      "estate_mode": "default",
+      "estate_shares": {},
+      "national_ideas": {
+        "mode": "default",
+        "traditions": "",
+        "ambition": "",
+        "ideas": [
+          {
+            "name": "Idea 1",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 2",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 3",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 4",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 5",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 6",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 7",
+            "modifiers": ""
+          }
+        ]
+      },
+      "flag_mode": "designer",
+      "flag_source": "",
+      "flag_pattern": "Horizontal tricolor",
+      "flag_colours": [
+        "#62D1F7",
+        "#202060",
+        "#32A0AD"
+      ],
+      "flag_emblem": "Vanilla symbol 117",
+      "flag_emblem_source": "",
+      "armies": [],
+      "navies": []
+    },
     "MEO": {
       "name": "Meowenberg",
       "adjective": "Meowenbergite",
@@ -1139,7 +1258,7 @@
       "navies": []
     },
     "PLR": {
-      "name": "Paluushia",
+      "name": "Paluushian Realms",
       "adjective": "Paluushian",
       "colour": "#FFFFB0",
       "original": false,
@@ -1279,7 +1398,7 @@
       "stability": 2,
       "capital": 177,
       "religion": "catholic",
-      "primary_culture": "nordikat",
+      "primary_culture": "furrbalearian",
       "accepted_cultures": [],
       "technology_group": "western",
       "custom_tech_levels": false,
@@ -1298,7 +1417,7 @@
         "mil": 4,
         "age": 35,
         "gender": "Male",
-        "culture": "nordikat",
+        "culture": "furrbalearian",
         "religion": "catholic",
         "claim": 100,
         "traits": [
@@ -1530,7 +1649,7 @@
       "ruler": {
         "enabled": true,
         "name": "Alphonse",
-        "dynasty": "Pleané",
+        "dynasty": "Pleane",
         "adm": 4,
         "dip": 2,
         "mil": 4,
@@ -1616,6 +1735,125 @@
       ],
       "flag_emblem": "Custom image",
       "flag_emblem_source": "emblem_sources/ROQ_emblem.png",
+      "armies": [],
+      "navies": []
+    },
+    "SAR": {
+      "name": "Macaquia",
+      "adjective": "Macaquian",
+      "colour": "#E9B656",
+      "original": false,
+      "managed": true,
+      "country_file": "common/countries/ZZ_Painter_SAR.txt",
+      "history_file": "history/countries/SAR - macaquia.txt",
+      "graphical_culture": "westerngfx",
+      "government": "monarchy",
+      "government_rank": 1,
+      "government_reform": "",
+      "stability": 1,
+      "capital": 533,
+      "religion": "catholic",
+      "primary_culture": "saruite",
+      "accepted_cultures": [],
+      "technology_group": "western",
+      "custom_tech_levels": false,
+      "adm_tech": 3,
+      "dip_tech": 3,
+      "mil_tech": 3,
+      "start_date": "1444.11.11",
+      "treasury": 0.0,
+      "prestige": 0.0,
+      "ruler": {
+        "enabled": true,
+        "name": "Bonobo",
+        "dynasty": "Sun-Saru",
+        "adm": 2,
+        "dip": 5,
+        "mil": 4,
+        "age": 25,
+        "gender": "Male",
+        "culture": "saruite",
+        "religion": "catholic",
+        "claim": 100,
+        "traits": [
+          "midas_touched_personality"
+        ]
+      },
+      "heir": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 15,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 50,
+        "traits": []
+      },
+      "consort": {
+        "enabled": false,
+        "name": "",
+        "dynasty": "",
+        "adm": 3,
+        "dip": 3,
+        "mil": 3,
+        "age": 25,
+        "gender": "Male",
+        "culture": "",
+        "religion": "",
+        "claim": 100,
+        "traits": []
+      },
+      "estate_mode": "default",
+      "estate_shares": {},
+      "national_ideas": {
+        "mode": "default",
+        "traditions": "",
+        "ambition": "",
+        "ideas": [
+          {
+            "name": "Idea 1",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 2",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 3",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 4",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 5",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 6",
+            "modifiers": ""
+          },
+          {
+            "name": "Idea 7",
+            "modifiers": ""
+          }
+        ]
+      },
+      "flag_mode": "designer",
+      "flag_source": "",
+      "flag_pattern": "Diagonal up",
+      "flag_colours": [
+        "#EC9F1F",
+        "#069B00",
+        "#C02020"
+      ],
+      "flag_emblem": "Vanilla symbol 026",
+      "flag_emblem_source": "",
       "armies": [],
       "navies": []
     },
@@ -1887,7 +2125,7 @@
       "ruler": {
         "enabled": true,
         "name": "Charles",
-        "dynasty": "Médésix",
+        "dynasty": "Medesix",
         "adm": 4,
         "dip": 1,
         "mil": 2,

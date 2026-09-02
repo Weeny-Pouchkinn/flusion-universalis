@@ -50,6 +50,7 @@ from __future__ import annotations
 
 import csv
 import copy
+import calendar
 import json
 import re
 import shutil
@@ -2752,11 +2753,17 @@ class CountryLayerModel(LayerModel):
             if country.adm_tech: lines.append(f"\tadd_adm_tech = {country.adm_tech}")
             if country.dip_tech: lines.append(f"\tadd_dip_tech = {country.dip_tech}")
             if country.mil_tech: lines.append(f"\tadd_mil_tech = {country.mil_tech}")
-        lines += self._character_effect_lines("ruler", country.ruler, country, indent="\t")
+        # Starting court characters must use EU4's historical country-history
+        # records, not runtime define_* effects.  The country-selection screen
+        # reads monarch/heir/queen history records but does not execute
+        # define_ruler/define_heir/define_consort while building its preview.
+        # Using the historical form therefore makes the same starting court
+        # visible both in the lobby and once the campaign is launched.
+        lines += self._historical_character_lines("ruler", country.ruler, country, start, indent="\t")
         if country.heir.enabled:
-            lines += self._character_effect_lines("heir", country.heir, country, indent="\t")
+            lines += self._historical_character_lines("heir", country.heir, country, start, indent="\t")
         if country.consort.enabled:
-            lines += self._character_effect_lines("consort", country.consort, country, indent="\t")
+            lines += self._historical_character_lines("consort", country.consort, country, start, indent="\t")
 
         # Starting forces. EU4 exposes regiment/ship spawn effects but no public
         # army/navy scope or merge-units effect. Consequently each requested stack
@@ -2788,32 +2795,95 @@ class CountryLayerModel(LayerModel):
         lines.append("}")
         return "\n".join(lines)
 
-    def _character_effect_lines(self, role: str, ch: CharacterInfo, country: CountryInfo, indent: str) -> List[str]:
-        effect = {"ruler": "define_ruler", "heir": "define_heir", "consort": "define_consort"}[role]
-        trait_effect = {"ruler": "add_ruler_personality", "heir": "add_heir_personality", "consort": "add_queen_personality"}[role]
-        lines = [f"{indent}{effect} = {{"]
-        if ch.name.strip(): lines.append(f"{indent}\tname = {quote_clausewitz(ch.name.strip())}")
-        if ch.dynasty.strip(): lines.append(f"{indent}\tdynasty = {quote_clausewitz(ch.dynasty.strip())}")
-        lines.append(f"{indent}\tage = {ch.age}")
+    @staticmethod
+    def _birth_date_from_age(start_date: str, age: int) -> str:
+        """Return an EU4 date string approximately ``age`` years before start_date.
+
+        The editor stores age because that is convenient for users, while EU4's
+        historical monarch/heir/queen records store ``birth_date``.  Keep the
+        same month/day whenever possible and clamp leap-day edge cases.
+        """
+        try:
+            bits = [int(x) for x in start_date.strip().split(".")]
+            if len(bits) != 3:
+                raise ValueError
+            year, month, day = bits
+            year = max(1, year - max(0, int(age)))
+            month = min(12, max(1, month))
+            day = min(max(1, day), calendar.monthrange(year, month)[1])
+            return f"{year}.{month}.{day}"
+        except Exception:
+            # EU4's canonical start date is a safer fallback than emitting an
+            # invalid historical date if a hand-edited data file is malformed.
+            year = max(1, 1444 - max(0, int(age)))
+            return f"{year}.11.11"
+
+    def _historical_character_lines(
+        self, role: str, ch: CharacterInfo, country: CountryInfo,
+        start_date: str, indent: str
+    ) -> List[str]:
+        """Generate a real country-history character record.
+
+        EU4 country history uses ``monarch = {}``, ``heir = {}``, and
+        ``queen = {}`` for a consort.  These records are understood by the
+        country-selection/bookmark preview.  Runtime ``define_*`` effects are
+        useful for events but are not evaluated by that preview.
+        """
+        block = {"ruler": "monarch", "heir": "heir", "consort": "queen"}[role]
+        trait_effect = {
+            "ruler": "add_ruler_personality",
+            "heir": "add_heir_personality",
+            "consort": "add_queen_personality",
+        }[role]
+
+        lines = [f"{indent}{block} = {{"]
+        name = ch.name.strip()
+        dynasty = ch.dynasty.strip()
+        if name:
+            lines.append(f"{indent}\tname = {quote_clausewitz(name)}")
+        # Historical heirs can have a separate accession/regnal name.  The
+        # painter does not expose a second field, so reuse the entered name.
+        if role == "heir" and name:
+            lines.append(f"{indent}\tmonarch_name = {quote_clausewitz(name)}")
+        if dynasty:
+            lines.append(f"{indent}\tdynasty = {quote_clausewitz(dynasty)}")
+
+        lines.append(
+            f"{indent}\tbirth_date = "
+            f"{self._birth_date_from_age(start_date, ch.age)}"
+        )
         lines.append(f"{indent}\tadm = {ch.adm}")
         lines.append(f"{indent}\tdip = {ch.dip}")
         lines.append(f"{indent}\tmil = {ch.mil}")
-        if role in ("ruler", "heir"):
-            lines.append(f"{indent}\tfixed = yes")
+
         if role == "heir":
             lines.append(f"{indent}\tclaim = {ch.claim}")
-        if ch.gender == "Female": lines.append(f"{indent}\tfemale = yes")
-        elif ch.gender == "Male": lines.append(f"{indent}\tmale = yes")
+
+        # monarch/heir history only needs female=yes for women; queen history
+        # accepts an explicit boolean, which also lets us represent a male
+        # prince-consort correctly.
+        if role == "consort":
+            lines.append(f"{indent}\tfemale = {'yes' if ch.gender == 'Female' else 'no'}")
+        elif ch.gender == "Female":
+            lines.append(f"{indent}\tfemale = yes")
+
         culture = ch.culture.strip() or country.primary_culture.strip()
         religion = ch.religion.strip() or country.religion.strip()
-        if culture: lines.append(f"{indent}\tculture = {culture}")
-        if religion: lines.append(f"{indent}\treligion = {religion}")
-        if role == "consort":
-            lines.append(f"{indent}\tcountry_of_origin = ROOT")
+        if culture:
+            lines.append(f"{indent}\tculture = {culture}")
+        if religion:
+            lines.append(f"{indent}\treligion = {religion}")
+
+        # Historical queen records default their country of origin to the
+        # current country, which is exactly what the editor means when it has
+        # no separate foreign-origin field.  Do not emit ROOT here: this field
+        # expects an actual country tag in history files.
         lines.append(f"{indent}}}")
+
         for trait in ch.traits:
-            if trait.strip():
-                lines.append(f"{indent}{trait_effect} = {trait.strip()}")
+            trait = trait.strip()
+            if trait:
+                lines.append(f"{indent}{trait_effect} = {trait}")
         return lines
 
     def _write_country_files(self) -> None:

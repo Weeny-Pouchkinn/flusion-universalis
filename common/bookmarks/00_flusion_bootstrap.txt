@@ -3,7 +3,7 @@ bookmark = {
     desc = "FU_BOOTSTRAP_BOOKMARK_DESC"
     date = 1444.11.11
     default = yes
-    center = 2
-    country = FUS
-    easy_country = FUS
+    center = 3606
+    country = ROQ
+    easy_country = ROQ
 }

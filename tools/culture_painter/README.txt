@@ -273,3 +273,11 @@ one culture. Existing group-level pools, if you have deliberately created any,
 are not removed by the importer.
 
 - HOI4 namelists can be imported onto one culture or mass-applied to a whole culture group, with an option to preserve or override cultures that already define their own name pools.
+
+STARTING RULERS / COUNTRY-SELECT PREVIEW
+----------------------------------------
+Starting rulers, heirs and consorts are written as EU4 historical country-history
+records (monarch = {}, heir = {}, queen = {}) rather than runtime define_* effects.
+The editor converts the entered age into a birth_date relative to the country's start
+date. This allows the bookmark/country-selection preview to see the same starting
+court that appears after launching the campaign.

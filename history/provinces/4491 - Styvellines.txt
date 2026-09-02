@@ -1,6 +1,4 @@
 # Province 4491: Styvellines
-controller = ROQ
-owner = ROQ
 culture = lutecien
 religion = catholic
 trade_goods = grain

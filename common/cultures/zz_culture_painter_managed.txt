@@ -30,6 +30,8 @@ active_roqualian = {
 	lutecien = {
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -50,6 +52,8 @@ active_roqualian = {
 		}
 	}
 	galicien = {
+
+
 
 
 		male_names = {
@@ -74,6 +78,8 @@ active_roqualian = {
 	ucetine = {
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -94,6 +100,8 @@ active_roqualian = {
 		}
 	}
 	bocerien = {
+
+
 
 
 		male_names = {
@@ -118,6 +126,8 @@ active_roqualian = {
 	oceanique = {
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -140,6 +150,8 @@ active_roqualian = {
 	mikusien = {
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -160,6 +172,8 @@ active_roqualian = {
 		}
 	}
 	velardenois = {
+
+
 
 
 		male_names = {
@@ -190,6 +204,8 @@ reflective_roqualian = {
 
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -210,6 +226,8 @@ reflective_roqualian = {
 		}
 	}
 	bruvergnat = {
+
+
 
 
 
@@ -238,6 +256,8 @@ reflective_roqualian = {
 
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -258,6 +278,8 @@ reflective_roqualian = {
 		}
 	}
 	animequitain = {
+
+
 
 
 
@@ -286,6 +308,8 @@ reflective_roqualian = {
 
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -310,6 +334,8 @@ reflective_roqualian = {
 
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -330,6 +356,8 @@ reflective_roqualian = {
 		}
 	}
 	intarian = {
+
+
 
 
 
@@ -370,6 +398,8 @@ zuspri = {
 	oceanzuspri = {
 
 
+
+
 		male_names = {
 			Kdon Kavws Xoy Dkfo Heo Lohg Fokmwserohn Psekpsohde Ruto Defo Donohde Kmwsvw Mweseroh Ohgrooy Tooy Okrohk
 			Kkekver Oykver
@@ -386,6 +416,8 @@ zuspri = {
 		}
 	}
 	daichesterian = {
+
+
 
 
 		male_names = {
@@ -406,6 +438,8 @@ zuspri = {
 	empayrean = {
 
 
+
+
 		male_names = {
 			Kdon Kavws Xoy Dkfo Heo Lohg Fokmwserohn Psekpsohde Ruto Defo Donohde Kmwsvw Mweseroh Ohgrooy Tooy Okrohk
 			Kkekver Oykver
@@ -424,6 +458,8 @@ zuspri = {
 	south_zuspri = {
 
 
+
+
 		male_names = {
 			Kdon Kavws Xoy Dkfo Heo Lohg Fokmwserohn Psekpsohde Ruto Defo Donohde Kmwsvw Mweseroh Ohgrooy Tooy Okrohk
 			Kkekver Oykver
@@ -440,6 +476,8 @@ zuspri = {
 		}
 	}
 	continental_zuspri = {
+
+
 
 
 		male_names = {
@@ -474,6 +512,8 @@ estalai = {
 	jarvalite = {
 
 
+
+
 		male_names = {
 			Janek Aadu Jakop Külliki Janno Ahti Alek Antti Heiki Ärno Ilmar Villi Indrok Jan Tristan Ervin Robin Kälju Glehn
 			Märten Ander Jonas Räido Markus Vanai Ooda Tõim Ivo Ärni
@@ -491,6 +531,8 @@ estalai = {
 		}
 	}
 	strait_estalai = {
+
+
 
 
 		male_names = {
@@ -516,6 +558,8 @@ palatian_roqualian = {
 	liacustien = {
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -538,6 +582,8 @@ palatian_roqualian = {
 	itechilien = {
 
 
+
+
 		male_names = {
 			Achille Adolphe Adrien Aimable Alphonse Amédée Antoine Armand August Augustin Aurelien Charles Daniel Denis
 			Édouard Éttiene Elie Eugène Fernand François Frédéric Félicien Félix Georges Guillaume Gustave Henri Hubert Hugo
@@ -558,6 +604,8 @@ palatian_roqualian = {
 		}
 	}
 	champinien = {
+
+
 
 
 		male_names = {
@@ -662,6 +710,8 @@ paluush = {
 
 
 
+
+
 		male_names = {
 			Cloverán Bunnóg Fluffán Thumpraig Cúrláp Haréal Cloverín Briaróir Rabbán Cailínpuff Hopáraig Leapsach Thumpáil
 			Óirín Burrowán Fionnánhare Whiskair Níbhop Hophán Flóppán Cairennbunny Oisinbun Muiréad Bunnyán Thistleán
@@ -687,6 +737,8 @@ paluush = {
 		}
 	}
 	pyroclastic = {
+
+
 
 
 
@@ -720,6 +772,8 @@ paluush = {
 
 
 
+
+
 		male_names = {
 			Cloverán Bunnóg Fluffán Thumpraig Cúrláp Haréal Cloverín Briaróir Rabbán Cailínpuff Hopáraig Leapsach Thumpáil
 			Óirín Burrowán Fionnánhare Whiskair Níbhop Hophán Flóppán Cairennbunny Oisinbun Muiréad Bunnyán Thistleán
@@ -745,6 +799,8 @@ paluush = {
 		}
 	}
 	oceabun = {
+
+
 
 
 
@@ -778,6 +834,8 @@ paluush = {
 
 
 
+
+
 		male_names = {
 			Cloverán Bunnóg Fluffán Thumpraig Cúrláp Haréal Cloverín Briaróir Rabbán Cailínpuff Hopáraig Leapsach Thumpáil
 			Óirín Burrowán Fionnánhare Whiskair Níbhop Hophán Flóppán Cairennbunny Oisinbun Muiréad Bunnyán Thistleán
@@ -803,6 +861,8 @@ paluush = {
 		}
 	}
 	lakeside = {
+
+
 
 
 
@@ -836,6 +896,8 @@ paluush = {
 
 
 
+
+
 		male_names = {
 			Cloverán Bunnóg Fluffán Thumpraig Cúrláp Haréal Cloverín Briaróir Rabbán Cailínpuff Hopáraig Leapsach Thumpáil
 			Óirín Burrowán Fionnánhare Whiskair Níbhop Hophán Flóppán Cairennbunny Oisinbun Muiréad Bunnyán Thistleán
@@ -861,6 +923,8 @@ paluush = {
 		}
 	}
 	magocratic = {
+
+
 
 
 
