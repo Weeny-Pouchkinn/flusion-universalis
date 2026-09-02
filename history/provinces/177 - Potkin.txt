@@ -1,7 +1,10 @@
 # Province 177: Potkin
+controller = POT
+owner = POT
 culture = furrbalearian
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = POT

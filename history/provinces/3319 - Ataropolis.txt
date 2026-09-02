@@ -1,7 +1,10 @@
 # Province 3319: Ataropolis
+controller = NAV
+owner = NAV
 culture = strait_estalai
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = NAV

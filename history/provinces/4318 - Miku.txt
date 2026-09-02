@@ -1,7 +1,10 @@
 # Province 4318: Miku
+controller = ROQ
+owner = ROQ
 culture = mikusien
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = ROQ

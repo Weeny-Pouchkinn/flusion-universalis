@@ -124,18 +124,25 @@ Two authoring modes are available:
    three flag-colour channels in gfx/custom_flags. For a normal tagged country,
    however, this painter bakes the chosen composition into the normal static TGA.
 
-Built-in patterns:
-    Solid
-    Horizontal bicolor / tricolor
-    Vertical bicolor / tricolor
-    Diagonal
-    Quartered
-    Center cross
-    Nordic cross
-    Saltire
+Built-in designer library:
+    40+ backgrounds including horizontal/vertical/diagonal stripes, bordered
+    crosses, Nordic crosses, saltires, chevrons, cantons, lozenges, quarters,
+    gyronny, sunbursts, borders, bands and five-band designs.
 
-Built-in emblems:
-    None, Circle, Diamond, Star, Crescent, Ring
+    35+ vector emblems including stars, crescents, crosses, fleur-de-lis, crown,
+    shield, castles, weapons, anchor, tree, sun/moon, gear, book, heart, skull,
+    paw/cat motifs, mountain and wave.
+
+    "Custom image" lets you import your own emblem image and overlays it on the
+    generated flag.
+
+    The complete 120-symbol vanilla client-state/custom-nation emblem set is
+    also bundled under tools/culture_painter/vanilla_symbols/. Click
+    "Browse vanilla symbols..." to choose visually by EU4 emblem index (1-120). The DDS atlas itself is a padded 32 x 4 grid with a reserved blank cell at index 0.
+    The package includes the supplied trade_flags, flag_smallest, small, medium,
+    large and mini DDS resolutions; the painter automatically chooses an
+    appropriate atlas when baking or previewing a flag. Vanilla-symbol choices
+    are saved as stable values such as "Vanilla symbol 001".
 
 
 FILES GENERATED / EDITED BY THE COUNTRY LAYER
@@ -171,9 +178,19 @@ IMPORTANT NOTES
 - Custom national-idea modifier text is written literally. Invalid modifier keys
   will therefore produce EU4 script errors; this is intentional so the tool does
   not artificially restrict modded modifiers.
-- Army/navy OOBs, advisors, diplomacy, subjects and starting wars are not part of
-  this version. They are separate setup systems rather than properties required
-  to define or paint a country.
+- Army/navy OOB editor: each country can contain multiple starting army/fleet
+  entries with a province and composition. Province 0 means the capital. Fleets
+  are validated against coastal provinces. The current EU4 scripting interface
+  exposes starting unit spawn effects by province, so stack names are retained as
+  editor metadata/comments while composition and location are the game-effective
+  part.
+- The country list has Copy, which clones the selected country's setup (court,
+  flag, estates, ideas and OOB) into a new tag. Painted territory is intentionally
+  not copied, making this useful as a country template.
+- Hovering the map displays a persistent tooltip with the province ID, and the
+  status line also shows the province/area/region context.
+- Advisors, diplomacy, subjects and starting wars are still separate future setup
+  systems.
 
 
 NAME / LOCALISATION OVERRIDES
@@ -199,3 +216,60 @@ later; replace_path only removes the vanilla/DLC versions.
 Do NOT use replace_path="localisation". The special localisation/replace folder
 is the correct high-priority mechanism and allows all unrelated vanilla UI text
 to remain available.
+
+OOB AUTO-GENERATOR
+------------------
+The country editor's Army / navy OOB tab now has "Auto-generate armies & fleets...".
+Enter total infantry/cavalry/artillery and total heavy/light/galley/transport ships,
+plus the desired number of logical armies/fleets. The tool splits each total as evenly
+as possible, names the results "1st Army of <Nation>", "2nd Army of <Nation>", etc.,
+and leaves every generated row editable.
+
+Placement can use the capital/default province or spread armies across owned land
+provinces and fleets across owned coastal provinces. You can replace the current OOB
+or append generated stacks to it.
+
+EU4 ENGINE LIMITATION: the public EU4 script API exposes infantry/cavalry/artillery and
+ship spawn effects, but no army/navy object creation or merge-units effect. Therefore
+exact scripted starting compositions still enter the game as individual spawned units;
+the painter stores them as logical stacks but cannot force the engine to merge them into
+one selectable army/fleet at scenario load. This is an EU4 scripting limitation rather
+than an editor-side data-model limitation.
+
+
+HOI4 NAMELIST IMPORT FOR CULTURES
+---------------------------------
+Select a culture in the Cultures layer and click "Import names...". Choose a
+text file containing either a HOI4 common/names block body, for example:
+
+    male = { names = { Alex Bob } }
+    female = { names = { Alice Beth } }
+    surnames = { Smith Jones }
+
+or one complete wrapper such as:
+
+    TAG = {
+        names = { Alex Casey }      # unisex
+        surnames = { Smith Jones }
+    }
+
+The importer understands HOI4's gendered and unisex forms:
+    - male -> names       becomes EU4 male_names
+    - female -> names     becomes EU4 female_names
+    - top-level names     is unisex, so it is added to both EU4 pools
+    - all top-level/male/female surnames are merged into EU4 dynasty_names
+    - callsigns are ignored because EU4 culture definitions have no callsign pool
+
+A preview dialog shows exactly what will be imported before anything changes.
+The import stays in memory until the main Save button is clicked. On Save the
+painter replaces only that culture's direct male_names, female_names and
+dynasty_names blocks; other culture properties and other cultures are preserved.
+The imported lists are also stored in culture_painter_data.json so later saves
+remain deterministic.
+
+EU4 also permits name pools at culture-group scope. This importer intentionally
+writes them at culture scope, because it is meant to assign one HOI4 namelist to
+one culture. Existing group-level pools, if you have deliberately created any,
+are not removed by the importer.
+
+- HOI4 namelists can be imported onto one culture or mass-applied to a whole culture group, with an option to preserve or override cultures that already define their own name pools.

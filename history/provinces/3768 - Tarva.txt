@@ -1,6 +1,4 @@
 # Province 3768: Tarva
-controller = JAR
-owner = JAR
 culture = jarvalite
 religion = catholic
 trade_goods = grain

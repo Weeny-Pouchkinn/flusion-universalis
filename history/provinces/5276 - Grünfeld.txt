@@ -1,7 +1,10 @@
 # Province 5276: Grünfeld
-culture = english
+controller = KAZ
+owner = KAZ
+culture = mawhualt
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = KAZ

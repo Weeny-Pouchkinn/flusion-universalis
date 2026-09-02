@@ -1,0 +1,10 @@
+# Province 3606: Solkatzen Isle
+controller = JAR
+owner = JAR
+culture = strait_estalai
+religion = catholic
+trade_goods = grain
+base_tax = 1
+base_production = 1
+base_manpower = 1
+add_core = JAR

@@ -1,0 +1,256 @@
+# Managed by EU4 Culture Painter.
+# Do not delete while the painter is in use.
+
+
+nordherzlander = {
+	# lok_culture_painter_group_color = #FFD800
+	graphical_culture = westerngfx
+	katownite = {
+	# lok_culture_painter_source_color = #FFD800
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	cutelognian = {
+	# lok_culture_painter_source_color = #00137F
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	pawmalayian = {
+	# lok_culture_painter_source_color = #FF0000
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	nordikat = {
+	# lok_culture_painter_source_color = #0094FF
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	pawrisian = {
+	# lok_culture_painter_source_color = #00FFFF
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	furrbalearian = {
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	purrsian = {
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	ostkreuzisches = {
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+	mittelherzlander = {
+		male_names = {
+			Hans Gustav Albrecht Alexander Alois Alwin Andreois Ekkehard Elias Elimar Ferdinand Wilhelm Hermann Jannik
+			Jasper Calvin Karl Christian Christof Guido Gunther Hauke Konrad Ludwig Ludolf Magnus Malte Manuel Marcus
+			Matthias Edmund Meowzevitch Kattarji Pawgrab Arpurr Thomeola Meock Winston Andmeow Benyadict Olipaw Romeow
+			Clawnard Meowcel Meowchael Meowvin Caspaw Pawther Pawprus Leors Pawgis Abrapaw Benyato Harbal Frederick Theofurr
+			Furrman Ludclauwe Heisenfurr Maximilian Clawrence Pawns Willhelm Felix Furlix Floofbert Nofurr Vinclaw Wilpurr
+			Birman Furdrich Purbrecht Clawitz Gunfurr Katfred
+		}
+
+		female_names = {
+			Katherine Adle Agatha Cacille Carina Carmen Emmy Erika Fabienne Felicia Florentina Augusta Ayleen Barbara Elisa
+			Elisabeth Emmeline Henny Valerie Vanessa Laura Leonore Leopoldine Frauke Frida Friedl Cornelia Sophoe Svenja
+			Arnya Mendy Feleria Penelope Willow Clawia Pawva Havena Katienne Emeowly Meowria Lilly Meowrina Meola Purri
+			Siama Sofia
+		}
+
+		dynasty_names = {
+			Katzesir Cattail Müller Schmidt Schneider Fisher Weber Meyer Wagner Becker Schulz Hoffman Schäfer Koch Bauer
+			Richter Klein Neumann Schwarz Lange Schmitt Werner Schmitz Krause Frank Peters Lang Scholz Schubert Volgel
+			Keller Günther Winkler Roth Beck Lorenz Holdens "Von Katzholm" Clawynch Katzven Schnyader Emewlie Katzenson
+			Fischer Clawtz Purrsher Myiler Cattster Kotzil Flopp Meowlohi Clawingham Meowgomery Kitlaz Clawnstantine Tutoen
+			Catlutyuni Yunz Purkinn Elurr Meowsolini Lidafurra Osmeowm Zimmerman "Von Kaztger" Schömeow Sankatte Markat
+			"De Puris" Floofs "von Pawler" Kitt Harns Bingus Sohn Mroww "Von Kaboom" "Von Yarnburg" Katnippa Tassels Yowlz
+			Sharpclaw Slaashß Großclaw Myanecoon Purrsian Elgato Clawrith
+		}
+	}
+}

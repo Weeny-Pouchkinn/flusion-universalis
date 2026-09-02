@@ -1,7 +1,10 @@
 # Province 5740: Neu-Meownich
-culture = english
+controller = TLA
+owner = TLA
+culture = mewxika
 religion = catholic
 trade_goods = grain
 base_tax = 1
 base_production = 1
 base_manpower = 1
+add_core = TLA

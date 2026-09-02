@@ -1,6 +1,6 @@
 # Province 3766: Tarva
-controller = JAR
-owner = JAR
+controller = KIK
+owner = KIK
 culture = jarvalite
 religion = catholic
 trade_goods = grain
@@ -8,3 +8,4 @@ base_tax = 1
 base_production = 1
 base_manpower = 1
 add_core = JAR
+add_core = KIK
